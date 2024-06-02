@@ -4,7 +4,7 @@
 	"case_sensitive": false,
 	"characters": " abcdefghijklmnopqrstuvwxyzàáâãèéêìíòóôõùúýăđĩũơưạảấầẩẫậắằẳẵặẹẻẽếềểễệỉịọỏốồổỗộớờởỡợụủứừửữựỳỵỷỹ",	
 	"checkpoint_each_epochs": 5,
-	"dataset": "css_comvoi",
+	"dataset": "css10",
 	"encoder_dimension": 256,
 	"encoder_type": "generated",
 	"epochs": 300,
