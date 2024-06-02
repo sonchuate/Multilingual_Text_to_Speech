@@ -77,8 +77,15 @@ class TextToSpeechDataset(torch.utils.data.Dataset):
         self.root_dir = dataset_root_dir
 
         # read meta-file: id|speaker|language|audio_file_path|mel_spectrogram_path|linear_spectrogram_path|text|phonemized_text
-
-        self.unique_speakers = known_unique_speakers.copy()
+        self.unique_speakers = []
+        if len(known_unique_speakers) == 0:
+            with open(meta_file, 'r', encoding='utf-8') as f:
+                for line in f:
+                    line_tokens = line[:-1].split('|')
+                    self.unique_speakers.append(line_tokens[1])
+            self.unique_speakers = list(set(list(self.unique_speakers)))
+        else:
+            self.unique_speakers = known_unique_speakers.copy()
         unique_speakers_set = set(self.unique_speakers)
         self.items = []
         with open(meta_file, 'r', encoding='utf-8') as f:
