@@ -55,8 +55,8 @@ if __name__ == '__main__':
         with open(os.path.join(d, fs), 'w', encoding='utf-8') as f:
             for i in m:
                 idx, s, l, a, _, _, raw_text, ph = i
-                if 'vietnamese' not in a and 'english' not in a:
-                    continue
+                # if 'vietnamese' not in l and 'english' not in l:
+                #     continue
                 spec_name = idx + '.npy'      
                 audio_path = os.path.join(d, a)       
                 audio_data = audio.load(audio_path)
