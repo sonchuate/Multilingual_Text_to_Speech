@@ -50,7 +50,7 @@ if __name__ == '__main__':
 
     print(f'Please wait, this may take a very long time.')
     for d, fs, m in metadata:  
-        print(f'Creating spectrograms for: {fs}')
+        print(f'Creating spectrograms for: {d}/{fs}')
 
         with open(os.path.join(d, fs), 'w', encoding='utf-8') as f:
             for i in m:
