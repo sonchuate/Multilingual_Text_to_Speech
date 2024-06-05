@@ -3,7 +3,7 @@ import os
 #     data = f.read()
 
 DATA_FOLDER = 'E:/src code 2/python 2/vdt/data/wavs_2'
-idx = 2481
+idx = 2404
 
 
 allData = {}
@@ -24,6 +24,8 @@ with open(f'vin_bigdata/val_{DATA_FOLDER.split("/")[-1]}.txt','w',encoding='utf-
             for l in data.split('\n'):
                 if len(l) < 3: continue
                 name_file, content = l.split('\t')
+                if len(content.split(' ')) > 35:
+                    continue
                 #id file| id speaker | id language | file name ||| content|
                 if idx < 54000:
                     
