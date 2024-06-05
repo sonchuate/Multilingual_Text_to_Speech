@@ -1,641 +1,641 @@
-002481|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_0.wav|||hi thân mến cho các bạn chào mừng các bạn đã quay trở lại với beta version kênh chia sẻ kiến thức phát triển toàn diện bản thân qua các cuốn sách hay.|
-002482|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_1.wav|||nếu bạn vẫn còn đang bị nhiều cảm xúc buồn bã ghen tị sợ hãi cáu giận chi phối.|
-002483|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_2.wav|||khiến tâm trạng sa sút và không biết sao để đối mặt.|
-002484|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_3.wav|||nếu bạn vẫn còn mắc nhiều sai lầm và cảm thấy hối hận.|
-002485|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_4.wav|||bảy đã nói những lời tổn thương sau những cơn tức giận.|
-002486|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_5.wav|||thì cuốn sách ngày hôm nay sẽ là một lựa chọn tốt cho bạn.|
-002487|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_6.wav|||đây là cuốn sách mà mình tạm dịch là.|
-002488|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_7.wav|||sức mạnh của cảm xúc.|
-002489|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_8.wav|||tình yêu sự giận dữ niềm vui.|
-002490|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_9.wav|||nhà tư tưởng chuyên gia vương dương minh có nói rằng.|
-002491|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_10.wav|||bắt đạo tặc trên núi thì dễ còn bắt đạo tặc trong tâm mới khó.|
-002492|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_11.wav|||đạo tặc trong tâm chúng ta nói cho cùng là thất tình lục dục.|
-002493|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_12.wav|||theo khái niệm trong giáo lý phật giáo.|
-002494|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_13.wav|||thất tình là bảy sắc thái khác nhau của cảm xúc con người.|
-002495|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_14.wav|||lục dục nghĩa là sáu sự ham muốn trần gian.|
-002496|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_15.wav|||cuốn sách này nói về thất tình của loài người.|
-002497|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_16.wav|||sẽ phân tích bảy loại cảm xúc luôn đi cùng chúng ta từ lúc sinh ra cho đến nay.|
-002498|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_17.wav|||cảm xúc là dòng năng lượng lưu động trong ta.|
-002499|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_18.wav|||nếu bạn chung sống hòa bình với chúng thì có thể dễ dàng làm chủ cuộc đời của chính mình.|
-002500|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_19.wav|||hiểu rõ cảm xúc để bạn có thể diễn giải cảm xúc tốt hơn.|
-002501|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_20.wav|||thấu yêu cảm xúc của người khác trong khi vẫn có thể bảo vệ cảm xúc của chính mình.|
-002502|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_21.wav|||từ đó có thể biến cảm xúc thành sức mạnh.|
-002503|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_22.wav|||để đối mặt với cuộc sống một cách tích cực.|
-002504|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_23.wav|||tác giả của cuốn sách này là bác sĩ tâm thần học nổi tiếng ở pháp và hoa kỳ fergus laylor.|
-002505|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_24.wav|||ông cũng là người viết cuốn sách tâm lý học tự chữa lành được bán chạy trên toàn cầu.|
-002506|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_25.wav|||heter và hành trình thú vị đi tìm hạnh phúc.|
-002507|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_26.wav|||đây cũng là một cuốn sách khác vô cùng nổi tiếng của ông.|
-002508|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_27.wav|||còn cuốn sách mà hôm nay mình giới thiệu.|
-002509|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_28.wav|||có đồng tác giả là nhà tâm lý học tâm thần học người pháp.|
-002510|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_29.wav|||christopher ri.|
-002511|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_30.wav|||rồi.|
-002512|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_31.wav|||bây giờ chúng mình sẽ cùng tìm hiểu bởi thứ cảm xúc này là gì.|
-002513|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_32.wav|||đừng vội làm mình trở nên xấu hoặc trở nên xấu xa.|
-002514|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_33.wav|||bình lặng trước mọi xao động có phải là một điều tuyệt vời.|
-002515|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_34.wav|||n.|
-002516|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_35.wav|||tác giả nói rằng.|
-002517|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_36.wav|||nếu có một loại thuốc tên là summer là một thứ thuốc giúp cho bạn có thể điềm tĩnh trong mọi tình huống.|
-002518|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_37.wav|||cho dù bạn gặp rắc rối gì đi chăng nữa.|
-002519|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_38.wav|||thì vẻ ngoài của bạn vẫn không hề thay đổi.|
-002520|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_39.wav|||và có thể bình tĩnh ứng phó.|
-002521|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_40.wav|||với một trái tim bình lặng như mặt nước phẳng.|
-002522|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_41.wav|||bạn không dễ bị xao động trên những cảm xúc trần tục.|
-002523|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_42.wav|||đây chẳng phải là thứ thuốc giúp cho chúng ta thực hiện mục tiêu.|
-002524|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_43.wav|||tu tập tâm an khí tĩnh ngay sao.|
-002525|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_44.wav|||vậy bạn có muốn mua viên thuốc này không.|
-002526|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_45.wav|||nhưng tác giả cũng nói thêm rằng.|
-002527|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_46.wav|||trước khi quyết định bạn cần phải hiểu rõ tác dụng phụ của nó.|
-002528|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_47.wav|||thứ nhất nếu không có sự ảnh hưởng của cảm xúc.|
-002529|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_48.wav|||bạn sẽ thờ ơ với cuộc sống.|
-002530|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_49.wav|||thứ hai bởi vì không bị cảm xúc làm xao động.|
-002531|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_50.wav|||nên bạn không còn thấy tổn thương.|
-002532|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_51.wav|||từ đó có thể gây ra hành vi nguy hiểm cho bản thân và người khác.|
-002533|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_52.wav|||thứ ba chỉ nhờ suy giảm và khả năng phán đoán yếu đi.|
-002534|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_53.wav|||thứ tư.|
-002535|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_54.wav|||gặp khó khăn và trở ngại trong việc kết nối với người khác.|
-002536|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_55.wav|||đến đây thì bạn có muốn uống viên thuốc này nữa không.|
-002537|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_56.wav|||bạn sẽ thấy là cảm xúc khiến cho chúng ta gặp nhiều đau khổ.|
-002538|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_57.wav|||nhưng ngược lại nó cũng giúp cho chúng ta có một cuộc sống thêm hương vị.|
-002539|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_58.wav|||và có thể thiết lập mối liên hệ sâu sắc với người khác.|
-002540|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_59.wav|||trên thực tế cảm xúc là một nguồn động lực để chúng ta biểu đạt về thế giới.|
-002541|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_60.wav|||và cũng chính là năng lượng sơ khai nhất trong ta.|
-002542|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_61.wav|||bạn cần phải hiểu và quản lý được cảm xúc của chính mình.|
-002543|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_62.wav|||để có thể tận dụng được sức mạnh của chúng.|
-002544|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_63.wav|||trước tiên ta cần phải có cái nhìn tổng quát cơ bản về cảm xúc.|
-002545|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_64.wav|||cảm xúc bao gồm ba phần chính sinh lý nhận thức và hành vi.|
-002546|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_65.wav|||nó là năng lượng lưu động đi từ trạng thái tĩnh đến kích động.|
-002547|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_66.wav|||khiến cơ thể phát sinh phản ứng sinh lý như huyết áp nhịp tim tăng cao hơi thở dồn dập.|
-002548|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_67.wav|||sau đó cảm xúc sẽ ảnh hưởng đến cách bạn suy nghĩ.|
-002549|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_68.wav|||khi thức sạch.|
-002550|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_69.wav|||bạn có thể thu hẹp tầm nhìn và chỉ tập trung vào điểm khiến cho bạn tức giận.|
-002551|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_70.wav|||khi buồn bã bạn có thể không thoát ra được điều làm bạn buồn.|
-002552|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_71.wav|||và bắt đầu suy nghĩ tiêu cực.|
-002553|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_72.wav|||cuối cùng nó khiến bạn phản ứng và hành động.|
-002554|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_73.wav|||rồi bây giờ chúng ta sẽ đi vào từng chi tiết từng cảm xúc cơ bản nhất.|
-002555|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_74.wav|||thứ nhất thứ cảm xúc mà có lẽ nhiều người hằng ngày phiền lòng với nó bạn sẽ để ý thấy không ít người khi nóng giận.|
-002556|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_75.wav|||thường khùng lên và có những hành vi như đập đồ đóng giầm cửa.|
-002557|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_76.wav|||thậm chí là còn hung hăng với người khác.|
-002558|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_77.wav|||nhưng ngược lại.|
-002559|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_78.wav|||cũng có người khi tức giận họ chọn cách uất ức.|
-002560|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_79.wav|||nuốt cơn giận vào trong lòng không thể hiện ra ngoài.|
-002561|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_80.wav|||tuy nhiên khi đối mặt với cơn giận.|
-002562|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_81.wav|||việc bộc phát hay kìm nén đều sai lầm.|
-002563|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_82.wav|||điều đúng đắn cần làm là trực tiếp đối mặt.|
-002564|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_83.wav|||hiểu rõ được cơn giận rồi giải quyết nó.|
-002565|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_84.wav|||nhưng để hiểu rõ nó thì chúng ta cần phải biết.|
-002566|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_85.wav|||vì sao bản thân tôi lại tức giận.|
-002567|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_86.wav|||nguyên nhân gây ra sự phẫn nộ dường như rất phức tạp.|
-002568|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_87.wav|||nhưng có thể tóm tắt lại như sau.|
-002569|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_88.wav|||nguyên nhân thứ nhất.|
-002570|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_89.wav|||bạn tức giận là vì không muốn điều gì đó xảy ra.|
-002571|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_90.wav|||nguyên nhân thứ hai.|
-002572|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_91.wav|||có thể bạn bị người khác cố ý gây ra điều gì đấy.|
-002573|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_92.wav|||thứ ba.|
-002574|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_93.wav|||điều khiến bạn tức giận nó trái ngược về giá trị quan của bạn.|
-002575|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_94.wav|||và cuối cùng một yếu tố quan trọng nhất.|
-002576|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_95.wav|||bạn tức giận vì bạn biết mình có thể kiểm soát được tình hình.|
-002577|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_96.wav|||và cho phép bản thân có thể tức giận.|
-002578|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_97.wav|||ví dụ nếu bạn đang đi dạo trong khu rừng và bất ngờ gặp một con hổ.|
-002579|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_98.wav|||liệu bạn có thể tức giận không.|
-002580|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_99.wav|||đương nhiên là không.|
-002581|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_100.wav|||hầu hết mọi người sẽ vô cùng sợ hãi.|
-002582|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_101.wav|||bởi vì biết mình không thể kiểm soát được tình hình.|
-002583|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_102.wav|||nhưng trái lại võ tòng thì lại khác.|
-002584|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_103.wav|||ông ta có thể kiểm soát được chuyện này bằng cơn tức giận của bản thân.|
-002585|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_104.wav|||bạn hay ngẫm nghĩ thử xem.|
-002586|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_105.wav|||nhiều khi bạn tức giận và qua thảo một người.|
-002587|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_106.wav|||nguyên nhân trên hết là vì bạn biết bản thân có thể kiểm soát người đó.|
-002588|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_107.wav|||cho dù có nói lời gì quá đáng thì bạn tin rằng người ấy cũng sẽ không rời xa bạn hoặc làm gì được bạn.|
-002589|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_108.wav|||nhưng hãy nhớ rằng.|
-002590|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_109.wav|||không ai là không thể rời xa bạn cả.|
-002591|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_110.wav|||kể cả là những người kể cạnh bên bạn hay cho dù là nhân viên thân thiết của bạn.|
-002592|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_111.wav|||hãy nhựa.|
-002593|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_112.wav|||những người cho phép bạn tức giận là người thực sự yêu thương bạn.|
-002594|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_113.wav|||hoặc là họ đang sợ hãi bạn.|
-002595|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_114.wav|||chỉ cần có sự sợ hãi.|
-002596|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_115.wav|||đối phương sẽ không bao giờ chân thành cởi mở hết lòng với bạn.|
-002597|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_116.wav|||liệu bạn có muốn một mối quan hệ như vậy suốt đời hay không.|
-002598|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_117.wav|||cách giải quyết ở đây đó là.|
-002599|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_118.wav|||hãy nhìn lại chính mình.|
-002600|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_119.wav|||tác giả đã đưa ra phương pháp để giúp bạn giải quyết cơn giận như sau.|
-002601|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_120.wav|||thứ nhất bạn cần phải học cách đối thoại với bản thân.|
-002602|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_121.wav|||chất vấn niềm tin cố hữu trong bạn rằng niềm tin nào khiến bạn cho là.|
-002603|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_122.wav|||người khác phải làm đúng ý mình.|
-002604|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_123.wav|||liệu niềm tin này có hoàn toàn hợp lý không.|
-002605|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_124.wav|||thứ hai.|
-002606|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_125.wav|||sau khi hiểu được vì sao tức giận.|
-002607|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_126.wav|||hãy cố gắng giảm bớt những yếu tố gây ra phẫn nộ.|
-002608|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_127.wav|||ví dụ nếu ở công ty có người luôn làm khó bạn.|
-002609|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_128.wav|||và khiến bạn cảm thấy bực bội.|
-002610|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_129.wav|||vậy thì thay vì chỉ hậm hực phải nhìn thấy khuyết điểm trong cách nhìn nhận của đối phương.|
-002611|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_130.wav|||tốt hơn hết hãy tìm cách cải thiện tình hình.|
-002612|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_131.wav|||thay đổi bản thân để loại bỏ những yếu tố khiến cho bạn bực bội.|
-002613|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_132.wav|||để làm tốt điều này.|
-002614|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_133.wav|||tiếp đến bạn cần phải học cách suy nghĩ từ quan điểm của người khác.|
-002615|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_134.wav|||theo phật giáo mọi sự tức giận đều xuất phát từ cấp độ cao hơn của bản ngã.|
-002616|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_135.wav|||tức là tôi cảm thấy mình rất quan trọng.|
-002617|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_136.wav|||thái độ của tôi giá trị của tôi.|
-002618|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_137.wav|||lòng tự trọng của tôi là quan trọng nhất.|
-002619|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_138.wav|||khi bạn cảm thấy mình đặc biệt quan trọng lập tức sẽ có rất nhiều điều khiến bạn tức giận.|
-002620|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_139.wav|||như khi bạn có thể học cách đặt mình vào vị trí của người khác.|
-002621|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_140.wav|||cảm nhận lý do tại sao họ lại nghĩ như vậy.|
-002622|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_141.wav|||và liệu bạn có cần thiết phải tức giận như vậy không.|
-002623|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_142.wav|||bạn sẽ có cách làm chủ cơn nóng giận lúc này của mình.|
-002624|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_143.wav|||điều thứ tư.|
-002625|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_144.wav|||không công kích cá nhân.|
-002626|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_145.wav|||tức là khi bắt đầu nhê nhóm ngọn lửa thức giật.|
-002627|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_146.wav|||hãy nên chú ý đến hành vi của đối phương thôi đừng cố gắng dàn mác về con người họ.|
-002628|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_147.wav|||ví dụ.|
-002629|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_148.wav|||thay vì nói sao anh làm cái gì cũng không ra hồn vậy.|
-002630|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_149.wav|||thì cách biểu đạt cơn tức giận không công kích người khác đó là.|
-002631|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_150.wav|||anh làm điều này chưa đúng.|
-002632|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_151.wav|||thứ năm.|
-002633|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_152.wav|||bạn cần cân nhắc kỹ trước khi biểu lộ.|
-002634|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_153.wav|||khi tức giận đừng ngay lập tức nói ra viết tin nhắn gửi đi.|
-002635|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_154.wav|||hay đăng tâm trạng lên mạng xã hội vân vân.|
-002636|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_155.wav|||hãy cho bản thân lặng xuống.|
-002637|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_156.wav|||ngưng lại cũng đừng tùy tiện đồng ý mọi việc với ai đó.|
-002638|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_157.wav|||khi bạn đặc biệt vui vẻ.|
-002639|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_158.wav|||điều thứ sáu đó là.|
-002640|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_159.wav|||hãy cho đối phương chút thời gian để họ được biểu đạt.|
-002641|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_160.wav|||nói không chừng là họ không phải cố ý.|
-002642|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_161.wav|||và điều đấy chưa chắc đã phạm vào nguyên tắc khiến cho bạn tức giận.|
-002643|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_162.wav|||điều thứ bảy.|
-002644|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_163.wav|||rời đi.|
-002645|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_164.wav|||nếu không thể kiềm chế được cơn phẫn nộ.|
-002646|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_165.wav|||cách tốt nhất hãy quay mình rời đi.|
-002647|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_166.wav|||ví dụ khi nổi cơn lôi đình với con mình.|
-002648|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_167.wav|||bạn có thể nói.|
-002649|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_168.wav|||mẹ hiện tại cần bình tĩnh để mẹ nghỉ ngơi một chút.|
-002650|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_169.wav|||sau đó ra ngoài hoặc sang một phòng khác ngồi một lúc.|
-002651|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_170.wav|||đây cũng là một cách rất tốt để kiểm soát cơn giận của bạn.|
-002652|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_171.wav|||và cách cuối cùng để kiểm soát thức giật.|
-002653|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_172.wav|||đó là học cách buông bỏ.|
-002654|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_173.wav|||đừng quá bám víu vào mọi trắc nghiệm.|
-002655|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_174.wav|||thực sự khi bạn nhìn lại sẽ thấy không có gì là chẳng thể vượt qua.|
-002656|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_175.wav|||cũng không có điều gì là quá tao tát cả.|
-002657|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_176.wav|||khi bạn có thể chấp nhận mọi chuyện xảy ra thì cơn nóng giận sẽ tự nhiên giảm bớt.|
-002658|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_177.wav|||ngược lại ở đây còn một vấn đề quan trọng không kém.|
-002659|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_178.wav|||đó là có rất nhiều người đang thiếu sự thức giật.|
-002660|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_179.wav|||tức là họ đề nén quá mức sự tức giận của bản thân.|
-002661|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_180.wav|||tôi nên luôn phải kiểm soát được cảm xúc.|
-002662|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_181.wav|||nếu không người khác sẽ nhìn tôi là một người không chỉn chẳng.|
-002663|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_182.wav|||tôi không bao giờ được làm tổn thương người khác.|
-002664|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_183.wav|||nếu không tôi sẽ cảm thấy tội lỗi.|
-002665|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_184.wav|||đây thực chất là những niềm tin mà người khác đã truyền vào tâm trí của bạn từ nhỏ.|
-002666|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_185.wav|||nó khiến cho bạn không tức giận nhưng sẽ dẫn đến chán nản.|
-002667|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_186.wav|||giống như cuốn sách truth or work.|
-002668|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_187.wav|||mình đã từng chia sẻ cũng có nói rằng.|
-002669|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_188.wav|||nếu bạn không có cách biểu đạt sự tức giận của mình.|
-002670|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_189.wav|||nó có thể dẫn đến các bệnh về tâm lý nghiêm trọng.|
-002671|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_190.wav|||thậm chí là cả bệnh tật về thể xác.|
-002672|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_191.wav|||cái tốt nhất thay vì nói.|
-002673|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_192.wav|||tôi phải luôn kiểm soát được cảm xúc.|
-002674|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_193.wav|||hay là tôi chỉ có thể tức giận khi biết bản thân có lý một trăm phần trăm.|
-002675|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_194.wav|||thì hãy nghĩ rằng khi có lý mới tức giận là đúng.|
-002676|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_195.wav|||nhưng tôi có quyền mắc sai lầm.|
-002677|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_196.wav|||xin đừng quá khắt khe với chính mình.|
-002678|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_197.wav|||hoặc là thay vì bạn nói tôi cần phải tỏ ra thân thiện.|
-002679|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_198.wav|||nếu không mọi người sẽ không chấp nhận tôi.|
-002680|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_199.wav|||thì hãy khẳng định bản thân rằng.|
-002681|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_200.wav|||tôi hy vọng mọi người chấp nhận tôi.|
-002682|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_201.wav|||nhưng tôi không cần thiết.|
-002683|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_202.wav|||phải để tất cả mọi người tiếc mình.|
-002684|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_203.wav|||rồi trên đây là những chia sẻ về cảm xúc đầu tiên.|
-002685|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_204.wav|||tức giận.|
-002686|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_205.wav|||đừng vội làm mình trở nên xấu.|
-002687|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_206.wav|||cảm xúc tiếp theo đó là ghen tị thực chất không có biểu hiện tiêu chuẩn nào cho sự ghen tị.|
-002688|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_207.wav|||bởi hiếm khi có thể chỉ cần nhìn vào khuôn mặt ai đó và bạn có thể xác định được họ đang ghen tỵ.|
-002689|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_208.wav|||ghen tị là một vở kịch nội tâm với một cảm giác giằng xé bên trong.|
-002690|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_209.wav|||ví dụ.|
-002691|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_210.wav|||khi đến chơi nhà một người bạn cùng tuổi bạn nhận thấy hai người cùng gia trường như nhau thậm chí ngày xưa nó học kém hơn mình mà bây giờ nhà cửa nó giàu có gia đình sung túc như thế này.|
-002692|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_211.wav|||bề ngoài vẫn phẳng lặng như sông nhưng bên trong lòng lại đang xao động và bắt đầu buồn rầu.|
-002693|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_212.wav|||có người sẽ nghĩ mình đang có tâm đố kỵ.|
-002694|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_213.wav|||nhưng thực chất đây là ghen tị.|
-002695|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_214.wav|||đố kị lại là khác.|
-002696|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_215.wav|||theo tâm lý học ghen tị hướng vào hạnh phúc và của cái vật chất của người khác.|
-002697|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_216.wav|||còn đố kỵ là khi bạn phát hiện những thứ mà mình muốn sở hữu vĩnh viễn đang có nguy cơ bị người khác cướp mất.|
-002698|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_217.wav|||về cảm giác đố kỵ mình sẽ nói rõ hơn ở phần sau.|
-002699|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_218.wav|||cuốn sách này sẽ cho chúng ta biết thông thường con người sẽ có ba kiểu ghen tỵ.|
-002700|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_219.wav|||đầu tiên đó là ghen tị kiểu trầm cảm.|
-002701|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_220.wav|||những người có cảm xúc ghen tị như thế này khi thấy người khác tiến bộ hơn mình thường sẽ nghĩ.|
-002702|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_221.wav|||điều tốt đẹp này sẽ không bao giờ xảy đến với tôi.|
-002703|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_222.wav|||hay tôi thật là không may mắn.|
-002704|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_223.wav|||những cảm xúc này sẽ khiến bạn rơi vào một trạng thái muốn rút lui.|
-002705|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_224.wav|||lợi thứ hai đó là cảm giác ghen tỵ kiểu thù địch.|
-002706|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_225.wav|||biểu hiện điển hình của kiểu này đó là.|
-002707|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_226.wav|||điều như nó mà làm được việc này.|
-002708|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_227.wav|||người có cảm xúc kiểu như vậy sẽ nghĩ rằng không ai có thể bằng mình.|
-002709|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_228.wav|||nên sẽ tìm cách bới lỗi nói xấu hoặc khiến cho hình ảnh của đối phương xấu đi trong mắt người khác.|
-002710|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_229.wav|||loại thứ ba đó là.|
-002711|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_230.wav|||ghen tị kiểu ngưỡng mộ.|
-002712|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_231.wav|||anh ta thực sự rất giỏi nên được thăng chức là chuyện bình thường.|
-002713|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_232.wav|||bản thân tôi sẽ làm việc chăm chỉ hơn.|
-002714|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_233.wav|||loại thứ ba này là một kiểu gen tỵ tương đối lành mạnh.|
-002715|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_234.wav|||vì thế có ghen tị tốt và cũng có ghen tị xấu.|
-002716|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_235.wav|||nếu cảm xúc ghen tị là tốt bạn sẽ có động lực để tiến bộ.|
-002717|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_236.wav|||nhưng nếu cảm xúc đó là xấu bạn có thể làm điều tổn thương người khác.|
-002718|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_237.wav|||ghen tị sẽ là động lực cho tiến bộ.|
-002719|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_238.wav|||nhưng nó cũng cần được quản lý.|
-002720|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_239.wav|||đặc biệt là ghen tị kiểu trầm cảm và thù địch.|
-002721|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_240.wav|||nhờ sự ghen tị khiến bạn cảm thấy đau khổ mất đi tinh thần.|
-002722|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_241.wav|||thì bạn cần phải nhìn lại và quản lý nó.|
-002723|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_242.wav|||vậy thì chúng ta sẽ quản lý bằng cách nào.|
-002724|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_243.wav|||bước đầu tiên đó là.|
-002725|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_244.wav|||bạn cần phải thẳng thắn thừa nhận sự ghen tỵ của bản thân.|
-002726|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_245.wav|||ví dụ ngôi nhà mà anh mua chính là ngôi nhà tôi tưởng tượng trong mơ.|
-002727|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_246.wav|||sống một tổ ấm như thế này hạnh phúc làm sao tôi thật ghen tị với anh.|
-002728|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_247.wav|||vừa nói ra câu này bạn sẽ cảm thấy dễ chịu hơn rất nhiều.|
-002729|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_248.wav|||đồng thời đối phương cũng vậy.|
-002730|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_249.wav|||bước thứ hai đó là.|
-002731|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_250.wav|||thể hiện sự ghen tỵ một cách tích cực.|
-002732|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_251.wav|||việc cảm thấy mừng thay cho họ từ tận đáy lòng là một cách thể hiện cảm xúc với năng lượng rất cao.|
-002733|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_252.wav|||ví dụ.|
-002734|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_253.wav|||tôi thấy mua một ngôi nhà không hề dễ dàng đây là kết quả chứng tỏ sự nỗ lực của bạn trong mấy năm qua.|
-002735|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_254.wav|||tôi thực sự mừng cho bạn.|
-002736|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_255.wav|||bước số ba.|
-002737|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_256.wav|||bạn hãy kiểm tra lại xem bản thân có suy nghĩ rằng mình thấp kém hay không.|
-002738|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_257.wav|||dường như là.|
-002739|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_258.wav|||bạn mình giỏi quá còn mình thì sao.|
-002740|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_259.wav|||bây giờ mình đang muốn tiến bộ hay thua lội vân vân.|
-002741|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_260.wav|||những người suy nghĩ như vậy.|
-002742|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_261.wav|||luôn mong muốn thể hiện những mặt tốt nhất trước người khác.|
-002743|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_262.wav|||nhưng bạn cần biết rằng đây chính là yếu tố gây nên sự ghen tỵ không đáng có trong mình.|
-002744|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_263.wav|||hoặc ngược lại.|
-002745|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_264.wav|||hãy kiểm tra xem có những suy nghĩ rằng.|
-002746|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_265.wav|||bản thân mình yêu việt hay không.|
-002747|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_266.wav|||nếu cái tôi quá cao bạn sẽ cảm thấy bản thân phải giỏi hơn người khác.|
-002748|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_267.wav|||nhưng thực tế khi không đạt được.|
-002749|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_268.wav|||ắt nhiên bạn sẽ tự chút lấy đau khổ vì sự ghen tỵ này.|
-002750|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_269.wav|||rồi nếu còn có những suy nghĩ như vậy bạn cần phải đi đến bước số bốn.|
-002751|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_270.wav|||hãy làm suy yếu sự ưu việt của người khác trong mắt bạn.|
-002752|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_271.wav|||sự ưu việt của đối phương thực chất là do cái tôi ghen tỵ của bạn tưởng tượng ra.|
-002753|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_272.wav|||tác giả cho rằng trên đời này thực sự không có gì đáng để ghen tỵ cả.|
-002754|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_273.wav|||nếu quả thực với ghen tị thì di chỉ có một phẩm hạnh mà chúng ta nên ghen tị.|
-002755|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_274.wav|||đó là những người có thể tự tạo ra hạnh phúc.|
-002756|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_275.wav|||ví dụ một người sửa xe đạp bên đường và anh ấy đang rất vui vì đang làm điều đó.|
-002757|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_276.wav|||anh ấy cảm thấy hạnh phúc.|
-002758|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_277.wav|||một người có thể chuyên tâm làm công việc của mình giúp đỡ những người khác thì người đó chính là những người đáng để chúng ta ghen tỵ.|
-002759|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_278.wav|||mình mong rằng chúng ta có thể biến cảm giác ghen tỵ.|
-002760|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_279.wav|||thanh động lực phấn đấu với chính bản thân mình chứ không phải ai khác.|
-002761|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_280.wav|||đừng vội.|
-002762|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_281.wav|||kế đến là cảm xúc vui vẻ hạnh phúc có một nụ cười mang tên do jean do bác sĩ người pháp có tên do jean phát hiện.|
-002763|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_282.wav|||bạn có biết không người có nụ cười này mới là người thực sự hạnh phúc và rạng rỡ niềm vui.|
-002764|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_283.wav|||đó là nụ cười với vùng cơ xung quanh mắt co lại một cách tự nhiên.|
-002765|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_284.wav|||hãy nhìn lại xem một ngày vẫn có bao nhiêu lần mỉm cười tự nhiên như thế.|
-002766|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_285.wav|||vui vẻ hạnh phúc là cảm giác có ảnh hưởng lớn nhất trong tất cả các loại cảm xúc đối với cuộc đời chúng ta.|
-002767|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_286.wav|||tại sao lại có thể nói như vậy.|
-002768|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_287.wav|||thứ nhất vui vẻ làm cho con người trở nên hào phóng.|
-002769|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_288.wav|||điều này đã được thực nghiệm chứng minh chứ không chỉ nói suông.|
-002770|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_289.wav|||một nhà tâm lý học yêu cầu một nhóm người tham gia vào một thí nghiệm tâm lý.|
-002771|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_290.wav|||sau khi thí nghiệm hoàn thành.|
-002772|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_291.wav|||bọn họ đi ra ngoài và nhìn thấy trước cửa một người ăn xin.|
-002773|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_292.wav|||sau đó ông ý phát hiện rằng.|
-002774|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_293.wav|||chỉ cần những người này cảm thấy thích thú vui vẻ trong phòng thí nghiệm.|
-002775|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_294.wav|||họ sẽ có khả năng đưa tiền cho người ăn xin.|
-002776|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_295.wav|||vậy vui vẻ rồi mới hào phóng.|
-002777|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_296.wav|||hay hào phóng thì sẽ trở nên vui vẻ.|
-002778|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_297.wav|||ở đây cả hai sẽ tương hỗ cho nhau.|
-002779|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_298.wav|||vì thế hãy hào phóng và cho đi nhiều hơn.|
-002780|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_299.wav|||thì chắc chắn những cảm giác vui vẻ trọn vẹn sẽ đến bên bạn.|
-002781|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_300.wav|||thứ hai.|
-002782|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_301.wav|||vui vẻ cần khiến con người ta sáng tạo.|
-002783|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_302.wav|||và có thể đưa ra những quyết định tốt hơn.|
-002784|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_303.wav|||đó không phải là một quyết định nhanh chóng mà là một quyết định chất lượng.|
-002785|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_304.wav|||vui vẻ cũng giúp bạn dũng cảm mà thận trọng.|
-002786|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_305.wav|||chúng ta thường cho rằng vui quá hoá rổ.|
-002787|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_306.wav|||tức là khi con người ta vui quá sẽ có những hành động điên cuồng mạo hiểm.|
-002788|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_307.wav|||đó không phải là vui vẻ.|
-002789|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_308.wav|||đúng hơn là khoái lạc.|
-002790|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_309.wav|||ngược lại.|
-002791|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_310.wav|||người vui vẻ thực sự luôn dám hành động.|
-002792|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_311.wav|||nhưng có thể hành động thận trọng hơn.|
-002793|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_312.wav|||những người vui vẻ sẽ không thích công việc nhàm chán mà sẽ chọn nhiệm vụ thú vị có tính thử thách.|
-002794|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_313.wav|||vì vậy hãy sẵn sàng chủ động tiếp nhận những công việc khó khăn hơn người khác ở nơi làm việc.|
-002795|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_314.wav|||đây cũng chính là cách biến mình thành người hạnh phúc trong công việc.|
-002796|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_315.wav|||giúp bản thân có nhiều cơ hội trưởng thành hơn.|
-002797|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_316.wav|||một điều cần phải chú ý ở đây là.|
-002798|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_317.wav|||tác giả phân chia hạnh phúc của con người thành bốn trạng thái từ hai chiều.|
-002799|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_318.wav|||hãy cùng tìm hiểu xem bạn đang cần kiểu hạnh phúc nào.|
-002800|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_319.wav|||đầu tiên đó là niềm vui phấn khích đến từ bên ngoài.|
-002801|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_320.wav|||bạn có thể hiểu đó chính là sự vui mừng.|
-002802|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_321.wav|||ví dụ hồi học cấp một cấp hai khi đạt danh hiệu học sinh giỏi.|
-002803|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_322.wav|||hoặc khi chúng ta chiến thắng một cuộc thi vân vân.|
-002804|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_323.wav|||cảm giác này thường phổ biến ở thanh thiếu niên.|
-002805|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_324.wav|||thứ hai là niềm vui phấn khích đến từ bên trong.|
-002806|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_325.wav|||đây là một trạng thái hạnh phúc kiểu aristoto.|
-002807|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_326.wav|||đó là cảm giác của thành tựu khi mục tiêu cuộc sống của bạn được hiện thực hóa.|
-002808|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_327.wav|||khi bạn dấn thân vào sự nghiệp với mục đích ý nghĩa và cuối cùng đạt được nó.|
-002809|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_328.wav|||sau đó có thể cải thiện chính mình.|
-002810|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_329.wav|||kiểu thứ ba đó là niềm hạnh phúc bình lặng đến từ bên ngoài.|
-002811|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_330.wav|||đây là một cảm giác hài lòng.|
-002812|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_331.wav|||ví dụ.|
-002813|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_332.wav|||bạn cùng bạn đời ngồi trong vườn nhem nhí ly trà và nhìn con cái nô đùa xung quanh.|
-002814|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_333.wav|||cảm giác hạnh phúc này sẽ khiến bạn lẳng lặng mỉm cười đầy mãn nguyện.|
-002815|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_334.wav|||cuối cùng là cảm giác hạnh phúc bình lặng.|
-002816|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_335.wav|||đây gọi là sự điềm tĩnh khi ta hiểu rõ lẽ sống của bản thân và biết rằng cuộc sống vốn là như vậy.|
-002817|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_336.wav|||cuộc đời là vô thường.|
-002818|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_337.wav|||ta sẽ bình tĩnh sống và hưởng thụ quá trình trải nghiệm.|
-002819|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_338.wav|||đây là bổn cảm giá hạnh phúc khác nhau đặc biệt chúng không phân chia cao thấp tức là niềm hạnh phúc nào cũng mang đến năng lượng cao.|
-002820|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_339.wav|||vậy để cải thiện hạnh phúc chúng ta cần phải làm gì.|
-002821|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_340.wav|||trước tiên bạn cần phải tự hỏi bạn của bây giờ rằng.|
-002822|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_341.wav|||hạnh phúc lý tưởng của mình gần với loại hạnh phúc nào.|
-002823|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_342.wav|||điều gì khiến bạn hạnh phúc hơn bây giờ.|
-002824|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_343.wav|||khoảnh khắc hạnh phúc nhất của bạn là gì.|
-002825|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_344.wav|||bạn đã bỏ lỡ giây phút hạnh phúc nào.|
-002826|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_345.wav|||điều khiến bạn hạnh phúc hơn có phụ thuộc vào bạn không.|
-002827|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_346.wav|||hãy luôn tự chất vấn bản thân những câu hỏi như thế này.|
-002828|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_347.wav|||để giúp mình đi đúng đường.|
-002829|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_348.wav|||nhưng bạn cũng cần đặc biệt chú ý đến những thứ mà hạnh phúc cần và không cần.|
-002830|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_349.wav|||hạnh phúc không quan trọng tiền bạc và tuổi tác.|
-002831|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_350.wav|||chúng ta luôn sợ tuổi già và cảm thấy già đi là một điều khủng khiếp.|
-002832|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_351.wav|||nhưng trên thực tế con người ta sẽ cảm thấy hạnh phúc hơn khi về già.|
-002833|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_352.wav|||chưa có nghiên cứu nào chứng minh người trẻ hạnh phúc hơn.|
-002834|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_353.wav|||người già thường có thể bình thản nói với người trẻ rằng.|
-002835|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_354.wav|||mọi việc rồi cũng sẽ qua.|
-002836|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_355.wav|||con nên hạnh phúc vì còn trẻ và có nhiều cơ hội cho mọi thứ.|
-002837|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_356.wav|||nhưng người trẻ thì sẽ không nghĩ như vậy.|
-002838|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_357.wav|||những rắc rối trong đời sẽ khiến người trẻ đau đớn và bất kỳ đòn đánh nào cũng sẽ được khuếch đại vô hạn.|
-002839|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_358.wav|||về hạnh phúc quan trọng điều gì.|
-002840|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_359.wav|||muốn hạnh phúc bạn cần phải có sức khoẻ.|
-002841|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_360.wav|||chỉ cần có một căn bệnh nhỏ nào đến hạnh phúc trong bạn sẽ lập tức giảm sút.|
-002842|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_361.wav|||hạnh phúc cũng phụ thuộc vào tính cách của bạn.|
-002843|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_362.wav|||hãy xem bạn có dễ dàng phát hiện niềm vui và tạo ra hạnh phúc hay không.|
-002844|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_363.wav|||hạnh phúc còn quan trọng ở chất lượng hôn nhân và các mối quan hệ.|
-002845|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_364.wav|||hãy thận trọng và lựa chọn thật kỹ trước khi quyết định đi đến hôn nhân với ai đó.|
-002846|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_365.wav|||và hạnh phúc còn quan trọng ở niềm tin của bạn.|
-002847|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_366.wav|||bạn đang có niềm tin như thế nào.|
-002848|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_367.wav|||nếu chỉ tin vào tiền bạc thì bạn sẽ càng khốn khổ hơn.|
-002849|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_368.wav|||cuối cùng hạnh phúc cần phụ thuộc vào sự nghiệp và ảnh hưởng bởi người thân bạn bè.|
-002850|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_369.wav|||trên đây chính là những yếu tố mà một người muốn hạnh phúc cần phải có.|
-002851|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_370.wav|||nhưng bạn cần phải nhớ rằng.|
-002852|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_371.wav|||để có cảm giác hạnh phúc.|
-002853|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_372.wav|||không phải là cố gắng theo đuổi nhiều thứ làm bạn hài lòng.|
-002854|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_373.wav|||như tác giả nói.|
-002855|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_374.wav|||người hạnh phúc sở dĩ hạnh phúc.|
-002856|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_375.wav|||là vì họ tìm thấy hạnh phúc trong mọi tình huống.|
-002857|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_376.wav|||chứ không phải là vì những sự việc hay hoàn cảnh họ gặp phải khiến cho họ hài lòng hơn những người khác.|
-002858|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_377.wav|||hạnh phúc chính là biết thỏa mãn trong dục vọng.|
-002859|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_378.wav|||và tỉnh táo học cách thản nhiên trước thành công hay thất bại.|
-002860|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_379.wav|||theo đuổi hy vọng của sự hoàn hảo lẫn thiếu sót.|
-002861|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_380.wav|||đừng vội làm mình trở nên xấu.|
-002862|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_381.wav|||rồi tiếp theo chúng ta sẽ nói đến đau buồn.|
-002863|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_382.wav|||trong cuộc sống ai ai cũng phải trải qua những ngày buồn bã.|
-002864|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_383.wav|||có người bị xếp chỉ chết có người mất thuốc cưng có người bị bệnh vân vân.|
-002865|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_384.wav|||tất cả đều khiến con người ta đau lòng.|
-002866|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_385.wav|||nhưng chúng quy lại.|
-002867|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_386.wav|||mọi nỗi buồn đều có đặc điểm chung.|
-002868|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_387.wav|||đó chính là mất mát.|
-002869|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_388.wav|||mất đi niềm tin sếp dành cho bạn.|
-002870|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_389.wav|||mất đi chú chó đồng hành.|
-002871|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_390.wav|||mất đi khả năng hoạt động bình thường mất đi của cải mất đi ý nghĩa của chính mình.|
-002872|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_391.wav|||tất cả đều là những tổn thất.|
-002873|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_392.wav|||nó sẽ khiến cho bạn cảm thấy đau buồn.|
-002874|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_393.wav|||chúng ta luôn chỉ thích niềm vui và rất sợ gặp phải đau buồn.|
-002875|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_394.wav|||nhưng đau buồn sinh ra là để dạy cho chúng ta tránh những tình huống tương tự xảy ra.|
-002876|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_395.wav|||nó khiến bạn suy ngẫm về hành động lỗi lầm những vô minh trong mình.|
-002877|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_396.wav|||và nó cũng khơi dậy lòng trắc ẩn từ người khác.|
-002878|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_397.wav|||và ngược lại cũng cho phép bạn đồng cảm với ai đó khi mà họ đang có nỗi đau trong lòng.|
-002879|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_398.wav|||cảm xúc đau buồn không đáng sợ như chúng ta vẫn tin.|
-002880|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_399.wav|||vậy nên đừng để bản thân mất cân bằng.|
-002881|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_400.wav|||nếu mãi chìm đắm trong nỗi đau nó sẽ nuốt chửng toàn bộ con người bạn.|
-002882|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_401.wav|||vậy thì khi cảm thấy quá đau buồn chúng ta cần phải làm gì.|
-002883|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_402.wav|||việc đầu tiên đó là phải chấp nhận nó.|
-002884|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_403.wav|||người có niềm tin tâm linh và đời sống tinh thần sâu sắc.|
-002885|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_404.wav|||họ đều rất giỏi trong việc chấp nhận.|
-002886|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_405.wav|||vượt qua những nỗi buồn.|
-002887|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_406.wav|||họ tin rằng đau buồn là nhân quả là nghiệp sướng là bài học của bản thân.|
-002888|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_407.wav|||là con đường tự chọn ắt phải đi.|
-002889|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_408.wav|||khi có niềm tin như vậy con người sẽ dễ dàng thay đổi góc nhìn về nỗi đau.|
-002890|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_409.wav|||chấp nhận nỗi đau đơn thuần là một trải nghiệm.|
-002891|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_410.wav|||để bạn nhận ra được giá trị.|
-002892|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_411.wav|||những kinh nghiệm những bài học đằng sau đó.|
-002893|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_412.wav|||và từ đó bạn sẽ cảm thấy tốt hơn.|
-002894|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_413.wav|||ngoài ra bạn cũng có thể bày tỏ nỗi buồn một cách cẩn thận với người tin cậy.|
-002895|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_414.wav|||bày tỏ một cách cẩn thận nghĩa là đừng biến nó thành kẻ lẻ.|
-002896|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_415.wav|||lặp đi lặp lại nhiều lần.|
-002897|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_416.wav|||sau đó hãy cố gắng thoát ra bằng cách chuyển hướng tập trung.|
-002898|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_417.wav|||hãy nhìn lại xem hoạt động gì bạn đã từng yêu thích trong quá khứ.|
-002899|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_418.wav|||hoặc những điều bạn mong muốn được trải nghiệm.|
-002900|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_419.wav|||chủ động chuyển hướng tập trung vào những việc đỏ.|
-002901|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_420.wav|||chúng sẽ giúp bạn thoát khỏi nỗi đau.|
-002902|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_421.wav|||và nếu như những phương pháp trên đều không giúp được cho bạn.|
-002903|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_422.wav|||thì hãy tìm kiếm sự giúp đỡ từ các chuyên gia nhà tâm lý học.|
-002904|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_423.wav|||rồi một cảm xúc tiếp theo mà mình tin rằng nhiều người đều có và đang giấu diếm.|
-002905|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_424.wav|||đó là xấu hổ.|
-002906|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_425.wav|||xấu hổ là cảm giác đau đớn vì nghĩ rằng mình thấp kém kém cỏi hoặc bị người khác coi thường.|
-002907|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_426.wav|||từ góc độ của người lớn có những nỗi xấu hổ ở trẻ là không đáng có.|
-002908|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_427.wav|||nhiều bạn trẻ cho rằng bố mẹ xấu xí ăn mặc lôi thôi hoặc làm nghề lao động đi xe cọc cạch.|
-002909|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_428.wav|||thì thường nói với cha mẹ kiểu.|
-002910|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_429.wav|||đường đến trước cổng trường đón con hay đậu xe đợi con ở đằng kia vân vân.|
-002911|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_430.wav|||và chắc chắn nhiều người sẽ hối hận vì điều này khi lớn lên.|
-002912|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_431.wav|||vậy thì tại sao chúng ta lại cảm thấy xấu hổ.|
-002913|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_432.wav|||đó là khi con người ta không đạt được sự thống nhất trong bốn nguyên tắc phù hợp với những người xung quanh.|
-002914|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_433.wav|||nguyên tắc đầu tiên đó chính là tình nhất quán.|
-002915|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_434.wav|||ví dụ.|
-002916|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_435.wav|||các bạn trong lớp đều đi xe tay ga còn mình thì không.|
-002917|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_436.wav|||chiếc xe số ít tiền và không được đẹp mắt.|
-002918|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_437.wav|||sẽ tạo nên sự khác biệt.|
-002919|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_438.wav|||và điều này sẽ khiến cho một số bạn trẻ cảm thấy xấu hổ.|
-002920|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_439.wav|||nguyên tắc thứ hai.|
-002921|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_440.wav|||không có hành vi hỗ trợ lẫn nhau.|
-002922|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_441.wav|||tức là hành động ích kỷ của bạn bị phơi bày trước mặt người khác bạn sẽ thấy xấu hổ.|
-002923|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_442.wav|||trong sách thì có một ví dụ đó là.|
-002924|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_443.wav|||vào ngày đầu tiên mấy bạn sinh viên chuyển tới ký túc xá.|
-002925|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_444.wav|||mọi người cùng chia sẻ đồ ăn đem từ nhà cho nhau.|
-002926|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_445.wav|||nhưng có một cô gái ở lại ký túc xá khi mọi người đã ra ngoài.|
-002927|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_446.wav|||để ăn một chiếc bánh mà gia đình đã chuẩn bị cho mình.|
-002928|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_447.wav|||không may mọi người đã quay về đúng lúc cô gái đang ăn.|
-002929|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_448.wav|||điều này đã khiến cô vô cùng xấu hổ.|
-002930|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_449.wav|||tiếp theo nguyên tắc thứ ba đó là về vấn đề sinh lý.|
-002931|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_450.wav|||mỗi người trưởng thành đều từng có cảm giác này.|
-002932|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_451.wav|||trong quá trình dạy thì có người xấu hổ vì dạy thì quá sớm.|
-002933|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_452.wav|||có người xấu hổ vì dậy thì quá muộn.|
-002934|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_453.wav|||có người xấu hổ vì mình khác biệt.|
-002935|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_454.wav|||và điều cuối cùng khiến cho người ta xấu hổ.|
-002936|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_455.wav|||đó là áp lực từ cạnh tranh.|
-002937|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_456.wav|||ví dụ cả nhóm đều có thành tích nghiệp vụ cuối tháng rất tốt.|
-002938|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_457.wav|||còn bạn thất bại thì không.|
-002939|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_458.wav|||điều này sẽ khiến cho bạn cảm thấy xấu hổ.|
-002940|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_459.wav|||xấu hổ có một biểu hiện điển hình giống với tất cả mọi người.|
-002941|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_460.wav|||đó là đỏ mặt cúi đầu mí mắt cộp xuống.|
-002942|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_461.wav|||tất nhiên sự xấu hổ có vai trò riêng và mọi cảm xúc vốn dĩ có thể theo chúng ta suốt nhiều năm đều có lý do của nó.|
-002943|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_462.wav|||chức năng của sự xấu hổ là khiến cho người khác trở nên khoan dung hơn với chúng ta.|
-002944|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_463.wav|||ví dụ khi bạn đứng xếp hàng để thanh toán nhưng không may túi đồ của bạn rơi.|
-002945|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_464.wav|||và mọi thứ trong đó văng tung tẻ ra ngoài.|
-002946|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_465.wav|||nếu như lúc này bạn không biết xấu hổ.|
-002947|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_466.wav|||thì bạn sẽ dọn dẹp một cách đỉnh đương từ từ.|
-002948|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_467.wav|||và để những người đằng sau phải chờ đợi.|
-002949|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_468.wav|||khi đó bạn chắc chắn sẽ bị người khác la mắng khiển trách.|
-002950|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_469.wav|||nhưng nếu bạn tỏ ra rằng tôi xấu hổ.|
-002951|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_470.wav|||liên tục nói lời xin lỗi và nhanh chóng dọn dẹp.|
-002952|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_471.wav|||người khác sẽ đồng cảm với bạn.|
-002953|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_472.wav|||bạn thấy đó sự xấu hổ đã giúp chúng ta hết mức.|
-002954|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_473.wav|||để cư xử đụng mực.|
-002955|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_474.wav|||nhưng ngược lại xấu hổ cũng có những mặt hạn chế.|
-002956|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_475.wav|||ví dụ nếu xấu hổ quá mức sẽ khiến bạn không được ưa chuộng hoặc thậm chí là xa lánh.|
-002957|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_476.wav|||một người đặc biệt là các bạn thanh thiếu niên.|
-002958|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_477.wav|||nếu luôn khom lưng cúi đầu vô cùng ngại ngùng khi gặp gỡ mọi người.|
-002959|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_478.wav|||thì sẽ dần dần bị đội nhóm bài trừ.|
-002960|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_479.wav|||ngoài ra tồi tệ hơn là có những người vốn không tự ti nhưng đã trở thành nạn nhân sống trong xấu hổ.|
-002961|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_480.wav|||ví dụ điển hình đó là những nạn nhân bị xâm hại tình dục.|
-002962|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_481.wav|||điều này vẫn luôn gây ra một áp lực rất lớn với nhiều người.|
-002963|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_482.wav|||bởi vì phẩm giá bên trong chúng ta sẽ tự đặt ra một số tiêu chuẩn.|
-002964|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_483.wav|||mặc dù xã hội quy định rằng bạn không phạm sai lầm và bạn là nạn nhân.|
-002965|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_484.wav|||nhưng trong lòng bạn vẫn không thể chấp nhận được điều đó.|
-002966|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_485.wav|||vậy thì bây giờ chúng ta sẽ phải quản lý sự xấu hổ như thế nào.|
-002967|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_486.wav|||để không biến xấu hổ trở thành năng lượng tiêu cực của chúng ta.|
-002968|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_487.wav|||đầu tiên bạn hãy bày tỏ nó.|
-002969|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_488.wav|||mỗi khi cảm giác xấu hổ được nói ra nó sẽ không còn đè nặng lên bạn nữa.|
-002970|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_489.wav|||một nhà văn người pháp.|
-002971|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_490.wav|||anne hernerte.|
-002972|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_491.wav|||người đã đoạt giải nobel văn học năm hai không hai mươi hai.|
-002973|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_492.wav|||có một câu nói nổi tiếng như thế này.|
-002974|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_493.wav|||đối với xấu hổ điều tồi tệ nhất là chúng ta nghĩ rằng chỉ có mình cảm thấy điều đó.|
-002975|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_494.wav|||nhưng trên thực tế khi bạn xấu hổ người khác đều có thể cảm nhận được.|
-002976|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_495.wav|||thế nên hãy nhẹ nhàng biến nỗi xấu hổ thành bùi rồi.|
-002977|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_496.wav|||sự bối rối ngượng ngùng sẽ ít nghiêm trọng hơn xấu hổ.|
-002978|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_497.wav|||xấu hổ có thể xâm nhập vào bên trong bạn.|
-002979|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_498.wav|||nhưng sự bối rối sẽ có thể biến mất bằng một nụ cười.|
-002980|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_499.wav|||ngoài ra đối với những người có thói quen cố ý làm bẽ mặt bạn.|
-002981|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_500.wav|||cách tốt nhất là giảm bớt tương tác với những người kiểu này.|
-002982|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_501.wav|||một số người có tính cách non nớt sẽ phòng trìu nỗi sợ hãi và tức giận bên trong mình lên người khác.|
-002983|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_502.wav|||vì vậy họ có thói quen hạ nhục ai đó.|
-002984|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_503.wav|||họ có thói quen pha trò không phù hợp vạch trần khuyết điểm của người xung quanh.|
-002985|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_504.wav|||khi điều này xảy ra ta nên nhìn thấu cảm xúc của họ.|
-002986|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_505.wav|||thông cảm với những người như thế này.|
-002987|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_506.wav|||và hãy cho mình một không gian riêng.|
-002988|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_507.wav|||không bị mình thành nạn nhân của xấu hổ.|
-002989|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_508.wav|||và điều cuối cùng đó là.|
-002990|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_509.wav|||hãy nội quan niềm tin bên trong bạn hãy xem bản thân đang có yêu cầu quá cao hay không.|
-002991|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_510.wav|||và để có thể biến tự ti trở nên siêu việt bạn có thể xem cuốn sách tâm lý học nổi tiếng.|
-002992|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_511.wav|||ý nghĩa cuộc sống là gì của adler.|
-002993|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_512.wav|||qua video mà battle version đã từng chia sẻ và phân tích rất kỹ.|
-002994|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_513.wav|||để biết rõ về cảm giác tự ti xấu hổ và làm sao để có thể biến nó trở thành sức mạnh vượt bậc trong bạn.|
-002995|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_514.wav|||đừng vội làm mình trở nên xấu.|
-002996|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_515.wav|||rồi tiếp theo là cảm xúc thứ sáu đồ kỵ.|
-002997|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_516.wav|||cuốn sách này phân tích cảm giác đố kị chủ yếu xuất hiện trong mối quan hệ hai giới ở tình yêu hôn nhân.|
-002998|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_517.wav|||mà chúng ta vẫn thường gọi đó là ghen tuông.|
-002999|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_518.wav|||đố kị ghen tuông.|
-003000|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_519.wav|||xuất hiện khi con người cảm thấy mối quan hệ của mình đang gặp đe doạ.|
-003001|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_520.wav|||ở một mức độ nào đó nó cũng có thể là dấu hiệu của sự thiếu tự tin.|
-003002|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_521.wav|||khi cảm xúc đố kị chặt loẽ lên trong bạn.|
-003003|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_522.wav|||nó sẽ đi kèm với sự tức giận sợ hãi buồn bã và đôi khi xen lẫn về sự xấu hổ.|
-003004|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_523.wav|||đây là một cảm xúc phức tạp và tương đối tiêu cực.|
-003005|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_524.wav|||nhưng nó cũng có vai trò của riêng mình.|
-003006|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_525.wav|||trong xã hội nguyên thuỷ khi mà thức ăn kiếm được là hạn chế thì sự đố kỵ sẽ giúp cho con người tồn tại.|
-003007|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_526.wav|||nếu người chồng không có cảm xúc ghen tuông và cho phép vợ thoải mái giao lưu với người khác thì rất có thể đứa trẻ họ nuôi không phải là con mình.|
-003008|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_527.wav|||hoặc nếu người vợ cho phép người chồng quan hệ với nhiều người khác.|
-003009|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_528.wav|||thì rất có thể cô ấy không đủ ăn vì người đàn ông sẽ phải nuôi thêm những đứa con khác.|
-003010|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_529.wav|||cho đến xã hội hiện đại khi có đầy đủ thực phẩm thì chúng ta vẫn dễ dàng lưu giữ gen có cảm xúc đố kị.|
-003011|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_530.wav|||nó khiến cho chúng ta duy trì sự độc đáo của nhau.|
-003012|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_531.wav|||ghen tuông cũng có thể khiến cho chúng ta đau đớn.|
-003013|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_532.wav|||ba đặc điểm chính của ghen tuông quá mức đó là.|
-003014|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_533.wav|||giám sát chặt chẽ.|
-003015|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_534.wav|||hạn chế đối phương tiếp xúc với người khác và có thái độ hạ thấp bạn.|
-003016|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_535.wav|||những người có kiểu đố kỵ như thế này thường có năng lượng cảm xúc rất thấp.|
-003017|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_536.wav|||vậy thì làm thế nào để quản lý được sự đố kỵ.|
-003018|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_537.wav|||giống như là mọi cảm xúc khác thì việc đầu tiên chúng ta phải thừa nhận sự đố kỵ của mình.|
-003019|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_538.wav|||và đồng thời đối mặt với nó để tìm ra giải pháp.|
-003020|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_539.wav|||sau đó bạn hãy tự hỏi bản thân một vài câu như sau.|
-003021|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_540.wav|||bạn đã bao giờ bị tổn thương bởi đối tác lừa dối chưa.|
-003022|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_541.wav|||bạn có bị tổn thương bởi sự lừa dối của cha mẹ bạn không.|
-003023|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_542.wav|||bạn có cảm thấy mình không đủ quan trọng.|
-003024|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_543.wav|||hoặc không đủ hấp dẫn để chiếm giữ trái tim ai đó lâu dài.|
-003025|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_544.wav|||sự thiên vị này đến từ đâu.|
-003026|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_545.wav|||những câu hỏi như thế này sẽ khiến cho bạn phải suy nghĩ rất nhiều.|
-003027|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_546.wav|||nếu cảm giác đố kị vẫn gây rắc rối cho bạn và đối phương.|
-003028|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_547.wav|||thì hãy tham khảo thêm ý kiến từ chuyên gia.|
-003029|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_548.wav|||cuối cùng bạn cần phải dành ra một chút không gian cá nhân cho đối phương.|
-003030|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_549.wav|||khi bạn thước đi không gian riêng của ai đó.|
-003031|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_550.wav|||thực chất rủi ro mà bạn nghĩ ban đầu sẽ không giảm bớt.|
-003032|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_551.wav|||mà có thể thực sự tăng lên.|
-003033|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_552.wav|||ghen tuông đã là một cảm xúc bình thường và tự nhiên.|
-003034|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_553.wav|||mặc dù nó thường khiến cho bản thân mất giá nhưng nó vẫn là một phần tâm lý lành mạnh.|
-003035|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_554.wav|||nếu như chúng ta biết cách quản lý và đối mặt đúng cách.|
-003036|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_555.wav|||nó sẽ thêm một chút gia vị vào cuộc sống của chính bạn.|
-003037|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_556.wav|||đừng vội làm mình trở nên xấu hoặc trở nên xấu xa.|
-003038|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_557.wav|||cuối cùng chúng ta hãy đi đến cảm xúc mà con người luôn tìm cách tránh né.|
-003039|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_558.wav|||đó chính là sợ hãi.|
-003040|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_559.wav|||đối với người lớn đối tượng gây sợ hãi thường rơi vào các loại sao.|
-003041|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_560.wav|||các loại động vật như côn trùng chuột rắn.|
-003042|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_561.wav|||có người thì giả độ cao.|
-003043|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_562.wav|||hay nhiều người thấy máu thì sẽ ngất xỉu.|
-003044|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_563.wav|||có người sợ nói chuyện trước đám đông sợ không gian chật hẹp như là thang máy.|
-003045|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_564.wav|||cũng có người sợ sấm sét sợ nước.|
-003046|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_565.wav|||họ sẽ hoảng sợ khi thấy nước ngập đến ngực và chạm tới mũi vân vân.|
-003047|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_566.wav|||tại sao chúng ta lại sợ những thứ trên.|
-003048|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_567.wav|||bởi tất cả những điều này đều liên quan đến nguồn gốc nguy hiểm từ xã hội nguyễn thị.|
-003049|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_568.wav|||chúng mang lại rất nhiều tai hại cho con người nên con người sẽ sợ hãi.|
-003050|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_569.wav|||nhưng nỗi sợ hãi của con người không chỉ là nỗi sợ hãi bẩm sinh đến từ xã hội nguyên thủy mà cũng có nhiều nỗi sợ hãi sau này dần dần hình thành trong bạn.|
-003051|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_570.wav|||ví dụ nỗi sợ hãi bắt nguồn từ văn hoá.|
-003052|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_571.wav|||như sọ ma quỷ.|
-003053|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_572.wav|||nỗi sợ bắt nguồn từ xã hội như con cái sợ cha mẹ học sinh sợ giáo viên cấp dưới sợ cấp trên vân vân.|
-003054|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_573.wav|||sự xuất hiện của những nỗi sợ kiểu như thế này thường xuất phát từ nhu cầu tránh lạc lõng trong xã hội của chúng ta.|
-003055|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_574.wav|||cuối cùng con người còn có những nỗi sợ xuất phát từ những niềm tin sai lầm trong tâm trí.|
-003056|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_575.wav|||ví dụ như sợ hãi vì không cảm thấy an toàn sợ bạn đời phản bội.|
-003057|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_576.wav|||sợ thiếu thốn vân vân thế nên nhiều người đã tìm đủ mọi cách để kiểm soát tình hình hoặc lấp đầy bằng thế giới vật chất của bản thân.|
-003058|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_577.wav|||suy cho cùng sợ hãi là một cảm xúc khiến cho bạn khó chịu và không vui.|
-003059|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_578.wav|||bạn chắc chắn không muốn ngày nào cũng phải sống trong sự sợ hãi.|
-003060|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_579.wav|||thậm chí còn có nhiều người chỉ vì sợ hãi.|
-003061|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_580.wav|||và có những phản ứng thái quá.|
-003062|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_581.wav|||khi nỗi sợ biến thành năng lượng tiêu cực trong bạn.|
-003063|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_582.wav|||nó làm bạn lo âu và hoài nghi về chính mình.|
-003064|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_583.wav|||thì bạn sẽ cần phải tìm cách quản lý nó.|
-003065|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_584.wav|||phải làm thế nào để chúng ta có thể quản lý những cảm xúc sợ hãi của mình.|
-003066|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_585.wav|||điều đầu tiên mà trước đó cuốn sách này đã nói rất nhiều lần.|
-003067|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_586.wav|||đó là phải thừa nhận và bày tỏ nỗi sợ hãi của mình.|
-003068|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_587.wav|||đừng cố gắng che đậy nỗi sợ khi bạn rõ ràng đang sợ.|
-003069|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_588.wav|||hãy chân thành nói với người khác rằng bạn đang cần sự giúp đỡ.|
-003070|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_589.wav|||điều thứ hai.|
-003071|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_590.wav|||hãy học cách nắm giữ nỗi sợ hãi.|
-003072|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_591.wav|||tức là hãy tìm cách chuẩn bị nắm được càng nhiều thông tin càng tốt.|
-003073|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_592.wav|||ví dụ bạn sợ đi du lịch tới một nơi lạ một mình.|
-003074|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_593.wav|||hãy chuẩn bị tất cả các thông tin có thể về chuyến đi.|
-003075|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_594.wav|||khi bạn biết rằng bản thân mình sẽ đi như thế nào ở đâu làm những gì vân vân.|
-003076|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_595.wav|||bạn sẽ an tâm hơn nỗi sợ sẽ không còn có thể cản trở năng lượng mạnh mẽ trong bạn.|
-003077|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_596.wav|||kế đến thì chúng ta hãy học cách thư giãn.|
-003078|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_597.wav|||khi sợ hãi nhịp tim sẽ tăng cao.|
-003079|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_598.wav|||lúc này bạn có thể nhắm mắt lại tập trung vào hơi thở từng nhịp hít vào thở ra.|
-003080|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_599.wav|||để giảm bớt nỗi bất an mang lại.|
-003081|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_600.wav|||cuối cùng hãy đối đầu với nó.|
-003082|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_601.wav|||ở đây có một số nguyên tắc quan trọng để có thể đối đầu với nỗi sợ hãi.|
-003083|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_602.wav|||mà mình tóm gọn lại đó là.|
-003084|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_603.wav|||hãy dũng cảm chủ động tiếp xúc với nỗi sợ hãi một cách từ từ và trong mức kiểm soát được.|
-003085|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_604.wav|||ví dụ.|
-003086|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_605.wav|||nếu bạn sợ đám đông hãy chủ động thử sức tham gia các cuộc thi phải tiếp xúc với nhiều người từ những cuộc thi nhỏ trước.|
-003087|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_606.wav|||nếu bạn sợ động vật nào đó.|
-003088|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_607.wav|||ví dụ mình từng thấy có rất nhiều người sợ mèo.|
-003089|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_608.wav|||thì lúc này hãy tiếp xúc từ từ với mèo trong sự kiểm soát của bạn.|
-003090|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_609.wav|||rồi trên đây là bảy cảm xúc đi cùng chúng ta suốt chặng đường trưởng thành.|
-003091|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_610.wav|||mình tin rằng bạn sẽ nhận ra sự xuất hiện của bảy loại cảm xúc này.|
-003092|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_611.wav|||đằng sau chúng đều có nguyên nhân.|
-003093|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_612.wav|||có thể là bạn đang thất vọng về cuộc sống.|
-003094|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_613.wav|||bạn không hài lòng với hiện tại bạn lo lắng về tương lai bạn thấy mình không hoà nhập được với những người xung quanh và còn có rất nhiều lo lắng khác.|
-003095|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_614.wav|||một khi nhận thức được những nguyên nhân sâu xa bạn có thể dễ dàng nói với cảm xúc của mình rằng.|
-003096|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_615.wav|||tôi đã nhìn thấy bạn rồi.|
-003097|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_616.wav|||chỉ cần bộc lộ ra được bạn sẽ có thể đối mặt với cảm xúc một cách bình thản nhất.|
-003098|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_617.wav|||thay vì bị chúng khống chế kiểm soát cuộc đời.|
-003099|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_618.wav|||do đó đừng quá quan tâm đến thời gian hoàn cảnh hay những người khác mà phải cố gắng dồn nén cảm xúc của mình.|
-003100|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_619.wav|||bạn hoàn toàn có thể giải phóng những năng lực tiêu cực của mình một cách kịp thời và hợp lý.|
-003101|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_620.wav|||để mỗi giây phút hiện tại bạn có thể hoà mình vào cảm xúc.|
-003102|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_621.wav|||sống hòa hợp với bản thân và với những người khác.|
-003103|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_622.wav|||hiểu rõ cảm xúc bộc lộ cảm xúc giải quyết cảm xúc.|
-003104|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_623.wav|||đây là cách tốt nhất giúp bạn bình thản.|
-003105|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_624.wav|||chấp nhận một bản thân không hoàn hảo.|
-003106|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_625.wav|||không hoàn hảo mới là một sự hoàn hảo thực sự.|
-003107|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_626.wav|||mong cả bạn và tôi.|
-003108|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_627.wav|||có thể trân trọng.|
-003109|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_628.wav|||đón nhận mọi cảm xúc.|
-003110|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_629.wav|||yêu trọn vẹn chính mình.|
-003111|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_630.wav|||và dũng cảm tiếp bước.|
-003112|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_631.wav|||cảm ơn bạn đã lắng nghe nếu bạn cảm thấy video này có ích.|
-003113|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_632.wav|||hãy chia sẻ với những người cần nó.|
-003114|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_633.wav|||đừng quên tặng mình một nút like nhận nước đăng ký và mở nút trung thông báo.|
-003115|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_634.wav|||để đón xem những video mới nhất hàng tuần của mình.|
-003116|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_635.wav|||một lần nữa cám ơn các bạn và hẹn gặp lại các bạn ở những video tiếp theo.|
-003117|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_636.wav|||tiếng hát lý nhuận dành cho những lời bình luận.|
-003118|vietnamese-00|vietnamese|data/wavs_2/wavs1/segment_637.wav|||tiếp tục theo dõi các thông tin ca khúc từ nhật bản trong album.|
+002481|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_0.wav|||hi thân mến cho các bạn chào mừng các bạn đã quay trở lại với beta version kênh chia sẻ kiến thức phát triển toàn diện bản thân qua các cuốn sách hay.|
+002482|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_1.wav|||nếu bạn vẫn còn đang bị nhiều cảm xúc buồn bã ghen tị sợ hãi cáu giận chi phối.|
+002483|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_2.wav|||khiến tâm trạng sa sút và không biết sao để đối mặt.|
+002484|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_3.wav|||nếu bạn vẫn còn mắc nhiều sai lầm và cảm thấy hối hận.|
+002485|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_4.wav|||bảy đã nói những lời tổn thương sau những cơn tức giận.|
+002486|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_5.wav|||thì cuốn sách ngày hôm nay sẽ là một lựa chọn tốt cho bạn.|
+002487|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_6.wav|||đây là cuốn sách mà mình tạm dịch là.|
+002488|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_7.wav|||sức mạnh của cảm xúc.|
+002489|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_8.wav|||tình yêu sự giận dữ niềm vui.|
+002490|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_9.wav|||nhà tư tưởng chuyên gia vương dương minh có nói rằng.|
+002491|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_10.wav|||bắt đạo tặc trên núi thì dễ còn bắt đạo tặc trong tâm mới khó.|
+002492|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_11.wav|||đạo tặc trong tâm chúng ta nói cho cùng là thất tình lục dục.|
+002493|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_12.wav|||theo khái niệm trong giáo lý phật giáo.|
+002494|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_13.wav|||thất tình là bảy sắc thái khác nhau của cảm xúc con người.|
+002495|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_14.wav|||lục dục nghĩa là sáu sự ham muốn trần gian.|
+002496|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_15.wav|||cuốn sách này nói về thất tình của loài người.|
+002497|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_16.wav|||sẽ phân tích bảy loại cảm xúc luôn đi cùng chúng ta từ lúc sinh ra cho đến nay.|
+002498|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_17.wav|||cảm xúc là dòng năng lượng lưu động trong ta.|
+002499|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_18.wav|||nếu bạn chung sống hòa bình với chúng thì có thể dễ dàng làm chủ cuộc đời của chính mình.|
+002500|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_19.wav|||hiểu rõ cảm xúc để bạn có thể diễn giải cảm xúc tốt hơn.|
+002501|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_20.wav|||thấu yêu cảm xúc của người khác trong khi vẫn có thể bảo vệ cảm xúc của chính mình.|
+002502|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_21.wav|||từ đó có thể biến cảm xúc thành sức mạnh.|
+002503|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_22.wav|||để đối mặt với cuộc sống một cách tích cực.|
+002504|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_23.wav|||tác giả của cuốn sách này là bác sĩ tâm thần học nổi tiếng ở pháp và hoa kỳ fergus laylor.|
+002505|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_24.wav|||ông cũng là người viết cuốn sách tâm lý học tự chữa lành được bán chạy trên toàn cầu.|
+002506|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_25.wav|||heter và hành trình thú vị đi tìm hạnh phúc.|
+002507|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_26.wav|||đây cũng là một cuốn sách khác vô cùng nổi tiếng của ông.|
+002508|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_27.wav|||còn cuốn sách mà hôm nay mình giới thiệu.|
+002509|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_28.wav|||có đồng tác giả là nhà tâm lý học tâm thần học người pháp.|
+002510|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_29.wav|||christopher ri.|
+002511|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_30.wav|||rồi.|
+002512|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_31.wav|||bây giờ chúng mình sẽ cùng tìm hiểu bởi thứ cảm xúc này là gì.|
+002513|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_32.wav|||đừng vội làm mình trở nên xấu hoặc trở nên xấu xa.|
+002514|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_33.wav|||bình lặng trước mọi xao động có phải là một điều tuyệt vời.|
+002515|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_34.wav|||n.|
+002516|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_35.wav|||tác giả nói rằng.|
+002517|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_36.wav|||nếu có một loại thuốc tên là summer là một thứ thuốc giúp cho bạn có thể điềm tĩnh trong mọi tình huống.|
+002518|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_37.wav|||cho dù bạn gặp rắc rối gì đi chăng nữa.|
+002519|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_38.wav|||thì vẻ ngoài của bạn vẫn không hề thay đổi.|
+002520|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_39.wav|||và có thể bình tĩnh ứng phó.|
+002521|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_40.wav|||với một trái tim bình lặng như mặt nước phẳng.|
+002522|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_41.wav|||bạn không dễ bị xao động trên những cảm xúc trần tục.|
+002523|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_42.wav|||đây chẳng phải là thứ thuốc giúp cho chúng ta thực hiện mục tiêu.|
+002524|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_43.wav|||tu tập tâm an khí tĩnh ngay sao.|
+002525|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_44.wav|||vậy bạn có muốn mua viên thuốc này không.|
+002526|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_45.wav|||nhưng tác giả cũng nói thêm rằng.|
+002527|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_46.wav|||trước khi quyết định bạn cần phải hiểu rõ tác dụng phụ của nó.|
+002528|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_47.wav|||thứ nhất nếu không có sự ảnh hưởng của cảm xúc.|
+002529|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_48.wav|||bạn sẽ thờ ơ với cuộc sống.|
+002530|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_49.wav|||thứ hai bởi vì không bị cảm xúc làm xao động.|
+002531|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_50.wav|||nên bạn không còn thấy tổn thương.|
+002532|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_51.wav|||từ đó có thể gây ra hành vi nguy hiểm cho bản thân và người khác.|
+002533|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_52.wav|||thứ ba chỉ nhờ suy giảm và khả năng phán đoán yếu đi.|
+002534|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_53.wav|||thứ tư.|
+002535|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_54.wav|||gặp khó khăn và trở ngại trong việc kết nối với người khác.|
+002536|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_55.wav|||đến đây thì bạn có muốn uống viên thuốc này nữa không.|
+002537|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_56.wav|||bạn sẽ thấy là cảm xúc khiến cho chúng ta gặp nhiều đau khổ.|
+002538|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_57.wav|||nhưng ngược lại nó cũng giúp cho chúng ta có một cuộc sống thêm hương vị.|
+002539|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_58.wav|||và có thể thiết lập mối liên hệ sâu sắc với người khác.|
+002540|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_59.wav|||trên thực tế cảm xúc là một nguồn động lực để chúng ta biểu đạt về thế giới.|
+002541|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_60.wav|||và cũng chính là năng lượng sơ khai nhất trong ta.|
+002542|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_61.wav|||bạn cần phải hiểu và quản lý được cảm xúc của chính mình.|
+002543|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_62.wav|||để có thể tận dụng được sức mạnh của chúng.|
+002544|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_63.wav|||trước tiên ta cần phải có cái nhìn tổng quát cơ bản về cảm xúc.|
+002545|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_64.wav|||cảm xúc bao gồm ba phần chính sinh lý nhận thức và hành vi.|
+002546|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_65.wav|||nó là năng lượng lưu động đi từ trạng thái tĩnh đến kích động.|
+002547|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_66.wav|||khiến cơ thể phát sinh phản ứng sinh lý như huyết áp nhịp tim tăng cao hơi thở dồn dập.|
+002548|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_67.wav|||sau đó cảm xúc sẽ ảnh hưởng đến cách bạn suy nghĩ.|
+002549|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_68.wav|||khi thức sạch.|
+002550|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_69.wav|||bạn có thể thu hẹp tầm nhìn và chỉ tập trung vào điểm khiến cho bạn tức giận.|
+002551|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_70.wav|||khi buồn bã bạn có thể không thoát ra được điều làm bạn buồn.|
+002552|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_71.wav|||và bắt đầu suy nghĩ tiêu cực.|
+002553|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_72.wav|||cuối cùng nó khiến bạn phản ứng và hành động.|
+002554|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_73.wav|||rồi bây giờ chúng ta sẽ đi vào từng chi tiết từng cảm xúc cơ bản nhất.|
+002555|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_74.wav|||thứ nhất thứ cảm xúc mà có lẽ nhiều người hằng ngày phiền lòng với nó bạn sẽ để ý thấy không ít người khi nóng giận.|
+002556|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_75.wav|||thường khùng lên và có những hành vi như đập đồ đóng giầm cửa.|
+002557|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_76.wav|||thậm chí là còn hung hăng với người khác.|
+002558|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_77.wav|||nhưng ngược lại.|
+002559|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_78.wav|||cũng có người khi tức giận họ chọn cách uất ức.|
+002560|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_79.wav|||nuốt cơn giận vào trong lòng không thể hiện ra ngoài.|
+002561|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_80.wav|||tuy nhiên khi đối mặt với cơn giận.|
+002562|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_81.wav|||việc bộc phát hay kìm nén đều sai lầm.|
+002563|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_82.wav|||điều đúng đắn cần làm là trực tiếp đối mặt.|
+002564|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_83.wav|||hiểu rõ được cơn giận rồi giải quyết nó.|
+002565|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_84.wav|||nhưng để hiểu rõ nó thì chúng ta cần phải biết.|
+002566|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_85.wav|||vì sao bản thân tôi lại tức giận.|
+002567|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_86.wav|||nguyên nhân gây ra sự phẫn nộ dường như rất phức tạp.|
+002568|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_87.wav|||nhưng có thể tóm tắt lại như sau.|
+002569|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_88.wav|||nguyên nhân thứ nhất.|
+002570|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_89.wav|||bạn tức giận là vì không muốn điều gì đó xảy ra.|
+002571|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_90.wav|||nguyên nhân thứ hai.|
+002572|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_91.wav|||có thể bạn bị người khác cố ý gây ra điều gì đấy.|
+002573|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_92.wav|||thứ ba.|
+002574|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_93.wav|||điều khiến bạn tức giận nó trái ngược về giá trị quan của bạn.|
+002575|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_94.wav|||và cuối cùng một yếu tố quan trọng nhất.|
+002576|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_95.wav|||bạn tức giận vì bạn biết mình có thể kiểm soát được tình hình.|
+002577|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_96.wav|||và cho phép bản thân có thể tức giận.|
+002578|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_97.wav|||ví dụ nếu bạn đang đi dạo trong khu rừng và bất ngờ gặp một con hổ.|
+002579|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_98.wav|||liệu bạn có thể tức giận không.|
+002580|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_99.wav|||đương nhiên là không.|
+002581|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_100.wav|||hầu hết mọi người sẽ vô cùng sợ hãi.|
+002582|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_101.wav|||bởi vì biết mình không thể kiểm soát được tình hình.|
+002583|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_102.wav|||nhưng trái lại võ tòng thì lại khác.|
+002584|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_103.wav|||ông ta có thể kiểm soát được chuyện này bằng cơn tức giận của bản thân.|
+002585|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_104.wav|||bạn hay ngẫm nghĩ thử xem.|
+002586|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_105.wav|||nhiều khi bạn tức giận và qua thảo một người.|
+002587|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_106.wav|||nguyên nhân trên hết là vì bạn biết bản thân có thể kiểm soát người đó.|
+002588|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_107.wav|||cho dù có nói lời gì quá đáng thì bạn tin rằng người ấy cũng sẽ không rời xa bạn hoặc làm gì được bạn.|
+002589|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_108.wav|||nhưng hãy nhớ rằng.|
+002590|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_109.wav|||không ai là không thể rời xa bạn cả.|
+002591|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_110.wav|||kể cả là những người kể cạnh bên bạn hay cho dù là nhân viên thân thiết của bạn.|
+002592|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_111.wav|||hãy nhựa.|
+002593|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_112.wav|||những người cho phép bạn tức giận là người thực sự yêu thương bạn.|
+002594|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_113.wav|||hoặc là họ đang sợ hãi bạn.|
+002595|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_114.wav|||chỉ cần có sự sợ hãi.|
+002596|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_115.wav|||đối phương sẽ không bao giờ chân thành cởi mở hết lòng với bạn.|
+002597|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_116.wav|||liệu bạn có muốn một mối quan hệ như vậy suốt đời hay không.|
+002598|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_117.wav|||cách giải quyết ở đây đó là.|
+002599|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_118.wav|||hãy nhìn lại chính mình.|
+002600|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_119.wav|||tác giả đã đưa ra phương pháp để giúp bạn giải quyết cơn giận như sau.|
+002601|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_120.wav|||thứ nhất bạn cần phải học cách đối thoại với bản thân.|
+002602|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_121.wav|||chất vấn niềm tin cố hữu trong bạn rằng niềm tin nào khiến bạn cho là.|
+002603|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_122.wav|||người khác phải làm đúng ý mình.|
+002604|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_123.wav|||liệu niềm tin này có hoàn toàn hợp lý không.|
+002605|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_124.wav|||thứ hai.|
+002606|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_125.wav|||sau khi hiểu được vì sao tức giận.|
+002607|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_126.wav|||hãy cố gắng giảm bớt những yếu tố gây ra phẫn nộ.|
+002608|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_127.wav|||ví dụ nếu ở công ty có người luôn làm khó bạn.|
+002609|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_128.wav|||và khiến bạn cảm thấy bực bội.|
+002610|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_129.wav|||vậy thì thay vì chỉ hậm hực phải nhìn thấy khuyết điểm trong cách nhìn nhận của đối phương.|
+002611|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_130.wav|||tốt hơn hết hãy tìm cách cải thiện tình hình.|
+002612|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_131.wav|||thay đổi bản thân để loại bỏ những yếu tố khiến cho bạn bực bội.|
+002613|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_132.wav|||để làm tốt điều này.|
+002614|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_133.wav|||tiếp đến bạn cần phải học cách suy nghĩ từ quan điểm của người khác.|
+002615|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_134.wav|||theo phật giáo mọi sự tức giận đều xuất phát từ cấp độ cao hơn của bản ngã.|
+002616|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_135.wav|||tức là tôi cảm thấy mình rất quan trọng.|
+002617|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_136.wav|||thái độ của tôi giá trị của tôi.|
+002618|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_137.wav|||lòng tự trọng của tôi là quan trọng nhất.|
+002619|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_138.wav|||khi bạn cảm thấy mình đặc biệt quan trọng lập tức sẽ có rất nhiều điều khiến bạn tức giận.|
+002620|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_139.wav|||như khi bạn có thể học cách đặt mình vào vị trí của người khác.|
+002621|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_140.wav|||cảm nhận lý do tại sao họ lại nghĩ như vậy.|
+002622|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_141.wav|||và liệu bạn có cần thiết phải tức giận như vậy không.|
+002623|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_142.wav|||bạn sẽ có cách làm chủ cơn nóng giận lúc này của mình.|
+002624|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_143.wav|||điều thứ tư.|
+002625|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_144.wav|||không công kích cá nhân.|
+002626|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_145.wav|||tức là khi bắt đầu nhê nhóm ngọn lửa thức giật.|
+002627|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_146.wav|||hãy nên chú ý đến hành vi của đối phương thôi đừng cố gắng dàn mác về con người họ.|
+002628|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_147.wav|||ví dụ.|
+002629|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_148.wav|||thay vì nói sao anh làm cái gì cũng không ra hồn vậy.|
+002630|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_149.wav|||thì cách biểu đạt cơn tức giận không công kích người khác đó là.|
+002631|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_150.wav|||anh làm điều này chưa đúng.|
+002632|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_151.wav|||thứ năm.|
+002633|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_152.wav|||bạn cần cân nhắc kỹ trước khi biểu lộ.|
+002634|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_153.wav|||khi tức giận đừng ngay lập tức nói ra viết tin nhắn gửi đi.|
+002635|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_154.wav|||hay đăng tâm trạng lên mạng xã hội vân vân.|
+002636|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_155.wav|||hãy cho bản thân lặng xuống.|
+002637|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_156.wav|||ngưng lại cũng đừng tùy tiện đồng ý mọi việc với ai đó.|
+002638|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_157.wav|||khi bạn đặc biệt vui vẻ.|
+002639|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_158.wav|||điều thứ sáu đó là.|
+002640|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_159.wav|||hãy cho đối phương chút thời gian để họ được biểu đạt.|
+002641|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_160.wav|||nói không chừng là họ không phải cố ý.|
+002642|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_161.wav|||và điều đấy chưa chắc đã phạm vào nguyên tắc khiến cho bạn tức giận.|
+002643|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_162.wav|||điều thứ bảy.|
+002644|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_163.wav|||rời đi.|
+002645|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_164.wav|||nếu không thể kiềm chế được cơn phẫn nộ.|
+002646|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_165.wav|||cách tốt nhất hãy quay mình rời đi.|
+002647|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_166.wav|||ví dụ khi nổi cơn lôi đình với con mình.|
+002648|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_167.wav|||bạn có thể nói.|
+002649|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_168.wav|||mẹ hiện tại cần bình tĩnh để mẹ nghỉ ngơi một chút.|
+002650|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_169.wav|||sau đó ra ngoài hoặc sang một phòng khác ngồi một lúc.|
+002651|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_170.wav|||đây cũng là một cách rất tốt để kiểm soát cơn giận của bạn.|
+002652|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_171.wav|||và cách cuối cùng để kiểm soát thức giật.|
+002653|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_172.wav|||đó là học cách buông bỏ.|
+002654|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_173.wav|||đừng quá bám víu vào mọi trắc nghiệm.|
+002655|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_174.wav|||thực sự khi bạn nhìn lại sẽ thấy không có gì là chẳng thể vượt qua.|
+002656|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_175.wav|||cũng không có điều gì là quá tao tát cả.|
+002657|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_176.wav|||khi bạn có thể chấp nhận mọi chuyện xảy ra thì cơn nóng giận sẽ tự nhiên giảm bớt.|
+002658|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_177.wav|||ngược lại ở đây còn một vấn đề quan trọng không kém.|
+002659|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_178.wav|||đó là có rất nhiều người đang thiếu sự thức giật.|
+002660|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_179.wav|||tức là họ đề nén quá mức sự tức giận của bản thân.|
+002661|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_180.wav|||tôi nên luôn phải kiểm soát được cảm xúc.|
+002662|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_181.wav|||nếu không người khác sẽ nhìn tôi là một người không chỉn chẳng.|
+002663|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_182.wav|||tôi không bao giờ được làm tổn thương người khác.|
+002664|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_183.wav|||nếu không tôi sẽ cảm thấy tội lỗi.|
+002665|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_184.wav|||đây thực chất là những niềm tin mà người khác đã truyền vào tâm trí của bạn từ nhỏ.|
+002666|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_185.wav|||nó khiến cho bạn không tức giận nhưng sẽ dẫn đến chán nản.|
+002667|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_186.wav|||giống như cuốn sách truth or work.|
+002668|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_187.wav|||mình đã từng chia sẻ cũng có nói rằng.|
+002669|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_188.wav|||nếu bạn không có cách biểu đạt sự tức giận của mình.|
+002670|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_189.wav|||nó có thể dẫn đến các bệnh về tâm lý nghiêm trọng.|
+002671|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_190.wav|||thậm chí là cả bệnh tật về thể xác.|
+002672|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_191.wav|||cái tốt nhất thay vì nói.|
+002673|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_192.wav|||tôi phải luôn kiểm soát được cảm xúc.|
+002674|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_193.wav|||hay là tôi chỉ có thể tức giận khi biết bản thân có lý một trăm phần trăm.|
+002675|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_194.wav|||thì hãy nghĩ rằng khi có lý mới tức giận là đúng.|
+002676|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_195.wav|||nhưng tôi có quyền mắc sai lầm.|
+002677|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_196.wav|||xin đừng quá khắt khe với chính mình.|
+002678|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_197.wav|||hoặc là thay vì bạn nói tôi cần phải tỏ ra thân thiện.|
+002679|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_198.wav|||nếu không mọi người sẽ không chấp nhận tôi.|
+002680|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_199.wav|||thì hãy khẳng định bản thân rằng.|
+002681|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_200.wav|||tôi hy vọng mọi người chấp nhận tôi.|
+002682|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_201.wav|||nhưng tôi không cần thiết.|
+002683|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_202.wav|||phải để tất cả mọi người tiếc mình.|
+002684|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_203.wav|||rồi trên đây là những chia sẻ về cảm xúc đầu tiên.|
+002685|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_204.wav|||tức giận.|
+002686|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_205.wav|||đừng vội làm mình trở nên xấu.|
+002687|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_206.wav|||cảm xúc tiếp theo đó là ghen tị thực chất không có biểu hiện tiêu chuẩn nào cho sự ghen tị.|
+002688|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_207.wav|||bởi hiếm khi có thể chỉ cần nhìn vào khuôn mặt ai đó và bạn có thể xác định được họ đang ghen tỵ.|
+002689|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_208.wav|||ghen tị là một vở kịch nội tâm với một cảm giác giằng xé bên trong.|
+002690|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_209.wav|||ví dụ.|
+002691|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_210.wav|||khi đến chơi nhà một người bạn cùng tuổi bạn nhận thấy hai người cùng gia trường như nhau thậm chí ngày xưa nó học kém hơn mình mà bây giờ nhà cửa nó giàu có gia đình sung túc như thế này.|
+002692|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_211.wav|||bề ngoài vẫn phẳng lặng như sông nhưng bên trong lòng lại đang xao động và bắt đầu buồn rầu.|
+002693|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_212.wav|||có người sẽ nghĩ mình đang có tâm đố kỵ.|
+002694|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_213.wav|||nhưng thực chất đây là ghen tị.|
+002695|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_214.wav|||đố kị lại là khác.|
+002696|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_215.wav|||theo tâm lý học ghen tị hướng vào hạnh phúc và của cái vật chất của người khác.|
+002697|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_216.wav|||còn đố kỵ là khi bạn phát hiện những thứ mà mình muốn sở hữu vĩnh viễn đang có nguy cơ bị người khác cướp mất.|
+002698|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_217.wav|||về cảm giác đố kỵ mình sẽ nói rõ hơn ở phần sau.|
+002699|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_218.wav|||cuốn sách này sẽ cho chúng ta biết thông thường con người sẽ có ba kiểu ghen tỵ.|
+002700|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_219.wav|||đầu tiên đó là ghen tị kiểu trầm cảm.|
+002701|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_220.wav|||những người có cảm xúc ghen tị như thế này khi thấy người khác tiến bộ hơn mình thường sẽ nghĩ.|
+002702|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_221.wav|||điều tốt đẹp này sẽ không bao giờ xảy đến với tôi.|
+002703|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_222.wav|||hay tôi thật là không may mắn.|
+002704|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_223.wav|||những cảm xúc này sẽ khiến bạn rơi vào một trạng thái muốn rút lui.|
+002705|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_224.wav|||lợi thứ hai đó là cảm giác ghen tỵ kiểu thù địch.|
+002706|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_225.wav|||biểu hiện điển hình của kiểu này đó là.|
+002707|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_226.wav|||điều như nó mà làm được việc này.|
+002708|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_227.wav|||người có cảm xúc kiểu như vậy sẽ nghĩ rằng không ai có thể bằng mình.|
+002709|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_228.wav|||nên sẽ tìm cách bới lỗi nói xấu hoặc khiến cho hình ảnh của đối phương xấu đi trong mắt người khác.|
+002710|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_229.wav|||loại thứ ba đó là.|
+002711|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_230.wav|||ghen tị kiểu ngưỡng mộ.|
+002712|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_231.wav|||anh ta thực sự rất giỏi nên được thăng chức là chuyện bình thường.|
+002713|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_232.wav|||bản thân tôi sẽ làm việc chăm chỉ hơn.|
+002714|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_233.wav|||loại thứ ba này là một kiểu gen tỵ tương đối lành mạnh.|
+002715|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_234.wav|||vì thế có ghen tị tốt và cũng có ghen tị xấu.|
+002716|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_235.wav|||nếu cảm xúc ghen tị là tốt bạn sẽ có động lực để tiến bộ.|
+002717|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_236.wav|||nhưng nếu cảm xúc đó là xấu bạn có thể làm điều tổn thương người khác.|
+002718|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_237.wav|||ghen tị sẽ là động lực cho tiến bộ.|
+002719|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_238.wav|||nhưng nó cũng cần được quản lý.|
+002720|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_239.wav|||đặc biệt là ghen tị kiểu trầm cảm và thù địch.|
+002721|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_240.wav|||nhờ sự ghen tị khiến bạn cảm thấy đau khổ mất đi tinh thần.|
+002722|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_241.wav|||thì bạn cần phải nhìn lại và quản lý nó.|
+002723|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_242.wav|||vậy thì chúng ta sẽ quản lý bằng cách nào.|
+002724|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_243.wav|||bước đầu tiên đó là.|
+002725|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_244.wav|||bạn cần phải thẳng thắn thừa nhận sự ghen tỵ của bản thân.|
+002726|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_245.wav|||ví dụ ngôi nhà mà anh mua chính là ngôi nhà tôi tưởng tượng trong mơ.|
+002727|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_246.wav|||sống một tổ ấm như thế này hạnh phúc làm sao tôi thật ghen tị với anh.|
+002728|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_247.wav|||vừa nói ra câu này bạn sẽ cảm thấy dễ chịu hơn rất nhiều.|
+002729|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_248.wav|||đồng thời đối phương cũng vậy.|
+002730|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_249.wav|||bước thứ hai đó là.|
+002731|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_250.wav|||thể hiện sự ghen tỵ một cách tích cực.|
+002732|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_251.wav|||việc cảm thấy mừng thay cho họ từ tận đáy lòng là một cách thể hiện cảm xúc với năng lượng rất cao.|
+002733|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_252.wav|||ví dụ.|
+002734|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_253.wav|||tôi thấy mua một ngôi nhà không hề dễ dàng đây là kết quả chứng tỏ sự nỗ lực của bạn trong mấy năm qua.|
+002735|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_254.wav|||tôi thực sự mừng cho bạn.|
+002736|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_255.wav|||bước số ba.|
+002737|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_256.wav|||bạn hãy kiểm tra lại xem bản thân có suy nghĩ rằng mình thấp kém hay không.|
+002738|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_257.wav|||dường như là.|
+002739|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_258.wav|||bạn mình giỏi quá còn mình thì sao.|
+002740|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_259.wav|||bây giờ mình đang muốn tiến bộ hay thua lội vân vân.|
+002741|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_260.wav|||những người suy nghĩ như vậy.|
+002742|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_261.wav|||luôn mong muốn thể hiện những mặt tốt nhất trước người khác.|
+002743|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_262.wav|||nhưng bạn cần biết rằng đây chính là yếu tố gây nên sự ghen tỵ không đáng có trong mình.|
+002744|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_263.wav|||hoặc ngược lại.|
+002745|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_264.wav|||hãy kiểm tra xem có những suy nghĩ rằng.|
+002746|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_265.wav|||bản thân mình yêu việt hay không.|
+002747|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_266.wav|||nếu cái tôi quá cao bạn sẽ cảm thấy bản thân phải giỏi hơn người khác.|
+002748|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_267.wav|||nhưng thực tế khi không đạt được.|
+002749|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_268.wav|||ắt nhiên bạn sẽ tự chút lấy đau khổ vì sự ghen tỵ này.|
+002750|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_269.wav|||rồi nếu còn có những suy nghĩ như vậy bạn cần phải đi đến bước số bốn.|
+002751|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_270.wav|||hãy làm suy yếu sự ưu việt của người khác trong mắt bạn.|
+002752|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_271.wav|||sự ưu việt của đối phương thực chất là do cái tôi ghen tỵ của bạn tưởng tượng ra.|
+002753|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_272.wav|||tác giả cho rằng trên đời này thực sự không có gì đáng để ghen tỵ cả.|
+002754|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_273.wav|||nếu quả thực với ghen tị thì di chỉ có một phẩm hạnh mà chúng ta nên ghen tị.|
+002755|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_274.wav|||đó là những người có thể tự tạo ra hạnh phúc.|
+002756|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_275.wav|||ví dụ một người sửa xe đạp bên đường và anh ấy đang rất vui vì đang làm điều đó.|
+002757|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_276.wav|||anh ấy cảm thấy hạnh phúc.|
+002758|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_277.wav|||một người có thể chuyên tâm làm công việc của mình giúp đỡ những người khác thì người đó chính là những người đáng để chúng ta ghen tỵ.|
+002759|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_278.wav|||mình mong rằng chúng ta có thể biến cảm giác ghen tỵ.|
+002760|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_279.wav|||thanh động lực phấn đấu với chính bản thân mình chứ không phải ai khác.|
+002761|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_280.wav|||đừng vội.|
+002762|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_281.wav|||kế đến là cảm xúc vui vẻ hạnh phúc có một nụ cười mang tên do jean do bác sĩ người pháp có tên do jean phát hiện.|
+002763|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_282.wav|||bạn có biết không người có nụ cười này mới là người thực sự hạnh phúc và rạng rỡ niềm vui.|
+002764|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_283.wav|||đó là nụ cười với vùng cơ xung quanh mắt co lại một cách tự nhiên.|
+002765|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_284.wav|||hãy nhìn lại xem một ngày vẫn có bao nhiêu lần mỉm cười tự nhiên như thế.|
+002766|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_285.wav|||vui vẻ hạnh phúc là cảm giác có ảnh hưởng lớn nhất trong tất cả các loại cảm xúc đối với cuộc đời chúng ta.|
+002767|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_286.wav|||tại sao lại có thể nói như vậy.|
+002768|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_287.wav|||thứ nhất vui vẻ làm cho con người trở nên hào phóng.|
+002769|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_288.wav|||điều này đã được thực nghiệm chứng minh chứ không chỉ nói suông.|
+002770|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_289.wav|||một nhà tâm lý học yêu cầu một nhóm người tham gia vào một thí nghiệm tâm lý.|
+002771|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_290.wav|||sau khi thí nghiệm hoàn thành.|
+002772|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_291.wav|||bọn họ đi ra ngoài và nhìn thấy trước cửa một người ăn xin.|
+002773|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_292.wav|||sau đó ông ý phát hiện rằng.|
+002774|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_293.wav|||chỉ cần những người này cảm thấy thích thú vui vẻ trong phòng thí nghiệm.|
+002775|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_294.wav|||họ sẽ có khả năng đưa tiền cho người ăn xin.|
+002776|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_295.wav|||vậy vui vẻ rồi mới hào phóng.|
+002777|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_296.wav|||hay hào phóng thì sẽ trở nên vui vẻ.|
+002778|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_297.wav|||ở đây cả hai sẽ tương hỗ cho nhau.|
+002779|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_298.wav|||vì thế hãy hào phóng và cho đi nhiều hơn.|
+002780|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_299.wav|||thì chắc chắn những cảm giác vui vẻ trọn vẹn sẽ đến bên bạn.|
+002781|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_300.wav|||thứ hai.|
+002782|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_301.wav|||vui vẻ cần khiến con người ta sáng tạo.|
+002783|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_302.wav|||và có thể đưa ra những quyết định tốt hơn.|
+002784|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_303.wav|||đó không phải là một quyết định nhanh chóng mà là một quyết định chất lượng.|
+002785|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_304.wav|||vui vẻ cũng giúp bạn dũng cảm mà thận trọng.|
+002786|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_305.wav|||chúng ta thường cho rằng vui quá hoá rổ.|
+002787|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_306.wav|||tức là khi con người ta vui quá sẽ có những hành động điên cuồng mạo hiểm.|
+002788|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_307.wav|||đó không phải là vui vẻ.|
+002789|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_308.wav|||đúng hơn là khoái lạc.|
+002790|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_309.wav|||ngược lại.|
+002791|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_310.wav|||người vui vẻ thực sự luôn dám hành động.|
+002792|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_311.wav|||nhưng có thể hành động thận trọng hơn.|
+002793|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_312.wav|||những người vui vẻ sẽ không thích công việc nhàm chán mà sẽ chọn nhiệm vụ thú vị có tính thử thách.|
+002794|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_313.wav|||vì vậy hãy sẵn sàng chủ động tiếp nhận những công việc khó khăn hơn người khác ở nơi làm việc.|
+002795|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_314.wav|||đây cũng chính là cách biến mình thành người hạnh phúc trong công việc.|
+002796|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_315.wav|||giúp bản thân có nhiều cơ hội trưởng thành hơn.|
+002797|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_316.wav|||một điều cần phải chú ý ở đây là.|
+002798|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_317.wav|||tác giả phân chia hạnh phúc của con người thành bốn trạng thái từ hai chiều.|
+002799|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_318.wav|||hãy cùng tìm hiểu xem bạn đang cần kiểu hạnh phúc nào.|
+002800|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_319.wav|||đầu tiên đó là niềm vui phấn khích đến từ bên ngoài.|
+002801|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_320.wav|||bạn có thể hiểu đó chính là sự vui mừng.|
+002802|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_321.wav|||ví dụ hồi học cấp một cấp hai khi đạt danh hiệu học sinh giỏi.|
+002803|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_322.wav|||hoặc khi chúng ta chiến thắng một cuộc thi vân vân.|
+002804|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_323.wav|||cảm giác này thường phổ biến ở thanh thiếu niên.|
+002805|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_324.wav|||thứ hai là niềm vui phấn khích đến từ bên trong.|
+002806|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_325.wav|||đây là một trạng thái hạnh phúc kiểu aristoto.|
+002807|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_326.wav|||đó là cảm giác của thành tựu khi mục tiêu cuộc sống của bạn được hiện thực hóa.|
+002808|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_327.wav|||khi bạn dấn thân vào sự nghiệp với mục đích ý nghĩa và cuối cùng đạt được nó.|
+002809|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_328.wav|||sau đó có thể cải thiện chính mình.|
+002810|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_329.wav|||kiểu thứ ba đó là niềm hạnh phúc bình lặng đến từ bên ngoài.|
+002811|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_330.wav|||đây là một cảm giác hài lòng.|
+002812|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_331.wav|||ví dụ.|
+002813|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_332.wav|||bạn cùng bạn đời ngồi trong vườn nhem nhí ly trà và nhìn con cái nô đùa xung quanh.|
+002814|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_333.wav|||cảm giác hạnh phúc này sẽ khiến bạn lẳng lặng mỉm cười đầy mãn nguyện.|
+002815|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_334.wav|||cuối cùng là cảm giác hạnh phúc bình lặng.|
+002816|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_335.wav|||đây gọi là sự điềm tĩnh khi ta hiểu rõ lẽ sống của bản thân và biết rằng cuộc sống vốn là như vậy.|
+002817|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_336.wav|||cuộc đời là vô thường.|
+002818|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_337.wav|||ta sẽ bình tĩnh sống và hưởng thụ quá trình trải nghiệm.|
+002819|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_338.wav|||đây là bổn cảm giá hạnh phúc khác nhau đặc biệt chúng không phân chia cao thấp tức là niềm hạnh phúc nào cũng mang đến năng lượng cao.|
+002820|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_339.wav|||vậy để cải thiện hạnh phúc chúng ta cần phải làm gì.|
+002821|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_340.wav|||trước tiên bạn cần phải tự hỏi bạn của bây giờ rằng.|
+002822|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_341.wav|||hạnh phúc lý tưởng của mình gần với loại hạnh phúc nào.|
+002823|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_342.wav|||điều gì khiến bạn hạnh phúc hơn bây giờ.|
+002824|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_343.wav|||khoảnh khắc hạnh phúc nhất của bạn là gì.|
+002825|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_344.wav|||bạn đã bỏ lỡ giây phút hạnh phúc nào.|
+002826|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_345.wav|||điều khiến bạn hạnh phúc hơn có phụ thuộc vào bạn không.|
+002827|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_346.wav|||hãy luôn tự chất vấn bản thân những câu hỏi như thế này.|
+002828|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_347.wav|||để giúp mình đi đúng đường.|
+002829|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_348.wav|||nhưng bạn cũng cần đặc biệt chú ý đến những thứ mà hạnh phúc cần và không cần.|
+002830|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_349.wav|||hạnh phúc không quan trọng tiền bạc và tuổi tác.|
+002831|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_350.wav|||chúng ta luôn sợ tuổi già và cảm thấy già đi là một điều khủng khiếp.|
+002832|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_351.wav|||nhưng trên thực tế con người ta sẽ cảm thấy hạnh phúc hơn khi về già.|
+002833|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_352.wav|||chưa có nghiên cứu nào chứng minh người trẻ hạnh phúc hơn.|
+002834|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_353.wav|||người già thường có thể bình thản nói với người trẻ rằng.|
+002835|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_354.wav|||mọi việc rồi cũng sẽ qua.|
+002836|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_355.wav|||con nên hạnh phúc vì còn trẻ và có nhiều cơ hội cho mọi thứ.|
+002837|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_356.wav|||nhưng người trẻ thì sẽ không nghĩ như vậy.|
+002838|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_357.wav|||những rắc rối trong đời sẽ khiến người trẻ đau đớn và bất kỳ đòn đánh nào cũng sẽ được khuếch đại vô hạn.|
+002839|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_358.wav|||về hạnh phúc quan trọng điều gì.|
+002840|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_359.wav|||muốn hạnh phúc bạn cần phải có sức khoẻ.|
+002841|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_360.wav|||chỉ cần có một căn bệnh nhỏ nào đến hạnh phúc trong bạn sẽ lập tức giảm sút.|
+002842|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_361.wav|||hạnh phúc cũng phụ thuộc vào tính cách của bạn.|
+002843|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_362.wav|||hãy xem bạn có dễ dàng phát hiện niềm vui và tạo ra hạnh phúc hay không.|
+002844|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_363.wav|||hạnh phúc còn quan trọng ở chất lượng hôn nhân và các mối quan hệ.|
+002845|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_364.wav|||hãy thận trọng và lựa chọn thật kỹ trước khi quyết định đi đến hôn nhân với ai đó.|
+002846|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_365.wav|||và hạnh phúc còn quan trọng ở niềm tin của bạn.|
+002847|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_366.wav|||bạn đang có niềm tin như thế nào.|
+002848|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_367.wav|||nếu chỉ tin vào tiền bạc thì bạn sẽ càng khốn khổ hơn.|
+002849|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_368.wav|||cuối cùng hạnh phúc cần phụ thuộc vào sự nghiệp và ảnh hưởng bởi người thân bạn bè.|
+002850|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_369.wav|||trên đây chính là những yếu tố mà một người muốn hạnh phúc cần phải có.|
+002851|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_370.wav|||nhưng bạn cần phải nhớ rằng.|
+002852|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_371.wav|||để có cảm giác hạnh phúc.|
+002853|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_372.wav|||không phải là cố gắng theo đuổi nhiều thứ làm bạn hài lòng.|
+002854|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_373.wav|||như tác giả nói.|
+002855|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_374.wav|||người hạnh phúc sở dĩ hạnh phúc.|
+002856|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_375.wav|||là vì họ tìm thấy hạnh phúc trong mọi tình huống.|
+002857|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_376.wav|||chứ không phải là vì những sự việc hay hoàn cảnh họ gặp phải khiến cho họ hài lòng hơn những người khác.|
+002858|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_377.wav|||hạnh phúc chính là biết thỏa mãn trong dục vọng.|
+002859|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_378.wav|||và tỉnh táo học cách thản nhiên trước thành công hay thất bại.|
+002860|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_379.wav|||theo đuổi hy vọng của sự hoàn hảo lẫn thiếu sót.|
+002861|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_380.wav|||đừng vội làm mình trở nên xấu.|
+002862|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_381.wav|||rồi tiếp theo chúng ta sẽ nói đến đau buồn.|
+002863|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_382.wav|||trong cuộc sống ai ai cũng phải trải qua những ngày buồn bã.|
+002864|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_383.wav|||có người bị xếp chỉ chết có người mất thuốc cưng có người bị bệnh vân vân.|
+002865|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_384.wav|||tất cả đều khiến con người ta đau lòng.|
+002866|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_385.wav|||nhưng chúng quy lại.|
+002867|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_386.wav|||mọi nỗi buồn đều có đặc điểm chung.|
+002868|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_387.wav|||đó chính là mất mát.|
+002869|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_388.wav|||mất đi niềm tin sếp dành cho bạn.|
+002870|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_389.wav|||mất đi chú chó đồng hành.|
+002871|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_390.wav|||mất đi khả năng hoạt động bình thường mất đi của cải mất đi ý nghĩa của chính mình.|
+002872|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_391.wav|||tất cả đều là những tổn thất.|
+002873|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_392.wav|||nó sẽ khiến cho bạn cảm thấy đau buồn.|
+002874|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_393.wav|||chúng ta luôn chỉ thích niềm vui và rất sợ gặp phải đau buồn.|
+002875|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_394.wav|||nhưng đau buồn sinh ra là để dạy cho chúng ta tránh những tình huống tương tự xảy ra.|
+002876|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_395.wav|||nó khiến bạn suy ngẫm về hành động lỗi lầm những vô minh trong mình.|
+002877|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_396.wav|||và nó cũng khơi dậy lòng trắc ẩn từ người khác.|
+002878|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_397.wav|||và ngược lại cũng cho phép bạn đồng cảm với ai đó khi mà họ đang có nỗi đau trong lòng.|
+002879|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_398.wav|||cảm xúc đau buồn không đáng sợ như chúng ta vẫn tin.|
+002880|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_399.wav|||vậy nên đừng để bản thân mất cân bằng.|
+002881|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_400.wav|||nếu mãi chìm đắm trong nỗi đau nó sẽ nuốt chửng toàn bộ con người bạn.|
+002882|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_401.wav|||vậy thì khi cảm thấy quá đau buồn chúng ta cần phải làm gì.|
+002883|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_402.wav|||việc đầu tiên đó là phải chấp nhận nó.|
+002884|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_403.wav|||người có niềm tin tâm linh và đời sống tinh thần sâu sắc.|
+002885|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_404.wav|||họ đều rất giỏi trong việc chấp nhận.|
+002886|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_405.wav|||vượt qua những nỗi buồn.|
+002887|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_406.wav|||họ tin rằng đau buồn là nhân quả là nghiệp sướng là bài học của bản thân.|
+002888|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_407.wav|||là con đường tự chọn ắt phải đi.|
+002889|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_408.wav|||khi có niềm tin như vậy con người sẽ dễ dàng thay đổi góc nhìn về nỗi đau.|
+002890|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_409.wav|||chấp nhận nỗi đau đơn thuần là một trải nghiệm.|
+002891|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_410.wav|||để bạn nhận ra được giá trị.|
+002892|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_411.wav|||những kinh nghiệm những bài học đằng sau đó.|
+002893|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_412.wav|||và từ đó bạn sẽ cảm thấy tốt hơn.|
+002894|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_413.wav|||ngoài ra bạn cũng có thể bày tỏ nỗi buồn một cách cẩn thận với người tin cậy.|
+002895|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_414.wav|||bày tỏ một cách cẩn thận nghĩa là đừng biến nó thành kẻ lẻ.|
+002896|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_415.wav|||lặp đi lặp lại nhiều lần.|
+002897|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_416.wav|||sau đó hãy cố gắng thoát ra bằng cách chuyển hướng tập trung.|
+002898|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_417.wav|||hãy nhìn lại xem hoạt động gì bạn đã từng yêu thích trong quá khứ.|
+002899|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_418.wav|||hoặc những điều bạn mong muốn được trải nghiệm.|
+002900|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_419.wav|||chủ động chuyển hướng tập trung vào những việc đỏ.|
+002901|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_420.wav|||chúng sẽ giúp bạn thoát khỏi nỗi đau.|
+002902|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_421.wav|||và nếu như những phương pháp trên đều không giúp được cho bạn.|
+002903|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_422.wav|||thì hãy tìm kiếm sự giúp đỡ từ các chuyên gia nhà tâm lý học.|
+002904|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_423.wav|||rồi một cảm xúc tiếp theo mà mình tin rằng nhiều người đều có và đang giấu diếm.|
+002905|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_424.wav|||đó là xấu hổ.|
+002906|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_425.wav|||xấu hổ là cảm giác đau đớn vì nghĩ rằng mình thấp kém kém cỏi hoặc bị người khác coi thường.|
+002907|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_426.wav|||từ góc độ của người lớn có những nỗi xấu hổ ở trẻ là không đáng có.|
+002908|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_427.wav|||nhiều bạn trẻ cho rằng bố mẹ xấu xí ăn mặc lôi thôi hoặc làm nghề lao động đi xe cọc cạch.|
+002909|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_428.wav|||thì thường nói với cha mẹ kiểu.|
+002910|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_429.wav|||đường đến trước cổng trường đón con hay đậu xe đợi con ở đằng kia vân vân.|
+002911|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_430.wav|||và chắc chắn nhiều người sẽ hối hận vì điều này khi lớn lên.|
+002912|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_431.wav|||vậy thì tại sao chúng ta lại cảm thấy xấu hổ.|
+002913|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_432.wav|||đó là khi con người ta không đạt được sự thống nhất trong bốn nguyên tắc phù hợp với những người xung quanh.|
+002914|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_433.wav|||nguyên tắc đầu tiên đó chính là tình nhất quán.|
+002915|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_434.wav|||ví dụ.|
+002916|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_435.wav|||các bạn trong lớp đều đi xe tay ga còn mình thì không.|
+002917|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_436.wav|||chiếc xe số ít tiền và không được đẹp mắt.|
+002918|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_437.wav|||sẽ tạo nên sự khác biệt.|
+002919|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_438.wav|||và điều này sẽ khiến cho một số bạn trẻ cảm thấy xấu hổ.|
+002920|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_439.wav|||nguyên tắc thứ hai.|
+002921|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_440.wav|||không có hành vi hỗ trợ lẫn nhau.|
+002922|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_441.wav|||tức là hành động ích kỷ của bạn bị phơi bày trước mặt người khác bạn sẽ thấy xấu hổ.|
+002923|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_442.wav|||trong sách thì có một ví dụ đó là.|
+002924|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_443.wav|||vào ngày đầu tiên mấy bạn sinh viên chuyển tới ký túc xá.|
+002925|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_444.wav|||mọi người cùng chia sẻ đồ ăn đem từ nhà cho nhau.|
+002926|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_445.wav|||nhưng có một cô gái ở lại ký túc xá khi mọi người đã ra ngoài.|
+002927|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_446.wav|||để ăn một chiếc bánh mà gia đình đã chuẩn bị cho mình.|
+002928|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_447.wav|||không may mọi người đã quay về đúng lúc cô gái đang ăn.|
+002929|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_448.wav|||điều này đã khiến cô vô cùng xấu hổ.|
+002930|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_449.wav|||tiếp theo nguyên tắc thứ ba đó là về vấn đề sinh lý.|
+002931|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_450.wav|||mỗi người trưởng thành đều từng có cảm giác này.|
+002932|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_451.wav|||trong quá trình dạy thì có người xấu hổ vì dạy thì quá sớm.|
+002933|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_452.wav|||có người xấu hổ vì dậy thì quá muộn.|
+002934|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_453.wav|||có người xấu hổ vì mình khác biệt.|
+002935|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_454.wav|||và điều cuối cùng khiến cho người ta xấu hổ.|
+002936|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_455.wav|||đó là áp lực từ cạnh tranh.|
+002937|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_456.wav|||ví dụ cả nhóm đều có thành tích nghiệp vụ cuối tháng rất tốt.|
+002938|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_457.wav|||còn bạn thất bại thì không.|
+002939|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_458.wav|||điều này sẽ khiến cho bạn cảm thấy xấu hổ.|
+002940|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_459.wav|||xấu hổ có một biểu hiện điển hình giống với tất cả mọi người.|
+002941|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_460.wav|||đó là đỏ mặt cúi đầu mí mắt cộp xuống.|
+002942|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_461.wav|||tất nhiên sự xấu hổ có vai trò riêng và mọi cảm xúc vốn dĩ có thể theo chúng ta suốt nhiều năm đều có lý do của nó.|
+002943|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_462.wav|||chức năng của sự xấu hổ là khiến cho người khác trở nên khoan dung hơn với chúng ta.|
+002944|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_463.wav|||ví dụ khi bạn đứng xếp hàng để thanh toán nhưng không may túi đồ của bạn rơi.|
+002945|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_464.wav|||và mọi thứ trong đó văng tung tẻ ra ngoài.|
+002946|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_465.wav|||nếu như lúc này bạn không biết xấu hổ.|
+002947|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_466.wav|||thì bạn sẽ dọn dẹp một cách đỉnh đương từ từ.|
+002948|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_467.wav|||và để những người đằng sau phải chờ đợi.|
+002949|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_468.wav|||khi đó bạn chắc chắn sẽ bị người khác la mắng khiển trách.|
+002950|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_469.wav|||nhưng nếu bạn tỏ ra rằng tôi xấu hổ.|
+002951|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_470.wav|||liên tục nói lời xin lỗi và nhanh chóng dọn dẹp.|
+002952|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_471.wav|||người khác sẽ đồng cảm với bạn.|
+002953|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_472.wav|||bạn thấy đó sự xấu hổ đã giúp chúng ta hết mức.|
+002954|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_473.wav|||để cư xử đụng mực.|
+002955|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_474.wav|||nhưng ngược lại xấu hổ cũng có những mặt hạn chế.|
+002956|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_475.wav|||ví dụ nếu xấu hổ quá mức sẽ khiến bạn không được ưa chuộng hoặc thậm chí là xa lánh.|
+002957|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_476.wav|||một người đặc biệt là các bạn thanh thiếu niên.|
+002958|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_477.wav|||nếu luôn khom lưng cúi đầu vô cùng ngại ngùng khi gặp gỡ mọi người.|
+002959|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_478.wav|||thì sẽ dần dần bị đội nhóm bài trừ.|
+002960|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_479.wav|||ngoài ra tồi tệ hơn là có những người vốn không tự ti nhưng đã trở thành nạn nhân sống trong xấu hổ.|
+002961|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_480.wav|||ví dụ điển hình đó là những nạn nhân bị xâm hại tình dục.|
+002962|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_481.wav|||điều này vẫn luôn gây ra một áp lực rất lớn với nhiều người.|
+002963|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_482.wav|||bởi vì phẩm giá bên trong chúng ta sẽ tự đặt ra một số tiêu chuẩn.|
+002964|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_483.wav|||mặc dù xã hội quy định rằng bạn không phạm sai lầm và bạn là nạn nhân.|
+002965|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_484.wav|||nhưng trong lòng bạn vẫn không thể chấp nhận được điều đó.|
+002966|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_485.wav|||vậy thì bây giờ chúng ta sẽ phải quản lý sự xấu hổ như thế nào.|
+002967|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_486.wav|||để không biến xấu hổ trở thành năng lượng tiêu cực của chúng ta.|
+002968|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_487.wav|||đầu tiên bạn hãy bày tỏ nó.|
+002969|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_488.wav|||mỗi khi cảm giác xấu hổ được nói ra nó sẽ không còn đè nặng lên bạn nữa.|
+002970|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_489.wav|||một nhà văn người pháp.|
+002971|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_490.wav|||anne hernerte.|
+002972|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_491.wav|||người đã đoạt giải nobel văn học năm hai không hai mươi hai.|
+002973|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_492.wav|||có một câu nói nổi tiếng như thế này.|
+002974|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_493.wav|||đối với xấu hổ điều tồi tệ nhất là chúng ta nghĩ rằng chỉ có mình cảm thấy điều đó.|
+002975|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_494.wav|||nhưng trên thực tế khi bạn xấu hổ người khác đều có thể cảm nhận được.|
+002976|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_495.wav|||thế nên hãy nhẹ nhàng biến nỗi xấu hổ thành bùi rồi.|
+002977|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_496.wav|||sự bối rối ngượng ngùng sẽ ít nghiêm trọng hơn xấu hổ.|
+002978|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_497.wav|||xấu hổ có thể xâm nhập vào bên trong bạn.|
+002979|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_498.wav|||nhưng sự bối rối sẽ có thể biến mất bằng một nụ cười.|
+002980|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_499.wav|||ngoài ra đối với những người có thói quen cố ý làm bẽ mặt bạn.|
+002981|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_500.wav|||cách tốt nhất là giảm bớt tương tác với những người kiểu này.|
+002982|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_501.wav|||một số người có tính cách non nớt sẽ phòng trìu nỗi sợ hãi và tức giận bên trong mình lên người khác.|
+002983|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_502.wav|||vì vậy họ có thói quen hạ nhục ai đó.|
+002984|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_503.wav|||họ có thói quen pha trò không phù hợp vạch trần khuyết điểm của người xung quanh.|
+002985|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_504.wav|||khi điều này xảy ra ta nên nhìn thấu cảm xúc của họ.|
+002986|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_505.wav|||thông cảm với những người như thế này.|
+002987|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_506.wav|||và hãy cho mình một không gian riêng.|
+002988|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_507.wav|||không bị mình thành nạn nhân của xấu hổ.|
+002989|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_508.wav|||và điều cuối cùng đó là.|
+002990|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_509.wav|||hãy nội quan niềm tin bên trong bạn hãy xem bản thân đang có yêu cầu quá cao hay không.|
+002991|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_510.wav|||và để có thể biến tự ti trở nên siêu việt bạn có thể xem cuốn sách tâm lý học nổi tiếng.|
+002992|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_511.wav|||ý nghĩa cuộc sống là gì của adler.|
+002993|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_512.wav|||qua video mà battle version đã từng chia sẻ và phân tích rất kỹ.|
+002994|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_513.wav|||để biết rõ về cảm giác tự ti xấu hổ và làm sao để có thể biến nó trở thành sức mạnh vượt bậc trong bạn.|
+002995|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_514.wav|||đừng vội làm mình trở nên xấu.|
+002996|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_515.wav|||rồi tiếp theo là cảm xúc thứ sáu đồ kỵ.|
+002997|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_516.wav|||cuốn sách này phân tích cảm giác đố kị chủ yếu xuất hiện trong mối quan hệ hai giới ở tình yêu hôn nhân.|
+002998|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_517.wav|||mà chúng ta vẫn thường gọi đó là ghen tuông.|
+002999|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_518.wav|||đố kị ghen tuông.|
+003000|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_519.wav|||xuất hiện khi con người cảm thấy mối quan hệ của mình đang gặp đe doạ.|
+003001|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_520.wav|||ở một mức độ nào đó nó cũng có thể là dấu hiệu của sự thiếu tự tin.|
+003002|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_521.wav|||khi cảm xúc đố kị chặt loẽ lên trong bạn.|
+003003|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_522.wav|||nó sẽ đi kèm với sự tức giận sợ hãi buồn bã và đôi khi xen lẫn về sự xấu hổ.|
+003004|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_523.wav|||đây là một cảm xúc phức tạp và tương đối tiêu cực.|
+003005|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_524.wav|||nhưng nó cũng có vai trò của riêng mình.|
+003006|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_525.wav|||trong xã hội nguyên thuỷ khi mà thức ăn kiếm được là hạn chế thì sự đố kỵ sẽ giúp cho con người tồn tại.|
+003007|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_526.wav|||nếu người chồng không có cảm xúc ghen tuông và cho phép vợ thoải mái giao lưu với người khác thì rất có thể đứa trẻ họ nuôi không phải là con mình.|
+003008|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_527.wav|||hoặc nếu người vợ cho phép người chồng quan hệ với nhiều người khác.|
+003009|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_528.wav|||thì rất có thể cô ấy không đủ ăn vì người đàn ông sẽ phải nuôi thêm những đứa con khác.|
+003010|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_529.wav|||cho đến xã hội hiện đại khi có đầy đủ thực phẩm thì chúng ta vẫn dễ dàng lưu giữ gen có cảm xúc đố kị.|
+003011|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_530.wav|||nó khiến cho chúng ta duy trì sự độc đáo của nhau.|
+003012|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_531.wav|||ghen tuông cũng có thể khiến cho chúng ta đau đớn.|
+003013|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_532.wav|||ba đặc điểm chính của ghen tuông quá mức đó là.|
+003014|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_533.wav|||giám sát chặt chẽ.|
+003015|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_534.wav|||hạn chế đối phương tiếp xúc với người khác và có thái độ hạ thấp bạn.|
+003016|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_535.wav|||những người có kiểu đố kỵ như thế này thường có năng lượng cảm xúc rất thấp.|
+003017|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_536.wav|||vậy thì làm thế nào để quản lý được sự đố kỵ.|
+003018|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_537.wav|||giống như là mọi cảm xúc khác thì việc đầu tiên chúng ta phải thừa nhận sự đố kỵ của mình.|
+003019|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_538.wav|||và đồng thời đối mặt với nó để tìm ra giải pháp.|
+003020|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_539.wav|||sau đó bạn hãy tự hỏi bản thân một vài câu như sau.|
+003021|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_540.wav|||bạn đã bao giờ bị tổn thương bởi đối tác lừa dối chưa.|
+003022|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_541.wav|||bạn có bị tổn thương bởi sự lừa dối của cha mẹ bạn không.|
+003023|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_542.wav|||bạn có cảm thấy mình không đủ quan trọng.|
+003024|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_543.wav|||hoặc không đủ hấp dẫn để chiếm giữ trái tim ai đó lâu dài.|
+003025|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_544.wav|||sự thiên vị này đến từ đâu.|
+003026|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_545.wav|||những câu hỏi như thế này sẽ khiến cho bạn phải suy nghĩ rất nhiều.|
+003027|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_546.wav|||nếu cảm giác đố kị vẫn gây rắc rối cho bạn và đối phương.|
+003028|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_547.wav|||thì hãy tham khảo thêm ý kiến từ chuyên gia.|
+003029|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_548.wav|||cuối cùng bạn cần phải dành ra một chút không gian cá nhân cho đối phương.|
+003030|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_549.wav|||khi bạn thước đi không gian riêng của ai đó.|
+003031|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_550.wav|||thực chất rủi ro mà bạn nghĩ ban đầu sẽ không giảm bớt.|
+003032|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_551.wav|||mà có thể thực sự tăng lên.|
+003033|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_552.wav|||ghen tuông đã là một cảm xúc bình thường và tự nhiên.|
+003034|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_553.wav|||mặc dù nó thường khiến cho bản thân mất giá nhưng nó vẫn là một phần tâm lý lành mạnh.|
+003035|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_554.wav|||nếu như chúng ta biết cách quản lý và đối mặt đúng cách.|
+003036|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_555.wav|||nó sẽ thêm một chút gia vị vào cuộc sống của chính bạn.|
+003037|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_556.wav|||đừng vội làm mình trở nên xấu hoặc trở nên xấu xa.|
+003038|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_557.wav|||cuối cùng chúng ta hãy đi đến cảm xúc mà con người luôn tìm cách tránh né.|
+003039|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_558.wav|||đó chính là sợ hãi.|
+003040|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_559.wav|||đối với người lớn đối tượng gây sợ hãi thường rơi vào các loại sao.|
+003041|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_560.wav|||các loại động vật như côn trùng chuột rắn.|
+003042|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_561.wav|||có người thì giả độ cao.|
+003043|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_562.wav|||hay nhiều người thấy máu thì sẽ ngất xỉu.|
+003044|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_563.wav|||có người sợ nói chuyện trước đám đông sợ không gian chật hẹp như là thang máy.|
+003045|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_564.wav|||cũng có người sợ sấm sét sợ nước.|
+003046|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_565.wav|||họ sẽ hoảng sợ khi thấy nước ngập đến ngực và chạm tới mũi vân vân.|
+003047|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_566.wav|||tại sao chúng ta lại sợ những thứ trên.|
+003048|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_567.wav|||bởi tất cả những điều này đều liên quan đến nguồn gốc nguy hiểm từ xã hội nguyễn thị.|
+003049|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_568.wav|||chúng mang lại rất nhiều tai hại cho con người nên con người sẽ sợ hãi.|
+003050|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_569.wav|||nhưng nỗi sợ hãi của con người không chỉ là nỗi sợ hãi bẩm sinh đến từ xã hội nguyên thủy mà cũng có nhiều nỗi sợ hãi sau này dần dần hình thành trong bạn.|
+003051|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_570.wav|||ví dụ nỗi sợ hãi bắt nguồn từ văn hoá.|
+003052|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_571.wav|||như sọ ma quỷ.|
+003053|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_572.wav|||nỗi sợ bắt nguồn từ xã hội như con cái sợ cha mẹ học sinh sợ giáo viên cấp dưới sợ cấp trên vân vân.|
+003054|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_573.wav|||sự xuất hiện của những nỗi sợ kiểu như thế này thường xuất phát từ nhu cầu tránh lạc lõng trong xã hội của chúng ta.|
+003055|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_574.wav|||cuối cùng con người còn có những nỗi sợ xuất phát từ những niềm tin sai lầm trong tâm trí.|
+003056|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_575.wav|||ví dụ như sợ hãi vì không cảm thấy an toàn sợ bạn đời phản bội.|
+003057|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_576.wav|||sợ thiếu thốn vân vân thế nên nhiều người đã tìm đủ mọi cách để kiểm soát tình hình hoặc lấp đầy bằng thế giới vật chất của bản thân.|
+003058|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_577.wav|||suy cho cùng sợ hãi là một cảm xúc khiến cho bạn khó chịu và không vui.|
+003059|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_578.wav|||bạn chắc chắn không muốn ngày nào cũng phải sống trong sự sợ hãi.|
+003060|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_579.wav|||thậm chí còn có nhiều người chỉ vì sợ hãi.|
+003061|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_580.wav|||và có những phản ứng thái quá.|
+003062|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_581.wav|||khi nỗi sợ biến thành năng lượng tiêu cực trong bạn.|
+003063|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_582.wav|||nó làm bạn lo âu và hoài nghi về chính mình.|
+003064|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_583.wav|||thì bạn sẽ cần phải tìm cách quản lý nó.|
+003065|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_584.wav|||phải làm thế nào để chúng ta có thể quản lý những cảm xúc sợ hãi của mình.|
+003066|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_585.wav|||điều đầu tiên mà trước đó cuốn sách này đã nói rất nhiều lần.|
+003067|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_586.wav|||đó là phải thừa nhận và bày tỏ nỗi sợ hãi của mình.|
+003068|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_587.wav|||đừng cố gắng che đậy nỗi sợ khi bạn rõ ràng đang sợ.|
+003069|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_588.wav|||hãy chân thành nói với người khác rằng bạn đang cần sự giúp đỡ.|
+003070|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_589.wav|||điều thứ hai.|
+003071|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_590.wav|||hãy học cách nắm giữ nỗi sợ hãi.|
+003072|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_591.wav|||tức là hãy tìm cách chuẩn bị nắm được càng nhiều thông tin càng tốt.|
+003073|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_592.wav|||ví dụ bạn sợ đi du lịch tới một nơi lạ một mình.|
+003074|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_593.wav|||hãy chuẩn bị tất cả các thông tin có thể về chuyến đi.|
+003075|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_594.wav|||khi bạn biết rằng bản thân mình sẽ đi như thế nào ở đâu làm những gì vân vân.|
+003076|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_595.wav|||bạn sẽ an tâm hơn nỗi sợ sẽ không còn có thể cản trở năng lượng mạnh mẽ trong bạn.|
+003077|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_596.wav|||kế đến thì chúng ta hãy học cách thư giãn.|
+003078|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_597.wav|||khi sợ hãi nhịp tim sẽ tăng cao.|
+003079|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_598.wav|||lúc này bạn có thể nhắm mắt lại tập trung vào hơi thở từng nhịp hít vào thở ra.|
+003080|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_599.wav|||để giảm bớt nỗi bất an mang lại.|
+003081|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_600.wav|||cuối cùng hãy đối đầu với nó.|
+003082|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_601.wav|||ở đây có một số nguyên tắc quan trọng để có thể đối đầu với nỗi sợ hãi.|
+003083|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_602.wav|||mà mình tóm gọn lại đó là.|
+003084|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_603.wav|||hãy dũng cảm chủ động tiếp xúc với nỗi sợ hãi một cách từ từ và trong mức kiểm soát được.|
+003085|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_604.wav|||ví dụ.|
+003086|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_605.wav|||nếu bạn sợ đám đông hãy chủ động thử sức tham gia các cuộc thi phải tiếp xúc với nhiều người từ những cuộc thi nhỏ trước.|
+003087|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_606.wav|||nếu bạn sợ động vật nào đó.|
+003088|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_607.wav|||ví dụ mình từng thấy có rất nhiều người sợ mèo.|
+003089|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_608.wav|||thì lúc này hãy tiếp xúc từ từ với mèo trong sự kiểm soát của bạn.|
+003090|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_609.wav|||rồi trên đây là bảy cảm xúc đi cùng chúng ta suốt chặng đường trưởng thành.|
+003091|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_610.wav|||mình tin rằng bạn sẽ nhận ra sự xuất hiện của bảy loại cảm xúc này.|
+003092|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_611.wav|||đằng sau chúng đều có nguyên nhân.|
+003093|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_612.wav|||có thể là bạn đang thất vọng về cuộc sống.|
+003094|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_613.wav|||bạn không hài lòng với hiện tại bạn lo lắng về tương lai bạn thấy mình không hoà nhập được với những người xung quanh và còn có rất nhiều lo lắng khác.|
+003095|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_614.wav|||một khi nhận thức được những nguyên nhân sâu xa bạn có thể dễ dàng nói với cảm xúc của mình rằng.|
+003096|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_615.wav|||tôi đã nhìn thấy bạn rồi.|
+003097|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_616.wav|||chỉ cần bộc lộ ra được bạn sẽ có thể đối mặt với cảm xúc một cách bình thản nhất.|
+003098|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_617.wav|||thay vì bị chúng khống chế kiểm soát cuộc đời.|
+003099|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_618.wav|||do đó đừng quá quan tâm đến thời gian hoàn cảnh hay những người khác mà phải cố gắng dồn nén cảm xúc của mình.|
+003100|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_619.wav|||bạn hoàn toàn có thể giải phóng những năng lực tiêu cực của mình một cách kịp thời và hợp lý.|
+003101|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_620.wav|||để mỗi giây phút hiện tại bạn có thể hoà mình vào cảm xúc.|
+003102|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_621.wav|||sống hòa hợp với bản thân và với những người khác.|
+003103|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_622.wav|||hiểu rõ cảm xúc bộc lộ cảm xúc giải quyết cảm xúc.|
+003104|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_623.wav|||đây là cách tốt nhất giúp bạn bình thản.|
+003105|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_624.wav|||chấp nhận một bản thân không hoàn hảo.|
+003106|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_625.wav|||không hoàn hảo mới là một sự hoàn hảo thực sự.|
+003107|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_626.wav|||mong cả bạn và tôi.|
+003108|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_627.wav|||có thể trân trọng.|
+003109|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_628.wav|||đón nhận mọi cảm xúc.|
+003110|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_629.wav|||yêu trọn vẹn chính mình.|
+003111|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_630.wav|||và dũng cảm tiếp bước.|
+003112|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_631.wav|||cảm ơn bạn đã lắng nghe nếu bạn cảm thấy video này có ích.|
+003113|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_632.wav|||hãy chia sẻ với những người cần nó.|
+003114|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_633.wav|||đừng quên tặng mình một nút like nhận nước đăng ký và mở nút trung thông báo.|
+003115|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_634.wav|||để đón xem những video mới nhất hàng tuần của mình.|
+003116|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_635.wav|||một lần nữa cám ơn các bạn và hẹn gặp lại các bạn ở những video tiếp theo.|
+003117|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_636.wav|||tiếng hát lý nhuận dành cho những lời bình luận.|
+003118|vietnamese-00|vietnamese|data/wavs_2/wavs1_done/segment_637.wav|||tiếp tục theo dõi các thông tin ca khúc từ nhật bản trong album.|
 003119|vietnamese-00|vietnamese|data/wavs_2/wavs2/segment_0.wav|||hi xin mến chào tất cả các bạn đã đến với battle region kênh chia sẻ kiến thức phát triển toàn diện bản thân qua các cuốn sách hay.|
 003120|vietnamese-00|vietnamese|data/wavs_2/wavs2/segment_1.wav|||tuần này mình xin chia sẻ với bạn một cuốn sách rất hữu ích và thú vị.|
 003121|vietnamese-00|vietnamese|data/wavs_2/wavs2/segment_2.wav|||mang tên bí mật của làn da rất thân thật về cơ quan lớn nhất của chúng ta.|
