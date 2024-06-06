@@ -1,440 +1,3 @@
-008372|vietnamese-00|vietnamese|wavs/wavs16/segment_23.wav|||chuỗi nghề lặp lại như vậy để lại trong bạn sự mệt mỏi buồn chán thậm chí là đau khổ.|
-008373|vietnamese-00|vietnamese|wavs/wavs16/segment_273.wav|||bạn nakamura cho rằng.|
-008374|vietnamese-00|vietnamese|wavs/wavs16/segment_82.wav|||có thể thấy việc lựa chọn trở thành bác sĩ tâm lý.|
-008375|vietnamese-00|vietnamese|wavs/wavs16/segment_382.wav|||bà nakamura là người không theo đuổi thứ gì khác.|
-008376|vietnamese-00|vietnamese|wavs/wavs16/segment_157.wav|||nhiều người thấy vậy thì cho rằng bà ấy đang rất yêu thích công việc của mình.|
-008377|vietnamese-00|vietnamese|wavs/wavs16/segment_357.wav|||bà không kỳ vọng vào công việc của mình phải vượt bậc.|
-008378|vietnamese-00|vietnamese|wavs/wavs16/segment_64.wav|||sapa là một giáo viên tiểu học bình thường.|
-008379|vietnamese-00|vietnamese|wavs/wavs16/segment_215.wav|||tuy nhiên có một điều mình muốn nhấn mạnh với bạn rằng.|
-008380|vietnamese-00|vietnamese|wavs/wavs16/segment_201.wav|||nhưng nếu bạn thực sự quá mệt mỏi và có thể chủ động lựa chọn.|
-008381|vietnamese-00|vietnamese|wavs/wavs16/segment_84.wav|||mà chỉ vì bà không thể khước từ cơ hội mà cuộc sống đã trao cho mình.|
-008382|vietnamese-00|vietnamese|wavs/wavs16/segment_186.wav|||nội tại của bạn.|
-008383|vietnamese-00|vietnamese|wavs/wavs16/segment_127.wav|||thì về bản chất.|
-008384|vietnamese-00|vietnamese|wavs/wavs16/segment_266.wav|||nhưng nếu hồng mình quá mức nó sẽ phản tác dụng.|
-008385|vietnamese-00|vietnamese|wavs/wavs16/segment_274.wav|||thư hành lý không cần thiết đang khiến bạn bước đi nặng nề và khó khăn hơn.|
-008386|vietnamese-00|vietnamese|wavs/wavs16/segment_378.wav|||đây chính là chí vệ sống một cuộc đời đáng dạ.|
-008387|vietnamese-00|vietnamese|wavs/wavs16/segment_20.wav|||không ít người mỗi ngày vào ca quẹt thẻ.|
-008388|vietnamese-00|vietnamese|wavs/wavs16/segment_438.wav|||làm hết sức mình cho người khác.|
-008389|vietnamese-00|vietnamese|wavs/wavs16/segment_361.wav|||cuối cùng khoảng thời gian khó khăn này cũng đã qua.|
-008390|vietnamese-00|vietnamese|wavs/wavs16/segment_143.wav|||mà hãy cố gắng thực hiện tốt nó trước đã.|
-008391|vietnamese-00|vietnamese|wavs/wavs16/segment_337.wav|||sau khi đặt ra mục tiêu như vậy ba đã hoàn toàn có thể thả lỏng bản thân.|
-008392|vietnamese-00|vietnamese|wavs/wavs16/segment_37.wav|||nakamura sunni kầu là một bác sĩ tâm lý cao tuổi nhất trong lịch sử nhật bản.|
-008393|vietnamese-00|vietnamese|wavs/wavs16/segment_65.wav|||vì nhà đông con nên không phải ai cũng có thể được học đại học.|
-008394|vietnamese-00|vietnamese|wavs/wavs16/segment_314.wav|||bạn tin rằng sự hài lòng trong cuộc sống không phải là do người ngoài quyết định.|
-008395|vietnamese-00|vietnamese|wavs/wavs16/segment_48.wav|||nhưng sau khi đọc nó mình vô cùng ngạc nhiên.|
-008396|vietnamese-00|vietnamese|wavs/wavs16/segment_317.wav|||trong cuốn sách dám bị ghét có nói.|
-008397|vietnamese-00|vietnamese|wavs/wavs16/segment_83.wav|||không phải là vì sở thích hay đam mê.|
-008398|vietnamese-00|vietnamese|wavs/wavs16/segment_49.wav|||bởi vì mình biết bản thân có thể học được rất nhiều triết lý sống hay.|
-008399|vietnamese-00|vietnamese|wavs/wavs16/segment_324.wav|||thì dù cho chỉ phát ra một tia sáng lấp lánh như đom đóm.|
-008400|vietnamese-00|vietnamese|wavs/wavs16/segment_33.wav|||tác giả của cuốn sách mà ngày hôm nay mình muốn chia sẻ với các bạn.|
-008401|vietnamese-00|vietnamese|wavs/wavs16/segment_379.wav|||và thực chất để có thể dễ dàng bỏ đi gánh nặng mang tên kỳ vọng này.|
-008402|vietnamese-00|vietnamese|wavs/wavs16/segment_393.wav|||thì sau một thời gian nó cũng sẽ có những điều khiến cho bạn chán nản.|
-008403|vietnamese-00|vietnamese|wavs/wavs16/segment_248.wav|||thứ duy nhất khiến bạn suy sụp.|
-008404|vietnamese-00|vietnamese|wavs/wavs16/segment_130.wav|||hỗ trợ bản thân và gia đình là mục đích cốt lõi trước tiên của công việc.|
-008405|vietnamese-00|vietnamese|wavs/wavs16/segment_427.wav|||cho dù đó là người quan tâm đến bạn hay là người lạ mà bạn chưa từng gặp.|
-008406|vietnamese-00|vietnamese|wavs/wavs16/segment_202.wav|||thì hãy dứt khoát rời đi.|
-008407|vietnamese-00|vietnamese|wavs/wavs16/segment_63.wav|||gia đình có năm anh chị em.|
-008408|vietnamese-00|vietnamese|wavs/wavs16/segment_318.wav|||việc của chúng ta đi trước hay đi sau không quan trọng.|
-008409|vietnamese-00|vietnamese|wavs/wavs16/segment_1.wav|||chào mừng các bạn đã đến với better version.|
-008410|vietnamese-00|vietnamese|wavs/wavs16/segment_135.wav|||địa vị danh tiếng sự công nhận.|
-008411|vietnamese-00|vietnamese|wavs/wavs16/segment_244.wav|||còn nếu không.|
-008412|vietnamese-00|vietnamese|wavs/wavs16/segment_181.wav|||hơn thua.|
-008413|vietnamese-00|vietnamese|wavs/wavs16/segment_167.wav|||là hoàn toàn không cần thiết.|
-008414|vietnamese-00|vietnamese|wavs/wavs16/segment_204.wav|||có người bị bắt nạt ở nơi làm việc.|
-008415|vietnamese-00|vietnamese|wavs/wavs16/segment_108.wav|||tuy nhiên con người bị đẩy vào tình thế cùng cực.|
-008416|vietnamese-00|vietnamese|wavs/wavs16/segment_383.wav|||ngoài những điều cơ bản nhất của cuộc sống.|
-008417|vietnamese-00|vietnamese|wavs/wavs16/segment_352.wav|||lúc này bà chỉ có thể hạ thấp kỳ vọng vào người khác.|
-008418|vietnamese-00|vietnamese|wavs/wavs16/segment_447.wav|||giống như cơ bắp cần phải tập luyện và căng dãn.|
-008419|vietnamese-00|vietnamese|wavs/wavs16/segment_292.wav|||người này phải đối mặt với vấn đề trong các mối quan hệ và sự cô đơn khôn tả.|
-008420|vietnamese-00|vietnamese|wavs/wavs16/segment_237.wav|||kinh doanh cho bản thân cũng như vậy.|
-008421|vietnamese-00|vietnamese|wavs/wavs16/segment_62.wav|||bạn akamura sinh ra ở một vùng nông thôn nhật bản.|
-008422|vietnamese-00|vietnamese|wavs/wavs16/segment_138.wav|||hay những thứ bớt như ý khi làm việc.|
-008423|vietnamese-00|vietnamese|wavs/wavs16/segment_408.wav|||và cảm thấy sợ hãi vì sự đơn độc một mình.|
-008424|vietnamese-00|vietnamese|wavs/wavs16/segment_320.wav|||chúng ta không ngừng tiến về phía trước nhưng không cạnh tranh với ai.|
-008425|vietnamese-00|vietnamese|wavs/wavs16/segment_142.wav|||dù bạn là nhân viên mới hay đã làm lâu năm thì cũng đừng suy nghĩ quá nhiều về công việc xếp giao.|
-008426|vietnamese-00|vietnamese|wavs/wavs16/segment_211.wav|||nói cho cùng bản chất công việc là để kiếm sống.|
-008427|vietnamese-00|vietnamese|wavs/wavs16/segment_410.wav|||khi bớt đi ham muốn bạn cũng chẳng buồn so sánh với thiên hạ nữa.|
-008428|vietnamese-00|vietnamese|wavs/wavs16/segment_444.wav|||mà còn cám ơn những thử thách này đang mài giũa ý chí cho bạn.|
-008429|vietnamese-00|vietnamese|wavs/wavs16/segment_111.wav|||nếu suy nghĩ.|
-008430|vietnamese-00|vietnamese|wavs/wavs16/segment_416.wav|||biết ơn tất cả mọi thứ đến và đi trong cuộc đời.|
-008431|vietnamese-00|vietnamese|wavs/wavs16/segment_376.wav|||chính vì vậy ngừng cầu bớt kỳ vọng.|
-008432|vietnamese-00|vietnamese|wavs/wavs16/segment_377.wav|||không đam mê ảo tưởng rằng mọi người và mọi việc sẽ diễn ra theo ý của mình.|
-008433|vietnamese-00|vietnamese|wavs/wavs16/segment_8.wav|||nhưng tiền ăn tháng tới tiền nhà tháng sau.|
-008434|vietnamese-00|vietnamese|wavs/wavs16/segment_316.wav|||chỉ bằng cách này chúng ta mới có thể sống cuộc đời đang sống của chính mình.|
-008435|vietnamese-00|vietnamese|wavs/wavs16/segment_311.wav|||họ không hề quan tâm đến việc.|
-008436|vietnamese-00|vietnamese|wavs/wavs16/segment_100.wav|||trên đời này sẽ không có công việc nào là hoàn hảo cả.|
-008437|vietnamese-00|vietnamese|wavs/wavs16/segment_328.wav|||năm hai mươi bảy tuổi tác giả thông qua mai mối đã nhanh chóng kết hôn.|
-008438|vietnamese-00|vietnamese|wavs/wavs16/segment_153.wav|||và hãy cố gắng làm tốt hết mức có thể.|
-008439|vietnamese-00|vietnamese|wavs/wavs16/segment_243.wav|||tuy nhiên bạn cần phải có đầy đủ trách nhiệm và sự chuẩn bị trước khi đưa ra quyết định.|
-008440|vietnamese-00|vietnamese|wavs/wavs16/segment_304.wav|||phải có cái này cái khác mà đem ra lo âu đau khổ.|
-008441|vietnamese-00|vietnamese|wavs/wavs16/segment_171.wav|||tốt hơn hết bạn nên chăm chỉ làm việc hiện tại trước đã.|
-008442|vietnamese-00|vietnamese|wavs/wavs16/segment_369.wav|||đối mặt với thực tế này chúng ta không thể ra sức chống lại nó mà chỉ có thể để mọi thứ xuôi theo dòng chảy.|
-008443|vietnamese-00|vietnamese|wavs/wavs16/segment_297.wav|||nhưng vì gặp rắc rối trong mối quan hệ mẹ chồng mà cảm thấy buồn khổ.|
-008444|vietnamese-00|vietnamese|wavs/wavs16/segment_348.wav|||ông bà còn cho cậu em trai đang học đại học của nakamura vào ở chung.|
-008445|vietnamese-00|vietnamese|wavs/wavs16/segment_205.wav|||có người bị cấp trên quầy rối.|
-008446|vietnamese-00|vietnamese|wavs/wavs16/segment_50.wav|||từ bà nakamura.|
-008447|vietnamese-00|vietnamese|wavs/wavs16/segment_246.wav|||công việc chân chính nào cũng có thể kiếm ra tiền.|
-008448|vietnamese-00|vietnamese|wavs/wavs16/segment_430.wav|||đã giúp cho bạn được tiếp tục trải nghiệm sự sống này.|
-008449|vietnamese-00|vietnamese|wavs/wavs16/segment_387.wav|||bà nội.|
-008450|vietnamese-00|vietnamese|wavs/wavs16/segment_213.wav|||nếu công cụ này ràng buộc quá mức cuộc sống quý giá của bạn.|
-008451|vietnamese-00|vietnamese|wavs/wavs16/segment_261.wav|||đã từng nói một câu rất đúng như thế này.|
-008452|vietnamese-00|vietnamese|wavs/wavs16/segment_459.wav|||và hẹn gặp lại các bạn ở những video tiếp theo.|
-008453|vietnamese-00|vietnamese|wavs/wavs16/segment_252.wav|||lao về phía trước.|
-008454|vietnamese-00|vietnamese|wavs/wavs16/segment_159.wav|||khi ở mức độ tuổi đôi mươi bà làm việc để nuôi sống bản thân.|
-008455|vietnamese-00|vietnamese|wavs/wavs16/segment_17.wav|||và không chắc.|
-008456|vietnamese-00|vietnamese|wavs/wavs16/segment_14.wav|||khi nghe thì chúng ta tràn trề động lực.|
-008457|vietnamese-00|vietnamese|wavs/wavs16/segment_44.wav|||có lẽ theo đánh giá của nhiều người bà không có tư cách xuất bản sách.|
-008458|vietnamese-00|vietnamese|wavs/wavs16/segment_360.wav|||còn lại thì mặc nó theo tự nhiên.|
-008459|vietnamese-00|vietnamese|wavs/wavs16/segment_365.wav|||chồng bà càng lớn tuổi tính tình lại càng hiến ra.|
-008460|vietnamese-00|vietnamese|wavs/wavs16/segment_326.wav|||cuộc đời người đó cũng đã thật đáng giá rồi.|
-008461|vietnamese-00|vietnamese|wavs/wavs16/segment_149.wav|||thử sức trước đừng vội từ bỏ.|
-008462|vietnamese-00|vietnamese|wavs/wavs16/segment_334.wav|||bà không còn cách nào khác ngoài việc tự điều chỉnh tâm lý.|
-008463|vietnamese-00|vietnamese|wavs/wavs16/segment_40.wav|||và đến năm chín mươi tuổi bà vẫn không có ý định dừng lại.|
-008464|vietnamese-00|vietnamese|wavs/wavs16/segment_312.wav|||một bác sĩ trẻ trong đơn vị có chức vụ cao hơn.|
-008465|vietnamese-00|vietnamese|wavs/wavs16/segment_115.wav|||tôi chỉ đang làm việc để kiếm tiền nuôi sống bản thân.|
-008466|vietnamese-00|vietnamese|wavs/wavs16/segment_104.wav|||để có được một công việc toàn thời gian.|
-008467|vietnamese-00|vietnamese|wavs/wavs16/segment_412.wav|||và bạn có thể sống tự do.|
-008468|vietnamese-00|vietnamese|wavs/wavs16/segment_218.wav|||nhưng không phải vì thế mà mù quáng chạy theo cảm tình.|
-008469|vietnamese-00|vietnamese|wavs/wavs16/segment_154.wav|||trước khi bước vào tuổi tám mươi tám.|
-008470|vietnamese-00|vietnamese|wavs/wavs16/segment_158.wav|||nhưng thực tế thì không phải vậy.|
-008471|vietnamese-00|vietnamese|wavs/wavs16/segment_3.wav|||phát triển toàn diện bản thân qua các cuốn sách hay.|
-008472|vietnamese-00|vietnamese|wavs/wavs16/segment_457.wav|||đừng quên tặng mình một nút like nhấn nút đăng ký và mở nút truyền thông báo để đón xem những video mới nhất mỗi tuần.|
-008473|vietnamese-00|vietnamese|wavs/wavs16/segment_291.wav|||nhưng lại kiệt quệ về cả thể chất lẫn tinh thần.|
-008474|vietnamese-00|vietnamese|wavs/wavs16/segment_207.wav|||điều đáng kinh ngạc là những người này không chịu nghỉ việc ngay cả khi họ bị kiệt quệ về thể chất và tinh thần.|
-008475|vietnamese-00|vietnamese|wavs/wavs16/segment_113.wav|||sẽ khiến bản thân chán nản và đau khổ.|
-008476|vietnamese-00|vietnamese|wavs/wavs16/segment_51.wav|||một bà cụ từng trải qua khói bụi chiến tranh những thay đổi của thời đại.|
-008477|vietnamese-00|vietnamese|wavs/wavs16/segment_262.wav|||có hai điều hối tiếc phổ biến trong cuộc sống.|
-008478|vietnamese-00|vietnamese|wavs/wavs16/segment_35.wav|||bản gốc tiếng nhật có tựa đề tạm dịch lại.|
-008479|vietnamese-00|vietnamese|wavs/wavs16/segment_151.wav|||ngay cả khi bạn không hề yêu thích công việc.|
-008480|vietnamese-00|vietnamese|wavs/wavs16/segment_166.wav|||với bà những suy nghĩ mệt mỏi vì không làm được công việc phù hợp.|
-008481|vietnamese-00|vietnamese|wavs/wavs16/segment_145.wav|||công việc này không phù hợp với tôi.|
-008482|vietnamese-00|vietnamese|wavs/wavs16/segment_301.wav|||những rắc rối trong cuộc sống sẽ không biến mất khi tiền bạc và địa vị ngày càng tăng.|
-008483|vietnamese-00|vietnamese|wavs/wavs16/segment_461.wav|||tiếng hát lý nhuận của nhạc sĩ đặng thị minh.|
-008484|vietnamese-00|vietnamese|wavs/wavs16/segment_239.wav|||bạn nên chăm sóc cho nguồn thu nhập này thật tốt.|
-008485|vietnamese-00|vietnamese|wavs/wavs16/segment_303.wav|||ép buộc bản thân phải tiến lên.|
-008486|vietnamese-00|vietnamese|wavs/wavs16/segment_80.wav|||hoàn thành việc học và trở thành một bác sĩ.|
-008487|vietnamese-00|vietnamese|wavs/wavs16/segment_116.wav|||làm việc vì tiền không phải là chuyện xấu.|
-008488|vietnamese-00|vietnamese|wavs/wavs16/segment_222.wav|||trả tiền thuê cho họ bằng khoản thu nhập nào.|
-008489|vietnamese-00|vietnamese|wavs/wavs16/segment_330.wav|||con bà phải một mình gánh đỡ cả gia đình.|
-008490|vietnamese-00|vietnamese|wavs/wavs16/segment_59.wav|||bất luận thế nào bạn hoàn toàn có thể sống một cuộc đời đáng sống và giá trị.|
-008491|vietnamese-00|vietnamese|wavs/wavs16/segment_102.wav|||có thể để dành được một đơn hàng bạn đã phải mỉm cười cúi đầu gật đầu.|
-008492|vietnamese-00|vietnamese|wavs/wavs16/segment_353.wav|||và đặt ra giới hạn cho bản thân.|
-008493|vietnamese-00|vietnamese|wavs/wavs16/segment_31.wav|||một bà lão ở độ tuổi chín mươi đã đưa ra câu trả lời.|
-008494|vietnamese-00|vietnamese|wavs/wavs16/segment_74.wav|||nói rằng nếu anh muốn trở thành bác sĩ thì chú sẽ trợ cấp toàn bộ chi phí học.|
-008495|vietnamese-00|vietnamese|wavs/wavs16/segment_38.wav|||bà cụ sinh năm một nghìn chín trăm hai mươi chín ngày.|
-008496|vietnamese-00|vietnamese|wavs/wavs16/segment_257.wav|||cuộc sống cũng giống như một dòng sông.|
-008497|vietnamese-00|vietnamese|wavs/wavs16/segment_10.wav|||những lý do như vậy không cho phép bạn thôi việc.|
-008498|vietnamese-00|vietnamese|wavs/wavs16/segment_188.wav|||có mái ấm che chắn có việc làm để nuôi sống bản thân.|
-008499|vietnamese-00|vietnamese|wavs/wavs16/segment_25.wav|||có quá nhiều cản trở và âu lo khiến cho chúng ta ngày càng cảm thấy cuộc sống vô vị.|
-008500|vietnamese-00|vietnamese|wavs/wavs16/segment_333.wav|||vì hạnh phúc của các con cũng như sức khoẻ thể chất và tinh thần của bản thân.|
-008501|vietnamese-00|vietnamese|wavs/wavs16/segment_358.wav|||bà không cầu bố mẹ và chồng có mối quan hệ hòa thuận.|
-008502|vietnamese-00|vietnamese|wavs/wavs16/segment_282.wav|||khi còn trẻ việc đặt ra kỳ vọng để làm động lực khiến cho bạn làm việc chăm chỉ không phải là điều xấu.|
-008503|vietnamese-00|vietnamese|wavs/wavs16/segment_401.wav|||những gì mà bạn muốn có được trong tay.|
-008504|vietnamese-00|vietnamese|wavs/wavs16/segment_395.wav|||thì sau này vẫn có những điều bạn khó có thể chấp nhận.|
-008505|vietnamese-00|vietnamese|wavs/wavs16/segment_124.wav|||họ đã không hiểu được bản chất của công việc.|
-008506|vietnamese-00|vietnamese|wavs/wavs16/segment_42.wav|||cũng chưa đăng bất kỳ bài báo nào.|
-008507|vietnamese-00|vietnamese|wavs/wavs16/segment_200.wav|||bà nakamura khuyên chúng ta rằng nếu không có cách để thay đổi thì hãy vui vẻ làm việc và chăm chỉ hết mình.|
-008508|vietnamese-00|vietnamese|wavs/wavs16/segment_92.wav|||chưa hay hiểu số phận cuộc đời khác biệt như vậy.|
-008509|vietnamese-00|vietnamese|wavs/wavs16/segment_139.wav|||lâu dần chính bạn sẽ bị ngợp thở và kiệt sức.|
-008510|vietnamese-00|vietnamese|wavs/wavs16/segment_174.wav|||đứng trước số mệnh không còn lựa chọn nào khác chi bằng hãy nhẹ nhàng chấp nhận.|
-008511|vietnamese-00|vietnamese|wavs/wavs16/segment_15.wav|||nhưng ngay sau đó vẫn là một biển mơ hồ.|
-008512|vietnamese-00|vietnamese|wavs/wavs16/segment_98.wav|||từng bước vất vả được nhận vào làm.|
-008513|vietnamese-00|vietnamese|wavs/wavs16/segment_309.wav|||trong suốt hơn bảy mươi năm công tác.|
-008514|vietnamese-00|vietnamese|wavs/wavs16/segment_283.wav|||nhưng khi trưởng thành hơn chúng ta phải học cách hiểu bản thân.|
-008515|vietnamese-00|vietnamese|wavs/wavs16/segment_109.wav|||có thể bỗng dưng sẽ thấy nhẹ nhõm.|
-008516|vietnamese-00|vietnamese|wavs/wavs17/segment_4.wav|||ai lấy miếng pho mát của tôi.|
-008517|vietnamese-00|vietnamese|wavs/wavs17/segment_180.wav|||ai trong chúng ta cũng đang tìm kiếm một miếng pho mát cho riêng mình.|
-008518|vietnamese-00|vietnamese|wavs/wavs17/segment_137.wav|||nhưng giáo sư lắc đầu nói.|
-008519|vietnamese-00|vietnamese|wavs/wavs17/segment_67.wav|||sự tự tiêu hao tinh thần.|
-008520|vietnamese-00|vietnamese|wavs/wavs17/segment_217.wav|||người khác phải coi trọng tôi.|
-008521|vietnamese-00|vietnamese|wavs/wavs17/segment_79.wav|||con bạn.|
-008522|vietnamese-00|vietnamese|wavs/wavs17/segment_90.wav|||mẹ làm như thế là không tin tưởng mình phải không.|
-008523|vietnamese-00|vietnamese|wavs/wavs17/segment_146.wav|||chỉ đơn giản vậy thôi.|
-008524|vietnamese-00|vietnamese|wavs/wavs17/segment_277.wav|||trên hành trình cuộc đời những bước đi chậm nhất không phải là bước đi nửa vời.|
-008525|vietnamese-00|vietnamese|wavs/wavs17/segment_270.wav|||nhưng cách tốt nhất vẫn là hãy sống như một chú chuột nhỏ.|
-008526|vietnamese-00|vietnamese|wavs/wavs17/segment_106.wav|||nhưng lại vẫn đi theo một lối mòn vào buổi sáng hôm sau.|
-008527|vietnamese-00|vietnamese|wavs/wavs17/segment_96.wav|||bên cạnh đó những cảm xúc tiêu cực mà nó mang lại.|
-008528|vietnamese-00|vietnamese|wavs/wavs17/segment_259.wav|||nhưng song song với nợ.|
-008529|vietnamese-00|vietnamese|wavs/wavs17/segment_86.wav|||có phải mình kém cỏi không.|
-008530|vietnamese-00|vietnamese|wavs/wavs17/segment_190.wav|||bạn lại rơi vào cảm giác hoảng sợ.|
-008531|vietnamese-00|vietnamese|wavs/wavs17/segment_93.wav|||thậm chí ngay cả những chuyện nhỏ nhặt cũng khiến cho bạn nghĩ rất lâu.|
-008532|vietnamese-00|vietnamese|wavs/wavs17/segment_9.wav|||ngày càng có nhiều người bị mắc kẹt trong chính sự tự tiêu hao tinh thần.|
-008533|vietnamese-00|vietnamese|wavs/wavs17/segment_160.wav|||nếu ông sếp nhìn với ánh mắt thái độ hãy giải quyết công việc hôm nay của bạn một cách chăm chú nhất.|
-008534|vietnamese-00|vietnamese|wavs/wavs17/segment_114.wav|||trọng trạp là người đầu tiên tự cứu mình.|
-008535|vietnamese-00|vietnamese|wavs/wavs17/segment_94.wav|||lối suy nghĩ này giống như có sức mê mị của một cơn nghiện.|
-008536|vietnamese-00|vietnamese|wavs/wavs17/segment_60.wav|||lấp đầy bộ não và làm dồi dẹp tâm trí họ.|
-008537|vietnamese-00|vietnamese|wavs/wavs17/segment_263.wav|||khi trong trường hợp như vậy.|
-008538|vietnamese-00|vietnamese|wavs/wavs17/segment_279.wav|||còn bước đi nhanh nhất là xông pha về phía trước hết mình cho giây phút hiện tại.|
-008539|vietnamese-00|vietnamese|wavs/wavs17/segment_234.wav|||kết quả thường là sẽ thành công.|
-008540|vietnamese-00|vietnamese|wavs/wavs17/segment_107.wav|||nếu những lo lắng và suy nghĩ của chúng ta cứ gặm nhầm chính mình.|
-008541|vietnamese-00|vietnamese|wavs/wavs17/segment_134.wav|||và hỏi sinh viên rằng.|
-008542|vietnamese-00|vietnamese|wavs/wavs17/segment_11.wav|||phức tạp hoà vấn đề.|
-008543|vietnamese-00|vietnamese|wavs/wavs17/segment_249.wav|||đừng nghĩ quá nhiều.|
-008544|vietnamese-00|vietnamese|wavs/wavs17/segment_225.wav|||không có bất cứ ai có thể trói buộc bạn.|
-008545|vietnamese-00|vietnamese|wavs/wavs17/segment_276.wav|||chứ không phải chỉ nghĩ về nọ.|
-008546|vietnamese-00|vietnamese|wavs/wavs17/segment_105.wav|||nhiều người vào ban đêm nghĩ ra hàng nghìn con đường cho tương lai.|
-008547|vietnamese-00|vietnamese|wavs/wavs17/segment_85.wav|||cố gắng học như vậy mà vẫn bị điểm thấp.|
-008548|vietnamese-00|vietnamese|wavs/wavs17/segment_170.wav|||tác giả đã viết trong sách.|
-008549|vietnamese-00|vietnamese|wavs/wavs17/segment_212.wav|||đơn giản là thôi không tập trung vào kết quả.|
-008550|vietnamese-00|vietnamese|wavs/wavs17/segment_230.wav|||đây chính là bí quyết để thành công.|
-008551|vietnamese-00|vietnamese|wavs/wavs17/segment_250.wav|||hãy biến mọi thứ phức tạp thành đơn giản giống như là chủ chuột.|
-008552|vietnamese-00|vietnamese|wavs/wavs17/segment_73.wav|||ợ lên rồi nhai lại tiếp.|
-008553|vietnamese-00|vietnamese|wavs/wavs17/segment_117.wav|||nhưng chậm trào không muốn nghĩ nhiều nữa.|
-008554|vietnamese-00|vietnamese|wavs/wavs17/segment_7.wav|||bằng câu chuyện ngụ ngôn đơn giản về hai người tí hon và hai chú chuột nhỏ đi tìm miếng phô mát trong mê cung.|
-008555|vietnamese-00|vietnamese|wavs/wavs17/segment_110.wav|||không ai có thể giúp bạn vào thời điểm này.|
-008556|vietnamese-00|vietnamese|wavs/wavs17/segment_5.wav|||tác giả là spencer johnson.|
-008557|vietnamese-00|vietnamese|wavs/wavs17/segment_295.wav|||cảm ơn bạn đã lắng nghe.|
-008558|vietnamese-00|vietnamese|wavs/wavs17/segment_176.wav|||một cơ thể khỏe mạnh.|
-008559|vietnamese-00|vietnamese|wavs/wavs17/segment_156.wav|||tập trung hoàn toàn vào hành động ở ngày hiện tại.|
-008560|vietnamese-00|vietnamese|wavs/wavs17/segment_58.wav|||những suy nghĩ như kiểu chuyện quái gì đang xảy ra ở đây.|
-008561|vietnamese-00|vietnamese|wavs/wavs17/segment_184.wav|||còn khi mất đi lại cảm thấy bị tổn thương.|
-008562|vietnamese-00|vietnamese|wavs/wavs17/segment_208.wav|||ở trạng thái này mọi thứ thường phát triển theo hướng ngược lại với mong đợi của bạn.|
-008563|vietnamese-00|vietnamese|wavs/wavs17/segment_286.wav|||rồi trở thành một người đơn giản và sống một cuộc đời tự do thực sự.|
-008564|vietnamese-00|vietnamese|wavs/wavs17/segment_228.wav|||về việc bạn sẽ làm gì hãy tin tưởng một điều rằng.|
-008565|vietnamese-00|vietnamese|wavs/wavs17/segment_172.wav|||và cũng tượng trưng cho thế giới nội tâm của con người.|
-008566|vietnamese-00|vietnamese|wavs/wavs17/segment_254.wav|||tôi chỉ làm và không lo lắng về kết quả.|
-008567|vietnamese-00|vietnamese|wavs/wavs17/segment_165.wav|||thay vì hành hạ bản thân trong sự tự tiêu hao nội tâm.|
-008568|vietnamese-00|vietnamese|wavs/wavs17/segment_46.wav|||lại là người và chuột.|
-008569|vietnamese-00|vietnamese|wavs/wavs17/segment_271.wav|||tập trung vào hiện tại.|
-008570|vietnamese-00|vietnamese|wavs/wavs17/segment_118.wav|||cậu ta lê thân thể yếu đuối của mình lao đao quanh mê cung.|
-008571|vietnamese-00|vietnamese|wavs/wavs17/segment_223.wav|||không dễ bị dao động.|
-008572|vietnamese-00|vietnamese|wavs/wavs17/segment_128.wav|||nhưng lần này cậu ấy không còn bị ám ảnh và ỷ lại vào đống phô mát khổng lồ này nữa.|
-008573|vietnamese-00|vietnamese|wavs/wavs17/segment_152.wav|||những suy nghĩ miên man sẽ khiến bạn cạn đi nguồn lực ý chí và thể chất.|
-008574|vietnamese-00|vietnamese|wavs/wavs17/segment_224.wav|||tuy nhiên buông bỏ kỳ vọng vào kết quả không có nghĩa là bạn sẽ từ bỏ việc muốn làm.|
-008575|vietnamese-00|vietnamese|wavs/wavs17/segment_119.wav|||thỉnh thoảng nhặt được một miếng pho mát bị móc vội vàng cầm lên và nuốt rừng.|
-008576|vietnamese-00|vietnamese|wavs/wavs17/segment_54.wav|||lập tức xỏ giày và chạy khắp mê cung để tìm khu phá mát mới.|
-008577|vietnamese-00|vietnamese|wavs/wavs17/segment_193.wav|||bất cứ khi nào điều gì đó bất ngờ xảy ra.|
-008578|vietnamese-00|vietnamese|wavs/wavs17/segment_233.wav|||nhưng đừng mong đợi thành công.|
-008579|vietnamese-00|vietnamese|wavs/wavs17/segment_45.wav|||tại sao nhân vật được tác giả xây dựng xuyên suốt câu chuyện này.|
-008580|vietnamese-00|vietnamese|wavs/wavs17/segment_214.wav|||không còn nghĩ.|
-008581|vietnamese-00|vietnamese|wavs/wavs17/segment_290.wav|||thu kia xinh xắn với ánh trăng tròn.|
-008582|vietnamese-00|vietnamese|wavs/wavs17/segment_191.wav|||trong suốt quá trình này.|
-008583|vietnamese-00|vietnamese|wavs/wavs17/segment_195.wav|||bạn sẽ bị xâm chiếm bởi cảm xúc và suy nghĩ khác nhau.|
-008584|vietnamese-00|vietnamese|wavs/wavs17/segment_81.wav|||hoặc vì mất một miếng pho mát.|
-008585|vietnamese-00|vietnamese|wavs/wavs17/segment_22.wav|||khi đang chạy quanh mê cung họ vô tình phát hiện ra khu phòng hc.|
-008586|vietnamese-00|vietnamese|wavs/wavs17/segment_126.wav|||bằng cách dừng suy nghĩ quá nhiều và không ngừng cổ vũ bản thân như vậy.|
-008587|vietnamese-00|vietnamese|wavs/wavs17/segment_255.wav|||nếu không thành công.|
-008588|vietnamese-00|vietnamese|wavs/wavs17/segment_34.wav|||ngược lại hai chú chuột vẫn luôn giữ cảnh giác.|
-008589|vietnamese-00|vietnamese|wavs/wavs17/segment_41.wav|||chứ bởi kẻ nào đó đã lấy các pho mát bằng những lời lẽ ác ý.|
-008590|vietnamese-00|vietnamese|wavs/wavs17/segment_52.wav|||khi tình hình ở trạm pho mát thay đổi.|
-008591|vietnamese-00|vietnamese|wavs/wavs17/segment_16.wav|||rồi.|
-008592|vietnamese-00|vietnamese|wavs/wavs17/segment_155.wav|||chuyển hướng chú ý vào bản thân.|
-008593|vietnamese-00|vietnamese|wavs/wavs17/segment_198.wav|||một vận động viên nhào lộn trên cao có tên là ronaldo.|
-008594|vietnamese-00|vietnamese|wavs/wavs17/segment_2.wav|||giới tinh anh và những người thành công trong xã hội gọi nó là sự khai mở của cuộc sống.|
-008595|vietnamese-00|vietnamese|wavs/wavs17/segment_296.wav|||nếu bạn cảm thấy video này có ích hãy chia sẻ với những người cần nó đừng quên tặng mình một nút like.|
-008596|vietnamese-00|vietnamese|wavs/wavs17/segment_294.wav|||mong cuộc đời của bạn bốn mùa đều là mùa đẹp nhất.|
-008597|vietnamese-00|vietnamese|wavs/wavs17/segment_68.wav|||và nghĩ nhiều quá mức là cách nhanh nhất khiến bản thân kiệt quệ.|
-008598|vietnamese-00|vietnamese|wavs/wavs17/segment_26.wav|||mỗi người đều có kỹ năng xác định phương hướng riêng để tìm kiếm pho mát.|
-008599|vietnamese-00|vietnamese|wavs/wavs17/segment_75.wav|||người có tư duy nghiền ngẫm ý nói rằng là người nghĩ đi nghĩ lại một ý tưởng một suy nghĩ nào đó.|
-008600|vietnamese-00|vietnamese|wavs/wavs17/segment_192.wav|||có nhiều thứ biến động mà bạn không thể kiểm soát.|
-008601|vietnamese-00|vietnamese|wavs/wavs17/segment_293.wav|||tâm hết rối bật.|
-008602|vietnamese-00|vietnamese|wavs/wavs17/segment_91.wav|||sẽ có vô số những câu hỏi như vậy.|
-008603|vietnamese-00|vietnamese|wavs/wavs17/segment_196.wav|||từ đó dễ đi đến thất bại ở nhiều khía cạnh cuộc sống.|
-008604|vietnamese-00|vietnamese|wavs/wavs17/segment_133.wav|||một giáo sư đã cầm một ly nước lên.|
-008605|vietnamese-00|vietnamese|wavs/wavs17/segment_76.wav|||dần dần vướng mắc vào một vòng lặp.|
-008606|vietnamese-00|vietnamese|wavs/wavs17/segment_203.wav|||chẳng ngờ kết quả là anh ta đã vô tình bị trượt ngã và tử vong các nhà tâm lý xã hội học gọi đây là tâm thái wlander.|
-008607|vietnamese-00|vietnamese|wavs/wavs17/segment_53.wav|||đánh hơi và nhanh nhẹn cũng quyết định thay đổi.|
-008608|vietnamese-00|vietnamese|wavs/wavs17/segment_221.wav|||hay ánh mắt khinh khỉnh như thế nào.|
-008609|vietnamese-00|vietnamese|wavs/wavs17/segment_27.wav|||nhưng chẳng bao lâu sau.|
-008610|vietnamese-00|vietnamese|wavs/wavs17/segment_231.wav|||giống như thiên tài tự học faraday đã từng nói.|
-008611|vietnamese-00|vietnamese|wavs/wavs17/segment_178.wav|||một lời khẳng định từ người khác.|
-008612|vietnamese-00|vietnamese|wavs/wavs17/segment_256.wav|||tôi sẽ chấp nhận.|
-008613|vietnamese-00|vietnamese|wavs/wavs17/segment_57.wav|||phân tích đi phân tích lại tình hình phức tạp hoà vấn đề.|
-008614|vietnamese-00|vietnamese|wavs/wavs17/segment_148.wav|||nguyên nhân gốc rễ của mọi gánh nặng là âu.|
-008615|vietnamese-00|vietnamese|wavs/wavs17/segment_97.wav|||không khác gì một vũng lầy ngột ngạt.|
-008616|vietnamese-00|vietnamese|wavs/wavs17/segment_235.wav|||mỗi người chúng ta đều là băng hạt dao dáng trong thế giới của mình.|
-008617|vietnamese-00|vietnamese|wavs/wavs17/segment_206.wav|||trong cuộc sống nếu quá chú ý đến kết quả và đánh giá của người khác.|
-008618|vietnamese-00|vietnamese|wavs/wavs17/segment_298.wav|||để đón xem những video mới nhất mỗi tuần.|
-008619|vietnamese-00|vietnamese|wavs/wavs17/segment_147.wav|||chỉ cần làm được hành động đầu tiên này bạn sẽ có những hành động đúng đắn tiếp theo.|
-008620|vietnamese-00|vietnamese|wavs/wavs17/segment_103.wav|||và suy nghĩ quá nhiều.|
-008621|vietnamese-00|vietnamese|wavs/wavs17/segment_275.wav|||cô sống có nghĩa là sống nọ.|
-008622|vietnamese-00|vietnamese|wavs/wavs17/segment_265.wav|||tức giận.|
-008623|vietnamese-00|vietnamese|wavs/wavs17/segment_56.wav|||nên làm gì tiếp theo.|
-008624|vietnamese-00|vietnamese|wavs/wavs17/segment_179.wav|||một phần thưởng chiến thắng cuộc thi.|
-008625|vietnamese-00|vietnamese|wavs/wavs17/segment_300.wav|||đừng vội làm thai khuôn viên trước khi đi làm việc.tiếp tục theo dõi các thông tin ca khúc từ nhật bản trong bài.|
-008626|vietnamese-00|vietnamese|wavs/wavs17/segment_289.wav|||mùa hạ đáng yêu khắp trời lộng gió.|
-008627|vietnamese-00|vietnamese|wavs/wavs17/segment_226.wav|||ngoại trừ bạn.|
-008628|vietnamese-00|vietnamese|wavs/wavs17/segment_278.wav|||mà là cứ đi đi lại lại quẩn quanh với những suy nghĩ lên miên.|
-008629|vietnamese-00|vietnamese|wavs/wavs17/segment_36.wav|||hai người tí hon tưởng rằng sẽ có thể sống thoải mái như thế này đến hết đời.|
-008630|vietnamese-00|vietnamese|wavs/wavs17/segment_161.wav|||nếu ai đó nói điều làm bạn tổn thương.|
-008631|vietnamese-00|vietnamese|wavs/wavs17/segment_121.wav|||tâm trạng cũng đã cải thiện nhiều.|
-008632|vietnamese-00|vietnamese|wavs/wavs17/segment_264.wav|||ban đầu chúng ta sẽ giống như người tí hon ù lì.|
-008633|vietnamese-00|vietnamese|wavs/wavs17/segment_55.wav|||trong khi đó hai người tí hon lại dành thời gian rất lâu để nghiên cứu xem.|
-008634|vietnamese-00|vietnamese|wavs/wavs17/segment_288.wav|||mùa xuân sẽ đẹp khi hoa nở rộ.|
-008635|vietnamese-00|vietnamese|wavs/wavs17/segment_89.wav|||cậu ấy hôm nay sao không trả lời tin nhắn của tôi.|
-008636|vietnamese-00|vietnamese|wavs/wavs17/segment_169.wav|||suy nghĩ quá nhiều là do vẫn còn kỳ vọng quá nhiều.|
-008637|vietnamese-00|vietnamese|wavs/wavs17/segment_47.wav|||sự khác biệt lớn giữa con người và động vật.|
-008638|vietnamese-00|vietnamese|wavs/wavs17/segment_260.wav|||trong xã hội vẫn luôn có một bộ phận người rất muốn thay đổi mà không thể thay đổi.|
-008639|vietnamese-00|vietnamese|wavs/wavs17/segment_236.wav|||còn chỉ là hạt bụi nhỏ nhoi trong thế giới của người khác.|
-008640|vietnamese-00|vietnamese|wavs/wavs17/segment_253.wav|||giống như bậc thầy tâm linh thế giới madivo aneddo đã từng nói.|
-008641|vietnamese-00|vietnamese|wavs/wavs17/segment_199.wav|||trước đó anh ta luôn luôn toàn tâm toàn ý tập trung vào việc đi trên dây nên lần nào cũng thành công.|
-008642|vietnamese-00|vietnamese|wavs/wavs17/segment_219.wav|||thì tự khắc sẽ không có quá nhiều điều phải bận tâm và suy nghĩ đến những thứ liên quan đến pho mát nữa.|
-008643|vietnamese-00|vietnamese|wavs/wavs17/segment_247.wav|||khi có được nên giữ sơ tâm và ý chí.|
-008644|vietnamese-00|vietnamese|wavs/wavs17/segment_164.wav|||một thay đổi còn giá trị hơn nhiều so với những kiên trì vô nghĩa.|
-008645|vietnamese-00|vietnamese|wavs/wavs17/segment_132.wav|||cái kết này làm mình nhớ đến thí nghiệm ly nước nổi tiếng trong tâm lý học.|
-008646|vietnamese-00|vietnamese|wavs/wavs17/segment_187.wav|||khi không đạt được bạn nghi ngờ bản thân oán thán hoàn cảnh.|
-008647|vietnamese-00|vietnamese|wavs/wavs17/segment_209.wav|||vì vậy.|
-008648|vietnamese-00|vietnamese|wavs/wavs17/segment_269.wav|||rồi dũng cảm đi bước thay đổi đầu tiên.|
-008649|vietnamese-00|vietnamese|wavs/wavs17/segment_220.wav|||cho dù việc gì xảy ra người nào đó nói điều gì với cái giọng gắt gỏng.|
-008650|vietnamese-00|vietnamese|wavs/wavs17/segment_32.wav|||tinh khí của trộm chạp và ú lì bắt đầu sinh ra tự mãn.|
-008651|vietnamese-00|vietnamese|wavs/wavs17/segment_87.wav|||sao sếp lại nhìn mình như vậy.|
-008652|vietnamese-00|vietnamese|wavs/wavs17/segment_183.wav|||nhiều người bắt đầu phụ thuộc vào nó.|
-008653|vietnamese-00|vietnamese|wavs/wavs17/segment_245.wav|||ai đã động vào miếng pho mát của tôi ai đã lấy đi miếng pho mát của tôi rồi.|
-008654|vietnamese-00|vietnamese|wavs/wavs17/segment_19.wav|||qua cuốn tiểu thuyết.|
-008655|vietnamese-00|vietnamese|wavs/wavs17/segment_112.wav|||thoát khỏi mê cung rối bời của chính mình.|
-008656|vietnamese-00|vietnamese|wavs/wavs17/segment_162.wav|||hãy đi tắm một lọ hoa tập thể dục cho thân hình khỏe đẹp hoặc làm việc mình thích.|
-008657|vietnamese-00|vietnamese|wavs/wavs17/segment_95.wav|||nếu không chú ý sẽ rơi vào tình trạng bối rối không tìm được lối thoát.|
-008658|vietnamese-00|vietnamese|wavs/wavs17/segment_163.wav|||nhiều khi một hành động tốt hơn cả ngàn suy nghĩ.|
-008659|vietnamese-00|vietnamese|wavs/wavs17/segment_18.wav|||cách cốt lõi để ngừng suy nghĩ quá nhiều.|
-008660|vietnamese-00|vietnamese|wavs/wavs17/segment_268.wav|||lấy về bình tĩnh qua việc nhìn nhận lại.|
-008661|vietnamese-00|vietnamese|wavs/wavs17/segment_267.wav|||sau đó có thể dùng như chậm chạp.|
-008662|vietnamese-00|vietnamese|wavs/wavs17/segment_71.wav|||cũng giống như các loài động vật trâu bò dê cừu.|
-008663|vietnamese-00|vietnamese|wavs/wavs17/segment_197.wav|||trong tâm lý học có một hiệu ứng tên là wlander.|
-008664|vietnamese-00|vietnamese|wavs/wavs17/segment_182.wav|||nhưng khi nắm trong tay hạnh phúc rồi.|
-008665|vietnamese-00|vietnamese|wavs/wavs17/segment_13.wav|||và khước từ sự thay đổi.|
-008666|vietnamese-00|vietnamese|wavs/wavs17/segment_227.wav|||buông đi kì vọng bạn sẽ mới có thể thực sự tự do và làm được những việc đem lại giá trị thực sự đối với mình.|
-008667|vietnamese-00|vietnamese|wavs/wavs17/segment_99.wav|||kết quả là những lo âu trong cuộc sống hàng ngày trở nên lớn hơn.|
-008668|vietnamese-00|vietnamese|wavs/wavs17/segment_242.wav|||chấm dứt việc tự tiêu hao tinh thần.|
-008669|vietnamese-00|vietnamese|wavs/wavs17/segment_299.wav|||một lần nữa chân thành cảm ơn và hẹn gặp lại các bạn ở những video tiếp theo.|
-008670|vietnamese-00|vietnamese|wavs/wavs17/segment_150.wav|||người nghĩ quá nhiều luôn muốn biết nhiều hơn muốn cập nhật tin tức muốn chắc chắn mọi thứ mới bắt tay vào làm.|
-008671|vietnamese-00|vietnamese|wavs/wavs17/segment_131.wav|||chờ đợi cái chết từ từ đến gần.|
-008672|vietnamese-00|vietnamese|wavs/wavs17/segment_210.wav|||cách tốt nhất để chấm dứt suy nghĩ quá nhiều là hành động.|
-008673|vietnamese-00|vietnamese|wavs/wavs17/segment_272.wav|||buông bỏ bất kỳ vọng.|
-008674|vietnamese-00|vietnamese|wavs/wavs17/segment_177.wav|||một ngôi biệt thự đẹp.|
-008675|vietnamese-00|vietnamese|wavs/wavs17/segment_241.wav|||không những là cách cốt lõi để ngừng suy nghĩ quá nhiều.|
-008676|vietnamese-00|vietnamese|wavs/wavs17/segment_229.wav|||một cái tôi đơn giản thuần túy không lẫn tạp âm sẽ dẫn đường cho bạn đi.|
-008677|vietnamese-00|vietnamese|wavs/wavs17/segment_136.wav|||có người nói năm gam có người nói mười gam.|
-008678|vietnamese-00|vietnamese|wavs/wavs17/segment_77.wav|||nhưng không bao giờ có thể đưa ra một quyết định hay giải pháp cụ thể.|
-008679|vietnamese-00|vietnamese|wavs/wavs17/segment_43.wav|||hai người họ kêu gào trong cơn đói.|
-008680|vietnamese-00|vietnamese|wavs/wavs17/segment_24.wav|||vốn dĩ lúc đầu.|
-008681|vietnamese-00|vietnamese|wavs/wavs17/segment_232.wav|||hãy theo đuổi thành công một cách hết mình.|
-008682|vietnamese-00|vietnamese|wavs/wavs17/segment_120.wav|||dần dần cậu lấy lại được sức lực.|
-008683|vietnamese-00|vietnamese|wavs/wavs17/segment_29.wav|||hai người tí hon bắt đầu thay đổi.|
-008684|vietnamese-00|vietnamese|wavs/wavs17/segment_66.wav|||mà chính là cuộc chiến tự thân không ngừng nghỉ trong bạn.|
-008685|vietnamese-00|vietnamese|wavs/wavs17/segment_280.wav|||đừng nhìn về quá khứ không thể cứu vạn hay gửi nỗi canh cánh cho ngày mai chưa đến.|
-008686|vietnamese-00|vietnamese|wavs/wavs17/segment_285.wav|||tự khắc bạn sẽ biết điều gì không quan trọng điều gì là quan trọng với bạn.|
-008687|vietnamese-00|vietnamese|wavs/wavs17/segment_238.wav|||việc đặt kỳ vọng vào người ngoài và những vật chất hay danh tiếng địa vị ở thế giới ngoài kia.|
-008688|vietnamese-00|vietnamese|wavs/wavs17/segment_129.wav|||và mỗi ngày đều đến trạm n ăn pho mát rồi chạy khắp mê cung để tiếp tục tìm kiếm.|
-008689|vietnamese-00|vietnamese|wavs/wavs17/segment_281.wav|||mà bỏ qua vẻ đẹp của phút giây ở ngay bây giờ.|
-008690|vietnamese-00|vietnamese|wavs/wavs17/segment_141.wav|||nhưng nếu bạn cầm nó cả ngày.|
-008691|vietnamese-00|vietnamese|wavs/wavs17/segment_189.wav|||cuối cùng nếu mất đi.|
-008692|vietnamese-00|vietnamese|wavs/wavs17/segment_194.wav|||và nếu với con tim vẫn còn đặt nhiều kỳ vọng ở miệng pho mát.|
-008693|vietnamese-00|vietnamese|wavs/wavs17/segment_125.wav|||ít nhất là cậu đang kiểm soát tình hình.|
-008694|vietnamese-00|vietnamese|wavs/wavs17/segment_144.wav|||câu trả lời đó là.|
-008695|vietnamese-00|vietnamese|wavs/wavs17/segment_72.wav|||chúng ăn thức ăn vào bụng.|
-008696|vietnamese-00|vietnamese|wavs/wavs17/segment_30.wav|||họ dạy muộn hơn không kiên trì chạy nữa.|
-008697|vietnamese-00|vietnamese|wavs/wavs17/segment_284.wav|||là một quá trình loại bỏ dần dần.|
-008698|vietnamese-00|vietnamese|wavs/wavs17/segment_69.wav|||trong tâm lý học thì có một thuật ngữ đó là tư duy nghiền ngẫm rumination.|
-008699|vietnamese-00|vietnamese|wavs/wavs17/segment_175.wav|||một mối quan hệ hạnh phúc.|
-008700|vietnamese-00|vietnamese|wavs/wavs17/segment_39.wav|||toàn bộ pho mát biến mất sự việc xảy ra ngoài ý muốn chậm chạp và ù lì lúc đầu bàng hoàng.|
-008701|vietnamese-00|vietnamese|wavs/wavs17/segment_88.wav|||cô ta nói như vậy có ý gì với mình.|
-008702|vietnamese-00|vietnamese|wavs/wavs17/segment_287.wav|||cuối cùng thì mình muốn gửi tặng bạn một vài lời thơ.|
-008703|vietnamese-00|vietnamese|wavs/wavs17/segment_78.wav|||chậm chạp và ù lì đã rơi vào trạng thái nghiền ngẫm này khi mà pho mát của họ bị mất.|
-008704|vietnamese-00|vietnamese|wavs/wavs17/segment_12.wav|||để cuối cùng dội mình vào đường cụt của mê cung.|
-008705|vietnamese-00|vietnamese|wavs/wavs17/segment_240.wav|||bạn sẽ thấy việc ngừng đạt kỳ vọng và miếng phô mát.|
-008706|vietnamese-00|vietnamese|wavs/wavs17/segment_101.wav|||nhà văn quá cố dương dáng có nói rằng.|
-008707|vietnamese-00|vietnamese|wavs/wavs17/segment_123.wav|||dù điều mà cậu đang làm hiện không khiến cho bản thân cảm thấy thoải mái.|
-008708|vietnamese-00|vietnamese|wavs/wavs17/segment_140.wav|||lần đầu tiên bạn cầm nó có thể chỉ nặng năm gam.|
-008709|vietnamese-00|vietnamese|wavs/wavs17/segment_28.wav|||trong niềm vui mừng khôn xiết trước một nguồn cung cấp pho mát vô tận.|
-008710|vietnamese-00|vietnamese|wavs/wavs17/segment_258.wav|||vượt qua vùng an toàn dũng cảm để thay đổi.|
-008711|vietnamese-00|vietnamese|wavs/wavs17/segment_70.wav|||từ rummination có nghĩa là nhai lại.|
-008712|vietnamese-00|vietnamese|wavs/wavs17/segment_122.wav|||mỗi khi cảm thấy nhụt chí cậu tự nhủ với bản thân rằng.|
-008713|vietnamese-00|vietnamese|wavs/wavs17/segment_6.wav|||một trong những nhà văn nổi tiếng được kính trọng nhất thế giới.|
-008714|vietnamese-00|vietnamese|wavs/wavs17/segment_23.wav|||chưa bao la các miếng phô mát thơm ngon.|
-008715|vietnamese-00|vietnamese|wavs/wavs17/segment_273.wav|||nghĩ ít đi và làm nhiều hơn.|
-008716|vietnamese-00|vietnamese|wavs/wavs17/segment_82.wav|||mà nghiền ngẫm suy nghĩ quá nhiều để rồi nghiền nát chính tinh thần của mình hay không.|
-008717|vietnamese-00|vietnamese|wavs/wavs17/segment_157.wav|||nếu mất miệng pho mát.|
-008718|vietnamese-00|vietnamese|wavs/wavs17/segment_64.wav|||điều khiến bạn đau khổ nhất không phải vì mất đi thứ gì hay không phải vì một sự việc.|
-008719|vietnamese-00|vietnamese|wavs/wavs17/segment_215.wav|||tôi nhất định phải thi đỗ trường a trường b.|
-008720|vietnamese-00|vietnamese|wavs/wavs17/segment_201.wav|||anh ta luôn nhấn mạnh tầm quan trọng của màn trình diễn này.|
-008721|vietnamese-00|vietnamese|wavs/wavs17/segment_84.wav|||giá như mình chọn cách làm đó.|
-008722|vietnamese-00|vietnamese|wavs/wavs17/segment_186.wav|||trước khi không có pho mát bạn thèm bún.|
-008723|vietnamese-00|vietnamese|wavs/wavs17/segment_127.wav|||cuối cùng chậm chạp cũng tìm được trạm formosa ener giống như các chú chuột nhỏ.|
-008724|vietnamese-00|vietnamese|wavs/wavs17/segment_266.wav|||nghi ngờ và do dự.|
-008725|vietnamese-00|vietnamese|wavs/wavs17/segment_274.wav|||có một câu nói rằng.|
-008726|vietnamese-00|vietnamese|wavs/wavs17/segment_20.wav|||ai lấy miệng pho mát của tôi.|
-008727|vietnamese-00|vietnamese|wavs/wavs17/segment_143.wav|||vậy làm thế nào để thoát khỏi gánh nặng này.|
-008728|vietnamese-00|vietnamese|wavs/wavs17/segment_37.wav|||nhưng khoảng thời gian vui vẻ đó không kéo dài bao lâu.|
-008729|vietnamese-00|vietnamese|wavs/wavs17/segment_65.wav|||một người nào đó đi ngược lại với mong muốn của mình.|
-008730|vietnamese-00|vietnamese|wavs/wavs17/segment_48.wav|||là nằm ở bộ não và khả năng tư duy.|
-008731|vietnamese-00|vietnamese|wavs/wavs17/segment_83.wav|||giá như mình cố gắng hơn một chút thì đã không ra nông nỗi này.|
-008732|vietnamese-00|vietnamese|wavs/wavs17/segment_49.wav|||nhưng đôi khi những suy nghĩ phức tạp trong tâm trí sẽ có thể khiến một người lạc vào mê cung nội tâm.|
-008733|vietnamese-00|vietnamese|wavs/wavs17/segment_33.wav|||cân nặng cũng vì thế mà tăng vọt.|
-008734|vietnamese-00|vietnamese|wavs/wavs17/segment_251.wav|||lập tức hành động và quan trọng là.|
-008735|vietnamese-00|vietnamese|wavs/wavs17/segment_248.wav|||khi mất đi thì tùy ý.|
-008736|vietnamese-00|vietnamese|wavs/wavs17/segment_130.wav|||còn ủ lì thì vẫn đang phàn nàn về nỗi mất mát.|
-008737|vietnamese-00|vietnamese|wavs/wavs17/segment_202.wav|||và nói rằng không thể thất bại.|
-008738|vietnamese-00|vietnamese|wavs/wavs17/segment_63.wav|||thực chất.|
-008739|vietnamese-00|vietnamese|wavs/wavs17/segment_135.wav|||các em đoạn xem ly nước này nặng bao nhiêu.|
-008740|vietnamese-00|vietnamese|wavs/wavs17/segment_244.wav|||đến lúc đó bạn chẳng còn lo âu sợ hãi và muốn hỏi.|
-008741|vietnamese-00|vietnamese|wavs/wavs17/segment_181.wav|||chúng ta tin rằng có được miếng pho mát sẽ mang lại hạnh phúc.|
-008742|vietnamese-00|vietnamese|wavs/wavs17/segment_167.wav|||để phá vỡ bế tắc này.|
-008743|vietnamese-00|vietnamese|wavs/wavs17/segment_204.wav|||muốn chỉ tâm lý của một người không tập trung vào bản thân sự việc.|
-008744|vietnamese-00|vietnamese|wavs/wavs17/segment_108.wav|||mà không có hành động giải quyết thì chắc chắn chúng sẽ ngày càng lớn hơn như một quả cầu tiết.|
-008745|vietnamese-00|vietnamese|wavs/wavs17/segment_292.wav|||nhưng một điểm nhất chỉ có trong đời đơn giản là lúc.|
-008746|vietnamese-00|vietnamese|wavs/wavs17/segment_237.wav|||chính vì thế.|
-008747|vietnamese-00|vietnamese|wavs/wavs17/segment_62.wav|||đắm chìm trong nỗi đau mất phó mát.|
-008748|vietnamese-00|vietnamese|wavs/wavs17/segment_138.wav|||trọng lượng của nước không phụ thuộc vào gam.|
-008749|vietnamese-00|vietnamese|wavs/wavs17/segment_142.wav|||có lẽ nó nặng cả trăm cân.|
-008750|vietnamese-00|vietnamese|wavs/wavs17/segment_211.wav|||cách để duy trì hành động trong tự do và niềm vui.|
-008751|vietnamese-00|vietnamese|wavs/wavs17/segment_111.wav|||trừ khi bạn quyết định tung một cú đấm phá vỡ trước lòng cảm xúc.|
-008752|vietnamese-00|vietnamese|wavs/wavs17/segment_8.wav|||ông đã chỉ ra một vấn đề lớn trong xã hội hiện nay đó là.|
-008753|vietnamese-00|vietnamese|wavs/wavs17/segment_100.wav|||cuối cùng nhấn chìm bạn hoàn toàn.|
-008754|vietnamese-00|vietnamese|wavs/wavs17/segment_153.wav|||mà đáng lẽ bạn nên cần nó để giải quyết vấn đề.|
-008755|vietnamese-00|vietnamese|wavs/wavs17/segment_243.wav|||mà còn có thể giúp bạn thực sự đạt được điều mong muốn trong sự tự do và niềm vui sống.|
-008756|vietnamese-00|vietnamese|wavs/wavs17/segment_171.wav|||mê cung tượng trưng cho sự phức tạp của xã hội hiện thực.|
-008757|vietnamese-00|vietnamese|wavs/wavs17/segment_297.wav|||nhìn nuốt theo dõi và mở nuốt chuông thông báo.|
-008758|vietnamese-00|vietnamese|wavs/wavs17/segment_205.wav|||mà chỉ lo lắng đến vấn đề được mất.|
-008759|vietnamese-00|vietnamese|wavs/wavs17/segment_50.wav|||tự dồn mình vào ngõ cụt.|
-008760|vietnamese-00|vietnamese|wavs/wavs17/segment_246.wav|||thì cũng chẳng sao cả.|
-008761|vietnamese-00|vietnamese|wavs/wavs17/segment_213.wav|||một khi bạn không còn ôm bất cứ kỳ vọng vào một miếng phô mai nào đó.|
-008762|vietnamese-00|vietnamese|wavs/wavs17/segment_261.wav|||đó thường là những người đang có vấn đề về sự tự teo hao tinh thần.|
-008763|vietnamese-00|vietnamese|wavs/wavs17/segment_252.wav|||không cần kỳ vọng vào bất cứ ai hay điều gì.|
-008764|vietnamese-00|vietnamese|wavs/wavs17/segment_159.wav|||nếu lần này thì không được hãy tập trung học và ôn cho lần tiếp theo.|
-008765|vietnamese-00|vietnamese|wavs/wavs17/segment_17.wav|||bây giờ mời các bạn cùng lắng nghe một chia sẻ của bà rơ vờ rình mang tên.|
-008766|vietnamese-00|vietnamese|wavs/wavs17/segment_14.wav|||nếu bạn vẫn còn đang có nhiều lo âu bối rối và rơi vào trạng thái overthinking suy nghĩ quá mức.|
-008767|vietnamese-00|vietnamese|wavs/wavs17/segment_44.wav|||tuyệt vọng và bất lực.|
-008768|vietnamese-00|vietnamese|wavs/wavs17/segment_149.wav|||đó là bạn đã nghĩ quá nhiều mà làm quá ít.|
-008769|vietnamese-00|vietnamese|wavs/wavs17/segment_40.wav|||sau đó giận dữ tố cáo nhau.|
-008770|vietnamese-00|vietnamese|wavs/wavs17/segment_104.wav|||thực vậy.|
-008771|vietnamese-00|vietnamese|wavs/wavs17/segment_218.wav|||vân vân.|
-008772|vietnamese-00|vietnamese|wavs/wavs17/segment_154.wav|||cách tốt nhất để ngừng tự tiêu hao tinh thần đó là ngừng nhìn ra thế giới bên ngoài.|
-008773|vietnamese-00|vietnamese|wavs/wavs17/segment_158.wav|||hãy đi tìm một miếng pho mát khác.|
-008774|vietnamese-00|vietnamese|wavs/wavs17/segment_3.wav|||và đó chính là cuốn tiểu thuyết.|
-008775|vietnamese-00|vietnamese|wavs/wavs17/segment_291.wav|||đông giang đẹp lắm bởi tuyết trắng rơi.|
-008776|vietnamese-00|vietnamese|wavs/wavs17/segment_207.wav|||chúng ta sẽ bỏ qua bản thân sự việc gặp nhiều áp lực suy nghĩ nhiều hơn và dễ tự tiêu hao tinh thần.|
-008777|vietnamese-00|vietnamese|wavs/wavs17/segment_113.wav|||căn nguyên của mọi phiền não nghĩ quá nhiều làm quá ít trong số hai người tí hon.|
-008778|vietnamese-00|vietnamese|wavs/wavs17/segment_51.wav|||hai chú chuột nhỏ không bao giờ phân tiết mọi việc quá nhiều.|
-008779|vietnamese-00|vietnamese|wavs/wavs17/segment_262.wav|||như là khủng hoảng lo sợ trì hoãn trầm cảm suy nghĩ quá nhiều.|
-008780|vietnamese-00|vietnamese|wavs/wavs17/segment_35.wav|||hằng ngày kiểm tra xem khu phó mác xê có bất kỳ sự thay đổi nào không.|
-008781|vietnamese-00|vietnamese|wavs/wavs17/segment_151.wav|||tuy nhiên việc mong cầu sự suôn sẻ phấn đấu cho điều hoàn hảo chỉ khiến cho nhiều vấn đề phát sinh hơn.|
-008782|vietnamese-00|vietnamese|wavs/wavs17/segment_166.wav|||tốt hơn hết bạn nên dùng hành động.|
-008783|vietnamese-00|vietnamese|wavs/wavs17/segment_145.wav|||hãy đặt nó xuống.|
-008784|vietnamese-00|vietnamese|wavs/wavs17/segment_239.wav|||sẽ chỉ khiến cho bản thân sống một cuộc đời tốn công vô ích.|
-008785|vietnamese-00|vietnamese|wavs/wavs17/segment_80.wav|||bạn có đang vì muốn có miếng pho mát nào đó vì níu giữ miếng pho mát.|
-008786|vietnamese-00|vietnamese|wavs/wavs17/segment_116.wav|||nếu tìm không thấy thì sẽ như thế nào lỡ gặp rủi ro thì sao.|
-008787|vietnamese-00|vietnamese|wavs/wavs17/segment_222.wav|||bạn cũng sẽ như bức tường vững chắc.|
-008788|vietnamese-00|vietnamese|wavs/wavs17/segment_59.wav|||tại sao điều này lại xảy ra với tôi.|
-008789|vietnamese-00|vietnamese|wavs/wavs17/segment_61.wav|||và rồi khi đánh hơi và nhanh nhẹn đã tìm thấy khu pho mát mới chậm chạp cùng ô lì vẫn đang đánh giá tình hình ở khu pho mát c.|
-008790|vietnamese-00|vietnamese|wavs/wavs17/segment_102.wav|||vấn đề của bạn là đọc sách quá ít.|
-008791|vietnamese-00|vietnamese|wavs/wavs17/segment_31.wav|||cũng không còn lo lắng phải kiếm pho mát hàng ngày.|
-008792|vietnamese-00|vietnamese|wavs/wavs17/segment_74.wav|||sau đó lặp lại chu kỳ này.|
-008793|vietnamese-00|vietnamese|wavs/wavs17/segment_38.wav|||bỗng nhiên một ngày.|
-008794|vietnamese-00|vietnamese|wavs/wavs17/segment_10.wav|||mà điển hình đó là suy nghĩ quá nhiều.|
-008795|vietnamese-00|vietnamese|wavs/wavs17/segment_188.wav|||còn khi có được rồi bạn sẽ mãn nguyện và không chịu thoát khỏi vùng an toàn.|
-008796|vietnamese-00|vietnamese|wavs/wavs17/segment_25.wav|||cả bốn thường xuyên chăm chỉ dậy sớm mỗi ngày.|
-008797|vietnamese-00|vietnamese|wavs/wavs17/segment_282.wav|||đơn giản hóa mọi thứ phức tạp bằng một trái tim không còn bám chắc vào kỳ vọng ở bất cứ ai hay việc gì.|
-008798|vietnamese-00|vietnamese|wavs/wavs17/segment_124.wav|||nhưng nó vẫn tốt hơn rất nhiều so với việc bị mắc kẹt trong tình trạng không có miếng phô mai nào để ăn.|
-008799|vietnamese-00|vietnamese|wavs/wavs17/segment_42.wav|||chỉ trong vài ngày.|
-008800|vietnamese-00|vietnamese|wavs/wavs17/segment_200.wav|||nhưng một lần kia trước khi lên sân khấu.|
-008801|vietnamese-00|vietnamese|wavs/wavs17/segment_92.wav|||sự nghiền ngẫm thì sẽ luôn đi kèm với sự nhạy cảm.|
-008802|vietnamese-00|vietnamese|wavs/wavs17/segment_139.wav|||và phụ thuộc vào thời gian cầm nó.|
-008803|vietnamese-00|vietnamese|wavs/wavs17/segment_173.wav|||còn pho mát tượng trưng cho những điều bạn mong muốn nhất trong một giai đoạn nhất định ở cuộc đời.|
-008804|vietnamese-00|vietnamese|wavs/wavs17/segment_174.wav|||đó có thể là một công việc lương cao.|
-008805|vietnamese-00|vietnamese|wavs/wavs17/segment_15.wav|||thì cuốn sách này có thể cho bạn một động lực và lưu thức giải để thay đổi.|
-008806|vietnamese-00|vietnamese|wavs/wavs17/segment_98.wav|||nhưng lại khiến người ta đam mê nó và hao mòn dần sức mạnh để giải thoát bản thân.|
-008807|vietnamese-00|vietnamese|wavs/wavs17/segment_283.wav|||để cuối cùng bạn sẽ nhận ra cuộc sống này.|
-008808|vietnamese-00|vietnamese|wavs/wavs17/segment_109.wav|||cuối cùng đè nặng và khiến bạn ngạt thở.|
 12575|english|english|LJSpeech-1.1/wavs/LJ048-0272.wav|||Chief Rowley testified|
 12576|english|english|LJSpeech-1.1/wavs/LJ048-0273.wav|||that under ordinary circumstances he would have taken disciplinary action against those agents who had been drinking in clear violation of the regulation.|
 12577|english|english|LJSpeech-1.1/wavs/LJ048-0274.wav|||However, he felt that any disciplinary action might have given rise|
@@ -960,3 +523,292 @@
 13097|english|english|LJSpeech-1.1/wavs/LJ050-0276.wav|||As has been pointed out, the Commission has not resolved all the proposals which could be made. The Commission nevertheless is confident that,|
 13098|english|english|LJSpeech-1.1/wavs/LJ050-0277.wav|||with the active cooperation of the responsible agencies and with the understanding of the people of the United States in their demands upon their President,|
 13099|english|english|LJSpeech-1.1/wavs/LJ050-0278.wav|||the recommendations we have here suggested would greatly advance the security of the office without any impairment of our fundamental liberties.|
+002860|vietnamese-00|vietnamese|wavs/wavs5/segment_311.wav|||một lần nữa.|
+002861|vietnamese-00|vietnamese|wavs/wavs5/segment_260.wav|||một số người thì tìm cách thay đổi để thuận theo ý kiến của người khác.|
+002862|vietnamese-00|vietnamese|wavs/wavs5/segment_120.wav|||chính là biểu tượng được tác giả dùng để chỉ sự thật mà chúng ta luôn muốn cố gắng bảo vệ.|
+002863|vietnamese-00|vietnamese|wavs/wavs5/segment_122.wav|||bạn càng giữ khư khư thì dãy dây sẽ vô hình chung như kề và cổ bạn.|
+002864|vietnamese-00|vietnamese|wavs/wavs5/segment_19.wav|||hơn một trăm năm trước ông hàng truyện ngắn idlibobetian đã nói rõ về tác hại của việc rơi vào nghịch lý của sự tự trừng.|
+002865|vietnamese-00|vietnamese|wavs/wavs5/segment_278.wav|||còn tôi không bận tâm.|
+002866|vietnamese-00|vietnamese|wavs/wavs5/segment_47.wav|||nhưng lưng hơi còng xuống vì bẽ mặt.|
+002867|vietnamese-00|vietnamese|wavs/wavs5/segment_145.wav|||người hoạ sĩ mới nói.|
+002868|vietnamese-00|vietnamese|wavs/wavs5/segment_285.wav|||buông bỏ đi sự nhạy cảm yếu đuối khi nghe thấy ngôn ngữ sắc bén của người khác.|
+002869|vietnamese-00|vietnamese|wavs/wavs5/segment_263.wav|||còn nếu trong trường hợp chạy theo đánh giá của xã hội để thay đổi bản thân.|
+002870|vietnamese-00|vietnamese|wavs/wavs5/segment_52.wav|||và đưa ông đến trụ sở cảnh sát để thẩm vấn.|
+002871|vietnamese-00|vietnamese|wavs/wavs5/segment_34.wav|||rồi mời các bạn cùng lắng nghe.|
+002872|vietnamese-00|vietnamese|wavs/wavs5/segment_254.wav|||cũng như sự thỏa mãn và viên mãn khi nâng cao bản thân.|
+002873|vietnamese-00|vietnamese|wavs/wavs5/segment_53.wav|||hòa ra.|
+002874|vietnamese-00|vietnamese|wavs/wavs5/segment_313.wav|||và hẹn gặp lại các bạn ở những video tiếp theo.|
+002875|vietnamese-00|vietnamese|wavs/wavs5/segment_249.wav|||luôn có người khuyên.|
+002876|vietnamese-00|vietnamese|wavs/wavs5/segment_286.wav|||im lặng và quay lưng đi.|
+002877|vietnamese-00|vietnamese|wavs/wavs5/segment_87.wav|||ông hàng ngày đi quanh làng kể cho mọi người nghe về sự oan ức của mình.|
+002878|vietnamese-00|vietnamese|wavs/wavs5/segment_217.wav|||đối với người khác thường không quan trọng.|
+002879|vietnamese-00|vietnamese|wavs/wavs5/segment_140.wav|||nhưng ông ấy chỉ mỉm cười không nói gì và tiếp tục xử lý bức tranh.|
+002880|vietnamese-00|vietnamese|wavs/wavs5/segment_239.wav|||tĩnh lặng là khi gặp phải đánh giá chê bai không cần bực mình.|
+002881|vietnamese-00|vietnamese|wavs/wavs5/segment_92.wav|||dưới sự hành hạ từ lời đồn của mọi người xung quanh.|
+002882|vietnamese-00|vietnamese|wavs/wavs5/segment_310.wav|||tặng mình một nút like nhấn nút đăng ký và mở nút chuông thông báo để đón xem những video mới nhất mỗi tuần.|
+002883|vietnamese-00|vietnamese|wavs/wavs5/segment_121.wav|||như trong mắt người khác nó chỉ là điều vô lý.|
+002884|vietnamese-00|vietnamese|wavs/wavs5/segment_64.wav|||để chứng minh không có gì bên trong.|
+002885|vietnamese-00|vietnamese|wavs/wavs5/segment_109.wav|||chính vì vậy bạn không thể đồng tình với ý kiến của người khác.|
+002886|vietnamese-00|vietnamese|wavs/wavs5/segment_244.wav|||khi bạn thích đọc sách luôn có người chế nhạo bạn tri thức dòm.|
+002887|vietnamese-00|vietnamese|wavs/wavs5/segment_174.wav|||tĩnh lặng là khi đối mặt với sự nghi ngờ không sôi sục sự hoài nghi bản thân.|
+002888|vietnamese-00|vietnamese|wavs/wavs5/segment_220.wav|||tôi bị đồng nghiệp bắt nạt.|
+002889|vietnamese-00|vietnamese|wavs/wavs5/segment_296.wav|||những lời giải thích của bạn về tôi không thể yển nổi một phần vạn bản thân tôi.|
+002890|vietnamese-00|vietnamese|wavs/wavs5/segment_100.wav|||đó là không muốn người khác đánh giá mình nghèo khổ.|
+002891|vietnamese-00|vietnamese|wavs/wavs5/segment_142.wav|||đây rõ ràng là phương pháp trầy mực trong hội họa.|
+002892|vietnamese-00|vietnamese|wavs/wavs5/segment_304.wav|||thì im lặng là cách xử lý mạnh mẽ nhất cho bạn và tôi.|
+002893|vietnamese-00|vietnamese|wavs/wavs5/segment_300.wav|||cũng không thể định nghĩa nhân cách con người bạn.|
+002894|vietnamese-00|vietnamese|wavs/wavs5/segment_1.wav|||chào mừng các bạn đã đến với battleregion.|
+002895|vietnamese-00|vietnamese|wavs/wavs5/segment_115.wav|||trước sự quy lỗi kết tội.|
+002896|vietnamese-00|vietnamese|wavs/wavs5/segment_156.wav|||hãy nhớ rằng.|
+002897|vietnamese-00|vietnamese|wavs/wavs5/segment_62.wav|||tò mò hỏi về chi tiết.|
+002898|vietnamese-00|vietnamese|wavs/wavs5/segment_206.wav|||nói như vậy là cực đoan.|
+002899|vietnamese-00|vietnamese|wavs/wavs5/segment_69.wav|||đừng giả vờ nữa lão làu cả.|
+002900|vietnamese-00|vietnamese|wavs/wavs5/segment_58.wav|||và yêu cầu cảnh sát khám người.|
+002901|vietnamese-00|vietnamese|wavs/wavs5/segment_193.wav|||có thể nhiều người sẽ nghĩ.|
+002902|vietnamese-00|vietnamese|wavs/wavs5/segment_203.wav|||đừng bao giờ kể khổ với người khác.|
+002903|vietnamese-00|vietnamese|wavs/wavs5/segment_275.wav|||có một nhà văn thể hiện quan điểm khi bị đồng nghiệp ác ý sỉ nhục như thế này.|
+002904|vietnamese-00|vietnamese|wavs/wavs5/segment_288.wav|||là lựa chọn thông minh nhất.|
+002905|vietnamese-00|vietnamese|wavs/wavs5/segment_277.wav|||chứng tỏ cuộc sống của anh ta không thể thiếu tôi.|
+002906|vietnamese-00|vietnamese|wavs/wavs5/segment_66.wav|||ông ta tức quá đành dẫn mọi người đến chỗ nhặt được sợi dây.|
+002907|vietnamese-00|vietnamese|wavs/wavs5/segment_190.wav|||mỗi lần nó kể là mất vài tiếng đồng hồ rồi khóc lóc sướt mướt.|
+002908|vietnamese-00|vietnamese|wavs/wavs5/segment_149.wav|||chỉ có giải thích cỡ nào họ cũng không hiểu.|
+002909|vietnamese-00|vietnamese|wavs/wavs5/segment_169.wav|||vừa tránh được việc gây rắc rối cho chính mình.|
+002910|vietnamese-00|vietnamese|wavs/wavs5/segment_88.wav|||nhưng mọi người chỉ cười ha hả.|
+002911|vietnamese-00|vietnamese|wavs/wavs5/segment_192.wav|||thì khi nghe thấy câu nhận xét này bạn có muốn tìm người đó để kể khổ không.|
+002912|vietnamese-00|vietnamese|wavs/wavs5/segment_158.wav|||bởi vì có những người chỉ muốn nghe những gì họ muốn nghe.|
+002913|vietnamese-00|vietnamese|wavs/wavs5/segment_185.wav|||khi bạn không còn tự hoài nghi chính mình.|
+002914|vietnamese-00|vietnamese|wavs/wavs5/segment_161.wav|||như một câu nói là bạn đứng trên đỉnh núi phóng mắt ra xa là biển lớn mênh mông.|
+002915|vietnamese-00|vietnamese|wavs/wavs5/segment_213.wav|||nếu như tâm bạn toàn là điều khổ.|
+002916|vietnamese-00|vietnamese|wavs/wavs5/segment_243.wav|||còn có người rất thích bằng đánh giá chủ quan của bản thân đưa ra lời khuyên cho người khác.|
+002917|vietnamese-00|vietnamese|wavs/wavs5/segment_42.wav|||không muốn kẻ thù nhìn thấy mình tàn tiệt.|
+002918|vietnamese-00|vietnamese|wavs/wavs5/segment_81.wav|||người khác thì lại nghi ngờ ông và người thuê là đồng bọn.|
+002919|vietnamese-00|vietnamese|wavs/wavs5/segment_126.wav|||cách tốt nhất lúc này đó là ngừng vùng vẫy.|
+002920|vietnamese-00|vietnamese|wavs/wavs5/segment_28.wav|||của người kể chuyện.|
+002921|vietnamese-00|vietnamese|wavs/wavs5/segment_143.wav|||ông chỉ cần nói vài câu là có thể khiến họ câm nín liền.|
+002922|vietnamese-00|vietnamese|wavs/wavs5/segment_303.wav|||trương mọi hiểu lầm trước những lời mắng nhiếc và sự vô lý.|
+002923|vietnamese-00|vietnamese|wavs/wavs5/segment_3.wav|||bạn đã từng trải qua điều này chưa khi bị ai đó khiển trách hoặc quy tội.|
+002924|vietnamese-00|vietnamese|wavs/wavs5/segment_114.wav|||họ có thể biến bạn thành nô lệ.|
+002925|vietnamese-00|vietnamese|wavs/wavs5/segment_74.wav|||một tin tức lan truyền khắp thị trấn.|
+002926|vietnamese-00|vietnamese|wavs/wavs5/segment_27.wav|||qua truyện ngắn sợi dây nhỏ.|
+002927|vietnamese-00|vietnamese|wavs/wavs5/segment_146.wav|||nếu người đó thực sự quan tâm đến hội họa.|
+002928|vietnamese-00|vietnamese|wavs/wavs5/segment_11.wav|||để rồi đi từ uất ức.|
+002929|vietnamese-00|vietnamese|wavs/wavs5/segment_205.wav|||không đúng.|
+002930|vietnamese-00|vietnamese|wavs/wavs5/segment_295.wav|||nhà văn tam mao còn nói.|
+002931|vietnamese-00|vietnamese|wavs/wavs5/segment_256.wav|||và cũng chưa sẵn sàng muốn trải nghiệm những việc đó.|
+002932|vietnamese-00|vietnamese|wavs/wavs5/segment_12.wav|||điền cãi vã.|
+002933|vietnamese-00|vietnamese|wavs/wavs5/segment_157.wav|||có nhiều lúc trong đời vì bạn không ngừng giải thích mình là người như thế nào sẽ chỉ là vô ích.|
+002934|vietnamese-00|vietnamese|wavs/wavs5/segment_117.wav|||lời giải thích lúc này sẽ bị xem là viễn cờ.|
+002935|vietnamese-00|vietnamese|wavs/wavs5/segment_267.wav|||còn có những người khi nghe thấy những lời đánh giá chê bai.|
+002936|vietnamese-00|vietnamese|wavs/wavs5/segment_292.wav|||nếu bạn để cho những sợi dây này trói buộc nó sẽ siết chặt bạn trong cảm giác ngột ngạt dẫn đến sự suy sụp tự hủy hoại bản thân.|
+002937|vietnamese-00|vietnamese|wavs/wavs5/segment_106.wav|||trên thực tế mỗi lần bạn vội vã tự biện minh và chứng minh bản thân thì những phản ứng đó đã thể hiện một điều.|
+002938|vietnamese-00|vietnamese|wavs/wavs5/segment_301.wav|||hãy làm chủ chính mình không cần để tâm đến tiếng ồn bên ngoài.|
+002939|vietnamese-00|vietnamese|wavs/wavs5/segment_91.wav|||như một trái bóng bị xì hơi ông nông dân trở nên héo hon.|
+002940|vietnamese-00|vietnamese|wavs/wavs5/segment_46.wav|||đầu ngẩng cao.|
+002941|vietnamese-00|vietnamese|wavs/wavs5/segment_134.wav|||chứ không phải thể hiện sự lảng tránh và chạy trốn vấn đề.|
+002942|vietnamese-00|vietnamese|wavs/wavs5/segment_51.wav|||thì bất ngờ có hai viên cảnh sát tới.|
+002943|vietnamese-00|vietnamese|wavs/wavs5/segment_83.wav|||lời đàm tiếu khiến ông ngột ngạt không thở nổi.|
+002944|vietnamese-00|vietnamese|wavs/wavs5/segment_168.wav|||khi bạn giữ im lặng nó có thể giúp phương làm dịu đi bầu không khí nói chuyện.|
+002945|vietnamese-00|vietnamese|wavs/wavs5/segment_113.wav|||chỉ cần bạn lo lắng vì những gì người khác sẽ nghĩ về mình.|
+002946|vietnamese-00|vietnamese|wavs/wavs5/segment_16.wav|||tức là bạn càng chứng minh và giải thích.|
+002947|vietnamese-00|vietnamese|wavs/wavs5/segment_201.wav|||liệu họ có phiền lòng và né tránh bạn hay không.|
+002948|vietnamese-00|vietnamese|wavs/wavs5/segment_262.wav|||hoặc phát sinh trầm cảm.|
+002949|vietnamese-00|vietnamese|wavs/wavs5/segment_8.wav|||nhưng trong những cuộc tranh luận và bào chữa không ngừng.|
+002950|vietnamese-00|vietnamese|wavs/wavs5/segment_133.wav|||nhưng như thế nào mới là sự tĩnh lặng mang lại nội lực.|
+002951|vietnamese-00|vietnamese|wavs/wavs5/segment_44.wav|||ông ta liền giấu nó vào trong áo choàng rồi vờ tìm kiếm thứ gì đó trên đường.|
+002952|vietnamese-00|vietnamese|wavs/wavs5/segment_105.wav|||bạn nỗ lực làm hài lòng người khác tìm mọi cách để người ta có ấn tượng tốt đẹp về mình.|
+002953|vietnamese-00|vietnamese|wavs/wavs5/segment_172.wav|||những người thực sự mạnh mẽ họ không cần phục vụ hệ thống đánh giá của người ngoài.|
+002954|vietnamese-00|vietnamese|wavs/wavs5/segment_171.wav|||và luôn muốn chứng minh bản thân.|
+002955|vietnamese-00|vietnamese|wavs/wavs5/segment_186.wav|||bất kỳ định nghĩa hay kết luận nào từ người khác cũng không thể làm tổn thương bạn.|
+002956|vietnamese-00|vietnamese|wavs/wavs5/segment_259.wav|||trước những lời đánh giá hoặc chê bai nhiều người thường ấm ức bực bội.|
+002957|vietnamese-00|vietnamese|wavs/wavs5/segment_207.wav|||đôi khi chúng ta cần phải tìm một người bạn thân tâm sự vẫn tốt hơn.|
+002958|vietnamese-00|vietnamese|wavs/wavs5/segment_164.wav|||mỗi người có một mức độ nhận thức cách suy nghĩ thậm chí là tầm nhìn và tầm vóc khác nhau.|
+002959|vietnamese-00|vietnamese|wavs/wavs5/segment_279.wav|||chứng tỏ cuộc sống của tôi có thể thiếu anh ta.|
+002960|vietnamese-00|vietnamese|wavs/wavs5/segment_75.wav|||một người làm thuê đã thú nhận với cảnh sát.|
+002961|vietnamese-00|vietnamese|wavs/wavs5/segment_33.wav|||trong việc đối xử với bản thân và người khác.|
+002962|vietnamese-00|vietnamese|wavs/wavs5/segment_166.wav|||đôi khi không tranh luận không phản bác.|
+002963|vietnamese-00|vietnamese|wavs/wavs5/segment_235.wav|||tự nhiên sẽ không sợ bất kỳ đau khổ nào.|
+002964|vietnamese-00|vietnamese|wavs/wavs5/segment_219.wav|||thông thường trong cuộc sống nếu bạn than vãn.|
+002965|vietnamese-00|vietnamese|wavs/wavs5/segment_0.wav|||hai xin biến chào các bạn.|
+002966|vietnamese-00|vietnamese|wavs/wavs5/segment_99.wav|||thì tất cả hành xử như vậy đều bắt nguồn từ một nỗi lo sâu xa trong thâm tâm ông.|
+002967|vietnamese-00|vietnamese|wavs/wavs5/segment_230.wav|||và nó có thể quay ngược lại khiến bạn tổn thương trầm trọng hơn.|
+002968|vietnamese-00|vietnamese|wavs/wavs5/segment_182.wav|||và không có thẩm phán nào nghiêm khắc hơn chính bản thân chúng ta.|
+002969|vietnamese-00|vietnamese|wavs/wavs5/segment_252.wav|||đối mặt với những người như thế này bạn rất khó giải thích cho họ cảm nhận niềm vui của việc học tập.|
+002970|vietnamese-00|vietnamese|wavs/wavs5/segment_21.wav|||mobelson nói rằng sự hiểu lầm của người khác giống như một sợi dây trói buộc bạn.|
+002971|vietnamese-00|vietnamese|wavs/wavs5/segment_309.wav|||cảm ơn bạn đã lắng nghe nếu bạn cảm thấy video này có ích hãy chia sẻ tới những người cần nó.|
+002972|vietnamese-00|vietnamese|wavs/wavs5/segment_283.wav|||đơn giản bạn không thể nào đánh thức một người chưa muốn tỉnh.|
+002973|vietnamese-00|vietnamese|wavs/wavs5/segment_226.wav|||mà vì con người là động vật thích suy luận.|
+002974|vietnamese-00|vietnamese|wavs/wavs5/segment_94.wav|||cơ thể yếu dần và cuối cùng chết trong trầm cảm.|
+002975|vietnamese-00|vietnamese|wavs/wavs5/segment_216.wav|||nhưng nỗi đau trong lòng chúng ta.|
+002976|vietnamese-00|vietnamese|wavs/wavs5/segment_9.wav|||chúng ta lại tự làm giảm uy tín của chính mình.|
+002977|vietnamese-00|vietnamese|wavs/wavs5/segment_274.wav|||thực tế chúng ta không cần phải mong đợi có thể tâm đầu ý hợp và chiều lòng tất cả mọi người.|
+002978|vietnamese-00|vietnamese|wavs/wavs5/segment_224.wav|||phải như thế nào thì chồng mới vậy.|
+002979|vietnamese-00|vietnamese|wavs/wavs5/segment_45.wav|||sau đó ông đi về hướng viên cho.|
+002980|vietnamese-00|vietnamese|wavs/wavs5/segment_89.wav|||chỉ cho ông và thì thầm với người khác.|
+002981|vietnamese-00|vietnamese|wavs/wavs5/segment_38.wav|||ông ngay lập tức nghĩ đến nhiều công dụng của đoạn dây này khi mà ông cần dùng đến.|
+002982|vietnamese-00|vietnamese|wavs/wavs5/segment_151.wav|||khi ai đó hiểu ta không cần nói nhiều cũng có thể hiểu được ý nhau.|
+002983|vietnamese-00|vietnamese|wavs/wavs5/segment_147.wav|||không cần giải thích họ sẽ có thể tự hiểu.|
+002984|vietnamese-00|vietnamese|wavs/wavs5/segment_17.wav|||tôi đúng tôi có lý tôi vô tội.|
+002985|vietnamese-00|vietnamese|wavs/wavs5/segment_183.wav|||hãy dừng lại việc tự chỉ trích chấp nhận những điểm mạnh và điểm yếu của bản thân.|
+002986|vietnamese-00|vietnamese|wavs/wavs5/segment_199.wav|||nếu như là một vài lần đầu thì có thể sẵn lòng nghe bạn.|
+002987|vietnamese-00|vietnamese|wavs/wavs5/segment_298.wav|||chính là thể hiện con người bạn.|
+002988|vietnamese-00|vietnamese|wavs/wavs5/segment_60.wav|||nhưng vừa bước ra khỏi trụ sở cảnh sát.|
+002989|vietnamese-00|vietnamese|wavs/wavs5/segment_127.wav|||nhưng bằng cách nào.|
+002990|vietnamese-00|vietnamese|wavs/wavs5/segment_307.wav|||đã đến lúc.|
+002991|vietnamese-00|vietnamese|wavs/wavs5/segment_297.wav|||nhưng toàn bộ phần còn lại.|
+002992|vietnamese-00|vietnamese|wavs/wavs5/segment_266.wav|||vừa tổn hại tinh thần.|
+002993|vietnamese-00|vietnamese|wavs/wavs5/segment_180.wav|||ngày cóc đi gặp bác sĩ tâm lý có nói rằng.|
+002994|vietnamese-00|vietnamese|wavs/wavs5/segment_150.wav|||nhận thức của mỗi người là khác nhau chúng ta không thể tránh khỏi hiểu lầm và bất đồng quan điểm.|
+002995|vietnamese-00|vietnamese|wavs/wavs5/segment_41.wav|||người này bề lâu nay xung khắc với ông trong việc bán gia súc.|
+002996|vietnamese-00|vietnamese|wavs/wavs5/segment_14.wav|||không thể nào hàn gắn được.|
+002997|vietnamese-00|vietnamese|wavs/wavs5/segment_209.wav|||và coi việc kể khổ và tâm sự là hai việc khác nhau.|
+002998|vietnamese-00|vietnamese|wavs/wavs5/segment_159.wav|||thầy những gì họ muốn thầy.|
+002999|vietnamese-00|vietnamese|wavs/wavs5/segment_148.wav|||nhưng nếu họ không thực sự quan tâm.|
+003000|vietnamese-00|vietnamese|wavs/wavs5/segment_299.wav|||đánh giá và phán xét người khác chỉ là những quan điểm một chiều không thể ảnh hưởng đến cuộc sống của bạn.|
+003001|vietnamese-00|vietnamese|wavs/wavs5/segment_48.wav|||dạo quanh chợ một hồi ông đến một quán ăn để nghỉ chân.|
+003002|vietnamese-00|vietnamese|wavs/wavs5/segment_154.wav|||cách duy nhất để chiến thắng trong một cuộc tranh luận.|
+003003|vietnamese-00|vietnamese|wavs/wavs5/segment_56.wav|||ông la lên oan ức.|
+003004|vietnamese-00|vietnamese|wavs/wavs5/segment_125.wav|||cuối cùng dẫn đến tát thở.|
+003005|vietnamese-00|vietnamese|wavs/wavs5/segment_119.wav|||sợi dây ông lão lấy ra để giải thích.|
+003006|vietnamese-00|vietnamese|wavs/wavs5/segment_112.wav|||nhưng như tác giả của cuốn sách đối thoại với thượng đế có nói một câu rất đúng như thế này.|
+003007|vietnamese-00|vietnamese|wavs/wavs5/segment_31.wav|||liệu mình có đang rơi vào cái bẫy của sự tự chứng hay không.|
+003008|vietnamese-00|vietnamese|wavs/wavs5/segment_108.wav|||và cũng đang muốn che đậy đi một mặt yếu đuối tự ti nào đó trong thâm tâm.|
+003009|vietnamese-00|vietnamese|wavs/wavs5/segment_4.wav|||bạn càng giải thích lại càng bị người khác nghĩ là bạn đang ngụy biện viện cớ lý do lý trầu.|
+003010|vietnamese-00|vietnamese|wavs/wavs5/segment_76.wav|||rằng anh ta mới là người nhặt được chiếc ví và đã trả lại cho chủ nhân.|
+003011|vietnamese-00|vietnamese|wavs/wavs5/segment_71.wav|||nhưng ông nói từ sáng đến tối mệt mỏi đến kiệt sức.|
+003012|vietnamese-00|vietnamese|wavs/wavs5/segment_257.wav|||thì ngôn ngữ của bạn có phong phú thế nào họ cũng không hiểu được.|
+003013|vietnamese-00|vietnamese|wavs/wavs5/segment_181.wav|||không có lại chỉ trích nào mạnh mẽ hơn sự tự mình chỉ trích.|
+003014|vietnamese-00|vietnamese|wavs/wavs5/segment_270.wav|||một là đối phương sẽ đáp trả.|
+003015|vietnamese-00|vietnamese|wavs/wavs5/segment_167.wav|||lại chính là sự tôn trọng bản thân mình và người đó.|
+003016|vietnamese-00|vietnamese|wavs/wavs5/segment_271.wav|||gây ra mâu thuẫn kết hận.|
+003017|vietnamese-00|vietnamese|wavs/wavs5/segment_86.wav|||từ đó về sau.|
+003018|vietnamese-00|vietnamese|wavs/wavs5/segment_98.wav|||cho đến quãng ngày cố gắng giải thích sau khi bị hiểu lầm nhặt được của rơi mà không trả lại người mất.|
+003019|vietnamese-00|vietnamese|wavs/wavs5/segment_247.wav|||phải là người rảnh rỗi lắm mới có thời gian để chơi thể thao.|
+003020|vietnamese-00|vietnamese|wavs/wavs5/segment_302.wav|||cũng không cần cố gắng ép buộc ai đó phải công nhận chúng ta.|
+003021|vietnamese-00|vietnamese|wavs/wavs5/segment_67.wav|||và diễn tả lại toàn bộ câu chuyện.|
+003022|vietnamese-00|vietnamese|wavs/wavs5/segment_95.wav|||tại sao ông lão phải tìm mọi cách để giải thích với người khác.|
+003023|vietnamese-00|vietnamese|wavs/wavs5/segment_245.wav|||khi bạn tập thể dục.|
+003024|vietnamese-00|vietnamese|wavs/wavs5/segment_20.wav|||qua truyện ngắn sợi dây nhỏ.|
+003025|vietnamese-00|vietnamese|wavs/wavs5/segment_178.wav|||nhận thấy người yêu thất vọng lại không ngừng nghĩ bản thân yếu kém không có năng lực cho người đó cuộc sống tốt hơn.|
+003026|vietnamese-00|vietnamese|wavs/wavs5/segment_70.wav|||không biết phải làm sao ông đi lòng vòng quanh thị trấn giải thích câu chuyện cho từng người nghe.|
+003027|vietnamese-00|vietnamese|wavs/wavs5/segment_189.wav|||ôi tôi sợ đứa abc kia gọi điện tâm sự quá.|
+003028|vietnamese-00|vietnamese|wavs/wavs5/segment_281.wav|||chia sẻ quan điểm sống của mình cho những người hiểu bạn.|
+003029|vietnamese-00|vietnamese|wavs/wavs5/segment_221.wav|||chắc chắn sẽ có người nghĩ phải làm sao mới bị đồng nghiệp ghét.|
+003030|vietnamese-00|vietnamese|wavs/wavs5/segment_15.wav|||trong tâm lý học gọi đây là cái bẫy của sự tự trừng.|
+003031|vietnamese-00|vietnamese|wavs/wavs5/segment_72.wav|||vẫn không thể rửa sạch sự nghi ngờ của người khác.|
+003032|vietnamese-00|vietnamese|wavs/wavs5/segment_236.wav|||mà có thể đón nhận nó trong tâm thái chung dung.|
+003033|vietnamese-00|vietnamese|wavs/wavs5/segment_138.wav|||thật là buồn cười.|
+003034|vietnamese-00|vietnamese|wavs/wavs5/segment_26.wav|||đừng cố gắng giải thích về bản thân.|
+003035|vietnamese-00|vietnamese|wavs/wavs5/segment_103.wav|||bị người khác hiểu lầm hoặc trách cử.|
+003036|vietnamese-00|vietnamese|wavs/wavs5/segment_97.wav|||và cảm thấy bẽ mặt vì việc này.|
+003037|vietnamese-00|vietnamese|wavs/wavs5/segment_104.wav|||theo bản năng hầu hết mọi người sẽ ngay lập tức muốn giải thích hoặc làm rõ thậm chí sợ bị hiểu lầm.|
+003038|vietnamese-00|vietnamese|wavs/wavs5/segment_211.wav|||chữ sự trong tâm sự có nghĩa là kẻ gian.|
+003039|vietnamese-00|vietnamese|wavs/wavs5/segment_101.wav|||thực chất cũng giống như ông lão.|
+003040|vietnamese-00|vietnamese|wavs/wavs5/segment_228.wav|||không ai có thể trải nghiệm cuộc sống của bạn.|
+003041|vietnamese-00|vietnamese|wavs/wavs5/segment_195.wav|||không dặn lòng dán giẻ rồi đi nhận xét sau lưng.|
+003042|vietnamese-00|vietnamese|wavs/wavs5/segment_246.wav|||sẽ có người nói rằng.|
+003043|vietnamese-00|vietnamese|wavs/wavs5/segment_23.wav|||sợi dây càng siết chặt.|
+003044|vietnamese-00|vietnamese|wavs/wavs5/segment_128.wav|||câu trả lời đó là hãy tĩnh lặng.|
+003045|vietnamese-00|vietnamese|wavs/wavs5/segment_305.wav|||mong sự tĩnh lặng sẽ tạo nên một nội tâm đầy nội lực cho bạn.|
+003046|vietnamese-00|vietnamese|wavs/wavs5/segment_130.wav|||nhưng thực chất không phải như vậy.|
+003047|vietnamese-00|vietnamese|wavs/wavs5/segment_191.wav|||không biết nếu bạn là một trong những người bạn abc kia.|
+003048|vietnamese-00|vietnamese|wavs/wavs5/segment_184.wav|||kéo mình ra khỏi đầm lầy của sự tự nghi ngờ.|
+003049|vietnamese-00|vietnamese|wavs/wavs5/segment_32.wav|||và làm thế nào để đưa ra lựa chọn khôn ngoan hơn.|
+003050|vietnamese-00|vietnamese|wavs/wavs5/segment_10.wav|||tự tiêu hao tinh thần mà vẫn không thể thoát khỏi sự nghi ngờ hoặc chỉ trích của đối phương.|
+003051|vietnamese-00|vietnamese|wavs/wavs5/segment_248.wav|||thậm chí khi bạn muốn thi cử học lên cao đi du học.|
+003052|vietnamese-00|vietnamese|wavs/wavs5/segment_241.wav|||bạn nói lý lẽ với họ bạn trình bày sự thật.|
+003053|vietnamese-00|vietnamese|wavs/wavs5/segment_57.wav|||hoảng sợ lấy ra sợi dây để biện hộ cho mình.|
+003054|vietnamese-00|vietnamese|wavs/wavs5/segment_55.wav|||cho rằng ông là người nhặt được chi phí.|
+003055|vietnamese-00|vietnamese|wavs/wavs5/segment_78.wav|||nhưng không ngờ lời đồn bên ngoài càng trở nên vô lý hơn.|
+003056|vietnamese-00|vietnamese|wavs/wavs5/segment_208.wav|||nhiều người cho rằng bạn tốt là sẵn sàng lắng nghe chúng ta tâm sự.|
+003057|vietnamese-00|vietnamese|wavs/wavs5/segment_265.wav|||vừa lãng phí thời gian.|
+003058|vietnamese-00|vietnamese|wavs/wavs5/segment_198.wav|||cho dù là ai đi chăng nữa.|
+003059|vietnamese-00|vietnamese|wavs/wavs5/segment_284.wav|||hãy để người ấy tự tỉnh thức trên con đường của mình.|
+003060|vietnamese-00|vietnamese|wavs/wavs5/segment_223.wav|||sẽ có người cho rằng.|
+003061|vietnamese-00|vietnamese|wavs/wavs5/segment_40.wav|||khi ông cầm sợi dây lên ngắm nghía thì vô tình bắt gặp ánh mắt của mlandin.|
+003062|vietnamese-00|vietnamese|wavs/wavs5/segment_204.wav|||một số bạn đã bình luận và nêu ra quan điểm.|
+003063|vietnamese-00|vietnamese|wavs/wavs5/segment_162.wav|||những người ở lưng rừng núi.|
+003064|vietnamese-00|vietnamese|wavs/wavs5/segment_261.wav|||nếu trong trường hợp ấm ức thì rất có thể lại rơi vào vòng xoáy đi kề lề.|
+003065|vietnamese-00|vietnamese|wavs/wavs5/segment_2.wav|||kênh chia sẻ kiến thức phát triển toàn diện bản thân qua các cuốn sách hay.|
+003066|vietnamese-00|vietnamese|wavs/wavs5/segment_141.wav|||sau đó có người hỏi ông.|
+003067|vietnamese-00|vietnamese|wavs/wavs5/segment_177.wav|||gia đình có chút chuyện không vui liền tự trách mình không dành đủ quan tâm cho người thân.|
+003068|vietnamese-00|vietnamese|wavs/wavs5/segment_25.wav|||hôm nay battle region xin chia sẻ với bạn một nội dung mang tên.|
+003069|vietnamese-00|vietnamese|wavs/wavs5/segment_163.wav|||chỉ có thể thấy được cảnh vật hoang tàn.|
+003070|vietnamese-00|vietnamese|wavs/wavs5/segment_210.wav|||nhưng bạn có nhận thấy không.|
+003071|vietnamese-00|vietnamese|wavs/wavs5/segment_231.wav|||vì vậy đừng kể lể thằng trầm.|
+003072|vietnamese-00|vietnamese|wavs/wavs5/segment_124.wav|||nếu càng vùng vẫy để giải thoát thì càng bị dậy dây giết cho mạnh hơn.|
+003073|vietnamese-00|vietnamese|wavs/wavs5/segment_155.wav|||đó là tránh tranh luận.|
+003074|vietnamese-00|vietnamese|wavs/wavs5/segment_253.wav|||lợi ích của việc tập thể dục.|
+003075|vietnamese-00|vietnamese|wavs/wavs5/segment_312.wav|||cảm ơn các bạn.|
+003076|vietnamese-00|vietnamese|wavs/wavs5/segment_36.wav|||trên đường đi đến phiên trạ ở thị trấn ông nhìn thấy một đoạn dây thừng ngắn.|
+003077|vietnamese-00|vietnamese|wavs/wavs5/segment_202.wav|||khi mình làm video ngắn có tiêu đề là.|
+003078|vietnamese-00|vietnamese|wavs/wavs5/segment_176.wav|||ví dụ chỉ cần có chút sai trong công việc là họ cảm thấy áy náy và suy sụp.|
+003079|vietnamese-00|vietnamese|wavs/wavs5/segment_110.wav|||bởi việc chấp thuận sẽ làm cho bạn cảm thấy cái tôi bị đe doạ.|
+003080|vietnamese-00|vietnamese|wavs/wavs5/segment_85.wav|||đến nỗi không còn tâm trí để tiếp tục làm nông.|
+003081|vietnamese-00|vietnamese|wavs/wavs5/segment_306.wav|||hãy để bản thân mình biết rằng.|
+003082|vietnamese-00|vietnamese|wavs/wavs5/segment_80.wav|||đã mua chuộc người làm thuê kia để thế tội cho mình.|
+003083|vietnamese-00|vietnamese|wavs/wavs5/segment_194.wav|||mấy người nói ra câu này là đứa bạn tôi.|
+003084|vietnamese-00|vietnamese|wavs/wavs5/segment_197.wav|||liệu bạn có biết người khác không nghĩ như trên hay không.|
+003085|vietnamese-00|vietnamese|wavs/wavs5/segment_251.wav|||đi ra ngoài kia xin việc hay mở kinh doanh kiếm tiền thì tốt hơn.|
+003086|vietnamese-00|vietnamese|wavs/wavs5/segment_7.wav|||mục đích ban đầu là muốn giải thích cho người khác hiểu.|
+003087|vietnamese-00|vietnamese|wavs/wavs5/segment_291.wav|||nó là những lời đồn vô căn cứ cũng là những lời chỉ trích trách móc khó nghe trong cuộc sống hàng ngày.|
+003088|vietnamese-00|vietnamese|wavs/wavs5/segment_116.wav|||mọi phản ứng của bạn sẽ chỉ là vô ích.|
+003089|vietnamese-00|vietnamese|wavs/wavs5/segment_179.wav|||trong cuốn sách mà mình đã giới thiệu.|
+003090|vietnamese-00|vietnamese|wavs/wavs5/segment_129.wav|||chúng ta thường nghĩ rằng im lặng là yếu đuối là chấp thuận quan điểm đánh giá của người khác.|
+003091|vietnamese-00|vietnamese|wavs/wavs5/segment_135.wav|||tĩnh lặng là khi bị hiểu lầm không cần biện minh.|
+003092|vietnamese-00|vietnamese|wavs/wavs5/segment_268.wav|||họ lập tức cãi lại hoặc công kích vào điểm yếu của người khác.|
+003093|vietnamese-00|vietnamese|wavs/wavs5/segment_196.wav|||lần sau không nói với nó nữa mà đi tìm người khác.|
+003094|vietnamese-00|vietnamese|wavs/wavs5/segment_137.wav|||phun nước bằng miệng mà gọi là nghệ thuật vẽ tranh ảnh.|
+003095|vietnamese-00|vietnamese|wavs/wavs5/segment_233.wav|||đọc nhiều sách hơn để phong phú tư duy và nội tâm.|
+003096|vietnamese-00|vietnamese|wavs/wavs5/segment_153.wav|||carnegie đã từng nói.|
+003097|vietnamese-00|vietnamese|wavs/wavs5/segment_160.wav|||người có một nội tâm mạnh mẽ sẽ không cần phải tranh luận hơn thua đúng sai phải trái với người khác.|
+003098|vietnamese-00|vietnamese|wavs/wavs5/segment_294.wav|||và luôn muốn chứng minh cái tôi to lớn hoàn mỹ với thế giới bên ngoài.|
+003099|vietnamese-00|vietnamese|wavs/wavs5/segment_264.wav|||thì cuối cùng bạn luôn là người thua cuộc.|
+003100|vietnamese-00|vietnamese|wavs/wavs5/segment_152.wav|||những người không hiểu bạn dù có nói thế nào cũng chỉ gây thêm mâu thuẫn.|
+003101|vietnamese-00|vietnamese|wavs/wavs5/segment_24.wav|||khi bạn dần dần ngạt thở giữa sự tự nghi ngờ và tiêu hao bản thân.|
+003102|vietnamese-00|vietnamese|wavs/wavs5/segment_5.wav|||khi nghe thấy ý kiến trái chiều bạn chứng minh và nói rõ mình không sai.|
+003103|vietnamese-00|vietnamese|wavs/wavs5/segment_30.wav|||điểm nhắm giúp chúng ta cùng nhìn nhận lại.|
+003104|vietnamese-00|vietnamese|wavs/wavs5/segment_173.wav|||và chỉ cần tập trung làm tốt vấn đề của chính mình là đủ.|
+003105|vietnamese-00|vietnamese|wavs/wavs5/segment_242.wav|||họ lại tỏ vẻ như không thấy.|
+003106|vietnamese-00|vietnamese|wavs/wavs5/segment_18.wav|||thì người khác lại càng nghĩ rằng bạn sai bạn vô lý bạn có lỗi.|
+003107|vietnamese-00|vietnamese|wavs/wavs5/segment_272.wav|||hai là bị kéo xuống chung số phận thảm hại.|
+003108|vietnamese-00|vietnamese|wavs/wavs5/segment_229.wav|||nên những ý kiến của người khác sẽ có tính chủ quan.|
+003109|vietnamese-00|vietnamese|wavs/wavs5/segment_287.wav|||từ chối việc bị họ làm tổn thương.|
+003110|vietnamese-00|vietnamese|wavs/wavs5/segment_144.wav|||tại sao ông không giải thích.|
+003111|vietnamese-00|vietnamese|wavs/wavs5/segment_107.wav|||là bạn đang cố gắng bảo vệ cho cái tôi to lớn của chính mình.|
+003112|vietnamese-00|vietnamese|wavs/wavs5/segment_118.wav|||bạn càng cố gắng bào chữa đến đâu thì người khác càng thấy nực cười đến đấy.|
+003113|vietnamese-00|vietnamese|wavs/wavs5/segment_54.wav|||ông bị kẻ thù của mình báo cảnh sát.|
+003114|vietnamese-00|vietnamese|wavs/wavs5/segment_234.wav|||khi bạn mạnh mẽ.|
+003115|vietnamese-00|vietnamese|wavs/wavs5/segment_61.wav|||những người hiếu kỳ đã vây quanh ông.|
+003116|vietnamese-00|vietnamese|wavs/wavs5/segment_250.wav|||học chi mà giữ vậy học làm thế để làm gì.|
+003117|vietnamese-00|vietnamese|wavs/wavs5/segment_280.wav|||hãy nói chuyện với những người hiểu bạn.|
+003118|vietnamese-00|vietnamese|wavs/wavs5/segment_82.wav|||khi sự việc bại lộ mới trả lại tiền.|
+003119|vietnamese-00|vietnamese|wavs/wavs5/segment_289.wav|||trong thực tế sợi dây mà tác giả mo pe dần kể cho chúng ta nghe.|
+003120|vietnamese-00|vietnamese|wavs/wavs5/segment_165.wav|||nên khi nhìn nhận vấn đề chắc chắn cũng sẽ khác nhau.|
+003121|vietnamese-00|vietnamese|wavs/wavs5/segment_200.wav|||nhưng những lần sau niều cứ mãi kể lể.|
+003122|vietnamese-00|vietnamese|wavs/wavs5/segment_273.wav|||tự mình buộc dây thắt chặt mình.|
+003123|vietnamese-00|vietnamese|wavs/wavs5/segment_49.wav|||và mọi người đang bàn tán về việc ai đó đánh mất ví tiền.|
+003124|vietnamese-00|vietnamese|wavs/wavs5/segment_232.wav|||hãy âm thầm tôi luyện cho mình một trạng thái bình lặng trước mọi khó khăn.|
+003125|vietnamese-00|vietnamese|wavs/wavs5/segment_79.wav|||có người đoán rằng ông là chuông miêu.|
+003126|vietnamese-00|vietnamese|wavs/wavs5/segment_222.wav|||bạn kể cho người khác là bị chồng đối xử không tốt và muốn ly hôn.|
+003127|vietnamese-00|vietnamese|wavs/wavs5/segment_282.wav|||đừng phí lời với những người tận dụng năng lượng chệch pha với bạn.|
+003128|vietnamese-00|vietnamese|wavs/wavs5/segment_102.wav|||trong cuộc sống chúng ta thường gặp phải những khoảnh khắc.|
+003129|vietnamese-00|vietnamese|wavs/wavs5/segment_255.wav|||vì họ chưa từng trải nghiệm.|
+003130|vietnamese-00|vietnamese|wavs/wavs5/segment_237.wav|||và chắc chắn rằng.|
+003131|vietnamese-00|vietnamese|wavs/wavs5/segment_276.wav|||anh ta mỗi ngày chửi tôi.|
+003132|vietnamese-00|vietnamese|wavs/wavs5/segment_308.wav|||cởi bỏ những sợi dây trói buộc phụ huynh này rồi.|
+003133|vietnamese-00|vietnamese|wavs/wavs5/segment_50.wav|||nhưng trong lúc ông đang lặng nghe say sưa.|
+003134|vietnamese-00|vietnamese|wavs/wavs5/segment_227.wav|||chúng ta luôn nghĩ rằng phải có lửa thì mới có khói.|
+003135|vietnamese-00|vietnamese|wavs/wavs5/segment_139.wav|||lúc này mọi ánh mắt đều đổ dồn vào người hoạ sĩ.|
+003136|vietnamese-00|vietnamese|wavs/wavs5/segment_215.wav|||mình biết rằng ai cũng có lúc gặp khó khăn.|
+003137|vietnamese-00|vietnamese|wavs/wavs5/segment_13.wav|||cuối cùng vì xung đột mà các mối quan hệ xuất hiện những vết nứt.|
+003138|vietnamese-00|vietnamese|wavs/wavs5/segment_123.wav|||mà khi bị dây thắt chặt.|
+003139|vietnamese-00|vietnamese|wavs/wavs5/segment_84.wav|||mất ăn mất ngủ.|
+003140|vietnamese-00|vietnamese|wavs/wavs5/segment_96.wav|||bạn sẽ thấy ngay từ đầu vì người nông dân giấu vội sợi dây khi bị bắt gặp.|
+003141|vietnamese-00|vietnamese|wavs/wavs5/segment_22.wav|||bạn càng quan tâm càng biện hộ.|
+003142|vietnamese-00|vietnamese|wavs/wavs5/segment_290.wav|||có mặt ở khắp nơi.|
+003143|vietnamese-00|vietnamese|wavs/wavs5/segment_170.wav|||thông thường chỉ cái tôi yếu đuối mới luôn sống trong ánh mắt ý kiến của người khác.|
+003144|vietnamese-00|vietnamese|wavs/wavs5/segment_29.wav|||gay đơm ô bà xình.|
+003145|vietnamese-00|vietnamese|wavs/wavs5/segment_63.wav|||ông đành phải lấy sợi dây ra giải thích rõ ràng và lượn ngược cả túi áo túi quần của mình.|
+003146|vietnamese-00|vietnamese|wavs/wavs5/segment_6.wav|||thì bị cho là vô lý và kết quả luôn ngược lại với mong muốn.|
+003147|vietnamese-00|vietnamese|wavs/wavs5/segment_39.wav|||nên đã vội vàng cúi xuống nhặt lấy và cẩn thận cuộn nó lại.|
+003148|vietnamese-00|vietnamese|wavs/wavs5/segment_212.wav|||chữ tâm là chỉ những chuyện thầm kín trong lòng.|

@@ -1,0 +1,3 @@
+v1 là dữ liệu toàn tiếng anh
+
+v3 là dữ liệu thêm 1 chút tiếng việt đã train được rồi
