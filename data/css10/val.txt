@@ -1187,3 +1187,504 @@ a004101|vietnamese-00|vietnamese|wavs_p2/wavs8/segment_312.wav|||vậy thì nh�
 13097|english|english|LJSpeech-1.1/wavs/LJ050-0276.wav|||As has been pointed out, the Commission has not resolved all the proposals which could be made. The Commission nevertheless is confident that,|
 13098|english|english|LJSpeech-1.1/wavs/LJ050-0277.wav|||with the active cooperation of the responsible agencies and with the understanding of the people of the United States in their demands upon their President,|
 13099|english|english|LJSpeech-1.1/wavs/LJ050-0278.wav|||the recommendations we have here suggested would greatly advance the security of the office without any impairment of our fundamental liberties.|
+b004838|vietnamese-00|vietnamese|wav_p3/wavs8/segment_391.wav|||thì nó sẽ chẳng có ý nghĩa gì cả.|
+b004839|vietnamese-00|vietnamese|wav_p3/wavs8/segment_21.wav|||nhưng của atomic Habits.|
+b004840|vietnamese-00|vietnamese|wav_p3/wavs8/segment_256.wav|||hay là không dễ ngồi vào bàn chơi game nữa.|
+b004841|vietnamese-00|vietnamese|wav_p3/wavs8/segment_239.wav|||mình hay để sách ở tất cả những chỗ có thể nhìn thấy và dễ dàng vời tới.|
+b004842|vietnamese-00|vietnamese|wav_p3/wavs8/segment_426.wav|||nếu một người bị mắc kẹt trong một thói quen hàng ngày.|
+b004843|vietnamese-00|vietnamese|wav_p3/wavs8/segment_298.wav|||vì thế dựa trên điều này.|
+b004844|vietnamese-00|vietnamese|wav_p3/wavs8/segment_161.wav|||hoặc trong quá trình thực hiện sẽ luôn cảm thấy khó khăn và đau khổ.|
+b004845|vietnamese-00|vietnamese|wav_p3/wavs8/segment_456.wav|||chúng có mối quan hệ nhân lên xếp chồng lên nhau.|
+b004846|vietnamese-00|vietnamese|wav_p3/wavs8/segment_302.wav|||một lớp đào tạo nào đó.|
+b004847|vietnamese-00|vietnamese|wav_p3/wavs8/segment_220.wav|||và thế là chẳng mấy chốc hết cả một buổi tối.|
+b004848|vietnamese-00|vietnamese|wav_p3/wavs8/segment_304.wav|||rất có thể là bạn sẽ bị nhắc nhở.|
+b004849|vietnamese-00|vietnamese|wav_p3/wavs8/segment_92.wav|||vì thế hãy sống như là cây trúc sạc.|
+b004850|vietnamese-00|vietnamese|wav_p3/wavs8/segment_63.wav|||việc thực hiện một thói quen tốt là một đường cong.|
+b004851|vietnamese-00|vietnamese|wav_p3/wavs8/segment_305.wav|||hoặc là bạn bị trục xuất ra khỏi nhóm.|
+b004852|vietnamese-00|vietnamese|wav_p3/wavs8/segment_375.wav|||nó sẽ giúp bạn không ngừng tiến bộ.|
+b004853|vietnamese-00|vietnamese|wav_p3/wavs8/segment_232.wav|||thì hoàn toàn có thể thực hiện thành công giai đoạn gợi ý của thói quen.|
+b004854|vietnamese-00|vietnamese|wav_p3/wavs8/segment_430.wav|||quá phụ thuộc vào thói quen có thể khiến cho chúng ta không thể có bước đột phá.|
+b004855|vietnamese-00|vietnamese|wav_p3/wavs8/segment_354.wav|||hay là ăn đồ ngọt thì sẽ tạm thời thỏa mãn khẩu vị hiện tại của bạn.|
+b004856|vietnamese-00|vietnamese|wav_p3/wavs8/segment_199.wav|||tìm bạn có việc gì.|
+b004857|vietnamese-00|vietnamese|wav_p3/wavs8/segment_67.wav|||con người ta thường hay nản chí và nghi ngờ rằng.|
+b004858|vietnamese-00|vietnamese|wav_p3/wavs8/segment_193.wav|||phản ứng và phần thưởng.|
+b004859|vietnamese-00|vietnamese|wav_p3/wavs8/segment_129.wav|||thì mới khiến cho bản thân cảm thấy hài lòng.|
+b004860|vietnamese-00|vietnamese|wav_p3/wavs8/segment_31.wav|||nhà tâm lý học nổi tiếng người mỹ william james đã từng nói.|
+b004861|vietnamese-00|vietnamese|wav_p3/wavs8/segment_442.wav|||dòng chảy là thứ bạn cần tập trung hoàn toàn tuyệt đối vào.|
+b004862|vietnamese-00|vietnamese|wav_p3/wavs8/segment_37.wav|||làm ngơ là bởi vì chúng ta hay thuyết phục bản thân rằng.|
+b004863|vietnamese-00|vietnamese|wav_p3/wavs8/segment_288.wav|||để củng cố các hành vi tần số thấp.|
+b004864|vietnamese-00|vietnamese|wav_p3/wavs8/segment_422.wav|||đừng quá phụ thuộc vào thói quen.|
+b004865|vietnamese-00|vietnamese|wav_p3/wavs8/segment_359.wav|||thói quen xấu nó mang lại cảm giác vui sướng lập tức.|
+b004866|vietnamese-00|vietnamese|wav_p3/wavs8/segment_322.wav|||khoảnh khắc mà bạn quyết định nấu ăn hay là gọi ăn bên ngoài.|
+b004867|vietnamese-00|vietnamese|wav_p3/wavs8/segment_355.wav|||tuy nhiên.|
+b004868|vietnamese-00|vietnamese|wav_p3/wavs8/segment_41.wav|||mà cũng vì thế chúng ta cứ chần chừ hết lần này đến lần khác.|
+b004869|vietnamese-00|vietnamese|wav_p3/wavs8/segment_411.wav|||trong sách thì đã đưa ra câu trả lời rằng.|
+b004870|vietnamese-00|vietnamese|wav_p3/wavs8/segment_56.wav|||thay đổi tí hon có thể tạo ra kết quả khổng lồ.|
+b004871|vietnamese-00|vietnamese|wav_p3/wavs8/segment_20.wav|||hoặc là đúc kết bằng những mẹo kỹ thuật thực tiễn.|
+b004872|vietnamese-00|vietnamese|wav_p3/wavs8/segment_283.wav|||lúc này viết nhật ký chính là thói quen mà mình cần thực hiện.|
+b004873|vietnamese-00|vietnamese|wav_p3/wavs8/segment_111.wav|||thì động lực trong bạn sẽ là.|
+b004874|vietnamese-00|vietnamese|wav_p3/wavs8/segment_252.wav|||thì bạn hãy để trái cây hạt dinh dưỡng thay thế.|
+b004875|vietnamese-00|vietnamese|wav_p3/wavs8/segment_154.wav|||nếu mà bạn muốn giữ gìn thói quen chạy bộ.|
+b004876|vietnamese-00|vietnamese|wav_p3/wavs8/segment_221.wav|||những việc làm này là một xâu chuỗi hành động trong quy trình thói quen.|
+b004877|vietnamese-00|vietnamese|wav_p3/wavs8/segment_315.wav|||nơi mà bạn có thể dễ dàng đi tập trước đã.|
+b004878|vietnamese-00|vietnamese|wav_p3/wavs8/segment_436.wav|||về phương pháp luyện tập có chủ đích.|
+b004879|vietnamese-00|vietnamese|wav_p3/wavs8/segment_474.wav|||để mọi người có thể cùng nhau học hỏi.|
+b004880|vietnamese-00|vietnamese|wav_p3/wavs8/segment_19.wav|||một số cuốn thì nói về việc lập thói quen từ quan điểm tâm lý học.|
+b004881|vietnamese-00|vietnamese|wav_p3/wavs8/segment_117.wav|||bạn cần phải nhớ rằng.|
+b004882|vietnamese-00|vietnamese|wav_p3/wavs8/segment_351.wav|||chúng ta phải hiểu rằng lý do tại sao những thói quen xấu nó rất khó khắc phục.|
+b004883|vietnamese-00|vietnamese|wav_p3/wavs8/segment_433.wav|||mà nên mong đợi chúng là một đường cong một đường cong khác và một đường cong khác nữa.|
+b004884|vietnamese-00|vietnamese|wav_p3/wavs8/segment_178.wav|||nó sẽ như là một lời tiên tri.|
+b004885|vietnamese-00|vietnamese|wav_p3/wavs8/segment_387.wav|||giả dụ khi mà con mắt của cả công ty chỉ hướng về thuê bi ai.|
+b004886|vietnamese-00|vietnamese|wav_p3/wavs8/segment_43.wav|||chúng ta thường hay đánh mất kiên trì bởi vì không hiểu hết được giá trị tiềm ẩn to lớn.|
+b004887|vietnamese-00|vietnamese|wav_p3/wavs8/segment_326.wav|||một ngày tốt hay là tệ.|
+b004888|vietnamese-00|vietnamese|wav_p3/wavs8/segment_142.wav|||trước khi muốn làm điều gì hãy để niềm tin của bạn trở thành người đó.|
+b004889|vietnamese-00|vietnamese|wav_p3/wavs8/segment_253.wav|||và đặt chúng ở những nơi mà bạn dễ dàng nhìn thấy dễ dàng tiện tay để lấy ăn.|
+b004890|vietnamese-00|vietnamese|wav_p3/wavs8/segment_327.wav|||nó thường tùy thuộc vào chuỗi các khoảnh khắc quyết định này.|
+b004891|vietnamese-00|vietnamese|wav_p3/wavs8/segment_184.wav|||cũng đã đề cập đến logic này.|
+b004892|vietnamese-00|vietnamese|wav_p3/wavs8/segment_453.wav|||một lời sau cùng để tổng kết tất cả video ngày hôm nay.|
+b004893|vietnamese-00|vietnamese|wav_p3/wavs8/segment_262.wav|||ở đây có một công thức rất quan trọng có thể thôi thúc bạn thực hiện một thói quen tốt đó là.|
+b004894|vietnamese-00|vietnamese|wav_p3/wavs8/segment_90.wav|||rễ càng sâu cây càng lớn.|
+b004895|vietnamese-00|vietnamese|wav_p3/wavs8/segment_250.wav|||nhưng mà thay vì mua bánh tráng mua kẹo ngọt béo ngậy.|
+b004896|vietnamese-00|vietnamese|wav_p3/wavs8/segment_78.wav|||những thay đổi về lượng đến một mức độ nhất định sẽ chuyển hoá thành những sự khác nhau về chất.|
+b004897|vietnamese-00|vietnamese|wav_p3/wavs8/segment_346.wav|||và ngược lại.|
+b004898|vietnamese-00|vietnamese|wav_p3/wavs8/segment_99.wav|||tất cả những tiềm ẩn trong bất kỳ mục tiêu nào.|
+b004899|vietnamese-00|vietnamese|wav_p3/wavs8/segment_45.wav|||nhưng mà những điều nhỏ nhặt này nó cũng chính là cách để chúng ta tạo ra lãi kép.|
+b004900|vietnamese-00|vietnamese|wav_p3/wavs8/segment_16.wav|||xây dựng duy trì thói quen là một chủ đề không mới.|
+b004901|vietnamese-00|vietnamese|wav_p3/wavs8/segment_309.wav|||bước thứ ba của việc chuyển đổi thói quen là làm cho mọi thứ trở nên dễ dàng thực hiện.|
+b004902|vietnamese-00|vietnamese|wav_p3/wavs8/segment_429.wav|||nó trở thành tự động.|
+b004903|vietnamese-00|vietnamese|wav_p3/wavs8/segment_17.wav|||và cuốn sách atomic Habits đối với nhiều người có lẽ không hề xa lạ.|
+b004904|vietnamese-00|vietnamese|wav_p3/wavs8/segment_324.wav|||khoảnh khắc bạn quyết định lướt điện thoại hay là đọc một cuốn sách.|
+b004905|vietnamese-00|vietnamese|wav_p3/wavs8/segment_191.wav|||đó chính là gợi ý.|
+b004906|vietnamese-00|vietnamese|wav_p3/wavs8/segment_348.wav|||nếu không thể ngừng xem điện thoại thì bạn hãy gỡ tất cả những ứng dụng mà làm bạn tốn thời gian.|
+b004907|vietnamese-00|vietnamese|wav_p3/wavs8/segment_244.wav|||bất cứ lúc nào rảnh thì đều có thể tiện tay mở ra đọc.|
+b004908|vietnamese-00|vietnamese|wav_p3/wavs8/segment_385.wav|||nó sẽ không còn là thước đo tốt nữa.|
+b004909|vietnamese-00|vietnamese|wav_p3/wavs8/segment_364.wav|||liệu nó có mang lại lợi ích lâu dài hay không.|
+b004910|vietnamese-00|vietnamese|wav_p3/wavs8/segment_394.wav|||đừng sống để theo dõi cũng đừng sống chỉ để tập trung vào mục tiêu.|
+b004911|vietnamese-00|vietnamese|wav_p3/wavs8/segment_293.wav|||tổ tiên của loài người không thể tồn tại một mình.|
+b004912|vietnamese-00|vietnamese|wav_p3/wavs8/segment_115.wav|||ngọn lửa động lực này trong bạn nó cũng sẽ biến mất.|
+b004913|vietnamese-00|vietnamese|wav_p3/wavs8/segment_8.wav|||nhưng cũng có thể khiến bạn thụt lùi theo năm tháng.|
+b004914|vietnamese-00|vietnamese|wav_p3/wavs8/segment_272.wav|||còn đối với lồng ghép sở thích.|
+b004915|vietnamese-00|vietnamese|wav_p3/wavs8/segment_312.wav|||thì đừng quá so sánh phòng tập nào rẻ hơn.|
+b004916|vietnamese-00|vietnamese|wav_p3/wavs8/segment_423.wav|||bạn cần phải biết rằng thói quen nó cũng có cặp bẫy của nó.|
+b004917|vietnamese-00|vietnamese|wav_p3/wavs8/segment_225.wav|||từ đó mới có thể khắc phục được thói quen xấu và hành động chính xác để xây dựng thói quen tốt.|
+b004918|vietnamese-00|vietnamese|wav_p3/wavs8/segment_126.wav|||nên là tập trung vào quá trình.|
+b004919|vietnamese-00|vietnamese|wav_p3/wavs8/segment_150.wav|||đây chính là một vòng tuần hoàn phát triển bền vững và lâu dài.|
+b004920|vietnamese-00|vietnamese|wav_p3/wavs8/segment_234.wav|||nhưng mà nếu sách luôn bị chất đống trong góc phòng và chỉ có lúc cần đến thì bạn mới thấy chúng.|
+b004921|vietnamese-00|vietnamese|wav_p3/wavs8/segment_466.wav|||chúc tất cả chúng ta đều có thể thành công.|
+b004922|vietnamese-00|vietnamese|wav_p3/wavs8/segment_477.wav|||hẹn gặp lại các bạn ở những video tiếp theo.|
+b004923|vietnamese-00|vietnamese|wav_p3/wavs8/segment_105.wav|||phải đến lúc đạt được mục tiêu thì tôi mới có hạnh phúc.|
+b004924|vietnamese-00|vietnamese|wav_p3/wavs8/segment_10.wav|||nếu bạn có thể kiểm soát được thói quen.|
+b004925|vietnamese-00|vietnamese|wav_p3/wavs8/segment_81.wav|||trong năm năm đầu tiên bất kể môi trường lý tưởng đến đâu.|
+b004926|vietnamese-00|vietnamese|wav_p3/wavs8/segment_15.wav|||không có nhiều thay đổi và phát triển.|
+b004927|vietnamese-00|vietnamese|wav_p3/wavs8/segment_80.wav|||giống như là cây trúc sào.|
+b004928|vietnamese-00|vietnamese|wav_p3/wavs8/segment_171.wav|||chúng ta phải ngừng việc dán nhãn cho chính mình hoặc là người khác.|
+b004929|vietnamese-00|vietnamese|wav_p3/wavs8/segment_249.wav|||nhất là những bạn làm việc công sở.|
+b004930|vietnamese-00|vietnamese|wav_p3/wavs8/segment_427.wav|||mọi việc anh ta làm chỉ là một hai ba.|
+b004931|vietnamese-00|vietnamese|wav_p3/wavs8/segment_381.wav|||bạn nên nhớ rằng bỏ cuộc hai lần liên tiếp đồng nghĩa với việc bạn bắt đầu một thói quen xấu.|
+b004932|vietnamese-00|vietnamese|wav_p3/wavs8/segment_110.wav|||khi mà chằm chằm vào mục tiêu cụ thể nào đó.|
+b004933|vietnamese-00|vietnamese|wav_p3/wavs8/segment_374.wav|||việc làm này nó tuy đơn giản nhưng thực chất đó là quá trình tặng thưởng cho tinh thần.|
+b004934|vietnamese-00|vietnamese|wav_p3/wavs8/segment_6.wav|||thói quen là con dao hai lưỡi.|
+b004935|vietnamese-00|vietnamese|wav_p3/wavs8/segment_18.wav|||trước khi mà đọc cuốn sách này thì mình cũng biết đến rất nhiều cuốn sách tương tự về hình thành thói quen.|
+b004936|vietnamese-00|vietnamese|wav_p3/wavs8/segment_96.wav|||bạn sẽ thất bại.|
+b004937|vietnamese-00|vietnamese|wav_p3/wavs8/segment_182.wav|||trong cuốn sách sức mạnh của thói quen.|
+b004938|vietnamese-00|vietnamese|wav_p3/wavs8/segment_310.wav|||nguyên tắc lớn nhất ở đây đó chính là phải giảm đi độ khó.|
+b004939|vietnamese-00|vietnamese|wav_p3/wavs8/segment_365.wav|||để có một thói quen tốt tất cả những gì bạn cần làm là phải thêm một chút hạnh phúc tức thời vào bất cứ thói quen nào.|
+b004940|vietnamese-00|vietnamese|wav_p3/wavs8/segment_86.wav|||hóa ra trong năm năm trời.|
+b004941|vietnamese-00|vietnamese|wav_p3/wavs8/segment_149.wav|||thân phận sẽ càng trở nên rõ ràng hơn.|
+b004942|vietnamese-00|vietnamese|wav_p3/wavs8/segment_318.wav|||ngoài ra thì bạn hãy duy trì nguyên tắc hai phút ngay từ những ngày đầu thực hiện thói quen.|
+b004943|vietnamese-00|vietnamese|wav_p3/wavs8/segment_29.wav|||nào bây giờ hãy cùng mình tìm hiểu cuốn sách vô cùng hữu ích này.|
+b004944|vietnamese-00|vietnamese|wav_p3/wavs8/segment_14.wav|||hai bạn của năm này vẫn giống như là năm trước.|
+b004945|vietnamese-00|vietnamese|wav_p3/wavs8/segment_366.wav|||mà đem lại lợi ích lâu dài.|
+b004946|vietnamese-00|vietnamese|wav_p3/wavs8/segment_263.wav|||xếp trong thói quen.|
+b004947|vietnamese-00|vietnamese|wav_p3/wavs8/segment_136.wav|||là một hệ thống niềm tin.|
+b004948|vietnamese-00|vietnamese|wav_p3/wavs8/segment_286.wav|||đây là kết quả nghiên cứu của giáo sư david rimott.|
+b004949|vietnamese-00|vietnamese|wav_p3/wavs8/segment_49.wav|||ngược lại nếu mà bạn thụt lùi với tốc độ một phần trăm mỗi ngày trong một năm.|
+b004950|vietnamese-00|vietnamese|wav_p3/wavs8/segment_30.wav|||hãy sống như cây trúc xào.|
+b004951|vietnamese-00|vietnamese|wav_p3/wavs8/segment_317.wav|||bằng cách tối ưu hoá môi trường.|
+b004952|vietnamese-00|vietnamese|wav_p3/wavs8/segment_44.wav|||đến từ những thay đổi từng chút một.|
+b004953|vietnamese-00|vietnamese|wav_p3/wavs8/segment_376.wav|||nhưng mà ở đây sẽ có hai điều mà mình muốn nhấn mạnh với mọi người.|
+b004954|vietnamese-00|vietnamese|wav_p3/wavs8/segment_292.wav|||ở đây hãy tận dụng bộ nhớ trong gen di truyền của chúng ta.|
+b004955|vietnamese-00|vietnamese|wav_p3/wavs8/segment_438.wav|||mình sẽ đè đường linh ở đây.|
+b004956|vietnamese-00|vietnamese|wav_p3/wavs8/segment_419.wav|||hoặc khi thực hiện.|
+b004957|vietnamese-00|vietnamese|wav_p3/wavs8/segment_5.wav|||như bạn đã biết.|
+b004958|vietnamese-00|vietnamese|wav_p3/wavs8/segment_319.wav|||bạn cần phải biết rằng.|
+b004959|vietnamese-00|vietnamese|wav_p3/wavs8/segment_35.wav|||thói quen tốt sẽ làm nên cuộc sống của bạn.|
+b004960|vietnamese-00|vietnamese|wav_p3/wavs8/segment_222.wav|||đã được bạn hình thành trước đó rồi.|
+b004961|vietnamese-00|vietnamese|wav_p3/wavs8/segment_42.wav|||thêm một đòn chí mạng hơn nữa là.|
+b004962|vietnamese-00|vietnamese|wav_p3/wavs8/segment_300.wav|||giả dụ như là bạn hãy tham gia vào một nhóm chạy.|
+b004963|vietnamese-00|vietnamese|wav_p3/wavs8/segment_7.wav|||những thói quen hiện tại có thể dẫn bạn đến một cuộc sống tốt đẹp hơn.|
+b004964|vietnamese-00|vietnamese|wav_p3/wavs8/segment_190.wav|||vậy cụ thể bốn bước là gì.|
+b004965|vietnamese-00|vietnamese|wav_p3/wavs8/segment_195.wav|||khi bạn nghe tiếng chuông tin nhắn facebook kêu lên.|
+b004966|vietnamese-00|vietnamese|wav_p3/wavs8/segment_113.wav|||và động lực này nó sẽ thúc đẩy bạn tiến về phía trước.|
+b004967|vietnamese-00|vietnamese|wav_p3/wavs8/segment_358.wav|||nước nóng lên từ từ nó không biết mình sẽ chết.|
+b004968|vietnamese-00|vietnamese|wav_p3/wavs8/segment_79.wav|||mức độ nhất định ở đây cũng chính là thời điểm đột phá qua thời kỳ tiềm ẩn lãi kép khi mà chúng ta thực hiện thói quen.|
+b004969|vietnamese-00|vietnamese|wav_p3/wavs8/segment_333.wav|||không nên dùng thời gian mất quá hai phút.|
+b004970|vietnamese-00|vietnamese|wav_p3/wavs8/segment_473.wav|||đừng quên ghi lại cảm nhận hay là suy nghĩ ở bình luận phía dưới.|
+b004971|vietnamese-00|vietnamese|wav_p3/wavs9/segment_34.wav|||trong cái thời đại ấy.|
+b004972|vietnamese-00|vietnamese|wav_p3/wavs9/segment_12.wav|||tràn đầy nhiệt huyết.|
+b004973|vietnamese-00|vietnamese|wav_p3/wavs9/segment_2.wav|||nó là một bài chia sẻ đến từ tủ sách các tác phẩm kinh điển của battle version.|
+b004974|vietnamese-00|vietnamese|wav_p3/wavs9/segment_77.wav|||của một chuyến tàu du ngoạn và phải thở vì các ông suốt dọc đường đi.|
+b004975|vietnamese-00|vietnamese|wav_p3/wavs9/segment_247.wav|||cũng chẳng phải là ẩn sĩ sống ẩn giật vì sự chán đời.|
+b004976|vietnamese-00|vietnamese|wav_p3/wavs9/segment_3.wav|||qua một kiệt tác mang tên.|
+b004977|vietnamese-00|vietnamese|wav_p3/wavs9/segment_337.wav|||của cái dư thừa chỉ mua được những thứ dư thừa.|
+b004978|vietnamese-00|vietnamese|wav_p3/wavs9/segment_53.wav|||bởi vì sau khi cải tiến.|
+b004979|vietnamese-00|vietnamese|wav_p3/wavs9/segment_170.wav|||mùa đông bên bờ hồ kéo dài khoảng ba đến bốn tháng.|
+b004980|vietnamese-00|vietnamese|wav_p3/wavs9/segment_141.wav|||có người khởi đầu thành công.|
+b004981|vietnamese-00|vietnamese|wav_p3/wavs9/segment_76.wav|||còn hơn là đi lên thiên đường trên một chiếc xe sang trọng.|
+b004982|vietnamese-00|vietnamese|wav_p3/wavs9/segment_219.wav|||ông đã nói rằng.|
+b004983|vietnamese-00|vietnamese|wav_p3/wavs9/segment_60.wav|||thì nó thực sự rất nhàm chán.|
+b004984|vietnamese-00|vietnamese|wav_p3/wavs9/segment_57.wav|||mà lại chọn cách chấm dứt công việc này.|
+b004985|vietnamese-00|vietnamese|wav_p3/wavs9/segment_181.wav|||chung đối với ông bà nói như là một bản hùng ca vậy.|
+b004986|vietnamese-00|vietnamese|wav_p3/wavs9/segment_296.wav|||có biết bao dấu chân người đã để lại trên bề mặt trái đất này.|
+b004987|vietnamese-00|vietnamese|wav_p3/wavs9/segment_26.wav|||ông làm vậy chỉ vì sở thích của mình.|
+b004988|vietnamese-00|vietnamese|wav_p3/wavs9/segment_201.wav|||cũng không sợ hãi đầu hàng trước mọi tình thế khó khăn trước mắt.|
+b004989|vietnamese-00|vietnamese|wav_p3/wavs9/segment_297.wav|||và con đường của tư tưởng nó cũng như vậy.|
+b004990|vietnamese-00|vietnamese|wav_p3/wavs9/segment_251.wav|||bất kể mọi người trên thế giới nói gì.|
+b004991|vietnamese-00|vietnamese|wav_p3/wavs9/segment_328.wav|||với cuộc sống bây giờ hay không.|
+b004992|vietnamese-00|vietnamese|wav_p3/wavs9/segment_70.wav|||ông hãy nên học hỏi từ người khác đi.|
+b004993|vietnamese-00|vietnamese|wav_p3/wavs9/segment_339.wav|||cuốn sách worden sống một mình trong rừng.|
+b004994|vietnamese-00|vietnamese|wav_p3/wavs9/segment_122.wav|||sống một mình trong rừng.|
+b004995|vietnamese-00|vietnamese|wav_p3/wavs9/segment_350.wav|||chỉ cần chúng ta tỉnh dậy bình minh sẽ lại đến.|
+b004996|vietnamese-00|vietnamese|wav_p3/wavs9/segment_341.wav|||chúng ta không cần phải đồng lòng hoàn toàn và cũng không cần tất cả mọi người phải tán thành.|
+b004997|vietnamese-00|vietnamese|wav_p3/wavs9/segment_144.wav|||và cũng có người bị đào thải khỏi cuộc chơi rất sớm.|
+b004998|vietnamese-00|vietnamese|wav_p3/wavs9/segment_1.wav|||đây chính là chủ đề nội dung hôm nay mà bryson muốn chia sẻ với các bạn trong những ngày đầu đón xuân này.|
+b004999|vietnamese-00|vietnamese|wav_p3/wavs9/segment_166.wav|||nhưng mà ferrari đã chứng minh cho họ thấy rằng.|
+b005000|vietnamese-00|vietnamese|wav_p3/wavs9/segment_210.wav|||trong cuốn sách này.|
+b005001|vietnamese-00|vietnamese|wav_p3/wavs9/segment_227.wav|||mỗi khi thorow bước vào khu rừng.|
+b005002|vietnamese-00|vietnamese|wav_p3/wavs9/segment_269.wav|||mọi người nên làm theo trái tim của chính mình.|
+b005003|vietnamese-00|vietnamese|wav_p3/wavs9/segment_112.wav|||bằng chính đôi bàn tay của ông.|
+b005004|vietnamese-00|vietnamese|wav_p3/wavs9/segment_174.wav|||mang những khúc gỗ già về nhà.|
+b005005|vietnamese-00|vietnamese|wav_p3/wavs9/segment_27.wav|||chứ không hề coi nó như là một việc để theo đuổi lấy thành tích.|
+b005006|vietnamese-00|vietnamese|wav_p3/wavs9/segment_58.wav|||bởi vì đối với ông mà nói.|
+b005007|vietnamese-00|vietnamese|wav_p3/wavs9/segment_180.wav|||ông ấy dường như nghe được những âm thanh từ cơn gió lướt qua sườn núi.|
+b005008|vietnamese-00|vietnamese|wav_p3/wavs9/segment_347.wav|||và cuối cùng là một câu cuối của tác giả.|
+b005009|vietnamese-00|vietnamese|wav_p3/wavs9/segment_203.wav|||bạn cũng sẽ không thể nào tránh khỏi những thử thách từ số phận.|
+b005010|vietnamese-00|vietnamese|wav_p3/wavs9/segment_68.wav|||thậm chí là ông còn không trả nổi tiền thuê nhà.|
+b005011|vietnamese-00|vietnamese|wav_p3/wavs9/segment_72.wav|||tôi thà ngồi trên một quả bí ngô và có tất cả cho riêng mình.|
+b005012|vietnamese-00|vietnamese|wav_p3/wavs9/segment_24.wav|||ông ấy đã được nhận vào trường đại học harvard và mỗi khi rảnh rỗi ông thường viết tản văn.|
+b005013|vietnamese-00|vietnamese|wav_p3/wavs9/segment_336.wav|||tất cả đều là vô ích.|
+b005014|vietnamese-00|vietnamese|wav_p3/wavs9/segment_306.wav|||bạn hoàn toàn có thể đi một con đường khác để sống một cuộc đời mà bản thân bạn thực sự mong muốn.|
+b005015|vietnamese-00|vietnamese|wav_p3/wavs9/segment_367.wav|||sống hết mình với tất cả nhiệt huyết của chính mình.|
+b005016|vietnamese-00|vietnamese|wav_p3/wavs9/segment_284.wav|||vì vậy bạn không cần phải vội vàng để đổi kịp.|
+b005017|vietnamese-00|vietnamese|wav_p3/wavs9/segment_46.wav|||sau khi mà tốt nghiệp.|
+b005018|vietnamese-00|vietnamese|wav_p3/wavs9/segment_185.wav|||ông hay đi tìm một công việc thích hợp đi.|
+b005019|vietnamese-00|vietnamese|wav_p3/wavs9/segment_357.wav|||bởi vì cuộc sống không phải phụ thuộc vào có bao nhiêu.|
+b005020|vietnamese-00|vietnamese|wav_p3/wavs9/segment_82.wav|||mà quan trọng là.|
+b005021|vietnamese-00|vietnamese|wav_p3/wavs9/segment_103.wav|||tất cả chỉ với một mình.|
+b005022|vietnamese-00|vietnamese|wav_p3/wavs9/segment_28.wav|||ông cũng đọc rất nhiều sách.|
+b005023|vietnamese-00|vietnamese|wav_p3/wavs9/segment_127.wav|||cuộc sống ở bên hồ woden của thurl đã làm lay động trái tim của rất nhiều độc giả khắp nơi trên thế giới.|
+b005024|vietnamese-00|vietnamese|wav_p3/wavs9/segment_243.wav|||ông ấy cũng đọc rất nhiều sách.|
+b005025|vietnamese-00|vietnamese|wav_p3/wavs9/segment_146.wav|||tư tưởng hay là sự may mắn của một người đều có thể trở thành biến số khiến bản thân bạn cách xa với người khác.|
+b005026|vietnamese-00|vietnamese|wav_p3/wavs9/segment_321.wav|||và những bước chân này nó cũng xuất phát từ chính những tư tưởng bị rập khuôn trong cuộc đời này.|
+b005027|vietnamese-00|vietnamese|wav_p3/wavs9/segment_55.wav|||và đây cũng chính là cơ hội khiến cho ông có thể kiếm được rất nhiều tiền và trở nên giàu có.|
+b005028|vietnamese-00|vietnamese|wav_p3/wavs9/segment_320.wav|||phải thỏa mãn nhu cầu nào đó.|
+b005029|vietnamese-00|vietnamese|wav_p3/wavs9/segment_299.wav|||những vết hằn của truyền thống và quy ước thế tộc nó đã hằn sâu như thế nào.|
+b005030|vietnamese-00|vietnamese|wav_p3/wavs9/segment_163.wav|||nhiều người dân làng gần đó đã khuyên ông là không nên sống ở đây.|
+b005031|vietnamese-00|vietnamese|wav_p3/wavs9/segment_331.wav|||cho dù là khó khăn đến mấy cũng phải gửi nhiệt huyết của bản thân vào cuộc sống hiện tại.|
+b005032|vietnamese-00|vietnamese|wav_p3/wavs9/segment_287.wav|||sorrow chỉ sống bên bờ hồ hai năm.|
+b005033|vietnamese-00|vietnamese|wav_p3/wavs9/segment_189.wav|||vốn dĩ những thứ tôi mong cầu không nhiều.|
+b005034|vietnamese-00|vietnamese|wav_p3/wavs9/segment_98.wav|||tại đây thì ông đã đốn củi dựng nhà.|
+b005035|vietnamese-00|vietnamese|wav_p3/wavs9/segment_368.wav|||cuối công thi.|
+b005036|vietnamese-00|vietnamese|wav_p3/wavs9/segment_353.wav|||thì ngôi sao buổi sáng ở đây được ví như là một phương hướng dẫn lối cho chúng ta.|
+b005037|vietnamese-00|vietnamese|wav_p3/wavs9/segment_205.wav|||hãy luôn để bản thân bạn thật bình tĩnh.|
+b005038|vietnamese-00|vietnamese|wav_p3/wavs9/segment_360.wav|||tìm thấy việc mà mình thực sự yêu thích.|
+b005039|vietnamese-00|vietnamese|wav_p3/wavs9/segment_107.wav|||mùa đông thì ông chặt gỗ để chuẩn bị những vật liệu cần thiết.|
+b005040|vietnamese-00|vietnamese|wav_p3/wavs9/segment_289.wav|||cuối cùng thì ông ấy cũng phải bỏ cuộc với nhịp bước của mình đấy thôi.|
+b005041|vietnamese-00|vietnamese|wav_p3/wavs9/segment_177.wav|||trong suốt mùa đông ít người lui tới này.|
+b005042|vietnamese-00|vietnamese|wav_p3/wavs9/segment_332.wav|||ngay cả khi bạn sống ở một nơi chật hẹp bạn cũng có thể tìm ra cho mình niềm vui và ánh sáng soi chiếu.|
+b005043|vietnamese-00|vietnamese|wav_p3/wavs9/segment_148.wav|||cũng chẳng bao giờ có thể cùng tiến hay cùng lùi với người khác.|
+b005044|vietnamese-00|vietnamese|wav_p3/wavs9/segment_206.wav|||thôi thúc sự can đảm dũng cảm.|
+b005045|vietnamese-00|vietnamese|wav_p3/wavs9/segment_196.wav|||chị sẽ giữ được thái độ bình tĩnh.|
+b005046|vietnamese-00|vietnamese|wav_p3/wavs9/segment_343.wav|||không thỏa mãn với những gì bạn có.|
+b005047|vietnamese-00|vietnamese|wav_p3/wavs9/segment_50.wav|||nhưng cuối cùng thì nó lại đi đến phá sản.|
+b005048|vietnamese-00|vietnamese|wav_p3/wavs9/segment_261.wav|||cho dù là chúng ta thành công chúng ta cũng sẽ không cảm nhận được niềm vui đích thực.|
+b005049|vietnamese-00|vietnamese|wav_p3/wavs9/segment_139.wav|||mọi người đều đang chạy theo những hướng khác nhau.|
+b005050|vietnamese-00|vietnamese|wav_p3/wavs9/segment_59.wav|||hàng ngày nếu chỉ vì việc kiếm tiền mà phải sống lặp đi lặp lại với một công việc.|
+b005051|vietnamese-00|vietnamese|wav_p3/wavs9/segment_118.wav|||trò chuyện với chim trời hồ nước và cá.|
+b005052|vietnamese-00|vietnamese|wav_p3/wavs9/segment_313.wav|||hay là chỉ để kiếm tiền.|
+b005053|vietnamese-00|vietnamese|wav_p3/wavs9/segment_75.wav|||được tự do lưu thông.|
+b005054|vietnamese-00|vietnamese|wav_p3/wavs9/segment_71.wav|||sorrow lại kiên quyết trả lời rằng.|
+b005055|vietnamese-00|vietnamese|wav_p3/wavs9/segment_145.wav|||ước mơ khả năng.|
+b005056|vietnamese-00|vietnamese|wav_p3/wavs9/segment_125.wav|||xung quanh đều là rừng cây.|
+b005057|vietnamese-00|vietnamese|wav_p3/wavs9/segment_291.wav|||bởi vì ông muốn trải nghiệm nhiều cuộc đời nên là không muốn bỏ thêm thời gian cho cuộc sống ở đây nữa.|
+b005058|vietnamese-00|vietnamese|wav_p3/wavs9/segment_11.wav|||chúc cho tất cả mọi người có một mùa xuân mới manh khỏe.|
+b005059|vietnamese-00|vietnamese|wav_p3/wavs9/segment_83.wav|||mỗi bản thân chúng ta cần phải tìm ra tiết tấu nhịp điệu của riêng mình.|
+b005060|vietnamese-00|vietnamese|wav_p3/wavs9/segment_361.wav|||và sống tốt trong chính nhịp bước của bản thân.|
+b005061|vietnamese-00|vietnamese|wav_p3/wavs9/segment_158.wav|||trước mặt ông là vô số những khó khăn cần phải giải quyết.|
+b005062|vietnamese-00|vietnamese|wav_p3/wavs9/segment_39.wav|||dù họ cũng có chật vật nhưng mà không hề bị tụt lại phía sau.|
+b005063|vietnamese-00|vietnamese|wav_p3/wavs9/segment_274.wav|||còn mỗi chúng ta.|
+b005064|vietnamese-00|vietnamese|wav_p3/wavs9/segment_120.wav|||của một cuộc sống đơn giản.|
+b005065|vietnamese-00|vietnamese|wav_p3/wavs9/segment_362.wav|||và video ngày hôm nay thì được làm trong dịp xuân sang.|
+b005066|vietnamese-00|vietnamese|wav_p3/wavs9/segment_204.wav|||điều chúng ta cần làm là hãy nuôi dưỡng cho mình một trái tim thật mạnh mẽ.|
+b005067|vietnamese-00|vietnamese|wav_p3/wavs9/segment_216.wav|||sorrow đã nằm ngửa và ngủ thiếp đi lúc nào không hay.|
+b005068|vietnamese-00|vietnamese|wav_p3/wavs9/segment_248.wav|||mà ông là một người sống hết mình như là một cái cây cắm rễ thật sâu thật chắc vào đất mẹ.|
+b005069|vietnamese-00|vietnamese|wav_p3/wavs9/segment_13.wav|||vui sống trọn vẹn ý nghĩa cho từng giây phút của hiện tại.|
+b005070|vietnamese-00|vietnamese|wav_p3/wavs9/segment_87.wav|||một nhà văn nhà thơ.|
+b005071|vietnamese-00|vietnamese|wav_p3/wavs9/segment_323.wav|||nhưng cuối cùng chỉ có sự thật mới mang lại ý nghĩa cho chúng ta.|
+b005072|vietnamese-00|vietnamese|wav_p3/wavs9/segment_155.wav|||chúng ta mới có thể vững vàng vượt qua những cơn bão táp và bước đến những vùng đất mới tươi đẹp trong chính cuộc đời của mình.|
+b005073|vietnamese-00|vietnamese|wav_p3/wavs9/segment_175.wav|||đốt lửa ngày đêm.|
+b005074|vietnamese-00|vietnamese|wav_p3/wavs9/segment_342.wav|||nhưng nếu bạn đang có trong mình niềm oán trách.|
+b005075|vietnamese-00|vietnamese|wav_p3/wavs9/segment_167.wav|||dù ông chỉ có bột ngô và rau.|
+b005076|vietnamese-00|vietnamese|wav_p3/wavs9/segment_147.wav|||chúng ta sẽ chẳng bao giờ có thể đồng nhịp với tất cả mọi người.|
+b005077|vietnamese-00|vietnamese|wav_p3/wavs9/segment_273.wav|||columbus trong lịch sử đã vươn ra ngoài khám phá lục địa mới.|
+b005078|vietnamese-00|vietnamese|wav_p3/wavs9/segment_338.wav|||còn những thứ cần thiết của tâm hồn thì không cần tiền cũng có thể mua được.|
+b005079|vietnamese-00|vietnamese|wav_p3/wavs9/segment_231.wav|||ngay sau đó là tiếng chó sủa.|
+b005080|vietnamese-00|vietnamese|wav_p3/wavs9/segment_173.wav|||ông trèo vào khu rừng phủ đầy tuyết.|
+b005081|vietnamese-00|vietnamese|wav_p3/wavs9/segment_140.wav|||với những tốc độ không hề giống nhau.|
+b005082|vietnamese-00|vietnamese|wav_p3/wavs9/segment_264.wav|||bạn cần hiểu rõ chính mình.|
+b005083|vietnamese-00|vietnamese|wav_p3/wavs9/segment_330.wav|||đừng bao giờ chạy trốn cũng đừng oán trách hay là than vãn về nó.|
+b005084|vietnamese-00|vietnamese|wav_p3/wavs9/segment_152.wav|||chỉ bằng cách là.|
+b005085|vietnamese-00|vietnamese|wav_p3/wavs9/segment_316.wav|||và ngẫm quả thực là không sai.|
+b005086|vietnamese-00|vietnamese|wav_p3/wavs9/segment_213.wav|||ông đang chèo một chiếc thuyền nhỏ.|
+b005087|vietnamese-00|vietnamese|wav_p3/wavs9/segment_54.wav|||ông đã tự mình sản xuất ra một loại bút chì với công nghệ mà chưa từng có trước đây.|
+b005088|vietnamese-00|vietnamese|wav_p3/wavs9/segment_188.wav|||tôi muốn lên núi chậm rãi tự do hái dâu.|
+b005089|vietnamese-00|vietnamese|wav_p3/wavs9/segment_133.wav|||ông đã nói rằng.|
+b005090|vietnamese-00|vietnamese|wav_p3/wavs9/segment_307.wav|||tại sao chúng ta lại hạ tiêu chuẩn tâm hồn xuống.|
+b005091|vietnamese-00|vietnamese|wav_p3/wavs9/segment_371.wav|||tiếng hát lý nhuận của những bác sĩ đã khiến cho tôi thức tế.|
+b005092|vietnamese-00|vietnamese|wav_p3/wavs9/segment_237.wav|||trái tim tôi tự do.|
+b005093|vietnamese-00|vietnamese|wav_p3/wavs9/segment_89.wav|||cũng là nhà triết gia về thiên nhiên.|
+b005094|vietnamese-00|vietnamese|wav_p3/wavs9/segment_334.wav|||đừng quá cấp thiết mà tìm kiếm sự phát triển.|
+b005095|vietnamese-00|vietnamese|wav_p3/wavs9/segment_325.wav|||sự thực ở đây.|
+b005096|vietnamese-00|vietnamese|wav_p3/wavs9/segment_254.wav|||việc gì mình thích.|
+b005097|vietnamese-00|vietnamese|wav_p3/wavs9/segment_202.wav|||cho dù lựa chọn của bạn là gì bạn chọn sống một cuộc đời như thế nào.|
+b005098|vietnamese-00|vietnamese|wav_p3/wavs9/segment_40.wav|||cũng có những người phải bỏ cuộc đua ấy.|
+b005099|vietnamese-00|vietnamese|wav_p3/wavs9/segment_143.wav|||có người bình bình sống hết một đời.|
+b005100|vietnamese-00|vietnamese|wav_p3/wavs9/segment_62.wav|||cũng như là sự ràng buộc của cuộc sống.|
+b005101|vietnamese-00|vietnamese|wav_p3/wavs9/segment_314.wav|||có người nói rằng.|
+b005102|vietnamese-00|vietnamese|wav_p3/wavs9/segment_33.wav|||hướng tới nền văn minh công nghiệp.|
+b005103|vietnamese-00|vietnamese|wav_p3/wavs9/segment_106.wav|||trên đường đi ông đều nghe thấy tiếng chim chìm trịn hót vang trời.|
+b005104|vietnamese-00|vietnamese|wav_p3/wavs9/segment_135.wav|||và ông cũng nói.|
+b005105|vietnamese-00|vietnamese|wav_p3/wavs9/segment_198.wav|||họ sẽ bước đi trong nhịp điệu của riêng mình.|
+b005106|vietnamese-00|vietnamese|wav_p3/wavs9/segment_64.wav|||hay là có một bữa ăn sang trọng như bao người khác.|
+b005107|vietnamese-00|vietnamese|wav_p3/wavs9/segment_132.wav|||đang khao khát có cho mình một cuộc sống an tĩnh.|
+b005108|vietnamese-00|vietnamese|wav_p3/wavs9/segment_187.wav|||nhưng mà flores đã nói.|
+b005109|vietnamese-00|vietnamese|wav_p3/wavs9/segment_255.wav|||tự nhiên sẽ có thể kiên trì.|
+b005110|vietnamese-00|vietnamese|wav_p3/wavs9/segment_157.wav|||khi thorow đặt chân đến hồ wodon.|
+b005111|vietnamese-00|vietnamese|wav_p3/wavs9/segment_242.wav|||đồng thời ông cũng khám phá ra bản chất chân thực của nội tâm bên trong.|
+b005112|vietnamese-00|vietnamese|wav_p3/wavs9/segment_246.wav|||ông không phải là một kẻ thất bại không đạt được gì.|
+b005113|vietnamese-00|vietnamese|wav_p3/wavs9/segment_266.wav|||từ bỏ sự can thiệp của thế giới bên ngoài và hoạch định một con đường cho riêng mình.|
+b005114|vietnamese-00|vietnamese|wav_p3/wavs9/segment_215.wav|||khi đến giữa hồ.|
+b005115|vietnamese-00|vietnamese|wav_p3/wavs9/segment_4.wav|||úa đền sống một mình trong rừng.|
+b005116|vietnamese-00|vietnamese|wav_p3/wavs9/segment_294.wav|||nếu bạn đã quá quen thuộc với niềm vui thành công hay là cuộc sống hiện tại của chúng ta.|
+b005117|vietnamese-00|vietnamese|wav_p3/wavs9/segment_208.wav|||trên chính con đường bạn lựa chọn.|
+b005118|vietnamese-00|vietnamese|wav_p3/wavs9/segment_66.wav|||khi những người xung quanh của ông đang ngày càng trở nên giàu có.|
+b005119|vietnamese-00|vietnamese|wav_p3/wavs9/segment_238.wav|||niềm vui và hạnh phúc luôn ngập tràn trong ngôi nhà của tôi.|
+b005120|vietnamese-00|vietnamese|wav_p3/wavs9/segment_32.wav|||và toàn xã hội khi đó đang có những bước tiến dài.|
+b005121|vietnamese-00|vietnamese|wav_p3/wavs9/segment_169.wav|||trên thực tế thì thử thách thực sự đối với florence không phải là chết đói mà đó chính là mùa đông ở đây.|
+b005122|vietnamese-00|vietnamese|wav_p3/wavs9/segment_209.wav|||bước chân đúng nhịp dẫn lối ta vào hạnh phúc.|
+b005123|vietnamese-00|vietnamese|wav_p3/wavs9/segment_183.wav|||sorrow đã luôn cảm thấy mình thật hạnh phúc trong những điều không tưởng.|
+b005124|vietnamese-00|vietnamese|wav_p3/wavs9/segment_217.wav|||khi tỉnh dậy.|
+b005125|vietnamese-00|vietnamese|wav_p3/wavs9/segment_94.wav|||n.|
+b005126|vietnamese-00|vietnamese|wav_p3/wavs9/segment_236.wav|||ferrari đã không kìm được xúc động và bày tỏ rằng.|
+b005127|vietnamese-00|vietnamese|wav_p3/wavs9/segment_168.wav|||ông vẫn có thể khỏe mạnh.|
+b005128|vietnamese-00|vietnamese|wav_p3/wavs9/segment_212.wav|||đó là một buổi sáng mùa hè.|
+b005129|vietnamese-00|vietnamese|wav_p3/wavs9/segment_235.wav|||trong cuốn sách.|
+b005130|vietnamese-00|vietnamese|wav_p3/wavs9/segment_207.wav|||và kiên trì bước tiếp.|
+b005131|vietnamese-00|vietnamese|wav_p3/wavs9/segment_285.wav|||theo tiết tấu của chính mình.|
+b005132|vietnamese-00|vietnamese|wav_p3/wavs9/segment_344.wav|||hay là đang áp lực bởi những gì mà bạn mong muốn bởi những thứ mà bạn đang cố gắng theo đuổi.|
+b005133|vietnamese-00|vietnamese|wav_p3/wavs9/segment_84.wav|||và cũng bởi vì ông là một người không đi theo nhịp bước của những người xung quanh.|
+b005134|vietnamese-00|vietnamese|wav_p3/wavs9/segment_101.wav|||ông đã nhìn thấy cho mình cảnh sắc tuyệt đẹp của hồ gợi đình.|
+b005135|vietnamese-00|vietnamese|wav_p3/wavs9/segment_295.wav|||thì chúng ta lại rất dễ đi vào chiếc xe cũ.|
+b005136|vietnamese-00|vietnamese|wav_p3/wavs9/segment_130.wav|||và martin luther king.|
+b005137|vietnamese-00|vietnamese|wav_p3/wavs9/segment_308.wav|||để sống với những suy nghĩ tẻ nhạt cùng những công việc lặp đi lặp lại.|
+b005138|vietnamese-00|vietnamese|wav_p3/wavs9/segment_268.wav|||nói với anh ta rằng.|
+b005139|vietnamese-00|vietnamese|wav_p3/wavs9/segment_69.wav|||và bất cứ khi nào ai đó khuyên ông rằng.|
+b005140|vietnamese-00|vietnamese|wav_p3/wavs9/segment_257.wav|||có làm thế nào cũng không thể lâu dài.|
+b005141|vietnamese-00|vietnamese|wav_p3/wavs9/segment_303.wav|||và cố gắng sống như những gì anh ta dám nghĩ và tưởng tượng.|
+b005142|vietnamese-00|vietnamese|wav_p3/wavs9/segment_197.wav|||lạc quan trước mọi khó khăn nguy hiểm ập đến.|
+b005143|vietnamese-00|vietnamese|wav_p3/wavs9/segment_258.wav|||vậy nên chỉ bằng cách làm những gì bạn thích.|
+b005144|vietnamese-00|vietnamese|wav_p3/wavs9/segment_123.wav|||một hồ nước yên tĩnh.|
+b005145|vietnamese-00|vietnamese|wav_p3/wavs9/segment_259.wav|||bạn mới có thể cảm thấy hạnh phúc thực sự và lâu dài.|
+b005146|vietnamese-00|vietnamese|wav_p3/wavs9/segment_85.wav|||là một người không để bất cứ quy tắc nào kìm hãm bản thân.|
+b005147|vietnamese-00|vietnamese|wav_p3/wavs9/segment_275.wav|||chúng ta cần phải tìm ra lục địa của chính mình.|
+b005148|vietnamese-00|vietnamese|wav_p3/wavs9/segment_102.wav|||ông đã dựng nhà trong một thời gian rất lâu.|
+b005149|vietnamese-00|vietnamese|wav_p3/wavs9/segment_352.wav|||ông vẫn chú thích.|
+b005150|vietnamese-00|vietnamese|wav_p3/wavs9/segment_61.wav|||ông không muốn chịu đựng sự tra tấn đến từ công việc lặp lại.|
+b005151|vietnamese-00|vietnamese|wav_p3/wavs9/segment_108.wav|||xuân sang thì khuôn nhà của ông mới được hoàn tất.|
+b005152|vietnamese-00|vietnamese|wav_p3/wavs9/segment_165.wav|||trong khu rừng này thì làm sao có được những thứ đó.|
+b005153|vietnamese-00|vietnamese|wav_p3/wavs9/segment_290.wav|||nhưng mà ferrari đã giải thích lý do ông rời đi cũng mạnh mẽ như là lúc ông đến.|
+b005154|vietnamese-00|vietnamese|wav_p3/wavs9/segment_265.wav|||bạn cần phải nhìn rõ tâm mình ngay từ đầu.|
+b005155|vietnamese-00|vietnamese|wav_p3/wavs9/segment_134.wav|||con người đã trở thành công cụ của công cụ con người.|
+b005156|vietnamese-00|vietnamese|wav_p3/wavs9/segment_241.wav|||ông quan sát về thế giới và vạn vật bên ngoài.|
+b005157|vietnamese-00|vietnamese|wav_p3/wavs9/segment_88.wav|||nhà tự nhiên học nhà tư tưởng nhà tiên phong trong chủ nghĩa tiền nghiệm.|
+b005158|vietnamese-00|vietnamese|wav_p3/wavs9/segment_0.wav|||năm hai không hai mươi ba hãy sống tốt trong nhịp bước của chính mình.|
+b005159|vietnamese-00|vietnamese|wav_p3/wavs9/segment_311.wav|||tại sao chúng ta phải bất chấp tất cả tham gia vào một công việc.|
+b005160|vietnamese-00|vietnamese|wav_p3/wavs9/segment_345.wav|||hoặc là bạn không biết mình phải làm gì ở bước tiếp theo đây.|
+b005161|vietnamese-00|vietnamese|wav_p3/wavs9/segment_370.wav|||tạm biệt và hẹn gặp lại các bạn ở những video tiếp theo.|
+b005162|vietnamese-00|vietnamese|wav_p3/wavs9/segment_270.wav|||và sống như con người độc nhất của mình.|
+b005163|vietnamese-00|vietnamese|wav_p3/wavs9/segment_137.wav|||và cố gắng sống một cuộc sống mà anh ta muốn.|
+b005164|vietnamese-00|vietnamese|wav_p3/wavs9/segment_271.wav|||điều này cũng giống như là mục đích mà ông viết tác phẩm này.|
+b005165|vietnamese-00|vietnamese|wav_p3/wavs9/segment_65.wav|||vậy nên kết quả là.|
+b005166|vietnamese-00|vietnamese|wav_p3/wavs9/segment_38.wav|||lại có những người vẫn muốn gắn bó với sự nghiệp mà ông bà cha mẹ để lại.|
+b005167|vietnamese-00|vietnamese|wav_p3/wavs9/segment_109.wav|||sau đầu đã bỏ một ít tiền tiết kiệm mua gỗ rồng rồi.|
+b005168|vietnamese-00|vietnamese|wav_p3/wavs9/segment_301.wav|||ít nhất là ông đã phát hiện ra một điều rằng.|
+b005169|vietnamese-00|vietnamese|wav_p3/wavs9/segment_278.wav|||và cũng chẳng có hai con người giống hệt như đúc.|
+b005170|vietnamese-00|vietnamese|wav_p3/wavs9/segment_186.wav|||thậm chí là đi làm những công việc lặt vặt trong một trang trại cũng được.|
+b005171|vietnamese-00|vietnamese|wav_p3/wavs9/segment_138.wav|||trong đường đời như là một cuộc chạy đua marathon này.|
+b005172|vietnamese-00|vietnamese|wav_p3/wavs9/segment_52.wav|||ở công việc này thì ông đã rất thành công.|
+b005173|vietnamese-00|vietnamese|wav_p3/wavs9/segment_48.wav|||nhưng mà bản thảo của ông không được tổng biên tập phê duyệt.|
+b005174|vietnamese-00|vietnamese|wav_p3/wavs9/segment_74.wav|||tôi thà đi xe bò trên trần gian.|
+b005175|vietnamese-00|vietnamese|wav_p3/wavs9/segment_162.wav|||vậy là mỗi ngày ông chỉ biết giải quyết cơn đói bằng bột ngô và rau sam.|
+b005176|vietnamese-00|vietnamese|wav_p3/wavs9/segment_240.wav|||sorrow đã bắt đầu thiền định suy ngẫm về triết học.|
+b005177|vietnamese-00|vietnamese|wav_p3/wavs9/segment_47.wav|||foyle làm nhà báo cho một tòa soạn.|
+b005178|vietnamese-00|vietnamese|wav_p3/wavs9/segment_128.wav|||cua đình đã ảnh hưởng đến văn học của mỹ.|
+b005179|vietnamese-00|vietnamese|wav_p3/wavs9/segment_363.wav|||cũng là thời khắc chúng ta mở ra một chặng đường mới.|
+b005180|vietnamese-00|vietnamese|wav_p3/wavs9/segment_233.wav|||bản giao hưởng của tự nhiên khiến ông không hề cảm thấy cô đơn.|
+b005181|vietnamese-00|vietnamese|wav_p3/wavs9/segment_116.wav|||trong hai năm tiếp theo.|
+b005182|vietnamese-00|vietnamese|wav_p3/wavs9/segment_214.wav|||lênh đênh trên mặt hồ phẳng lặng.|
+b005183|vietnamese-00|vietnamese|wav_p3/wavs9/segment_73.wav|||còn hơn là bon chen trên một chiếc đệm nhung.|
+b005184|vietnamese-00|vietnamese|wav_p3/wavs9/segment_172.wav|||nhưng mà ông vẫn có rất nhiều cách để có thể giúp mình vượt qua cái lạnh.|
+b005185|vietnamese-00|vietnamese|wav_p3/wavs9/segment_260.wav|||và nếu như mỗi bước đi của chúng ta luôn là những bước đi sao chép cuộc sống của một người khác.|
+b005186|vietnamese-00|vietnamese|wav_p3/wavs9/segment_104.wav|||và bằng một cây dìu trong tay.|
+b005187|vietnamese-00|vietnamese|wav_p3/wavs9/segment_340.wav|||chắc chắn sẽ để lại nhiều cảm xúc khác nhau ở mỗi người.|
+b005188|vietnamese-00|vietnamese|wav_p3/wavs9/segment_100.wav|||và cũng chính từ nơi này.|
+b005189|vietnamese-00|vietnamese|wav_p3/wavs9/segment_211.wav|||sorrow đã kể cho chúng ta nghe một cách sống động.|
+b005190|vietnamese-00|vietnamese|wav_p3/wavs9/segment_277.wav|||trên đời này sẽ không có hai chiếc lá giống nhau.|
+b005191|vietnamese-00|vietnamese|wav_p3/wavs9/segment_121.wav|||cuối cùng chúng được cô đọng lại bằng chính tác phẩm kinh điển wooden.|
+b005192|vietnamese-00|vietnamese|wav_p3/wavs9/segment_329.wav|||cho dù là cuộc sống của bạn khiêm tốn đến đâu thì vẫn phải sống hết mình phải sống tốt trong nhịp bước của bạn.|
+b005193|vietnamese-00|vietnamese|wav_p3/wavs9/segment_276.wav|||sống và cảm nhận được vùng đất của riêng bạn.|
+b005194|vietnamese-00|vietnamese|wav_p3/wavs9/segment_194.wav|||bạn thấy đó.|
+b005195|vietnamese-00|vietnamese|wav_p3/wavs9/segment_279.wav|||chỉ bằng cách đi theo con đường riêng.|
+b005196|vietnamese-00|vietnamese|wav_p3/wavs9/segment_160.wav|||trong thời gian dựng nhà vì phải đi chặt gỗ bưng vác từ sáng sớm mỗi ngày ông đã cần phải dùng rất nhiều sức lực.|
+b005197|vietnamese-00|vietnamese|wav_p3/wavs9/segment_22.wav|||năm một nghìn tám trăm ba mươi ba.|
+b005198|vietnamese-00|vietnamese|wav_p3/wavs9/segment_229.wav|||và khi màn đêm buông xuống.|
+b005199|vietnamese-00|vietnamese|wav_p3/wavs9/segment_151.wav|||thì chúng ta sẽ có thể lỡ mất nhịp bước của chính mình.|
+b005200|vietnamese-00|vietnamese|wav_p3/wavs9/segment_131.wav|||đồng thời cũng ảnh hưởng đến vô số những người hiện đại.|
+b005201|vietnamese-00|vietnamese|wav_p3/wavs9/segment_23.wav|||có một thanh niên rất ưu tố đó là faro.|
+b005202|vietnamese-00|vietnamese|wav_p3/wavs9/segment_91.wav|||có thể nói rằng.|
+b005203|vietnamese-00|vietnamese|wav_p3/wavs9/segment_224.wav|||đôi khi là một làn gió thoảng hương hoa.|
+b005204|vietnamese-00|vietnamese|wav_p3/wavs9/segment_280.wav|||chúng ta mới có thể sống một cuộc sống hạnh phúc.|
+b005205|vietnamese-00|vietnamese|wav_p3/wavs9/segment_36.wav|||có những người thì biết tận dụng thời cơ.|
+b005206|vietnamese-00|vietnamese|wav_p3/wavs9/segment_93.wav|||hãy bước đi với nhịp bước của riêng bạn.|
+b005207|vietnamese-00|vietnamese|wav_p3/wavs9/segment_153.wav|||hãy chạy theo tốc độ của riêng bạn.|
+b005208|vietnamese-00|vietnamese|wav_p3/wavs9/segment_369.wav|||cảm ơn các bạn đã lắng nghe.|
+b005209|vietnamese-00|vietnamese|wav_p3/wavs9/segment_51.wav|||sau đó thì ông đi làm trong xưởng sản xuất bút chì của cha mình.|
+b005210|vietnamese-00|vietnamese|wav_p3/wavs9/segment_176.wav|||và chắt vữa dày lên tường.|
+b005211|vietnamese-00|vietnamese|wav_p3/wavs9/segment_228.wav|||ông luôn cảm thấy sức sống nguyên thủy mãnh liệt trong mình được đánh thức.|
+b005212|vietnamese-00|vietnamese|wav_p3/wavs9/segment_230.wav|||đầu tiên từ phía xa chân trời vọng lại tiếng bò rống.|
+b005213|vietnamese-00|vietnamese|wav_p3/wavs9/segment_179.wav|||sorrow lại ngắm nhìn những ngọn lửa bập bùng và lắng nghe tiếng gió thổi bên ngoài nhà.|
+b005214|vietnamese-00|vietnamese|wav_p3/wavs9/segment_25.wav|||đăng bài lên các tờ báo.|
+b005215|vietnamese-00|vietnamese|wav_p3/wavs9/segment_282.wav|||giống như là một nhà bác học đã từng nói.|
+b005216|vietnamese-00|vietnamese|wav_p3/wavs9/segment_281.wav|||có ý nghĩa thực sự với chính bản thân bạn.|
+b005217|vietnamese-00|vietnamese|wav_p3/wavs9/segment_97.wav|||ông đi đến rừng thông bên hồ woden.|
+b005218|vietnamese-00|vietnamese|wav_p3/wavs9/segment_226.wav|||và đôi khi là một chú thỏ ngốc nghếch đi lạc.|
+b005219|vietnamese-00|vietnamese|wav_p3/wavs9/segment_159.wav|||đầu tiên là làm thế nào để ông có thể sống sót trong khu rừng hoang vắng này.|
+b005220|vietnamese-00|vietnamese|wav_p3/wavs9/segment_223.wav|||mỗi một ngày ông đều có những vị khách đến từ thiên nhiên.|
+b005221|vietnamese-00|vietnamese|wav_p3/wavs9/segment_114.wav|||cũng chẳng lười biếng.|
+b005222|vietnamese-00|vietnamese|wav_p3/wavs9/segment_124.wav|||hay một ngôi nhà gỗ tự xây.|
+b005223|vietnamese-00|vietnamese|wav_p3/wavs9/segment_156.wav|||bước đúng nhịp điệu chính mình mới có thể kiên trì vượt qua mọi thử thách.|
+b005224|vietnamese-00|vietnamese|wav_p3/wavs9/segment_164.wav|||vì một người không thể nào sống thiếu bánh mì hay là thịt heo.|
+b005225|vietnamese-00|vietnamese|wav_p3/wavs9/segment_335.wav|||và đừng lệ thuộc vào quá nhiều thế lực bên ngoài.|
+b005226|vietnamese-00|vietnamese|wav_p3/wavs9/segment_9.wav|||và các bạn.|
+b005227|vietnamese-00|vietnamese|wav_p3/wavs9/segment_200.wav|||không bị những tiếng ồn ào từ thế giới bên ngoài làm phiền.|
+b005228|vietnamese-00|vietnamese|wav_p3/wavs9/segment_349.wav|||ông ấy có viết rằng.|
+b005229|vietnamese-00|vietnamese|wav_p3/wavs9/segment_119.wav|||những suy nghĩ của thurl bay bổng tự do trong sự tĩnh lặng của thiên nhiên.|
+b005230|vietnamese-00|vietnamese|wav_p3/wavs9/segment_356.wav|||và cũng có thể trải nghiệm một cuộc sống hoàn toàn khác.|
+b005231|vietnamese-00|vietnamese|wav_p3/wavs9/segment_95.wav|||vậy là vào năm hai mươi tám tuổi khi mà hầu hết mọi người đang theo đuổi tiền bạc và vật chất.|
+b005232|vietnamese-00|vietnamese|wav_p3/wavs9/segment_218.wav|||ông thấy nước hồ đã đẩy thuyền vào bờ.|
+b005233|vietnamese-00|vietnamese|wav_p3/wavs9/segment_245.wav|||những ngày sống ở bên bờ hồ là quãng thời gian định hình lại con người của ông.|
+b005234|vietnamese-00|vietnamese|wav_p3/wavs9/segment_21.wav|||n.|
+b005235|vietnamese-00|vietnamese|wav_p3/wavs9/segment_256.wav|||việc gì mình không thích.|
+b005236|vietnamese-00|vietnamese|wav_p3/wavs9/segment_239.wav|||trong tâm trạng tự do đó.|
+b005237|vietnamese-00|vietnamese|wav_p3/wavs9/segment_298.wav|||những con đường lớn trên thế giới đã bị đi mòn và bụi bặm biết bao nhiêu.|
+b005238|vietnamese-00|vietnamese|wav_p3/wavs9/segment_161.wav|||nhưng mà kinh tế thì eo hẹp lại không có đủ thời gian để trồng trọt.|
+b005239|vietnamese-00|vietnamese|wav_p3/wavs9/segment_302.wav|||nếu một người mạnh dạn tiến về phía trước theo ước mơ của mình.|
+b005240|vietnamese-00|vietnamese|wav_p3/wavs9/segment_220.wav|||trái tim ông tự do như là một con chim.|
+b005241|vietnamese-00|vietnamese|wav_p3/wavs9/segment_304.wav|||thì anh ta có thể đạt được thành công ngoài mong đợi trong những năm tháng cuộc đời của chính mình.|
+b005242|vietnamese-00|vietnamese|wav_p3/wavs9/segment_63.wav|||chỉ vì với mong muốn là có một ngôi nhà đẹp.|
+b005243|vietnamese-00|vietnamese|wav_p3/wavs9/segment_305.wav|||tức là bạn không nhất thiết phải đi theo vết xe của người thành công bạn mới thành công.|
+b005244|vietnamese-00|vietnamese|wav_p3/wavs9/segment_232.wav|||tiếng gió và tiếng nước chảy.|
+b005245|vietnamese-00|vietnamese|wav_p3/wavs9/segment_354.wav|||sorrow hy vọng rằng.|
+b005246|vietnamese-00|vietnamese|wav_p3/wavs9/segment_199.wav|||không hoảng loạn hay là sốt ruột.|
+b005247|vietnamese-00|vietnamese|wav_p3/wavs9/segment_67.wav|||thì sorrow lại càng ngày nghèo đi.|
+b005248|vietnamese-00|vietnamese|wav_p3/wavs9/segment_193.wav|||và khiến ông muốn cống hiến hết mình cho cuộc đời.|
+b005249|vietnamese-00|vietnamese|wav_p3/wavs9/segment_129.wav|||ảnh hưởng đến phong trào xã hội của gandhi.|
+b005250|vietnamese-00|vietnamese|wav_p3/wavs9/segment_31.wav|||faro sống đúng vào thời đại mà nền kinh tế mỹ đang phát triển đi lên ở thế kỷ mười chín.|
+b005251|vietnamese-00|vietnamese|wav_p3/wavs9/segment_37.wav|||rồi họ phất lên như là diều gặp gió của cải nhanh chóng được tích lũy và trở thành những người dẫn đầu của thời đại.|
+b005252|vietnamese-00|vietnamese|wav_p3/wavs9/segment_288.wav|||mình tin chắc rằng sẽ có nhiều người thắc mắc.|
+b005253|vietnamese-00|vietnamese|wav_p3/wavs9/segment_359.wav|||chúc tất cả chúng ta đều có thể bước ra khỏi lối mòn.|
+b005254|vietnamese-00|vietnamese|wav_p3/wavs9/segment_322.wav|||chúng ta đã khoác lên mọi thứ xung quanh đủ thứ hình dạng và biểu tượng.|
+b005255|vietnamese-00|vietnamese|wav_p3/wavs9/segment_355.wav|||trong phần đời còn lại tất cả chúng ta có thể khám phá một hướng đi mới bằng chính nhịp bước của bạn.|
+b005256|vietnamese-00|vietnamese|wav_p3/wavs9/segment_41.wav|||về quê để làm trang trại trồng trọt.|
+b005257|vietnamese-00|vietnamese|wav_p3/wavs9/segment_56.wav|||thế nhưng mà ferrari lại quyết định không tiếp tục đẩy mạnh sản xuất.|
+b005258|vietnamese-00|vietnamese|wav_p3/wavs9/segment_20.wav|||có một người không bao giờ chạy theo nhịp bước của người khác.|
+b005259|vietnamese-00|vietnamese|wav_p3/wavs9/segment_283.wav|||những điều tốt đẹp nhất luôn xuất hiện khi mà bạn không ngờ tới.|
+b005260|vietnamese-00|vietnamese|wav_p3/wavs9/segment_111.wav|||cứ như vậy.|
+b005261|vietnamese-00|vietnamese|wav_p3/wavs9/segment_252.wav|||tôi chỉ tin vào cảm xúc của mình là chính xác.|
+b005262|vietnamese-00|vietnamese|wav_p3/wavs9/segment_154.wav|||sống tốt trong nhịp bước của bạn.|
+b005263|vietnamese-00|vietnamese|wav_p3/wavs9/segment_221.wav|||mặc dù những ngày ở worden rất khó khăn.|
+b005264|vietnamese-00|vietnamese|wav_p3/wavs9/segment_315.wav|||tất cả những việc chỉ để kiếm tiền sinh nhai không đáng để chúng ta lãng phí sinh mệnh.|
+b005265|vietnamese-00|vietnamese|wav_p3/wavs9/segment_19.wav|||mời các bạn cùng lắng nghe bài chia sẻ thông qua video ngày hôm nay.|
+b005266|vietnamese-00|vietnamese|wav_p3/wavs9/segment_117.wav|||ông bầu bạn với núi sông và các vì sao.|
+b005267|vietnamese-00|vietnamese|wav_p3/wavs9/segment_351.wav|||ngày tháng còn dài và mặt trời chỉ là một ngôi sao buổi sáng.|
+b005268|vietnamese-00|vietnamese|wav_p3/wavs9/segment_178.wav|||mỗi một đêm giá lạnh.|
+b005269|vietnamese-00|vietnamese|wav_p3/wavs9/segment_43.wav|||trong mắt nhiều người.|
+b005270|vietnamese-00|vietnamese|wav_p3/wavs9/segment_326.wav|||nó là câu trả lời cho một câu hỏi.|
+b005271|vietnamese-00|vietnamese|wav_p3/wavs9/segment_142.wav|||có người nở hoa rất muộn.|
+b005272|vietnamese-00|vietnamese|wav_p3/wavs9/segment_253.wav|||bất kể người khác có nghĩ gì tôi sẽ không bao giờ phá vỡ đi nhịp điệu của mình.|
+b005273|vietnamese-00|vietnamese|wav_p3/wavs9/segment_327.wav|||bạn có thực sự cảm thấy vui.|
+b005274|vietnamese-00|vietnamese|wav_p3/wavs9/segment_184.wav|||cũng có rất nhiều người đã từng thuyết phục ông rằng.|
+b005275|vietnamese-00|vietnamese|wav_p3/wavs9/segment_262.wav|||không tìm thấy ý nghĩa thực sự của cuộc sống mà cũng chẳng tìm được phần tự do trong tâm hồn của mình.|
+b005276|vietnamese-00|vietnamese|wav_p3/wavs9/segment_90.wav|||và mối quan hệ của thiên nhiên với đời sống con người.|
+b005277|vietnamese-00|vietnamese|wav_p3/wavs9/segment_250.wav|||câu chuyện của sorrow làm mình nhớ tới câu nói này của haruki murakami.|
+b005278|vietnamese-00|vietnamese|wav_p3/wavs9/segment_78.wav|||theo ông thị.|
+b005279|vietnamese-00|vietnamese|wav_p3/wavs9/segment_99.wav|||khai khẩn đất hoang.|
+b005280|vietnamese-00|vietnamese|wav_p3/wavs9/segment_45.wav|||và làm một người đàn ông tội nghiệp không bao giờ có thể tiến về phía trước.|
+b005281|vietnamese-00|vietnamese|wav_p3/wavs9/segment_16.wav|||năm hai không hai mươi ba.|
+b005282|vietnamese-00|vietnamese|wav_p3/wavs9/segment_309.wav|||và gọi đó là sự đồng thuận với số đông xã hội.|
+b005283|vietnamese-00|vietnamese|wav_p3/wavs9/segment_17.wav|||tất cả chúng ta đều có thể sống tốt trong nhịp bước của chính mình.|
+b005284|vietnamese-00|vietnamese|wav_p3/wavs9/segment_324.wav|||và chỉ có sự thật mới có thể đứng vững trước mọi thử thách của thời gian.|
+b005285|vietnamese-00|vietnamese|wav_p3/wavs9/segment_191.wav|||và khiến bản thân mình trở nên kiệt sức.|
+b005286|vietnamese-00|vietnamese|wav_p3/wavs9/segment_348.wav|||đã để lại trong mình rất nhiều suy ngẫm.|
+b005287|vietnamese-00|vietnamese|wav_p3/wavs9/segment_244.wav|||cũng viết rất nhiều và gặp gỡ nhiều người có hiểu biết sâu sắc.|
+b005288|vietnamese-00|vietnamese|wav_p3/wavs9/segment_364.wav|||nên là mình hy vọng rằng điều trước tiên trong năm nay.|
+b005289|vietnamese-00|vietnamese|wav_p3/wavs9/segment_293.wav|||và sau đó tự mình sẽ bước vào một lối mòn.|
+b005290|vietnamese-00|vietnamese|wav_p3/wavs9/segment_115.wav|||ông chậm rãi an nhiên tự tại dựng lên một tổ ấm cho riêng mình.|
+b005291|vietnamese-00|vietnamese|wav_p3/wavs9/segment_8.wav|||cô chú anh chị em.|
+b005292|vietnamese-00|vietnamese|wav_p3/wavs9/segment_272.wav|||chính là hi vọng tất cả mọi người đều có thể trở thành columbus của chính mình.|
+b005293|vietnamese-00|vietnamese|wav_p3/wavs9/segment_312.wav|||chỉ để theo đuổi thành công danh vọng.|
+b005294|vietnamese-00|vietnamese|wav_p3/wavs9/segment_225.wav|||đôi khi là một chú chim sậy nhút nhát.|
+b005295|vietnamese-00|vietnamese|wav_p3/wavs9/segment_126.wav|||kèm theo đó là tiếng chim hót.|
+b005296|vietnamese-00|vietnamese|wav_p3/wavs9/segment_150.wav|||tôi đã có được bao nhiêu rồi.|
+b005297|vietnamese-00|vietnamese|wav_p3/wavs9/segment_234.wav|||ngay cả khi chỉ có một mình trong đêm không quạnh vắng.|
+b005298|vietnamese-00|vietnamese|wav_p3/wavs9/segment_105.wav|||mỗi ngày từ rừng về.|
+b005299|vietnamese-00|vietnamese|wav_p3/wavs9/segment_10.wav|||những người đang xem và theo dõi kênh của btrversion.|
+b005300|vietnamese-00|vietnamese|wav_p3/wavs9/segment_81.wav|||việc đạt được thành công như bao người khác nó cũng chưa chắc có thể đem lại hạnh phúc thực sự cho chính mình.|
+b005301|vietnamese-00|vietnamese|wav_p3/wavs9/segment_15.wav|||và mình cũng mong rằng là.|
+b005302|vietnamese-00|vietnamese|wav_p3/wavs9/segment_80.wav|||hay là phải bằng bạn bằng bè.|
+b005303|vietnamese-00|vietnamese|wav_p3/wavs9/segment_171.wav|||vào những ngày tuyết rơi dày đặc ngôi nhà gỗ của faro lạnh căm căm như là một cái nhà băng.|
+b005304|vietnamese-00|vietnamese|wav_p3/wavs9/segment_249.wav|||và cũng không bao giờ quên nhìn ngắm lên bầu trời rộng lớn kia.|
+b005305|vietnamese-00|vietnamese|wav_p3/wavs9/segment_110.wav|||bắt đầu trang trí bên trong căn thúc lều của mình.|
+b005306|vietnamese-00|vietnamese|wav_p3/wavs9/segment_6.wav|||henry david soro.|
+b005307|vietnamese-00|vietnamese|wav_p3/wavs9/segment_18.wav|||và bây giờ thì.|
+b005308|vietnamese-00|vietnamese|wav_p3/wavs9/segment_96.wav|||sorrow đã từ bỏ tất cả và với một cây rìu đi mượn.|
+b005309|vietnamese-00|vietnamese|wav_p3/wavs9/segment_182.wav|||bằng chính cách này.|
+b005310|vietnamese-00|vietnamese|wav_p3/wavs9/segment_310.wav|||và cho rằng đó là việc nên làm.|
+b005311|vietnamese-00|vietnamese|wav_p3/wavs9/segment_365.wav|||đó là chúng ta có thể có một khởi đầu khác hơn so với những bước đi cũ trước kia.|
+b005312|vietnamese-00|vietnamese|wav_p3/wavs9/segment_86.wav|||cũng chính những điều này đã tạo nên một henry david store.|
+b005313|vietnamese-00|vietnamese|wav_p3/wavs9/segment_149.wav|||và nếu như bạn cứ để ý là tôi đã tiến được bao xa rồi.|
+b005314|vietnamese-00|vietnamese|wav_p3/wavs9/segment_318.wav|||nếu như một người cứ oằn mình để theo kịp bước chân của những người cùng trang lứa.|
+b005315|vietnamese-00|vietnamese|wav_p3/wavs9/segment_29.wav|||nhưng mà không hề muốn đi theo những con đường cũ của những người đi trước.|
+b005316|vietnamese-00|vietnamese|wav_p3/wavs9/segment_14.wav|||và ngay trên chính con đường mà mỗi chúng ta lựa chọn.|
+b005317|vietnamese-00|vietnamese|wav_p3/wavs9/segment_366.wav|||và mong tất cả chúng ta đều có thể tìm thấy nhịp bước của bản thân.|
+b005318|vietnamese-00|vietnamese|wav_p3/wavs9/segment_263.wav|||vậy nên.|
+b005319|vietnamese-00|vietnamese|wav_p3/wavs9/segment_136.wav|||một người sẽ chỉ thành công nếu anh ta đi theo hướng được dẫn dắt bởi ước mơ của mình.|
+b005320|vietnamese-00|vietnamese|wav_p3/wavs9/segment_286.wav|||bạn sẽ không ngừng bước đi qua từng ngày.|
+b005321|vietnamese-00|vietnamese|wav_p3/wavs9/segment_49.wav|||ông cũng cùng anh trai của mình điều hành và xây dựng một trường tư thục.|
+b005322|vietnamese-00|vietnamese|wav_p3/wavs9/segment_30.wav|||ông đã tự sống theo lối đi của riêng mình.|
+b005323|vietnamese-00|vietnamese|wav_p3/wavs9/segment_317.wav|||có một sự thực trong cuộc đời là.|
+b005324|vietnamese-00|vietnamese|wav_p3/wavs9/segment_44.wav|||sau đó lúc ấy chính là người bị bỏ lại phía sau đó.|
+b005325|vietnamese-00|vietnamese|wav_p3/wavs9/segment_292.wav|||có một sự thực rằng chúng rất dễ trượt vào một thói quen nhất định mà không hề hay biết.|
+b005326|vietnamese-00|vietnamese|wav_p3/wavs9/segment_5.wav|||của nhà văn nhà thơ nhà triết học người mỹ.|
+b005327|vietnamese-00|vietnamese|wav_p3/wavs9/segment_319.wav|||thì đó có thể là do anh ta đã nghe thấy tiếng trống khiêu chiến phải đuổi kịp ai đó.|
+b005328|vietnamese-00|vietnamese|wav_p3/wavs9/segment_35.wav|||tất cả mọi người đều đang ráo riết chạy đua trên đường đời.|
+b005329|vietnamese-00|vietnamese|wav_p3/wavs9/segment_222.wav|||nhưng flores đã trải nghiệm được sự bình yên và niềm vui mà ông chưa từng có trước đây.|
+b005330|vietnamese-00|vietnamese|wav_p3/wavs9/segment_42.wav|||và cũng có những người dù cố gắng đến đâu đi chăng nữa họ vẫn bị bỏ xa lại so với những người khác.|
+b005331|vietnamese-00|vietnamese|wav_p3/wavs9/segment_300.wav|||trong ngay cuộc thử nghiệm sống của tác giả.|
+b005332|vietnamese-00|vietnamese|wav_p3/wavs9/segment_7.wav|||trước tiên nhân dịp thời khắc giao thừa sắp tới thì cho phép battle virgin xin gửi lời chúc xuân đến tất cả toàn thể.|
+b005333|vietnamese-00|vietnamese|wav_p3/wavs9/segment_190.wav|||tại sao tôi lại phải làm những việc mình không thích.|
+b005334|vietnamese-00|vietnamese|wav_p3/wavs9/segment_195.wav|||nếu như một khi ai đó đã quyết tâm sống cho chính mình.|
+b005335|vietnamese-00|vietnamese|wav_p3/wavs9/segment_113.wav|||không sốt sắng không áp lực.|
+b005336|vietnamese-00|vietnamese|wav_p3/wavs9/segment_358.wav|||mà là nằm ở trải nghiệm.|
+b005337|vietnamese-00|vietnamese|wav_p3/wavs9/segment_79.wav|||điều quan trọng nhất trong cuộc sống không phải là vượt qua người khác.|
+b005338|vietnamese-00|vietnamese|wav_p3/wavs9/segment_333.wav|||giống như là khổng tử đã căn dặn.|
