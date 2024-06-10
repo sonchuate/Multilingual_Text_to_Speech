@@ -1,0 +1,1329 @@
+wavs/wavs0/segment_124.wav|đều cần bạn bước vào cánh cửa tập trung.|40|2.3839909297052153|0.05959977324263038
+wavs/wavs0/segment_139.wav|bất kể thứ gì đi đến quá đà.|28|2.053015873015873|0.07332199546485262
+wavs/wavs0/segment_154.wav|tập trung vào một việc và tận hưởng niềm vui.|45|2.6310204081632653|0.058467120181405895
+wavs/wavs0/segment_159.wav|tự may quần áo chế tạo đồ đạc từ phế liệu vân vân.|50|3.899002267573696|0.07798004535147392
+wavs/wavs0/segment_16.wav|và hẹn gặp lại các bạn ở những video tiếp theo.|47|2.74|0.058297872340425536
+wavs/wavs0/segment_164.wav|mình rất thích một câu nói trong tác phẩm ăn thóc đỏ dưới trái nhà xanh như thế này.|84|4.953015873015873|0.05896447467876039
+wavs/wavs0/segment_186.wav|mình sẽ dùng chính quá trình rèn luyện khả năng tập trung trong nhiều năm qua.|78|3.972018140589569|0.05092330949473806
+wavs/wavs0/segment_193.wav|chúng ta cần phải tập trung tận hưởng nỗi cô đơn bằng cách thêm màu thú vị cho cuộc sống.|89|5.161995464852608|0.05799994904328773
+wavs/wavs0/segment_194.wav|bà bắt đầu đọc những cuốn sách đủ thể loại.|43|2.4039909297052153|0.05590676580709803
+wavs/wavs0/segment_208.wav|giúp bản thân phát triển những tiềm năng tiến bộ không ngừng.|61|3.1700226757369614|0.05196758484814691
+wavs/wavs0/segment_229.wav|điều này có nghĩa là.|21|1.4700226757369614|0.07000107979699817
+wavs/wavs0/segment_234.wav|cảm thấy mỗi phút mỗi giây đều đặc biệt khó khăn.|49|3.2170068027210883|0.06565320005553242
+wavs/wavs0/segment_268.wav|bất cứ việc nào hành động gì trong cuộc đời này.|48|3.019002267573696|0.062895880574452
+wavs/wavs0/segment_292.wav|cám ơn các bạn.|15|1.034013605442177|0.06893424036281179
+wavs/wavs0/segment_303.wav|khi chúng ta thách thức giới hạn của cơ thể những cảm xúc tiêu cực như chán nản mệt mỏi không hài lòng sẽ theo mồ hôi thoát ra.|127|7.513015873015873|0.059157605299337584
+wavs/wavs0/segment_329.wav|angel bi sẽ làm rối loạn tâm trí của bạn.|41|2.5960090702947847|0.06331729439743378
+wavs/wavs0/segment_343.wav|khi bạn luyện tập sự tập trung hoàn toàn vào một việc.|54|3.2289795918367346|0.059795918367346934
+wavs/wavs0/segment_374.wav|và công việc của mình bất cứ lúc nào.|37|2.334013605442177|0.06308144879573452
+wavs/wavs0/segment_4.wav|tuy nhiên trong thời đại thông tin bùng nổ hiện nay.|52|2.765986394557823|0.05319204604918891
+wavs/wavs0/segment_49.wav|dẫn đến sự tan rã của ý thức cái tôi.|37|2.745034013605442|0.07419010847582276
+wavs/wavs0/segment_5.wav|chị bằng hãy yêu thích công việc hiện tại của mình.|51|3.1230385487528345|0.06123604997554578
+wavs/wavs0/segment_59.wav|cảm ơn bạn đã lắng nghe.|24|1.8040362811791384|0.0751681783824641
+wavs/wavs0/segment_60.wav|với sự trợ giúp của dòng chảy trên con đường phát triển bản thân.|65|4.0639909297052155|0.06252293738008023
+wavs/wavs0/segment_61.wav|tuy nhiên khi chuyển đến môi trường sống.|41|2.06|0.05024390243902439
+wavs/wavs0/segment_7.wav|sẽ xuất hiện một cảm giác hưng phấn và mãn nguyện cao độ.|57|3.6690249433106574|0.06436885865457294
+wavs/wavs0/segment_70.wav|lý do thứ hai.|14|1.38|0.09857142857142856
+wavs/wavs0/segment_72.wav|kênh chia sẻ kiến thức.|23|1.2219954648526077|0.05313023760228729
+wavs/wavs0/segment_81.wav|nếu video trước đó nói về việc.|31|2.3160090702947844|0.07470997000950917
+wavs/wavs0/segment_9.wav|mỗi khi chúng ta làm bất cứ việc gì mà không tập trung.|55|3.025986394557823|0.05501793444650587
+wavs/wavs1/segment_10.wav|hay còn gọi là entropy tâm thần.|32|2.6410430839002266|0.08253259637188208
+wavs/wavs1/segment_101.wav|khi đắm chìm trong công việc niềm vui bỗng trỗi dậy.|52|2.9639909297052154|0.056999825571254145
+wavs/wavs1/segment_107.wav|bên cạnh đó còn đưa bà trải nghiệm một cuộc sống phát triển cả tư duy và tinh thần ở chặng cuối cuộc đời.|105|6.660997732426304|0.06343807364215527
+wavs/wavs1/segment_110.wav|ngoài việc đọc sách và viết lách.|33|1.726984126984127|0.052332852332852335
+wavs/wavs1/segment_12.wav|thì bạn cần giữ cho cuộc sống được cân bằng.|44|2.9460317460317462|0.06695526695526696
+wavs/wavs1/segment_128.wav|càng không thể tận hưởng sự cô đơn.|35|2.053015873015873|0.058657596371882094
+wavs/wavs1/segment_132.wav|cùng với nỗi cô đơn trong tĩnh lặng.|36|1.833015873015873|0.05091710758377425
+wavs/wavs1/segment_133.wav|và có được cảm giác hài lòng.|29|1.8750113378684807|0.0646555633747752
+wavs/wavs1/segment_134.wav|tác giả khuyên rằng hãy tìm ra được việc yêu thích và đam mê.|61|3.66|0.060000000000000005
+wavs/wavs1/segment_135.wav|tập trung là cánh cửa duy nhất của tâm hồn chúng ta.|52|3.492018140589569|0.06715419501133787
+wavs/wavs1/segment_15.wav|tránh điểm có nghĩa là.|23|1.6540136054421768|0.07191363501922508
+wavs/wavs1/segment_150.wav|công việc bạn đang làm phải đạt được sự hoà hợp giữa tâm trí và hành động.|74|4.4360090702947845|0.059946068517497085
+wavs/wavs1/segment_159.wav|nếu không thể thay đổi được số phận.|36|2.0920181405895693|0.058111615016376926
+wavs/wavs1/segment_170.wav|ông giải thích chi tiết về khái niệm dòng chảy như sau.|55|3.5029931972789115|0.06369078540507112
+wavs/wavs1/segment_179.wav|sự vô thường của sinh tử chile.|31|2.5160090702947846|0.08116158291273498
+wavs/wavs1/segment_183.wav|như là.|7|0.9429931972789115|0.13471331389698735
+wavs/wavs1/segment_206.wav|anh ấy cảm thấy mỗi ngày đến công xưởng rất thú vị.|51|2.840997732426304|0.05570583789071184
+wavs/wavs1/segment_213.wav|bây giờ xin mời các bạn cùng lắng nghe nội dung chia sẻ của battle region mang tên.|83|4.60702947845805|0.05550637925853072
+wavs/wavs1/segment_216.wav|thậm chí nhớ đến những tin đồn vừa mới nghe thấy.|49|3.0170068027210886|0.061571567402471196
+wavs/wavs1/segment_217.wav|bằng việc đó là tăng mật độ trải nghiệm của trạng thái dòng chảy.|65|3.7290249433106575|0.057369614512471655
+wavs/wavs1/segment_219.wav|chiến lược tiếp theo đó là chiến lược hai đỉnh.|47|2.9150113378684805|0.06202151782698895
+wavs/wavs1/segment_22.wav|thông qua các trải nghiệm ròng rãnh.|36|2.0500226757369613|0.056945074326026704
+wavs/wavs1/segment_222.wav|flow dòng chảy.|15|1.7710204081632652|0.11806802721088434
+wavs/wavs1/segment_225.wav|bước vào dòng chảy.|19|1.1019954648526078|0.05799976130803199
+wavs/wavs1/segment_226.wav|cách cuối cùng để giúp chúng ta đi vào trạng thái dòng chảy đó là phát hiện dòng chảy trong nỗi cô đơn.|103|13.61501133786848|0.1321845760958105
+wavs/wavs1/segment_227.wav|giúp bạn tránh được những tồn hao không cần thiết.|50|2.912018140589569|0.05824036281179138
+wavs/wavs1/segment_236.wav|biến nó thành một khả năng cốt lõi không thể bị thay thế.|57|3.1439909297052155|0.05515773560886343
+wavs/wavs1/segment_253.wav|vừa học vừa làm cũng vừa phải tranh thủ đọc sách viết nội dung.|63|3.7160090702947848|0.058984270957060075
+wavs/wavs1/segment_257.wav|trước khi hình thành một thói quen nào đó hãy tự thiết lập bản sắc cho mình.|76|4.329024943310658|0.056960854517245495
+wavs/wavs1/segment_262.wav|ngược lại có một công nhân khác.|32|2.2760090702947844|0.07112528344671201
+wavs/wavs1/segment_275.wav|bản thân chúng ta đưa ý thức của mình hiện diện trên từng hành động mình đang làm ở ngay thời điểm hiện tại.|108|6.2090249433106575|0.057490971697320904
+wavs/wavs1/segment_277.wav|robert hagel đã từng nói.|25|1.9849886621315194|0.07939954648526078
+wavs/wavs1/segment_286.wav|quên mất cả bản thân.|21|1.40702947845805|0.06700140373609761
+wavs/wavs1/segment_294.wav|tuy nhiên có thể sẽ có người thắc mắc rằng.|43|2.7680272108843536|0.06437272583451985
+wavs/wavs1/segment_3.wav|nó.|3|0.4629931972789116|0.1543310657596372
+wavs/wavs1/segment_307.wav|và cũng là nền tảng của hoạt động trí não trong bạn.|52|2.8820408163265308|0.05542386185243328
+wavs/wavs1/segment_32.wav|đây không phải là một lời nói quá.|34|2.2290249433106575|0.06555955715619581
+wavs/wavs1/segment_327.wav|ở khu vực gần nơi ở bà còn dùng bảng viết những câu chuyện cười do bà sáng tác.|79|4.683990929705216|0.0592910244266483
+wavs/wavs1/segment_33.wav|so với việc ngồi tàn gẫu mơ mộng.|33|2.1820408163265306|0.06612244897959184
+wavs/wavs1/segment_332.wav|để có thể dễ dàng tập trung.|28|1.7290249433106577|0.06175089083252349
+wavs/wavs1/segment_333.wav|ví dụ nếu bạn sợ môn toán để cải thiện tình hình giống như cuốn sách học cách học đã nói.|89|5.9970068027210885|0.06738209890697852
+wavs/wavs1/segment_334.wav|thúc đẩy anh ta không ngừng suy nghĩ về việc.|45|2.586031746031746|0.0574673721340388
+wavs/wavs1/segment_335.wav|thông thường để lắp ráp xong một đơn vị linh kiện mất khoảng bốn mươi ba giây.|78|4.494013605442177|0.057615559044130474
+wavs/wavs1/segment_338.wav|bạn vẫn có thể tìm được niềm vui từ đó chỉ cần thỏa mãn được hai điều kiện sau đây.|83|4.788027210884354|0.057687074829931975
+wavs/wavs1/segment_34.wav|trồng cây.|10|0.9279818594104309|0.09279818594104308
+wavs/wavs1/segment_35.wav|từ đó nâng cao cải thiện hiệu suất công việc.|45|2.566031746031746|0.057022927689594355
+wavs/wavs1/segment_351.wav|bạn luôn có thể có một khoảng thời gian vui vẻ.|47|2.9100226757369616|0.061915376079509823
+wavs/wavs1/segment_360.wav|mình phải cao.|14|1.1680272108843537|0.08343051506316812
+wavs/wavs1/segment_364.wav|không để trở thành nô lệ của sự theo đuổi thú vị.|49|3.1500226757369614|0.06428617705585636
+wavs/wavs1/segment_365.wav|bà sống một mình trên hòn đảo cô quạnh.|39|2.512018140589569|0.0644107215535787
+wavs/wavs1/segment_366.wav|hoặc vẽ tranh chỉ đường đến nhà mình.|37|2.2990022675736963|0.06213519642091071
+wavs/wavs1/segment_375.wav|nhưng mà chắc chắn trên đời này không phải ai cũng có thể dễ dàng được làm công việc mà mình yêu thích.|103|5.760997732426304|0.05593201681967286
+wavs/wavs1/segment_387.wav|khiến bạn cố gắng lặp lại trải nghiệm đó lần nữa.|49|3.2090249433106575|0.06549030496552362
+wavs/wavs1/segment_411.wav|sau đó lãnh đạo phê bình trừ lương.|35|2.533015873015873|0.07237188208616781
+wavs/wavs1/segment_413.wav|vậy nên hãy đặt ra mục tiêu cụ thể rõ ràng.|43|3.0230385487528344|0.0703032220640194
+wavs/wavs1/segment_415.wav|và nếu có thể tập trung tinh thần hoàn toàn.|44|2.4070294784580497|0.05470521541950113
+wavs/wavs1/segment_430.wav|chiều cao của ông chỉ một mét bảy mươi lăm và ông đã từng không được vào đội bóng rổ của trường vì quá thấp.|108|5.679002267573696|0.05258335432938607
+wavs/wavs1/segment_438.wav|video trước về cuốn sách này mình thực hiện từ những ngày đầu mới thành lập kênh.|81|4.237006802721089|0.05230872595951962
+wavs/wavs1/segment_441.wav|nên nó có thể cần chúng ta đọc lại nhiều lần.|45|3.059002267573696|0.06797782816830436
+wavs/wavs1/segment_462.wav|nếu không mở được cánh cửa tập trung này bạn sẽ mất kết nối về ý thức bên trong mình.|85|4.823990929705215|0.05675283446712018
+wavs/wavs1/segment_463.wav|đấy là những công việc yêu thích thì mới có thể toàn tâm toàn ý.|64|3.4770068027210885|0.05432823129251701
+wavs/wavs1/segment_464.wav|khu vực để học tập và trưởng thành tốt nhất.|44|2.4500226757369616|0.0556823335394764
+wavs/wavs1/segment_468.wav|mỗi lần mệt mỏi hay xử lý cơn nóng giận.|40|2.379002267573696|0.0594750566893424
+wavs/wavs1/segment_473.wav|nhưng cuối cùng mình thấy rằng.|31|1.534013605442177|0.049484309852973446
+wavs/wavs1/segment_477.wav|và có thể vực dậy sau những khó khăn.|37|2.052018140589569|0.05545994974566403
+wavs/wavs1/segment_481.wav|thì ngay cả khi hoàn thành xuất sắc các chỉ số.|47|2.7990022675736963|0.05955323973561056
+wavs/wavs1/segment_483.wav|trong vòng một năm rưỡi chiều cao của ông tăng nhanh chóng.|59|3.234013605442177|0.05481378992274876
+wavs/wavs1/segment_484.wav|bước vào cánh cửa tập trung trở về với chính mình tác giả cuốn sách limiless.|77|11.100997732426304|0.14416880171982213
+wavs/wavs1/segment_488.wav|sẽ trở thành dòng chảy trú ẩn trong tâm trí bạn.|48|3.0029931972789115|0.06256235827664398
+wavs/wavs1/segment_5.wav|có cuộc sống ra sao và sứ mệnh của bạn là gì.|45|3.3310204081632655|0.07402267573696146
+wavs/wavs1/segment_507.wav|có hai lý do khi mình làm thêm nội dung về một cuốn sách.|57|3.7630385487528346|0.0660182201535585
+wavs/wavs1/segment_513.wav|rồi viết hoặc vẽ ra những suy nghĩ của mình.|44|3.1809977324263037|0.07229540300968872
+wavs/wavs1/segment_516.wav|trong quá trình tìm kiếm dòng chảy chúng ta không khỏi phải chịu đựng cô đơn khi đối mặt vấn đề một mình.|105|5.644988662131519|0.05376179678220494
+wavs/wavs1/segment_517.wav|bạn chỉ đạt được sự thỏa mãn tạm thời do đầu mìn tiết ra.|57|3.6430385487528345|0.06391295699566377
+wavs/wavs1/segment_52.wav|như thể bạn đang trôi theo một dòng chảy.|41|2.360997732426304|0.05758531054698302
+wavs/wavs1/segment_57.wav|ngoài ra tác giả còn chỉ ra một cách nữa để có thể dễ dàng trải nghiệm dòng chảy.|81|4.777006802721089|0.058975392626186285
+wavs/wavs1/segment_6.wav|cuốn sách đầu tiên mình chọn để chia sẻ trên battle region.|59|3.5560090702947846|0.060271340174487875
+wavs/wavs1/segment_63.wav|chẳng hạn như.|14|1.180997732426304|0.08435698088759314
+wavs/wavs1/segment_71.wav|mà yếu tố cốt lõi đầu tiên ở đây để bạn có thể bước vào trạng thái dòng chảy.|77|4.716009070294785|0.06124687104278941
+wavs/wavs1/segment_9.wav|mở một bộ phim chơi game giải trí để lấp đầy khoảng trống trong tâm hồn.|72|4.199002267573696|0.05831947593852355
+wavs/wavs10/segment_104.wav|từ đấy điều chỉnh và củng cố bản thân.|38|2.499002267573696|0.06576321756772885
+wavs/wavs10/segment_114.wav|trạng thái dòng chảy chỉ diễn ra khi bạn làm một công việc không quá khó khăn và cũng không quá dễ dàng với bạn.|112|5.885986394557823|0.052553449951409134
+wavs/wavs10/segment_12.wav|cuối cùng trong trạng thái không chút phân tâm anh ấy đã rút ngắn thời gian lắp ráp xuống còn hai mươi tám giây.|112|6.203990929705215|0.05539277615808228
+wavs/wavs10/segment_121.wav|đó là hãy mơ mộng.|18|1.9100226757369614|0.10611237087427564
+wavs/wavs10/segment_129.wav|hãy ngừng than phiền.|21|1.466031746031746|0.06981103552532124
+wavs/wavs10/segment_133.wav|khi bạn tập trung cao độ.|25|1.5380045351473923|0.06152018140589569
+wavs/wavs10/segment_140.wav|bạn cũng không có cảm giác hài lòng sâu sắc.|44|2.5960090702947847|0.05900020614306329
+wavs/wavs10/segment_157.wav|tất cả đều trở thành thử thách lớn đối với mình.|48|2.7320181405895694|0.05691704459561603
+wavs/wavs10/segment_159.wav|tức là bạn cần ra khỏi vùng thoải mái của mình.|47|2.6040362811791384|0.05540502725913061
+wavs/wavs10/segment_160.wav|không còn bị ảnh hưởng bởi những thông tin không liên quan.|59|2.8100226757369615|0.04762750297859257
+wavs/wavs10/segment_17.wav|bởi vì dòng chảy đã liên tục lấp đầy những khoảng trống trong tâm hồn bà.|73|3.8170068027210884|0.052287764420836824
+wavs/wavs10/segment_19.wav|giúp bạn đạt được hiệu suất cao có kết nối sâu sắc với mọi hoạt động bằng ý thức chủ đích.|90|4.840997732426304|0.0537888636936256
+wavs/wavs10/segment_20.wav|tức là ngay cả công việc bình thường nhất.|42|2.3510204081632655|0.055976676384839656
+wavs/wavs10/segment_205.wav|một cách thường xuyên hơn và nhiều hơn nữa.|43|3.006031746031746|0.0699077150239941
+wavs/wavs10/segment_211.wav|việc tận hưởng niềm vui nhưng không được để bản thân bị nghiện.|63|3.3300226757369615|0.05285750278947558
+wavs/wavs10/segment_220.wav|một tác phẩm khoa học tổng hợp công trình nghiên cứu trọn đời của nhà tâm lý học miley.|87|5.277006802721089|0.06065525060598952
+wavs/wavs10/segment_231.wav|dần dần anh ấy đã có thể dễ dàng duy trì sự tập trung.|54|3.5090249433106577|0.0649819433946418
+wavs/wavs10/segment_235.wav|đây chính là thử thách cần thiết để bạn trưởng thành.|53|2.971020408163265|0.05605698883326916
+wavs/wavs10/segment_238.wav|thì video mới này mình sẽ tập trung chia sẻ.|44|2.952018140589569|0.06709132137703566
+wavs/wavs10/segment_241.wav|tự tạo cho mình một chút thử thách.|35|1.7239909297052154|0.0492568837058633
+wavs/wavs10/segment_273.wav|ví dụ.|6|1.0610430839002267|0.1768405139833711
+wavs/wavs10/segment_276.wav|bạn sẽ gặp một phiên bản vô cùng mạnh mẽ của chính mình.|56|3.273015873015873|0.05844671201814059
+wavs/wavs10/segment_298.wav|hoặc chưa tìm được việc lý tưởng.|33|1.873015873015873|0.05675805675805676
+wavs/wavs10/segment_31.wav|tạo ra những trải nghiệm rộng rãi.|34|1.8039909297052155|0.05305855675603575
+wavs/wavs10/segment_315.wav|nhưng bà không hề cảm thấy trống rỗng và bất lực.|49|2.8300226757369615|0.0577555648109584
+wavs/wavs10/segment_346.wav|là người ngay cả khi cô đơn và không có việc gì làm.|52|2.9580045351473925|0.05688470259898832
+wavs/wavs10/segment_35.wav|để chia sẻ với các bạn.|23|1.5880272108843538|0.06904466134279799
+wavs/wavs10/segment_39.wav|cách để giúp mình làm được điều này.|36|1.8430385487528345|0.05119551524313429
+wavs/wavs10/segment_4.wav|bên cạnh đó để tránh cho hỗn độn tâm trí không để tăng enroby.|62|4.551020408163265|0.07340355497037525
+wavs/wavs10/segment_44.wav|xong chay.|10|1.2480272108843538|0.12480272108843538
+wavs/wavs10/segment_45.wav|rồi.|4|0.7829931972789116|0.1957482993197279
+wavs/wavs10/segment_52.wav|và thường âm thầm nói với bản thân mình rằng.|45|2.4259863945578233|0.05391080876795163
+wavs/wavs10/segment_59.wav|đã dẫn bà vào một thế giới tinh thần vô cùng rộng lớn.|54|3.3639909297052153|0.06229612832787436
+wavs/wavs10/segment_63.wav|mà hãy làm việc trong vùng lân cận của sự thoải mái.|52|2.98|0.05730769230769231
+wavs/wavs10/segment_86.wav|nếu không có hành động thì tưởng tượng sẽ chỉ là áo vọc.|56|3.0100226757369613|0.053750404923874305
+wavs/wavs10/segment_88.wav|dễ quá cũng không có ứng làm.|29|2.2019954648526077|0.07593087809836578
+wavs/wavs10/segment_89.wav|nhà tâm lý học miley.|21|2.173015873015873|0.10347694633408919
+wavs/wavs11/segment_10.wav|bạn cảm thấy chán ghét cách thức nó diễn ra để thu hút mọi người bỏ tiền mua hàng của công ty bạn.|98|5.589024943310657|0.057030866768476095
+wavs/wavs11/segment_100.wav|dẫn đến một vòng tuần hoàn tích cực.|36|2.0240362811791384|0.05622323003275384
+wavs/wavs11/segment_105.wav|mơ mộng mà tác giả đề cập tới không phải là kiểu mơ mộng viển vông không thực tế.|81|4.7910204081632655|0.059148400100781054
+wavs/wavs11/segment_108.wav|cha của jordan cũng chỉ cao trung bình anh chị em cũng không cao.|65|4.066984126984127|0.06256898656898657
+wavs/wavs11/segment_11.wav|với nội dung chia sẻ ngắn gọn và âm thanh chưa được hoàn thiện tốt nhất.|72|3.659002267573696|0.05081947593852356
+wavs/wavs11/segment_114.wav|quên hết những việc xung quanh.|31|1.6619954648526076|0.053612756930729276
+wavs/wavs11/segment_12.wav|phát triển toàn diện bản thân qua các cuốn sách hay.|52|3.0490249433106578|0.058635095063666494
+wavs/wavs11/segment_136.wav|trong thế giới này bạn có thể quên đi thời gian và vượt qua những nỗi buồn.|75|4.399002267573696|0.05865336356764928
+wavs/wavs11/segment_147.wav|do âm thanh chất lượng mang lại.|32|1.7390022675736962|0.05434382086167801
+wavs/wavs11/segment_150.wav|trước tiên bạn phải thay đổi niềm tin của mình.|47|2.7890249433106575|0.05934095624065229
+wavs/wavs11/segment_155.wav|và bạn rất yêu thích nó.|24|1.6760090702947845|0.06983371126228269
+wavs/wavs11/segment_17.wav|lo lắng vì chiếc lốp xe hỏng.|29|1.76|0.060689655172413794
+wavs/wavs11/segment_176.wav|cao lên cao lên nào.|20|1.7240362811791383|0.08620181405895691
+wavs/wavs11/segment_178.wav|trong trường hợp này khi mà bạn không biết mình thích gì.|57|2.9049886621315193|0.05096471337072841
+wavs/wavs11/segment_18.wav|bạn cũng có thể biến nó trở nên thú vị và ý nghĩa với chính mình.|65|3.8160090702947844|0.05870783185068899
+wavs/wavs11/segment_19.wav|khi ở một mình chúng ta mới có cơ hội cho bản thân được tĩnh tâm.|65|3.755011337868481|0.05776940519797663
+wavs/wavs11/segment_193.wav|tập trung cao độ yêu thích công việc mình làm.|46|2.633015873015873|0.05723947550034506
+wavs/wavs11/segment_195.wav|vì vậy việc rèn luyện khả năng tập trung cao độ bất cứ lúc nào.|63|3.7839909297052152|0.06006334809055897
+wavs/wavs11/segment_201.wav|tiềm năng cũng được phát huy đến cực điểm.|42|2.7910204081632655|0.06645286686103014
+wavs/wavs11/segment_202.wav|chính lúc này bạn đang được trải nghiệm trạng thái dòng chảy.|61|3.7809977324263038|0.06198356938403777
+wavs/wavs11/segment_203.wav|điều kiện thứ hai hãy tự nhủ rằng bạn thích công việc này.|58|3.8770068027210884|0.06684494487450153
+wavs/wavs11/segment_204.wav|khi bạn có thể không cần quan tâm đến những gì xảy ra bên ngoài.|64|3.7039909297052156|0.057874858276643994
+wavs/wavs11/segment_205.wav|người này rất thích công việc mình đang làm.|44|2.2910204081632655|0.05206864564007421
+wavs/wavs11/segment_206.wav|không lâu sau điều kỳ diệu đã xảy ra.|37|2.32|0.0627027027027027
+wavs/wavs11/segment_210.wav|bởi cuộc sống ngày nay khiến cho thời gian của chúng ta đã bị chia cắt quá vụng vặt.|84|4.54702947845805|0.054131303314976786
+wavs/wavs11/segment_211.wav|nếu bạn ép mình phải kiếm thật nhiều tiền bằng một công việc mà từ sâu thẳm bạn không công nhận.|96|5.075011337868481|0.05286470143613001
+wavs/wavs11/segment_212.wav|chiến lược nhịp điệu.|21|1.4380045351473922|0.06847640643559011
+wavs/wavs11/segment_224.wav|giúp làm dịu những cảm xúc phức tạp.|36|2.052018140589569|0.057000503905265815
+wavs/wavs11/segment_229.wav|thực chất đối mặt với công việc mà bạn không thích.|51|2.6100226757369613|0.05117691521052865
+wavs/wavs11/segment_239.wav|điều này có nghĩa rằng.|23|1.6090249433106576|0.06995760623089815
+wavs/wavs11/segment_251.wav|dù vẫn sống một mình.|21|1.5100226757369615|0.07190584170176006
+wavs/wavs11/segment_255.wav|và thậm chí cuộc sống của bạn sẽ hạnh phúc hơn rất nhiều.|57|3.440997732426304|0.06036838127063691
+wavs/wavs11/segment_27.wav|chiến lược đầu tiên.|20|1.440997732426304|0.0720498866213152
+wavs/wavs11/segment_272.wav|hãy tận dụng và tiếp tục phát huy.|34|2.2700226757369615|0.06676537281579298
+wavs/wavs11/segment_295.wav|cắt đứt mọi liên lạc với thế giới bên ngoài cô lập mình trong một môi trường tách biệt.|87|4.260997732426304|0.04897698543018741
+wavs/wavs11/segment_297.wav|làm sao để tìm ra cách hoàn thành công việc nhanh hơn tốt hơn.|62|4.537006802721089|0.0731775290761466
+wavs/wavs11/segment_3.wav|còn người kia thì không.|24|1.705986394557823|0.0710827664399093
+wavs/wavs11/segment_307.wav|và đây cũng chính là điều đầu tiên mình muốn chia sẻ với các bạn.|65|3.4960090702947846|0.05378475492761207
+wavs/wavs11/segment_308.wav|và dễ dàng bước vào trạng thái dòng chảy.|41|2.7430385487528346|0.06690337923787401
+wavs/wavs11/segment_33.wav|sau đó ông đã dễ dàng gia nhập đội bóng rổ ở trường.|52|3.0700226757369613|0.05903889761032618
+wavs/wavs11/segment_333.wav|dần dần bạn sẽ dễ dàng tập trung hoàn toàn.|43|2.545986394557823|0.05920898591994937
+wavs/wavs11/segment_34.wav|tác giả nói.|12|1.2619954648526077|0.10516628873771731
+wavs/wavs11/segment_348.wav|công việc chẳng mấy suôn sẻ.|28|1.8209977324263038|0.06503563330093942
+wavs/wavs11/segment_356.wav|bạn có thể nâng cao năng lực của chính mình.|44|2.4840362811791383|0.056455370026798596
+wavs/wavs11/segment_359.wav|cũng sẽ tìm ra việc để làm.|27|1.8310204081632653|0.06781557067271353
+wavs/wavs11/segment_36.wav|lo ngại về các thiết bị điện trong nhà chưa được sửa.|53|3.040997732426304|0.05737731570615668
+wavs/wavs11/segment_37.wav|bạn sẽ thấy học cách mơ mộng đúng cách.|39|2.3229931972789117|0.059563928135356714
+wavs/wavs11/segment_385.wav|khả năng tập trung của bạn sẽ trở nên mạnh mẽ hơn bao giờ hết.|62|3.1920181405895693|0.05148416355789628
+wavs/wavs11/segment_393.wav|từ góc độ di truyền cho thấy jordan không có khả năng cao lớn.|62|3.7770068027210884|0.06091946456001755
+wavs/wavs11/segment_40.wav|hầu hết mọi hoạt động trong cuộc sống đều có thể tạo ra dòng chảy.|66|3.6170068027210887|0.05480313337456195
+wavs/wavs11/segment_401.wav|từ đó làm giảm hiệu suất học tập cũng như làm việc.|51|3.3310204081632655|0.06531412565026011
+wavs/wavs11/segment_418.wav|có thể bây giờ bạn sẽ thắc mắc cuốn sách dòng chảy này bryon wilson đã chia sẻ trước đó rồi mà.|95|5.897006802721088|0.062073755818116715
+wavs/wavs11/segment_437.wav|họ cũng có thể tìm thấy niềm vui.|33|2.266984126984127|0.0686964886964887
+wavs/wavs11/segment_445.wav|mình đã áp dụng cả ba chiến lược này.|37|2.187981859410431|0.059134644848930565
+wavs/wavs11/segment_45.wav|phần lớn mọi người không biết cách ở một mình.|46|2.3500226757369616|0.051087449472542644
+wavs/wavs11/segment_451.wav|nếu từ đầu đã nghĩ điều đó không vui.|37|2.068027210884354|0.05589262732119875
+wavs/wavs11/segment_46.wav|khi đó bạn có thể toàn tâm toàn ý vào công việc.|48|3.0560090702947846|0.06366685563114134
+wavs/wavs11/segment_461.wav|nếu bạn đã nghe chia sẻ về cuốn sách tuýp cuộc.|47|3.5370068027210886|0.07525546388768274
+wavs/wavs11/segment_467.wav|cao một mét chín mươi tám.|26|1.5819954648526078|0.06084597941740799
+wavs/wavs11/segment_472.wav|chúng ta thiếu kỷ luật nội tại vững chắc.|41|2.235011337868481|0.0545124716553288
+wavs/wavs11/segment_475.wav|mà là một sự tự ám thị tâm lý có mục đích.|42|3.300997732426304|0.07859518410538818
+wavs/wavs11/segment_483.wav|sự tự ám thị hiệu quả phải có mục tiêu rõ ràng và cần lập kế hoạch từng bước để thực hiện.|90|5.46|0.06066666666666667
+wavs/wavs11/segment_512.wav|khó quá bạn sẽ bỏ cuộc.|23|1.806031746031746|0.07852311939268461
+wavs/wavs11/segment_53.wav|đó chính là sự tập trung hoàn toàn.|35|2.7|0.07714285714285715
+wavs/wavs11/segment_536.wav|vị thầy mình đã tu tập theo đó chính là thiền sư thích nhất hạnh.|65|4.055011337868481|0.06238478981336125
+wavs/wavs11/segment_538.wav|sau đó trong quá trình thực hiện bạn sẽ cảm thấy dễ chịu không bực tức.|71|4.237006802721089|0.05967615215100125
+wavs/wavs11/segment_54.wav|nhưng sự khó khăn và vất vả này chỉ là tạm thời.|48|3.0900226757369613|0.0643754724111867
+wavs/wavs11/segment_555.wav|trong cuốn thức tỉnh nhận thức có nhấn mạnh rằng.|49|2.9560090702947845|0.060326715720301724
+wavs/wavs11/segment_556.wav|ngừng việc chỉ cảm nhận về công việc giống như là một gánh nặng.|64|3.48|0.054375
+wavs/wavs11/segment_56.wav|tuy nhiên để phá vỡ kỷ lục.|27|1.885986394557823|0.06985134794658604
+wavs/wavs11/segment_6.wav|trước đây mình là người rất khó tập trung nếu như có tiếng ồn xung quanh.|73|4.097006802721088|0.05612338085919299
+wavs/wavs11/segment_68.wav|mình sẽ một lần nữa nói về trạng thái này.|42|2.74|0.06523809523809525
+wavs/wavs11/segment_71.wav|và sống một cuộc sống từng giây từng phút trọn vẹn hơn.|55|3.471020408163265|0.06310946196660482
+wavs/wavs11/segment_75.wav|việc nào mà không thích thì có cô mấy cũng không được.|54|3.518004535147392|0.06514823213235911
+wavs/wavs11/segment_77.wav|cũng có thể giúp cho con người bước vào trải nghiệm tối ưu.|59|3.067981859410431|0.05199969253238018
+wavs/wavs11/segment_78.wav|nếu bạn đang trên con đường mong muốn nâng cao và phát triển bản thân.|70|3.72|0.053142857142857144
+wavs/wavs11/segment_79.wav|có thể nói gần như mọi nút thắt trong cuộc sống của bạn sẽ được gỡ bỏ.|70|3.7790022675736963|0.05398574667962423
+wavs/wavs11/segment_8.wav|chiến lược này sẽ thường phù hợp với những người làm công việc sáng tạo.|72|3.8590022675736964|0.053597253716301335
+wavs/wavs11/segment_9.wav|bạn sẽ thấy cô đơn lại là cơ hội cho phép chúng ta dễ dàng phát hiện ra trạng thái ròng cháy nhất.|98|6.1270294784580495|0.06252070896385764
+wavs/wavs11/segment_90.wav|mình cần phải nhốt mình vào một góc yên tĩnh nào đó mới có thể làm việc và đọc sách hiệu quả.|93|4.998004535147392|0.05374198424889669
+wavs/wavs11/segment_94.wav|lúc này mỗi hành động suy nghĩ của con người đều được liên kết mượt mà như một dòng nước chảy.|94|6.048027210884354|0.06434071500940802
+wavs/wavs12/segment_112.wav|một công việc có tính thử thách nhưng không quá khó.|52|3.059002267573696|0.05882696668410954
+wavs/wavs12/segment_138.wav|thì tốt hơn hết hãy giống như cuốn sách nhân gian đáng giá có nói.|66|3.8380045351473924|0.058151583865869584
+wavs/wavs12/segment_148.wav|một công nhân bình thường làm việc trên dây chuyền lắp ráp tại một nhà máy.|75|4.246984126984127|0.056626455026455025
+wavs/wavs12/segment_155.wav|tránh nhiệm trông đánh răng mặc quần áo.|40|2.4500226757369616|0.06125056689342404
+wavs/wavs12/segment_198.wav|mà do niềm tin sai lầm xuất phát từ chính nhận thức và những đánh giá chủ quan của bạn về sự kiện đó.|101|6.044036281179138|0.05984194337801127
+wavs/wavs12/segment_2.wav|ngay kế do đó là cuốn sách flows dòng chảy.|43|3.1510204081632653|0.07327954437588989
+wavs/wavs12/segment_208.wav|bạn sẽ trải nghiệm được niềm vui quên mình.|43|2.4029931972789114|0.05588356272741654
+wavs/wavs12/segment_21.wav|khi ở một mình thì nhiều người sẽ phải cầm điện thoại.|54|2.6710204081632654|0.04946334089191232
+wavs/wavs12/segment_223.wav|điều kiện đầu tiên.|19|1.3879818594104307|0.0730516768110753
+wavs/wavs12/segment_243.wav|leo núi làm bánh học nhảy.|26|2.4820408163265304|0.09546310832025116
+wavs/wavs12/segment_245.wav|để lại một cơ thể nhẹ nhàng và tâm hồn thoải mái.|49|3.011020408163265|0.061449396084964594
+wavs/wavs12/segment_258.wav|chỉ khi một người ở một mình.|29|1.9040362811791383|0.0656564234889358
+wavs/wavs12/segment_259.wav|tiếng hát lý nhã phương khiến tâm trạng em thức ăn yên.|55|10.271020408163265|0.18674582560296846
+wavs/wavs12/segment_260.wav|điển hình như michael jordan.|29|2.0370068027210886|0.07024161388693409
+wavs/wavs12/segment_262.wav|thời gian cũng dường như ngừng trôi.|36|2.059002267573696|0.05719450743260267
+wavs/wavs12/segment_27.wav|flow là một cuốn sách tâm lý học xuất sắc.|42|2.5940136054421767|0.06176222870100421
+wavs/wavs12/segment_273.wav|sự cô đơn này chính là một loại cô đơn chất lượng cao.|54|3.461043083900227|0.06409339044259679
+wavs/wavs12/segment_286.wav|trong sách có một trường hợp của một người phụ nữ ngoài sáu mươi tuổi như thế này.|82|4.540997732426304|0.05537802112715004
+wavs/wavs12/segment_290.wav|làm việc dâu bất cứ lúc nào trong lịch trình.|45|2.6100226757369613|0.05800050390526581
+wavs/wavs12/segment_291.wav|vì vậy hãy chọn một công việc không bị chi phối bởi dự phòng.|61|3.665986394557823|0.06009813761570202
+wavs/wavs12/segment_3.wav|hãy nghĩ rằng muốn toán không hề đáng sợ.|41|2.5290249433106577|0.061683535202698966
+wavs/wavs12/segment_323.wav|thậm chí có thể hoàn toàn không bị những cuộc trò chuyện nù dỡ xung quanh làm ảnh hưởng.|88|4.959002267573696|0.05635229849515564
+wavs/wavs12/segment_361.wav|thì sẽ xảy ra hiện tượng mất trật tự nội tâm.|45|2.7409977324263037|0.060911060720584526
+wavs/wavs12/segment_384.wav|không ngờ những câu chuyện và quan điểm phong phú đó.|53|3.0820408163265305|0.058151713515594915
+wavs/wavs12/segment_389.wav|khi không thể bước vào bên trong bạn cũng không thể biết được bản thân tôi có tiềm năng gì sẽ trở thành người như thế nào.|122|6.442993197278912|0.05281141964982715
+wavs/wavs12/segment_390.wav|và đề phản ngb.|15|1.6690249433106576|0.11126832955404384
+wavs/wavs12/segment_400.wav|thì mình tin rằng cuốn sách này sẽ thực sự rất cần thiết cho bạn.|65|3.899002267573696|0.05998465027036455
+wavs/wavs12/segment_406.wav|qua tuyệt tác tâm lý học hiện đại.|34|2.105986394557823|0.061940776310524207
+wavs/wavs12/segment_445.wav|thì đó là một điều vô cùng may mắn tuyệt vời.|45|2.7590022675736963|0.06131116150163769
+wavs/wavs12/segment_449.wav|chính là tưởng tượng.|21|1.3050340136054421|0.06214447683835439
+wavs/wavs12/segment_459.wav|cầu thủ bóng rổ vĩ đại nhất mọi thời đại.|41|2.22702947845805|0.054317792157513416
+wavs/wavs12/segment_485.wav|bà thường thở dài hoặc bật khóc trong nỗi yếu chồng và các con.|63|3.8360090702947844|0.06088903286182198
+wavs/wavs12/segment_486.wav|đã khiến bà cảm thấy vô cùng bất lực.|37|2.4649886621315193|0.06662131519274377
+wavs/wavs12/segment_500.wav|ở chiến lược này chúng ta sẽ giống như những nhà tu sĩ.|55|2.8570068027210884|0.05194557823129252
+wavs/wavs12/segment_516.wav|khi hoàn thành thì bạn sẽ nhận được phản hồi một cách nhanh chóng.|66|3.0830385487528345|0.046712705284133856
+wavs/wavs12/segment_532.wav|hãy tưởng tượng ra bạn là một chuyên gia trong lĩnh vực ấy.|59|3.195011337868481|0.05415273454014374
+wavs/wavs12/segment_57.wav|họ mới có thể trở thành chính mình.|35|2.393015873015873|0.0683718820861678
+wavs/wavs12/segment_70.wav|nhà giáo dục người nga usilky đã từng nói.|42|3.4950113378684806|0.08321455566353525
+wavs/wavs13/segment_207.wav|mà chồng đã để lại trên giá sách.|33|1.96|0.059393939393939395
+wavs/wavs13/segment_228.wav|khiến bạn tiếp tục cố gắng để có địa vị cao hơn.|48|2.7190022675736962|0.056645880574452
+wavs/wavs13/segment_234.wav|nó không khiến xảy ra mâu thuẫn nội tâm trong bạn.|50|3.0100226757369613|0.060200453514739224
+wavs/wavs13/segment_239.wav|cách nhanh nhất để nâng cấp bản thân.|37|2.2580045351473923|0.06102714959857817
+wavs/wavs13/segment_240.wav|bài học hoà quyện sâu sắc giữa hai cuốn sách này.|49|2.5740136054421767|0.0525308899069832
+wavs/wavs13/segment_259.wav|một khó khăn.|13|1.3639909297052155|0.1049223792080935
+wavs/wavs13/segment_316.wav|vinh tử đáp ứng kỳ vọng sẽ hợp tác với nhau.|44|2.733015873015873|0.062113997113997114
+wavs/wavs13/segment_340.wav|cách phát triển bản thân bằng trải nghiệm tối ưu dòng chảy như thế nào.|71|4.183038548752834|0.05891603589792724
+wavs/wavs13/segment_344.wav|nhưng ông đã vô cùng đam mê bóng rổ.|36|2.2370068027210883|0.06213907785336356
+wavs/wavs13/segment_350.wav|từ một mét bảy mươi lăm lên một mét chín mươi hai.|50|2.7770068027210884|0.05554013605442177
+wavs/wavs13/segment_360.wav|đắm mình trong trạng thái dòng chảy.|36|1.933015873015873|0.05369488536155203
+wavs/wavs13/segment_365.wav|nhắc nhở bản thân phải có tránh niệm trong từng lời nói.|56|2.9440362811791383|0.05257207644962747
+wavs/wavs13/segment_366.wav|một lần nữa.|12|0.94|0.07833333333333332
+wavs/wavs13/segment_437.wav|điều này cũng tương tự với một kỹ thuật mà mai hợi ly đã đưa ra.|64|3.7090249433106575|0.05795351473922902
+wavs/wavs13/segment_79.wav|tác giả nói nguyên nhân chính ở đây là.|39|2.454013605442177|0.06292342578056864
+wavs/wavs14/segment_200.wav|hãy bắt đầu bằng một tâm thái tích cực.|39|2.28702947845805|0.05864178149892436
+wavs/wavs14/segment_215.wav|năm này qua năm khác trở nên lười biếng.|40|2.3430385487528347|0.058575963718820866
+wavs/wavs14/segment_224.wav|khi còn học trung học.|22|1.2380045351473923|0.05627293341579056
+wavs/wavs14/segment_225.wav|học tập và làm việc mới mình không còn nhiều khoảng thời gian lớn trong ngày để có thể tập trung tuyệt đối.|107|5.273015873015873|0.04928052217771844
+wavs/wavs14/segment_23.wav|uể oải lười biếng.|18|1.62702947845805|0.09039052658100277
+wavs/wavs14/segment_243.wav|tâm hồn ngày càng mạnh mẽ hơn.|30|2.1570068027210882|0.07190022675736961
+wavs/wavs14/segment_255.wav|bởi vì nội dung của hai cuốn này gần như bổ sung cho nhau.|58|3.1409977324263036|0.05415513331769489
+wavs/wavs14/segment_258.wav|ví dụ dành ra bốn ngày tập trung hoàn toàn để giải quyết một việc quan trọng.|77|4.228979591836735|0.05492181288099656
+wavs/wavs14/segment_26.wav|những dao động tâm hồn sẽ được rung lên.|40|2.2310204081632654|0.055775510204081634
+wavs/wavs14/segment_264.wav|nếu như có bất cứ lo âu nào xảy ra.|35|2.333015873015873|0.06665759637188208
+wavs/wavs14/segment_279.wav|khi bạn có thể thực hiện chiến lược này.|40|2.0340136054421767|0.05085034013605442
+wavs/wavs14/segment_282.wav|bằng cách đọc hết các cuốn sách hướng dẫn tránh niệm của thầy.|62|3.360997732426304|0.05420964084558554
+wavs/wavs14/segment_29.wav|lúc này các phần tử hiện tại.|29|1.8230385487528344|0.06286339823285636
+wavs/wavs14/segment_3.wav|và tập trung toàn tâm toàn ý vào công việc.|43|2.4690249433106577|0.05741918472815483
+wavs/wavs14/segment_302.wav|tức là chúng ta sẽ chia thời gian làm việc sâu và thời gian làm việc nông xen kẽ với nhau.|90|5.302040816326531|0.05891156462585034
+wavs/wavs14/segment_327.wav|sự tập trung chính là khởi đầu của mọi hoạt động tâm lý.|56|3.2679818594104306|0.0583568189180434
+wavs/wavs14/segment_332.wav|rèn luyện chiến lược này sẽ giúp cho chúng ta có khả năng linh hoạt.|68|3.646984126984127|0.05363211951447246
+wavs/wavs14/segment_336.wav|tâm trí của bạn cũng không ngừng xao động trước những lo âu.|60|3.2290249433106575|0.053817082388510955
+wavs/wavs14/segment_337.wav|mình đều cho đó là cơ hội để có thể kết nối sâu hơn.|52|3.426031746031746|0.06588522588522588
+wavs/wavs14/segment_49.wav|đó chính là chiến lược nhà báo.|31|2.366031746031746|0.07632360471070149
+wavs/wavs14/segment_5.wav|bất cứ hành động nào trong cuộc sống hàng ngày.|47|2.459002267573696|0.052319197182419064
+wavs/wavs14/segment_62.wav|chỉ cần thay đổi nội dung ý thức bên trong mình.|48|2.70702947845805|0.05639644746787604
+wavs/wavs14/segment_85.wav|mọi thứ trong ý thức của bạn đều phải bước qua sự tập trung mới có thể đi sâu vào bên trong.|92|5.929024943310657|0.06444592329685497
+wavs/wavs14/segment_94.wav|bạn sẽ trở nên mạnh mẽ hơn bao giờ hết.|39|2.4880272108843537|0.06379556950985522
+wavs/wavs15/segment_109.wav|nói cách khác.|14|1.0459863945578232|0.07471331389698736
+wavs/wavs15/segment_124.wav|nhận được sự công nhận và khen thưởng từ cấp trên.|50|3.2580045351473923|0.06516009070294784
+wavs/wavs15/segment_125.wav|ví dụ mỗi buổi sáng dành ra chín mươi phút không dùng điện thoại.|65|3.5839909297052155|0.05513832199546485
+wavs/wavs15/segment_157.wav|tác giả đã chỉ ra.|18|1.4780045351473923|0.08211136306374402
+wavs/wavs15/segment_159.wav|chúng ta sẽ có thể dễ dàng đạt được trạng thái dòng chảy.|57|3.0350113378684807|0.05324581294506106
+wavs/wavs15/segment_18.wav|thay vì mải mê theo đuổi phần thường của xã hội.|48|2.7220408163265306|0.05670918367346939
+wavs/wavs15/segment_188.wav|niềm vui cao cấp và lớn lao đến từ nội tại này.|47|3.2019954648526077|0.06812756308197038
+wavs/wavs15/segment_190.wav|chính vì thế để phát triển bản thân chúng ta cần phải tìm cách phản entropy.|76|4.743990929705215|0.062420933285594934
+wavs/wavs15/segment_191.wav|từ đó dễ dàng đi vào trạng thái dòng chảy.|42|2.4839909297052154|0.05914264118345751
+wavs/wavs15/segment_20.wav|niềm vui nội tại lớn lẳng.|26|2.119002267573696|0.08150008721437293
+wavs/wavs15/segment_212.wav|một người có khả năng tự chữa lành cao.|39|2.1809977324263037|0.055923018780161635
+wavs/wavs15/segment_22.wav|anh đã cảm thấy công việc rất nhàm chán.|40|2.379002267573696|0.0594750566893424
+wavs/wavs15/segment_221.wav|không phải do bản thân sự việc.|31|1.8459863945578232|0.05954794821154268
+wavs/wavs15/segment_24.wav|và sau khi làm xong trong bạn có một cảm giác vô cùng vui sướng.|64|3.974013605442177|0.06209396258503402
+wavs/wavs15/segment_267.wav|thì ngay cả trong hoàn cảnh tuyệt vọng nhất.|44|2.3750113378684805|0.05397753040610183
+wavs/wavs15/segment_321.wav|hiệu suất làm việc của họ cao gấp bốn lần so với mức trung bình.|64|4.016009070294785|0.06275014172335601
+wavs/wavs15/segment_339.wav|những trải nghiệm phong phú tuyệt vời đó đã giúp bà khơi lại niềm đam mê cuộc sống.|83|4.659002267573696|0.056132557440646935
+wavs/wavs15/segment_389.wav|bản sắc của bạn sẽ tự khắc dẫn dắt bạn vượt qua những nỗi sợ.|61|3.8370068027210884|0.06290175086428014
+wavs/wavs15/segment_406.wav|sau khi chồng qua đời con cái trưởng thành đều có cuộc sống riêng.|66|3.800997732426304|0.057590874733731874
+wavs/wavs15/segment_41.wav|dần dần bạn sẽ nhận thấy.|25|1.6920181405895691|0.06768072562358277
+wavs/wavs15/segment_417.wav|tác giả miley cũng đã rút ra kết luận rằng.|43|3.18702947845805|0.07411696461530348
+wavs/wavs15/segment_429.wav|chính là nằm ở sự tập trung cao độ.|35|2.6490249433106574|0.07568642695173307
+wavs/wavs15/segment_436.wav|những đêm dài bất tận bà trằn trọc không ngủ.|45|3.0160090702947846|0.06702242378432854
+wavs/wavs15/segment_45.wav|chính vì vậy mình có ý định làm thêm một video mới để đem lại trải nghiệm tốt hơn cho mọi người.|96|5.818004535147392|0.06060421390778534
+wavs/wavs15/segment_72.wav|chào mừng các bạn đã đến với brayer virgin.|43|2.498004535147392|0.058093128724357956
+wavs/wavs16/segment_185.wav|thực sự rất quan trọng.|23|1.4300226757369614|0.06217489894508528
+wavs/wavs16/segment_187.wav|chuyển mình vào trạng thái tập trung cao độ.|44|2.2090249433106575|0.05020511234796949
+wavs/wavs16/segment_195.wav|nhưng đừng đi quá xa.|21|1.3110204081632653|0.06242954324586977
+wavs/wavs16/segment_21.wav|thì họ không ngừng tập trung làm phong phú bản thân.|52|2.8310204081632655|0.05444270015698587
+wavs/wavs16/segment_241.wav|đó là chris woo làm việc sâu.|29|2.1520181405895693|0.0742075220892955
+wavs/wavs16/segment_249.wav|giống như tác giả nói.|22|1.6249886621315193|0.07386312100597815
+wavs/wavs16/segment_250.wav|bên cạnh đó vận động luôn là một cách giảm căng thẳng tuyệt vời.|64|3.76|0.05875
+wavs/wavs16/segment_260.wav|gọi trạng thái quên mình này chính là trải nghiệm tối ưu.|57|3.5829931972789115|0.062859529776823
+wavs/wavs16/segment_271.wav|mỗi ngày anh ấy đều nỗ lực tập trung cao độ nhất để luyện tập.|62|3.8680272108843536|0.06238753565942506
+wavs/wavs16/segment_275.wav|người ta có thể đi từ đáy xuống đáy xuống đáy xuống đáy.|56|2.6360090702947847|0.0470715905409783
+wavs/wavs16/segment_32.wav|đó chính là.|12|1.1090249433106576|0.09241874527588813
+wavs/wavs16/segment_339.wav|hi xin biến chào tất cả các bạn.|32|1.7849886621315192|0.055780895691609975
+wavs/wavs16/segment_34.wav|cùng với doberman.|18|1.3710204081632653|0.07616780045351473
+wavs/wavs16/segment_381.wav|mà tập trung hoàn toàn vào thời gian đã quy định.|49|2.9900226757369612|0.06102087093340737
+wavs/wavs16/segment_384.wav|chỉ cần bạn có thể tập trung hoàn toàn vào việc đó.|51|2.880997732426304|0.056490151616202036
+wavs/wavs16/segment_4.wav|angela bí tâm thần bị hỗn loạn ngày càng nghiêm trọng.|54|3.195011337868481|0.05916687662719409
+wavs/wavs16/segment_403.wav|khi bạn đã có sự tập trung chú ý vào hiện tại trong từng việc làm hằng ngày.|76|4.671020408163265|0.06146079484425349
+wavs/wavs16/segment_414.wav|đúng vậy.|9|1.0449886621315192|0.11610985134794657
+wavs/wavs16/segment_422.wav|và đặc biệt là giúp bạn cảm nhiễm sâu sắc.|42|2.734013605442177|0.06509556203433754
+wavs/wavs16/segment_433.wav|khi không ngừng nâng cao khả năng cảm nhận nghệ thuật.|54|2.921995464852608|0.05411102712690014
+wavs/wavs16/segment_453.wav|nếu bạn quyết định có một khoảng thời gian vui vẻ.|50|2.835011337868481|0.05670022675736962
+wavs/wavs16/segment_460.wav|ngược lại.|10|0.9480272108843537|0.09480272108843538
+wavs/wavs16/segment_54.wav|tư luyện tránh niệm.|20|1.5570068027210884|0.07785034013605442
+wavs/wavs16/segment_60.wav|khi cá nhân tập trung hoàn toàn vào một hoạt động nào đó.|57|3.441995464852608|0.06038588534829137
+wavs/wavs16/segment_70.wav|cùng một môi trường cùng điều kiện như nhau.|44|2.3750113378684805|0.05397753040610183
+wavs/wavs16/segment_75.wav|bạn sẽ thấy có bốn chiến lược có thể áp dụng giúp cho một người tập trung cao độ.|81|4.564988662131519|0.05635788471767307
+wavs/wavs16/segment_9.wav|việc chạy theo sự tham lam vô độ sẽ không bao giờ giúp chúng ta có được trạng thái ròng rệt.|92|5.614013605442177|0.06102188701567584
+wavs/wavs2/segment_10.wav|ví dụ như nghe nhạc một cách nghiêm túc và tập trung.|53|3.3080272108843536|0.06241560775253498
+wavs/wavs2/segment_121.wav|bắt đầu sự nghiệp của mình và mọi thứ trở nên suôn sẻ.|54|3.2480272108843535|0.06014865205341396
+wavs/wavs2/segment_14.wav|được nhiều người khác nể trọng hơn.|35|1.8780045351473922|0.053657272432782635
+wavs/wavs2/segment_141.wav|hay sự nhàm chán liên tục.|26|1.74|0.06692307692307692
+wavs/wavs2/segment_161.wav|kết hợp với sự tập trung cao độ.|32|2.02|0.063125
+wavs/wavs2/segment_163.wav|nhưng hôm nay là một tập đặc biệt.|34|1.8629931972789116|0.05479391756702681
+wavs/wavs2/segment_165.wav|vực dậy bản thân bạn trong nỗi khổ đau.|39|2.480997732426304|0.06361532647246933
+wavs/wavs2/segment_190.wav|tránh niệm trong ăn uống tránh niệm trong đi bộ.|48|3.1770068027210883|0.066187641723356
+wavs/wavs2/segment_200.wav|sau đó mình tui tập mỗi ngày.|29|1.8120181405895692|0.062483384158261004
+wavs/wavs2/segment_212.wav|ông ngày nào cũng mong mỏi mình cao lên.|40|2.235011337868481|0.05587528344671202
+wavs/wavs2/segment_23.wav|cũng không còn bị cuốn về những cảm xúc tiêu cực.|49|2.4890249433106577|0.05079642741450322
+wavs/wavs2/segment_232.wav|khi đi làm luôn lơ đãng suy nghĩ những chuyện không liên quan.|62|3.7160090702947848|0.05993563016604492
+wavs/wavs2/segment_289.wav|tuy nhiên câu hỏi ở đây đặt ra là.|34|2.5620408163265305|0.07535414165666265
+wavs/wavs2/segment_291.wav|bà còn trồng hoa trồng cây nuôi gia súc.|40|2.855011337868481|0.07137528344671203
+wavs/wavs2/segment_300.wav|thứ đã và đang khiến cho cuộc sống của bạn không được như ý chính là sự hỗn độn.|80|4.995011337868481|0.06243764172335601
+wavs/wavs2/segment_303.wav|đó là những việc bạn có thể kiểm soát dễ dàng hành động diễn ra tự nhiên trôi chảy.|83|4.877006802721088|0.05875911810507335
+wavs/wavs2/segment_305.wav|làm thế nào để hạnh phúc thực sự.|33|2.186984126984127|0.06627224627224627
+wavs/wavs2/segment_309.wav|với mọi khoảnh khắc xung quanh.|31|1.6780045351473922|0.054129178553141685
+wavs/wavs2/segment_314.wav|cảm xúc tiêu cực và những hành vi như chán nản.|47|2.806031746031746|0.05970280310705843
+wavs/wavs2/segment_366.wav|anh ấy thường xuyên không theo kịp nhịp độ của các đồng nghiệp khác.|68|3.4259863945578233|0.05038215286114446
+wavs/wavs2/segment_37.wav|bạn cũng có thể quyết định bản thân vui vẻ hoặc buồn bã.|56|4.010022675736962|0.07160754778101718
+wavs/wavs2/segment_375.wav|sự khác biệt nằm ở chỗ.|23|1.8180045351473924|0.07904367544119097
+wavs/wavs2/segment_38.wav|chiến lược thứ ba chiến lược tu sĩ.|35|2.76|0.07885714285714285
+wavs/wavs2/segment_391.wav|cũng đều cần phải có trách nhiệm.|33|2.12|0.06424242424242424
+wavs/wavs2/segment_404.wav|việc gì mới là việc mà chúng ta có thể dễ dàng toàn tâm toàn ý.|63|4.194013605442177|0.06657164453082821
+wavs/wavs2/segment_416.wav|sau đó giống như cuốn sách đo vờ mìn tham lam mìn đã chia sẻ.|61|3.664988662131519|0.060081781346418346
+wavs/wavs2/segment_441.wav|hãy nhớ rằng.|13|1.16|0.08923076923076922
+wavs/wavs2/segment_442.wav|một người có thể dễ dàng chặn đứng những phiền nhiễu duy trì sự tập trung và trải nghiệm làm việc trong trạng thái ròng chày.|125|6.889024943310657|0.05511219954648526
+wavs/wavs2/segment_66.wav|rồi những yếu tố trên sẽ giúp bạn có thể làm việc toàn tâm toàn ý.|66|4.421995464852608|0.06699993128564558
+wavs/wavs2/segment_67.wav|sau đó để giải tỏa nỗi đau.|27|2.334013605442177|0.08644494834971025
+wavs/wavs2/segment_75.wav|và vì thế cũng đã tìm đủ mọi cách như nhảy dây treo mình lên khung.|67|4.113015873015873|0.06138829661217721
+wavs/wavs2/segment_76.wav|hãy viết ra giấy gấp lại và tự nhủ sẽ không nghĩ đến họ.|56|3.666031746031746|0.06546485260770975
+wavs/wavs2/segment_77.wav|nhưng hai người công nhân lại có kết quả hoàn toàn khác biệt.|61|3.304036281179138|0.054164529199658
+wavs/wavs2/segment_8.wav|bà không còn suy nghĩ vẩn vơ.|29|2.0510204081632653|0.07072484166080226
+wavs/wavs2/segment_89.wav|dòng chảy chính là chất giúp tác trên con đường phát triển của mỗi người.|73|3.8190022675736963|0.05231509955580406
+wavs/wavs3/segment_100.wav|bạn sẽ có thể toàn tâm toàn ý dễ dàng đi vào trạng thái dòng chảy.|66|4.190022675736961|0.06348519205662062
+wavs/wavs3/segment_104.wav|nhưng khi đạt đến những điều đó cuối cùng bạn vẫn sẽ cảm thấy trống rỗng.|73|3.9840362811791383|0.05457583946820738
+wavs/wavs3/segment_110.wav|trong cuốn sách thì tác giả có nhắc tới một trường hợp như sau.|63|3.56702947845805|0.056619515531080154
+wavs/wavs3/segment_117.wav|ở nhiều người thành công chúng ta đều thấy được sức mạnh của sự tự ám thị.|74|4.817006802721089|0.06509468652325796
+wavs/wavs3/segment_13.wav|trên thực tế nếu bạn đang có cơ hội làm công việc mà mình đam mê.|65|3.9750113378684806|0.061154020582592006
+wavs/wavs3/segment_14.wav|cũng sẽ mất kiểm soát và tạo ra cảm xúc tiêu cực.|49|3.0439909297052155|0.06212226387153501
+wavs/wavs3/segment_144.wav|mình không còn bị phân tâm bởi những điều phức tạp ngoài kia.|61|2.8|0.04590163934426229
+wavs/wavs3/segment_185.wav|bạn sẽ có cảm giác thời gian như biến mất.|42|2.5049886621315194|0.059642587193607606
+wavs/wavs3/segment_23.wav|sau đấy hình thành cho bạn những hành vi tích cực.|50|2.8680272108843536|0.057360544217687076
+wavs/wavs3/segment_249.wav|chiến lược khó nhất nhưng cũng mang lại hiệu quả nhất.|54|2.820997732426304|0.05224069874863525
+wavs/wavs3/segment_260.wav|đó là thưởng thức nghệ thuật và tăng cường vận động.|52|3.452018140589569|0.0663849642421071
+wavs/wavs3/segment_265.wav|hay như trong cuốn sách thói quen tí hon đã chỉ ra rằng.|56|3.44|0.06142857142857143
+wavs/wavs3/segment_320.wav|ở chiến lược này chúng ta sẽ lên lịch cố định để tập trung hết mình như một thói quen hằng ngày.|96|5.216009070294785|0.05433342781557068
+wavs/wavs3/segment_336.wav|lấp đầy chính mình bằng hàng loạt những khoảnh khắc sống ý nghĩa trọn vẹn.|74|4.243990929705215|0.05735122877980021
+wavs/wavs3/segment_337.wav|những thú vui và sở thích nho nhỏ ngoài công việc bận rộn hàng ngày như thế này.|80|4.557006802721088|0.0569625850340136
+wavs/wavs3/segment_34.wav|toàn tâm toàn ý kiên nhẫn vượt qua.|35|2.5310204081632652|0.07231486880466471
+wavs/wavs3/segment_39.wav|thứ nhất đó là.|15|1.3700226757369613|0.09133484504913075
+wavs/wavs3/segment_394.wav|chia sẻ thêm về cách ứng dụng trạng thái dòng chảy và trong cuộc sống.|70|3.7289795918367346|0.05327113702623906
+wavs/wavs3/segment_4.wav|qua câu chuyện này trùm đã thấy rằng.|37|2.28702947845805|0.06181160752589324
+wavs/wavs3/segment_401.wav|tự ám thị và đi đến hành động.|30|2.225986394557823|0.07419954648526077
+wavs/wavs3/segment_404.wav|nghiên cứu phát hiện ra.|24|1.5960090702947847|0.06650037792894936
+wavs/wavs3/segment_405.wav|hơn nữa như tác giả đã nói.|27|2.0620408163265305|0.0763718820861678
+wavs/wavs3/segment_418.wav|thì cứ thế mọi việc sẽ chẳng thế nào vui.|41|3.069024943310658|0.07485426691001604
+wavs/wavs3/segment_419.wav|trở về với chính mình.|22|1.8690249433106576|0.08495567924139352
+wavs/wavs3/segment_473.wav|sự tập trung càng cao cảm giác thỏa mãn càng lớn.|49|3.374013605442177|0.06885742051922811
+wavs/wavs3/segment_509.wav|trạng thái đỉnh cao này đó chính là trải nghiệm dòng chảy.|58|3.7419954648526077|0.06451716318711392
+wavs/wavs3/segment_540.wav|và ba ngày còn lại sẽ làm những công việc lặt vặt ít cần đến sự tập trung cao độ hơn.|85|4.905034013605442|0.0577062825130052
+wavs/wavs3/segment_544.wav|rất nhiều bạn đã gửi thư đề nghị better region.|47|2.728027210884354|0.058043132146475614
+wavs/wavs3/segment_550.wav|đó là rìa của vùng thoại mãi.|29|1.8839909297052153|0.06496520447259363
+wavs/wavs3/segment_558.wav|mình tin rằng nhiều bạn cũng đã gặp phải những thử thách tương tự.|66|3.4350113378684806|0.05204562633134061
+wavs/wavs3/segment_581.wav|đu giá đơn và ăn uống đầy đủ dinh dưỡng.|40|2.4750113378684806|0.06187528344671202
+wavs/wavs3/segment_582.wav|ví dụ những thực phẩm được làm từ lúa mạch.|43|2.3570068027210884|0.054814111691188105
+wavs/wavs3/segment_60.wav|quan trọng hơn hết đó chính là chế độ ăn.|41|2.866031746031746|0.06990321331784746
+wavs/wavs3/segment_75.wav|hãy cố gắng ăn uống ít mức nhất có thể đồ ăn vặt và nước ngọt.|62|4.023990929705215|0.06490307951137445
+wavs/wavs3/segment_76.wav|như hạt dẻ quả mâm xôi quả mâm xôi đen.|39|2.9279818594104308|0.0750764579336008
+wavs/wavs3/segment_90.wav|điều này cũng dẫn đến tình trạng lạm dụng kháng sinh phổ biến và vệ sinh quá mức.|81|5.048027210884354|0.062321323591164865
+wavs/wavs3/segment_91.wav|ngoài việc ăn trực tiếp vi khuẩn và dạ dày bạn cũng có thể ăn những thực phẩm tuy không chứa vi khuẩn sống.|107|5.364036281179138|0.05013118019793587
+wavs/wavs3/segment_94.wav|tiếp theo chúng ta sẽ cần tìm hiểu đặc tính quan trọng thứ hai của dna.|71|4.463038548752834|0.06285969786975823
+wavs/wavs3/segment_98.wav|đôi khi sẽ bị những khối u nhỏ tên gianh đánh lừa gửi tín hiệu sai để cung cấp chất dinh dưỡng cho chúng.|105|5.638004535147393|0.05369528128711803
+wavs/wavs4/segment_1.wav|tuy nhiên một điều quan trọng khác là chúng ta nên kết hợp ăn uống hàng ngày ra sao.|84|4.898004535147392|0.05830957779937372
+wavs/wavs4/segment_100.wav|và các loại thực phẩm tương ứng.|32|1.6960090702947845|0.05300028344671202
+wavs/wavs4/segment_106.wav|biến những tế bào còn sống sót trong quá trình tái sinh thành tế bào già yếu.|77|4.525986394557823|0.058779044085166536
+wavs/wavs4/segment_108.wav|một trong những căn nguyên phổ biến gây chứng giảm trí nhớ ở người cao tuổi.|76|3.8300226757369615|0.050395035207065286
+wavs/wavs4/segment_109.wav|các nhà khoa học phát hiện quá trình lên men kim chi hàn quốc có rất nhiều loại vi khuẩn giống với hệ vi sinh vật của con người.|128|6.653015873015873|0.051976686507936506
+wavs/wavs4/segment_110.wav|di chuyển biểu sinh là gì.|26|1.7429931972789117|0.06703819989534275
+wavs/wavs4/segment_111.wav|nhưng nếu nó hoạt động quá mức.|31|1.7809977324263038|0.05745153975568722
+wavs/wavs4/segment_112.wav|thì đừng ngần ngại.|19|1.1490249433106576|0.0604749970163504
+wavs/wavs4/segment_113.wav|hình thành mạch máu cực kỳ hiệu quả.|36|2.366031746031746|0.06572310405643739
+wavs/wavs4/segment_12.wav|hệ thống phòng thủ lớn thứ hai của cơ thể được mệnh danh là người thợ may.|74|4.1079818594104305|0.05551326837041122
+wavs/wavs4/segment_123.wav|hãy biến thức ăn thành nguồn năng lượng tái sinh cho bạn.|57|3.1220408163265305|0.05477264590046545
+wavs/wavs4/segment_129.wav|bạn có thể tìm thấy trong lúa mạch và một số loại hạt giống.|60|3.498004535147392|0.05830007558578987
+wavs/wavs4/segment_14.wav|tuy nhiên ở đây chế độ ăn này không phải là cách duy nhất để điều trị bệnh.|75|3.8700226757369616|0.05160030234315949
+wavs/wavs4/segment_145.wav|cà chua dưa hấu dám đáng kể sự tổn thương dna do ánh sáng mặt trời và bức xạ tia x gây ra.|90|7.011020408163265|0.07790022675736961
+wavs/wavs4/segment_146.wav|nhưng trên thực tế nó còn là mã nguồn xây dựng và duy trì hoạt động bình thường của cơ thể chúng ta.|100|5.836009070294785|0.05836009070294785
+wavs/wavs4/segment_147.wav|khi không được mạch máu nuôi dưỡng.|35|1.8500226757369616|0.05285779073534176
+wavs/wavs4/segment_152.wav|vì vậy.|7|0.9819954648526077|0.1402850664075154
+wavs/wavs4/segment_157.wav|thưởng thức các loại hạt cây.|29|1.6009977324263038|0.05520681835952772
+wavs/wavs4/segment_175.wav|ví dụ khi chúng ta ăn phải một vật lạ.|38|2.540997732426304|0.06686836137963958
+wavs/wavs4/segment_176.wav|ngoài khả năng có thể tự chữa lành.|35|1.9520181405895691|0.05577194687398769
+wavs/wavs4/segment_178.wav|mà lại tăng thêm tính thưởng thức và thú vị mỗi ngày.|53|3.019002267573696|0.05696230693535276
+wavs/wavs4/segment_18.wav|sản phẩm từ sữa rau thực vật rau củ đêm.|40|3.1409977324263036|0.0785249433106576
+wavs/wavs4/segment_182.wav|năm nhìn năm nhìn năm.|22|2.0650340136054424|0.09386518243661102
+wavs/wavs4/segment_185.wav|trớ trêu thay các phương pháp điều trị ung thư truyền thống dựa trên hoá trị và giá trị.|88|4.821995464852607|0.05479540300968872
+wavs/wavs4/segment_186.wav|nó sẽ phá huỷ nghiêm trọng hệ thống vi sinh vật trong cơ thể của chúng ta.|74|3.8500226757369616|0.052027333455904885
+wavs/wavs4/segment_188.wav|thì những khối u nhỏ này không thể hoạt động.|45|2.5490249433106578|0.05664499874023684
+wavs/wavs4/segment_189.wav|vì chúng có thể làm quá tải hệ thống phòng thủ.|47|2.7630385487528346|0.058788054228783714
+wavs/wavs4/segment_190.wav|duy trì cân bằng cũng như sức khoẻ của cuộc sống.|49|2.8160090702947844|0.05746957286315887
+wavs/wavs4/segment_198.wav|thỉnh thoảng bạn chỉ ăn và uống những thực phẩm tốt cho thai là mia.|68|3.899002267573696|0.05733826864078965
+wavs/wavs4/segment_200.wav|không phải ai cũng có điều kiện sử dụng thực phẩm chức năng hằng ngày.|70|3.194013605442177|0.045628765792031095
+wavs/wavs4/segment_201.wav|nhưng chúng lại quá tốn kém.|28|1.6350113378684807|0.058393262066731455
+wavs/wavs4/segment_206.wav|các kháng thể tự động phá huy các khớp.|39|2.28|0.058461538461538454
+wavs/wavs4/segment_213.wav|đó là những trái có hạt vào mùa hè như là đào mận.|50|4.062993197278912|0.08125986394557824
+wavs/wavs4/segment_214.wav|tất cả các video tóm tắt nội dung cốt lõi hoặc truyền đạt kiến thức từ một cuốn sách.|85|4.56702947845805|0.0537297585700947
+wavs/wavs4/segment_215.wav|và các quỹ bill and mail in their case.|39|3.0740136054421767|0.07882086167800453
+wavs/wavs4/segment_216.wav|kênh chia sẻ kiến thức.|23|1.1750113378684808|0.051087449472542644
+wavs/wavs4/segment_217.wav|ông phát hiện ra hơn bảy mươi căn bệnh nghiêm trọng.|52|2.4700226757369617|0.047500436071864646
+wavs/wavs4/segment_218.wav|hệ thống này có chức năng hạn chế nguồn cung cấp máu và chất dinh dưỡng đến các khối u nhỏ ngăn sự phát triển của chúng.|120|6.911020408163266|0.05759183673469388
+wavs/wavs4/segment_231.wav|hệ thống tân sinh mạch.|23|1.3849886621315193|0.06021689835354432
+wavs/wavs4/segment_232.wav|đồng thời chỉ ra cho chúng ta hiểu rõ.|38|2.1910204081632654|0.05765843179377014
+wavs/wavs4/segment_236.wav|tiến sĩ li đã nói rằng.|23|1.6700226757369614|0.07260968155378093
+wavs/wavs4/segment_244.wav|mở cánh cửa.|12|1.0860317460317461|0.09050264550264552
+wavs/wavs4/segment_251.wav|còn các loại rau cải kể trên có thể làm giảm sự hiện diện của vi khuẩn có hại.|78|4.6459863945578235|0.059563928135356714
+wavs/wavs4/segment_258.wav|vì vậy cuốn sách này sẽ chỉ cho bạn.|36|2.3500226757369616|0.06527840765936005
+wavs/wavs4/segment_261.wav|các loại hạt đều chứa các hoạt chất sinh học khác nhau.|55|2.939002267573696|0.05343640486497629
+wavs/wavs4/segment_275.wav|bạn cần phải điều chỉnh một cách toàn diện từ thói quen ăn uống sinh hoạt ngủ nghỉ.|83|4.7490249433106575|0.05721716799169467
+wavs/wavs4/segment_282.wav|nếu bạn cảm thấy video này có ích.|34|1.9380045351473922|0.05700013338668801
+wavs/wavs4/segment_289.wav|theo tác giả chế độ ăn paleo là một chế độ ăn kiêng loại bỏ.|60|4.008027210884354|0.06680045351473923
+wavs/wavs4/segment_3.wav|ta nên ăn gì để người thợ may chuyên sửa chữa trong cơ thể.|59|3.4760090702947846|0.058915407971098045
+wavs/wavs4/segment_300.wav|nhưng điều này chỉ có thể bù đắp ở một mức độ nhất định mà thôi.|64|3.2819954648526077|0.051281179138321996
+wavs/wavs4/segment_325.wav|mặc dù nhiều người cao tuổi không được chẩn đoán là vì mắc ung thư mà dẫn tới tử vong.|86|4.724988662131519|0.05494172862943627
+wavs/wavs4/segment_326.wav|đó là hãy giữ cho sự thư thái trong tâm hồn.|44|2.5770068027210886|0.05856833642547929
+wavs/wavs4/segment_334.wav|uống hai ba tách trà mỗi ngày có thể giảm bốn mươi bốn phần trăm nguy cơ ung thư rượt kết.|90|5.297006802721088|0.05885563114134543
+wavs/wavs4/segment_336.wav|tại sao lại gọi là thợ may.|27|1.713015873015873|0.06344503233392122
+wavs/wavs4/segment_338.wav|vì vậy tốt nhất bạn nên tránh xa đồ uống có đường và đồ ăn đóng gói.|68|4.741995464852608|0.06973522742430306
+wavs/wavs4/segment_339.wav|thì mình sẽ chính thức thông báo tới mọi người và sẽ để link liên kết ở kênh better region.|91|5.200997732426304|0.057153821235453886
+wavs/wavs4/segment_364.wav|không phải là đơn thuốc điều trị.|33|1.666031746031746|0.05048581048581048
+wavs/wavs4/segment_369.wav|chỉ cần tuân thủ theo một số quy tắc nhất định.|47|2.3690249433106576|0.05040478602788633
+wavs/wavs4/segment_37.wav|ngũ cốc.|8|0.7440362811791383|0.09300453514739229
+wavs/wavs4/segment_375.wav|tặng mình một nút like.|23|1.4429931972789116|0.06273883466430051
+wavs/wavs4/segment_381.wav|khi ăn phô mai là chúng ta đang ăn vi khuẩn sống.|49|2.5760090702947847|0.0525716136794854
+wavs/wavs4/segment_387.wav|ông trình bày kiến thức y khoa chuyên môn một cách dễ hiểu.|59|3.1100226757369613|0.05271224874130443
+wavs/wavs4/segment_399.wav|mới có thể duy trì một trạng thái sống tốt nhất.|48|2.6350113378684807|0.05489606953892668
+wavs/wavs4/segment_400.wav|giúp các bệnh nhân trở lại cuộc sống bình thường.|49|2.4700226757369617|0.0504086260354482
+wavs/wavs4/segment_404.wav|chính vì thế bằng cách ăn đúng.|31|2.2390022675736962|0.07222587959915149
+wavs/wavs4/segment_405.wav|các khối u nhỏ này sẽ thừa cơ.|30|2.060997732426304|0.06869992441421013
+wavs/wavs4/segment_412.wav|vậy chúng ta nên ăn gì.|23|2.18|0.09478260869565218
+wavs/wavs4/segment_417.wav|ít tập thể dục.|15|1.0720181405895692|0.07146787603930461
+wavs/wavs4/segment_420.wav|và bên cạnh đó nó có thể tiêu diệt các tế bào ung thư rút kết.|62|3.5560090702947846|0.05735498500475459
+wavs/wavs4/segment_422.wav|kế hoạch ăn.|12|1.0839909297052155|0.09033257747543462
+wavs/wavs4/segment_426.wav|ở đây mức độ tự do rất cao.|27|2.2980045351473923|0.08511127907953304
+wavs/wavs4/segment_439.wav|theo thống kê của tổ chức y tế thế giới chỉ riêng năm hai không mười lăm.|73|3.9380045351473925|0.053945267604758804
+wavs/wavs4/segment_44.wav|đặc biệt là nấm trắng có thể kích thích hệ thống miễn dịch ở ruột.|66|3.6550113378684808|0.05537895966467395
+wavs/wavs4/segment_440.wav|bước vào năm hai không hai mươi bốn với mong muốn tất cả chúng ta có một sức khoẻ dồi dào.|90|5.153015873015873|0.057255731922398585
+wavs/wavs4/segment_443.wav|vì trạng thái thư giãn khi thiền sẽ giúp cho giải phóng các gien liên quan.|75|3.648027210884354|0.048640362811791384
+wavs/wavs4/segment_444.wav|ngoài ra thì còn có bia.|24|1.8950113378684807|0.07895880574452004
+wavs/wavs4/segment_455.wav|cho năm hệ thống phòng thủ trong năm bữa ăn một ngày.|53|3.3239909297052153|0.06271680999443803
+wavs/wavs4/segment_458.wav|hay những cái ôm hôn của người thân trong gia đình càng làm hoàn thiện hơn hệ sinh vật này.|91|4.777006802721089|0.052494580249682295
+wavs/wavs4/segment_470.wav|vì vậy bạn có thể ăn thoải mái những thực phẩm kích thích hình thành mạch mới.|78|4.264988662131519|0.05467934182219896
+wavs/wavs4/segment_484.wav|nghĩa là.|9|0.9350113378684807|0.10389014865205341
+wavs/wavs4/segment_486.wav|điều thứ hai.|13|1.2300226757369614|0.09461712890284318
+wavs/wavs4/segment_496.wav|vải thìu vân vân.|17|1.366031746031746|0.0803548085901027
+wavs/wavs4/segment_499.wav|sau pi na đều có chứa dư gen phìn.|34|2.7560090702947844|0.08105909030278778
+wavs/wavs4/segment_500.wav|nhưng thật không may lạ.|24|1.6940136054421768|0.07058390022675737
+wavs/wavs4/segment_504.wav|chúng ta phần đầu đã nói về sự hình thành mạch.|47|2.834013605442177|0.06029816181791866
+wavs/wavs4/segment_543.wav|còn trong hoa cúc thì có thể ức chế sự hình thành mạch.|55|2.9660317460317462|0.05392784992784993
+wavs/wavs4/segment_547.wav|vận động thể dục.|17|1.2249886621315194|0.07205815659597173
+wavs/wavs4/segment_553.wav|bạn sẽ đạt được kết quả tốt nhất.|33|1.8560090702947847|0.05624269909984196
+wavs/wavs4/segment_556.wav|nó giúp cho cơ thể hình thành tế bào gốc.|41|2.125034013605442|0.05183009789281566
+wavs/wavs4/segment_563.wav|không thân thiện với dna.|25|1.8160090702947846|0.07264036281179138
+wavs/wavs4/segment_569.wav|hệ thống tái tạo tế bào gốc của bệnh nhân sẽ hoạt động mạnh mẽ.|63|3.193015873015873|0.050682791635172586
+wavs/wavs4/segment_572.wav|tuy nhiên thì hàm lượng tế bào gốc trong cơ thể của con người bị ảnh hưởng bởi nhiều yếu tố.|92|5.110022675736961|0.05554372473627132
+wavs/wavs4/segment_590.wav|trong chúng cũng có tác dụng chống tạo mạch rất cao.|52|2.912018140589569|0.056000348857491715
+wavs/wavs4/segment_603.wav|vậy thì rốt cuộc chúng ta phải ăn như thế nào.|46|2.7209977324263037|0.059152124617963125
+wavs/wavs4/segment_617.wav|hơn năm mươi phần trăm nam giới trên năm mươi tuổi.|51|2.764036281179138|0.05419678982704192
+wavs/wavs4/segment_620.wav|và thực tế không chỉ có ung thư mà cả bệnh enzo mai.|52|3.6920181405895693|0.07100034885749172
+wavs/wavs4/segment_625.wav|tất cả những hành động này đều tiếp xúc với vi khuẩn.|53|2.785034013605442|0.05254781157746117
+wavs/wavs4/segment_63.wav|vậy nên bác sĩ william li đã thực hiện cuốn sách này.|53|3.607981859410431|0.06807512942283832
+wavs/wavs4/segment_649.wav|vân vân.|8|0.7860317460317461|0.09825396825396826
+wavs/wavs4/segment_650.wav|kế đến bạn cần phải bổ sung càng sớm càng tốt các thực phẩm ngũ cốc nguyên hạt vào thực đơn hàng ngày.|102|5.48|0.05372549019607844
+wavs/wavs4/segment_660.wav|năm hệ thống phòng bệnh chính của cơ thể con người.|51|2.832018140589569|0.05552976746254057
+wavs/wavs4/segment_667.wav|như cuốn sách qua video cơ thể thay bạn nói không mà bella phát dần chia sẻ trước đó.|85|5.400997732426304|0.06354114979325064
+wavs/wavs4/segment_675.wav|trong socola có chứa flaveno.|29|2.4040362811791383|0.08289780279928063
+wavs/wavs4/segment_678.wav|cả hai đều có lợi cho sức khoẻ.|31|2.1900226757369614|0.07064589276570843
+wavs/wavs4/segment_689.wav|nó gần chịu ảnh hưởng của di truyền biểu sinh.|46|2.4360090702947845|0.05295671891945184
+wavs/wavs4/segment_690.wav|những thực phẩm này có chức năng giúp cho các cơ quan đang bị thiếu ô xy.|73|3.993015873015873|0.05469884757555991
+wavs/wavs4/segment_696.wav|có chế độ miễn dịch này.|24|1.5180045351473923|0.06325018896447468
+wavs/wavs4/segment_71.wav|hoặc mắc các bệnh mãn tính như tiểu đường.|42|2.3750113378684805|0.056547888996868585
+wavs/wavs4/segment_711.wav|những axit béo này không giống như chất béo bão hoà không lành mạnh.|68|3.3160090702947844|0.04876483926904095
+wavs/wavs4/segment_722.wav|chỉ cần khả năng miễn dịch của một người đủ mạnh.|49|2.44|0.04979591836734694
+wavs/wavs4/segment_726.wav|và bifidobacteria.|18|2.158004535147392|0.11988914084152179
+wavs/wavs4/segment_73.wav|bởi vì mỗi một loại nguyên liệu thực phẩm khác nhau như rau trái cây.|69|4.130022675736962|0.05985540109763713
+wavs/wavs4/segment_738.wav|ngược lại bạn hoàn toàn có thể giảm việc dna bị tổn thương trong chính căn bếp của mình.|88|5.2910204081632655|0.0601252319109462
+wavs/wavs4/segment_746.wav|thậm chí khi bạn hôn người yêu của mình.|40|2.3190022675736963|0.05797505668934241
+wavs/wavs4/segment_748.wav|tùy thuộc vào hành động và môi trường mà chúng ta đang ở.|57|2.8590022675736964|0.05015793451883678
+wavs/wavs4/segment_753.wav|theo nghiên cứu khi bạn ăn quá nhiều chất béo bão hòa không lành mạnh.|70|3.5629931972789115|0.050899902818270164
+wavs/wavs4/segment_757.wav|tránh thực phẩm giàu chất béo và thịt chế biến sẵn.|51|3.065986394557823|0.06011738028544751
+wavs/wavs4/segment_758.wav|rồi.|4|0.8920181405895692|0.2230045351473923
+wavs/wavs4/segment_85.wav|điều này có thể giúp cho những người bệnh đa xơ cứng tránh bùng phát và tái bệnh.|81|4.561043083900227|0.056309173875311445
+wavs/wavs5/segment_101.wav|ăn những thứ tạo mạch.|22|1.373015873015873|0.06240981240981241
+wavs/wavs5/segment_104.wav|vì vậy gần như bạn sẽ không mắc lại căn bệnh này nữa.|53|2.913015873015873|0.054962563641808924
+wavs/wavs5/segment_105.wav|thậm chí là cả bệnh ung thư nghiêm trọng.|41|2.406031746031746|0.058683701122725515
+wavs/wavs5/segment_134.wav|để tâm thần hợp nhất.|21|1.9240362811791383|0.09162077529424469
+wavs/wavs5/segment_138.wav|chúng có tác dụng miễn dịch trong bệnh ung thư bàng quang.|58|3.0140136054421767|0.051965751817968565
+wavs/wavs5/segment_14.wav|lời đầu tiên trước khi bắt đầu vào video ngày hôm nay.|54|3.144988662131519|0.058240530780213316
+wavs/wavs5/segment_149.wav|ví dụ như cà phê và trà.|24|2.1839909297052156|0.09099962207105065
+wavs/wavs5/segment_154.wav|điều chúng ta nghe thấy rất nhiều đó là nên dùng các sản phẩm chống ô xi hóa.|77|4.387981859410431|0.05698677739494066
+wavs/wavs5/segment_162.wav|những nước đăng ký và mở nút trông thông báo.|45|2.4760090702947846|0.05502242378432855
+wavs/wavs5/segment_163.wav|phô mai và một chút sô cô la đen.|33|2.3659863945578232|0.07169655741084313
+wavs/wavs5/segment_165.wav|những người uống một chai soda mỗi ngày sẽ bị lão hoái nhanh hơn trung bình bốn phẩy sáu năm mỗi năm.|101|5.397006802721088|0.05343571091803057
+wavs/wavs5/segment_167.wav|cũng như là tiểu đường gây ra.|30|2.1110204081632653|0.07036734693877551
+wavs/wavs5/segment_171.wav|là toàn bộ nội dung dựa trên nghiên cứu tiên tiến có cơ sở khoa học chính xác từ y học phân tử và sinh động phân tử.|116|6.925986394557823|0.05970677926342951
+wavs/wavs5/segment_187.wav|nó vô cùng hay và tin cậy ở chỗ.|32|2.18|0.068125
+wavs/wavs5/segment_19.wav|đều có khối u tuyến tiền lẻ nhỏ.|32|2.361995464852608|0.073812358276644
+wavs/wavs5/segment_208.wav|ví dụ khói từ thuốc lá sẽ làm cạn kiệt tế bào gốc của người hút thuốc cũng như là người bị hít khói thụ động.|109|6.325034013605443|0.058027834987205894
+wavs/wavs5/segment_209.wav|trong một nghiên cứu nhỏ những người viêm loét đại tràng khi thực hiện chế độ ăn này.|85|4.114013605442177|0.048400160064025616
+wavs/wavs5/segment_220.wav|giúp vận chuyển ô xi nhiều hơn đến các bộ phận thiếu ô xi.|58|3.2480272108843535|0.05600046915317851
+wavs/wavs5/segment_228.wav|thiền cũng có thể mang lại những thay đổi biểu sinh tích cực.|61|3.1960090702947848|0.05239359131630795
+wavs/wavs5/segment_237.wav|năm cốc bia mỗi tuần có thể làm giảm đáng kể nguy cơ ung thư thận.|66|4.012018140589569|0.060788153645296494
+wavs/wavs5/segment_252.wav|ăn nhiều thực phẩm đậu nành có thể giảm mười sáu phần trăm nguy cơ mắc bệnh tim mạch.|85|4.82|0.05670588235294118
+wavs/wavs5/segment_290.wav|muốn chữa lành một căn bệnh giống như cuốn sách này nhiều lần khẳng định.|73|3.7160090702947848|0.05090423383965459
+wavs/wavs5/segment_3.wav|và biến nó thành cuốn cầm nang sức khoẻ ăn uống của mình.|57|3.2040362811791385|0.056211162827704185
+wavs/wavs5/segment_308.wav|ngoài ra còn có măng.|21|1.6560090702947845|0.07885757477594212
+wavs/wavs5/segment_313.wav|vậy nên cái tên chính thức của hệ thống này đó là.|50|3.006031746031746|0.060120634920634915
+wavs/wavs5/segment_334.wav|nhưng trên thực tế mặc dù mã dna của chúng ta không thay đổi.|61|3.6110204081632653|0.05919705587152894
+wavs/wavs5/segment_336.wav|trong lớp cắm gạo có axit ferulic.|34|2.9100226757369616|0.08558890222755769
+wavs/wavs5/segment_338.wav|nhiều loại thực phẩm phổ biến có chứa a xít ê lê trích.|55|3.4030385487528343|0.06187342815914244
+wavs/wavs5/segment_340.wav|có một chế độ ăn tên là paleo.|30|2.9100226757369616|0.09700075585789872
+wavs/wavs5/segment_357.wav|mười bảy phẩy bảy triệu người chết vì bệnh tim mạch.|52|2.513015873015873|0.04832722832722833
+wavs/wavs5/segment_361.wav|ví dụ bánh mì làm từ lúa mắt đen nguyên chất.|45|3.128027210884354|0.06951171579743008
+wavs/wavs5/segment_365.wav|lý do là bởi vì các khối u này còn quá nhỏ.|43|3.7019954648526077|0.08609291778726995
+wavs/wavs5/segment_4.wav|của chuyên gia nội khoa harvard.|32|1.8940136054421768|0.059187925170068025
+wavs/wavs5/segment_400.wav|vì quan trọng trước hết là bạn cần phải tránh các đồ ăn gây viêm.|65|3.6490249433106574|0.056138845281702425
+wavs/wavs5/segment_402.wav|nhiều người nghe đến hai chữ vi khuẩn sẽ cảm thấy đáng sợ.|58|3.158004535147392|0.05444835405426538
+wavs/wavs5/segment_422.wav|may thay dna có thể tự sửa chữa.|32|2.6039909297052155|0.08137471655328798
+wavs/wavs5/segment_425.wav|tế bào gốc mặc dù chỉ chiếm không phẩy không không hai phần trăm.|65|3.9850340136054423|0.061308215593929884
+wavs/wavs5/segment_429.wav|chế độ ăn thứ hai mà bạn có thể tham khảo đó là chế độ ăn nhiều rau và ít protein.|82|6.0639909297052155|0.0739511088988441
+wavs/wavs5/segment_435.wav|sau bốn mươi tám giờ sau phẫu thuật số lượng tế bào gốc trong cơ thể có thể tăng lên mười ba lần.|97|5.512018140589569|0.056824929284428546
+wavs/wavs5/segment_436.wav|vì vậy mỗi lần buồn miệng mà chúng ta muốn ăn vặt.|50|3.04|0.0608
+wavs/wavs5/segment_440.wav|đầu tiên chà làm tăng enzim chống oxy hoá tự nhiên.|51|3.62|0.07098039215686275
+wavs/wavs5/segment_447.wav|lúc này những khối u nhỏ.|25|1.8520181405895693|0.07408072562358277
+wavs/wavs5/segment_457.wav|thuốc và thực phẩm có cùng một nguồn.|37|2.353015873015873|0.0635950235950236
+wavs/wavs5/segment_458.wav|để hỏng lừa hệ thống tân sinh mạch.|35|2.0370068027210886|0.058200194363459676
+wavs/wavs5/segment_461.wav|tám phẩy tám triệu người chết vì ung thư.|41|2.3590022675736964|0.05753664067252918
+wavs/wavs5/segment_482.wav|trở nên dồi dào khỏe mạnh hơn.|30|2.364036281179138|0.07880120937263795
+wavs/wavs5/segment_483.wav|dầu ô liu nguyên chất.|22|1.3439909297052155|0.06109049680478252
+wavs/wavs5/segment_49.wav|các loại rau như là bông cày xanh cày chíp.|43|2.932018140589569|0.06818646838580393
+wavs/wavs5/segment_51.wav|hơn nữa khi ăn trái cây thì bạn hãy rửa thật sạch.|50|2.960997732426304|0.05921995464852608
+wavs/wavs5/segment_62.wav|từ đó dựa theo tình trạng để thay đổi chế độ ăn uống.|53|3.0300226757369613|0.05717023916484833
+wavs/wavs5/segment_71.wav|được tìm thấy trong các loại trái cây và rau quả.|49|2.5340136054421767|0.05171456337637095
+wavs/wavs6/segment_102.wav|và tất cả các chất tạo ngọt.|28|1.8250340136054422|0.06517978620019436
+wavs/wavs6/segment_104.wav|hầu hết các hoạt động lành mạnh đều có thể tạo ra những thay đổi biểu sinh tích cực.|84|4.559002267573696|0.05427383651873448
+wavs/wavs6/segment_105.wav|flavnol có thể giảm cholesterol.|32|2.6040362811791384|0.08137613378684808
+wavs/wavs6/segment_123.wav|thị trường sống không được lâu.|31|1.586984126984127|0.051193036354326676
+wavs/wavs6/segment_125.wav|bây giờ chúng ta sẽ đến với cuốn sách đầu tiên trong năm mới này.|65|3.899002267573696|0.05998465027036455
+wavs/wavs6/segment_126.wav|hệ thống tái tạo dựa trên tế bào gốc.|37|2.4950113378684806|0.06743273886131029
+wavs/wavs6/segment_13.wav|và các loại quả mọng.|21|1.3049886621315192|0.06214231724435806
+wavs/wavs6/segment_137.wav|thực phẩm chứa nhiều chất này nhất đó là táo và ớt xanh.|56|3.2320181405895694|0.057714609653385165
+wavs/wavs6/segment_153.wav|mong rằng cuốn sách này sẽ giúp bạn khám phá mối quan hệ giữa ăn uống và sức khoẻ.|82|4.565034013605442|0.05567114650738344
+wavs/wavs6/segment_162.wav|mà có thể giúp tăng cường sự cân bằng một cách tự nhiên.|56|3.1500226757369614|0.05625040492387431
+wavs/wavs6/segment_17.wav|sau khi chào đời những lần tiếp xúc và được mẹ trao bù.|55|2.973015873015873|0.05405483405483406
+wavs/wavs6/segment_174.wav|theo chế độ ăn kiêng này mức độ bạch cầu đơn nhân thấp hơn.|59|3.6130158730158732|0.061237557169760565
+wavs/wavs6/segment_175.wav|nó có thể giúp giảm nguy cơ mắc các bệnh khác nhau về hệ tiêu hoá và hệ sinh sản.|81|4.746031746031746|0.05859298451891044
+wavs/wavs6/segment_184.wav|và khiến cho chúng gần như không thể tham gia tái tạo.|54|3.068027210884354|0.056815318720080624
+wavs/wavs6/segment_192.wav|phát ra một lượng tỉ nhiễu sai.|31|1.7560090702947846|0.05664545388047692
+wavs/wavs6/segment_195.wav|nó sẽ nhanh chóng sản sinh ra lactobenzilin.|44|3.5430385487528344|0.08052360338074624
+wavs/wavs6/segment_2.wav|rồi trên đây chúng ta đã tìm hiểu năm hệ thống phòng thủ chính của cơ thể.|74|4.395011337868481|0.059392045106330824
+wavs/wavs6/segment_200.wav|và vợ cũ melania gates.|23|1.9910204081632652|0.08656610470275065
+wavs/wavs6/segment_209.wav|thế nên bạn nhất thiết.|23|1.4150113378684808|0.0615222320812383
+wavs/wavs6/segment_219.wav|thì chắc chắn phải có thực phẩm làm cho telomere dày dạt.|57|3.6040362811791384|0.06322870668735331
+wavs/wavs6/segment_221.wav|khi nói đến sửa chữa dna.|25|1.8480272108843538|0.07392108843537415
+wavs/wavs6/segment_222.wav|tiểu đường và ung thư đều có nguồn gốc gây bệnh nhất định.|58|3.5429931972789115|0.061086089608257094
+wavs/wavs6/segment_225.wav|rồi trên đây là hệ thống phòng thủ thứ nhất.|44|2.532018140589569|0.05754586683158112
+wavs/wavs6/segment_236.wav|hãy chia sẻ tới những người cần nó.|35|2.0970068027210886|0.05991448007774539
+wavs/wavs6/segment_238.wav|tức là hình thành mảnh màu mới.|31|1.680997732426304|0.05422573330407432
+wavs/wavs6/segment_239.wav|chọn một năm năng lượng cao và tràn trề sức sống.|49|2.9820408163265304|0.06085797584339858
+wavs/wavs6/segment_263.wav|các bệnh nhân trong thực nghiệm này đã phải kết hợp dùng thuốc.|63|3.2439909297052156|0.05149191951913041
+wavs/wavs6/segment_264.wav|nhiều muối sẽ làm tổn thương tế bào gốc ở các mức độ khác nhau.|63|3.76702947845805|0.05979411870568333
+wavs/wavs6/segment_268.wav|còn làm mất đi dịch nhầy bảo vệ thành dạ dày làm tăng nguy cơ mắc ung thư dạ dày nữa.|85|5.321995464852607|0.06261171135120715
+wavs/wavs6/segment_277.wav|vi khuẩn từ mẹ yêu dầu đã giúp cho chúng ta xây dựng hệ sinh vật.|65|3.568979591836735|0.05490737833594977
+wavs/wavs6/segment_283.wav|của nam việt quất.|18|1.1250340136054422|0.06250188964474679
+wavs/wavs6/segment_299.wav|hay là bệnh viêm khớp.|22|1.5710204081632653|0.0714100185528757
+wavs/wavs6/segment_31.wav|còn đối với những người có chế độ ăn thịt.|42|2.2209977324263037|0.05288089839110247
+wavs/wavs6/segment_319.wav|nhưng đồng thời cũng khiến cho các tế bào khỏe mạnh bị tổn thương.|66|3.7819954648526077|0.05730296158867587
+wavs/wavs6/segment_321.wav|chúng ta không thể dự đoán chính xác bản thân đang mắc bệnh gì nếu chưa có chẩn đoán từ bác sĩ.|95|5.159002267573696|0.05430528702709153
+wavs/wavs6/segment_324.wav|để điều trị các chứng viêm khác nhau.|37|2.105986394557823|0.056918551204265484
+wavs/wavs6/segment_326.wav|có thể tạo ra axit béo chuỗi ngắn giúp giảm viêm duy trì tính vạn vẹn của niêm mạc ruột.|88|5.332018140589569|0.06059111523397238
+wavs/wavs6/segment_328.wav|nếu như trong tương lai mình có phát triển thêm kênh đó mới.|60|2.9560090702947845|0.04926681783824641
+wavs/wavs6/segment_332.wav|trên đây là tất cả nội dung cốt lõi của cuốn sách này.|54|3.0170068027210886|0.055870496346686824
+wavs/wavs6/segment_334.wav|thành công trong việc điều trị bằng phương pháp hình thành mạch.|64|2.94|0.0459375
+wavs/wavs6/segment_335.wav|thứ nhất.|9|0.8080272108843537|0.08978080120937264
+wavs/wavs6/segment_337.wav|có hàm lượng axit béo không bão hoà khá cao.|44|2.886031746031746|0.06559163059163059
+wavs/wavs6/segment_36.wav|nhưng bạn biết không.|21|1.2480272108843538|0.059429867184969225
+wavs/wavs6/segment_360.wav|nói một cách đơn giản đó là sự biểu hiện gen của chúng ta sẽ thay đổi do tác động của môi trường bên ngoài.|107|6.091020408163265|0.05692542437535762
+wavs/wavs6/segment_364.wav|chúng ta ăn chủ yếu là để phòng ngừa.|37|2.086031746031746|0.05637923637923638
+wavs/wavs6/segment_372.wav|bạn sẽ có khả năng tận hưởng sức khoẻ tuổi thọ cuộc sống.|57|4.038004535147392|0.07084218482714723
+wavs/wavs6/segment_375.wav|mang hyphosin trong xoài.|25|1.6219954648526078|0.06487981859410431
+wavs/wavs6/segment_378.wav|ngoài ra bạn cũng có thể ăn thực phẩm có chứa khoa xơ tin.|58|3.5900226757369613|0.06189694268512002
+wavs/wavs6/segment_38.wav|cảm ơn bạn đã lắng nghe.|24|1.5860317460317461|0.0660846560846561
+wavs/wavs6/segment_382.wav|thì ở đây cho phép mình xin chính thức trả lời câu hỏi đó là.|61|3.7029931972789116|0.06070480651276904
+wavs/wavs6/segment_387.wav|nhưng dựa trên các tế bào gốc.|30|1.8970068027210885|0.06323356009070295
+wavs/wavs6/segment_388.wav|bởi vì thực phẩm không giống như thuốc.|39|2.027981859410431|0.051999534856677715
+wavs/wavs6/segment_410.wav|để duy trì tốt thalamia chúng ta cần thay đổi chế độ ăn uống và lối sống tổng thể.|82|5.229024943310658|0.06376859686964217
+wavs/wavs6/segment_416.wav|người bảo vệ khổng lồ này còn có thể chủ động tìm kiếm và tiêu diệt vi khuẩn.|77|4.482993197278912|0.058220690873752104
+wavs/wavs6/segment_418.wav|như vịt quất.|13|0.9550113378684807|0.07346241060526774
+wavs/wavs6/segment_420.wav|ví dụ như là dầu cá trong các loại cá biển.|43|3.1900226757369614|0.07418657385434795
+wavs/wavs6/segment_427.wav|bác sĩ william li không những là một bác sĩ chuyên gia hàng đầu.|64|3.872018140589569|0.060500283446712017
+wavs/wavs6/segment_431.wav|khi con người già đi thì thalamia cũng tiếp tục hao mòn.|56|3.421043083900227|0.06109005506964691
+wavs/wavs6/segment_44.wav|và không thay đổi kể từ đó về sau.|34|2.2100226757369614|0.06500066693344005
+wavs/wavs6/segment_456.wav|khi mình có đôi lời chia sẻ muốn gửi đến các khán thính giả đang theo dõi kênh better version.|94|5.388027210884354|0.05731943841366334
+wavs/wavs6/segment_457.wav|phát triển toàn diện bản thân qua các cuốn sách hay.|52|3.1809977324263037|0.061173033315890454
+wavs/wavs6/segment_463.wav|trong cuộc sống hàng ngày chúng ta luôn trao đổi vi khuẩn với thế giới bên ngoài.|81|3.7310204081632654|0.04606198034769463
+wavs/wavs6/segment_464.wav|và kích thích phản ứng miễn dịch.|33|1.9700226757369614|0.05969765684051398
+wavs/wavs6/segment_472.wav|tiếp đến là hệ thống phòng thủ lượng thứ tư của cơ thể con người đó là dna.|75|5.332018140589569|0.07109357520786092
+wavs/wavs6/segment_48.wav|trà xanh có thể giảm số lượng tế bào tê gây viêm.|49|3.208027210884354|0.06546994307927254
+wavs/wavs6/segment_486.wav|lớp vỏ bên ngoài ngũ cốc nguyên hạt có chứa rất nhiều xơ.|57|3.0720181405895692|0.05389505509806262
+wavs/wavs6/segment_49.wav|một hoạt tính sinh học có thể giúp các tế bào gốc sống lâu hơn.|63|3.8690249433106576|0.061413094338264404
+wavs/wavs6/segment_492.wav|bao gồm cả cơ thể lẫn tâm hồn.|30|2.145034013605442|0.07150113378684807
+wavs/wavs6/segment_510.wav|hay như người xưa đã khẳng định.|32|1.7580045351473923|0.05493764172335601
+wavs/wavs6/segment_514.wav|ví dụ như đậu nành chứa isoflavon.|34|3.0950113378684807|0.0910297452314259
+wavs/wavs6/segment_518.wav|tình trạng thiếu dinh dưỡng hay béo phì cũng dễ khiến cho cơ thể rơi vào tình trạng viêm mãn tính.|98|5.148027210884353|0.0525308899069832
+wavs/wavs6/segment_53.wav|gây tổn thương tới tế bào gốc.|30|1.793015873015873|0.05976719576719577
+wavs/wavs6/segment_534.wav|thực phẩm nhiều đường tinh luyện.|33|1.62702947845805|0.04930392358963787
+wavs/wavs6/segment_54.wav|ngược lại nếu hệ thống miễn dịch của cơ thể bị phá hủy thì tính mạng sẽ bị đe doạ trực tiếp.|92|5.557006802721088|0.060402247855664004
+wavs/wavs6/segment_552.wav|hãy ăn năm thực phẩm này trong vòng một ngày.|45|2.4629931972789114|0.05473318216175359
+wavs/wavs6/segment_554.wav|thực chất hệ thống tái tạo dựa trên tế bào gốc.|47|3.2|0.06808510638297872
+wavs/wavs6/segment_559.wav|một số tư duy y học lạc hậu đã khiến cho nhiều người vẫn có thành kiến với vi khuẩn.|84|4.934013605442177|0.05873825720764496
+wavs/wavs6/segment_565.wav|nhiều dược phẩm sức khoẻ kiếm được bội tiền nhờ chủ yếu quảng cáo truyền thông tính năng này.|93|4.816009070294784|0.05178504376661058
+wavs/wavs6/segment_567.wav|những phân tử trong oxy hoả acid allergic.|42|3.3190022675736963|0.07902386351365943
+wavs/wavs6/segment_571.wav|mình không viết và cũng không chia sẻ nội dung cho bất cứ kênh nào khác.|72|4.381995464852608|0.060861048122952885
+wavs/wavs6/segment_58.wav|vậy nên người có nhiều tế bào gốc hơn có thể giảm rủi dao tử vong do bất kỳ nguyên nhân nào đến 32 phần trăm.|109|6.922993197278911|0.06351369905760469
+wavs/wavs6/segment_585.wav|hệ thống miễn dịch có khả năng bẩm sinh đẩy lùi sự xâm lược từ bên ngoài.|73|4.22|0.05780821917808219
+wavs/wavs6/segment_588.wav|vì vậy nếu ăn socola một cách hợp lý thì sẽ ít bị tắc nghẽn động mạch vành.|75|5.1079818594104305|0.06810642479213908
+wavs/wavs6/segment_589.wav|bạn cũng đã hiểu được rằng.|27|1.6770068027210885|0.06211136306374402
+wavs/wavs6/segment_59.wav|ngoài ra còn phải chú ý đến lượng muối mà bạn ăn vào.|53|3.806031746031746|0.07181191973644804
+wavs/wavs6/segment_61.wav|cuối cùng chúng ta cần chú ý một điều rằng.|43|2.774013605442177|0.06451194431260876
+wavs/wavs6/segment_65.wav|cho đến giờ vẫn chưa có nhiều nghiên cứu nghiêm túc nào về mối quan hệ giữa thực phẩm và sức khoẻ.|98|5.243038548752835|0.053500393354620764
+wavs/wavs6/segment_71.wav|cụ thể ở đây đó là ăn ít nhất năm loại thực phẩm có lợi.|56|3.8560090702947845|0.06885730482669258
+wavs/wavs6/segment_73.wav|và mình cũng nhắc nhở bạn một điều cực kỳ quan trọng nữa.|57|3.0500226757369613|0.05350916974977125
+wavs/wavs6/segment_74.wav|thì tốt nhất hãy bổ sung chất béo bằng cám gạo.|47|2.9279818594104308|0.062297486370434696
+wavs/wavs6/segment_75.wav|để đón xem những video mới nhất mỗi tuần.|41|2.512018140589569|0.06126873513633096
+wavs/wavs6/segment_82.wav|nó được khám phá như một chiến lược để giảm các triệu chứng về đường tiêu hoá.|78|4.1650340136054425|0.05339787196930054
+wavs/wavs6/segment_84.wav|xâu tây quả mâm xôi hay nạm vịt quất.|37|3.08|0.08324324324324324
+wavs/wavs6/segment_88.wav|tỏi cũng giúp cho tăng cường hệ miễn dịch và chống ung thư vân vân.|67|4.0029931972789115|0.05974616712356584
+wavs/wavs6/segment_97.wav|đồng thời sửa chữa các mạch máu hiện có.|40|2.3360090702947844|0.05840022675736961
+wavs/wavs7/segment_104.wav|tuy nhiên các phương pháp điều trị y tế để tái tạo tâm mạch.|60|3.414013605442177|0.05690022675736962
+wavs/wavs7/segment_114.wav|kiwi.|5|0.8680272108843538|0.17360544217687074
+wavs/wavs7/segment_120.wav|ví dụ.|6|0.7209977324263038|0.1201662887377173
+wavs/wavs7/segment_138.wav|hầu hết người già trên bảy mươi tuổi đều có tế bào ung thư tuyến giáp.|70|3.7229931972789116|0.05318561710398445
+wavs/wavs7/segment_147.wav|ngay từ khi còn trong bụng mẹ.|30|1.7290249433106577|0.05763416477702192
+wavs/wavs7/segment_15.wav|mạch máu nên cần phát triển ở nơi cơ thể cần không phát triển ở nơi cần ngăn chặn.|82|4.872018140589569|0.05941485537304352
+wavs/wavs7/segment_156.wav|rượu vang đỏ trà xanh trà đen.|30|2.3190022675736963|0.07730007558578987
+wavs/wavs7/segment_16.wav|cũng đều phát sinh là do mất cân bằng trong quá trình tái tạo mạch.|67|3.892018140589569|0.05808982299387416
+wavs/wavs7/segment_179.wav|tinh thần của bạn.|18|1.114013605442177|0.06188964474678761
+wavs/wavs7/segment_185.wav|vì vậy một chế độ ăn uống đúng sẽ luôn là một lựa chọn thay thế tốt nhất cho chúng ta.|86|5.134013605442177|0.05969783262142066
+wavs/wavs7/segment_19.wav|đậu nành rất giàu chanestai.|28|1.9500226757369614|0.06964366699060577
+wavs/wavs7/segment_191.wav|ngoài triết lý tâm thân hợp nhất để phòng chữa bệnh.|52|2.8700226757369616|0.05519274376417234
+wavs/wavs7/segment_20.wav|ăn gì cho người tái sinh trong cơ thể được cân bằng.|52|3.3370068027210884|0.06417320774463632
+wavs/wavs7/segment_207.wav|với kế hoạch ăn tự chữa lành như thế này bạn sẽ dễ dàng tránh ăn những thứ giống nhau lặp lại hàng ngày.|104|5.568027210884353|0.053538723181580324
+wavs/wavs7/segment_211.wav|để từ nay về sau trong chuỗi ngày dài cùng năm tháng.|53|2.981995464852608|0.05626406537457751
+wavs/wavs7/segment_215.wav|tạo ra kháng thể.|17|1.274013605442177|0.07494197679071629
+wavs/wavs7/segment_22.wav|nước gạo giang bia lúa mạch.|28|1.84|0.06571428571428571
+wavs/wavs7/segment_241.wav|các loại hạt.|13|0.8580045351473923|0.06600034885749172
+wavs/wavs7/segment_242.wav|là những lựa chọn tốt.|22|1.46702947845805|0.06668315811172955
+wavs/wavs7/segment_245.wav|nhưng đây là loại trái cây rất thân thiện với bệnh nhân tiểu đường.|67|3.1770068027210883|0.047418011980911765
+wavs/wavs7/segment_249.wav|tiếp theo là chất pine putty thăng lại.|39|2.931020408163265|0.07515436944008372
+wavs/wavs7/segment_25.wav|các chuyên gia dinh dưỡng tin rằng.|35|1.8980045351473922|0.054228701004211205
+wavs/wavs7/segment_258.wav|ngoài ra thì chúng ta có thể thỉnh thoảng.|42|2.4830385487528344|0.05911996544649606
+wavs/wavs7/segment_262.wav|xương gan và bệnh bạch cầu.|27|2.245034013605442|0.08314940791131267
+wavs/wavs7/segment_265.wav|đều có thể được đẩy lui.|24|1.6540136054421768|0.0689172335600907
+wavs/wavs7/segment_271.wav|hay trong bệnh viêm khớp dạng thấp.|35|1.9870294784580498|0.05677227081308714
+wavs/wavs7/segment_283.wav|với chế độ ăn thô và dựa trên thực vật này.|43|2.6229931972789116|0.06099984179718399
+wavs/wavs7/segment_295.wav|rất khó duy trì lâu dài và ông không cho rằng chế độ ăn kiêng lâu dài là một chế độ ăn uống lành mạnh.|102|5.772018140589569|0.056588413143035
+wavs/wavs7/segment_3.wav|sữa ngăn ngừa tái tạo và hình thành mạch máu.|45|3.108027210884354|0.06906727135298564
+wavs/wavs7/segment_306.wav|người sẽ nhìn thấu các tín hiệu sai trong nháy mắt.|51|2.686031746031746|0.052667289137877375
+wavs/wavs7/segment_326.wav|rượu vang đỏ và trà.|20|1.7180045351473923|0.08590022675736961
+wavs/wavs7/segment_328.wav|bệnh tật đi vào từ miệng.|25|2.040997732426304|0.08163990929705216
+wavs/wavs7/segment_332.wav|khi mang niềm vui vào thực phẩm.|32|1.8809977324263039|0.058781179138321996
+wavs/wavs7/segment_344.wav|nếu người thân hoặc bạn bè trong gia đình của bạn trúng giỏ.|60|3.1|0.051666666666666666
+wavs/wavs7/segment_353.wav|đó là bông cải xanh.|20|1.5300226757369615|0.07650113378684807
+wavs/wavs7/segment_355.wav|như cá tuyết.|13|0.9720181405895691|0.07477062619919762
+wavs/wavs7/segment_371.wav|hay như trong phô mai mỗi loại phô mai đều có hệ vi sinh vật riêng.|67|3.76|0.056119402985074625
+wavs/wavs7/segment_376.wav|cũng có tác dụng tương tự.|26|1.693015873015873|0.06511599511599511
+wavs/wavs7/segment_385.wav|tuy nhiên một điều cần phải thận trọng đó là một khi hệ thống tân sinh mạch.|76|4.536009070294784|0.05968432987229979
+wavs/wavs7/segment_387.wav|mang tên.|9|1.0160090702947846|0.11288989669942051
+wavs/wavs7/segment_391.wav|thì chúng rất tốt cho tế bào gốc.|33|2.10702947845805|0.06384937813509242
+wavs/wavs7/segment_396.wav|và cà phê chứa polyphenol.|26|2.0900226757369613|0.08038548752834467
+wavs/wavs7/segment_397.wav|đặc biệt là các sản phẩm đậu nành lên men.|42|2.532018140589569|0.06028614620451355
+wavs/wavs7/segment_416.wav|mặc dù vi khuẩn xấu bị tiêu diệt nhưng vi khuẩn tốt cũng bị chôn vùi theo đó.|77|4.492018140589569|0.058337897929734664
+wavs/wavs7/segment_430.wav|ví dụ người thường xuyên thức khuya sẽ có tới hai trăm sáu mươi chín gen bị can thiệp.|86|5.149024943310658|0.059872383061751834
+wavs/wavs7/segment_431.wav|để có thể làm giảm lượng tế bào gốc quý hiếm.|45|2.7100226757369614|0.06022272612748803
+wavs/wavs7/segment_433.wav|điều tệ hơn nữa là chế độ ăn uống không lành mạnh sẽ đẩy nhanh quá trình mất đi thalamia.|89|5.962993197278911|0.06699992356493159
+wavs/wavs7/segment_435.wav|dầu ô li nguyên chất bông cải xanh quả vịt quất.|48|3.1100226757369613|0.06479213907785336
+wavs/wavs7/segment_440.wav|một khi tế bào gốc bị hỏng.|27|1.7380045351473923|0.0643705383387923
+wavs/wavs7/segment_451.wav|bệnh tim mạch vành.|19|1.2219954648526077|0.06431555078171619
+wavs/wavs7/segment_457.wav|ngoài ra còn có những thực phẩm có thể giúp cho chúng ta đảo ngược tác hại do béo phì bệnh tim mạch.|100|5.862993197278912|0.058629931972789116
+wavs/wavs7/segment_460.wav|để sống một cuộc sống khỏe mạnh và lâu dài bạn cũng nên ăn một số vi khuẩn có lợi.|82|4.820997732426304|0.058792655273491506
+wavs/wavs7/segment_473.wav|đào.|4|0.6960090702947845|0.17400226757369613
+wavs/wavs7/segment_482.wav|có tác dụng tái tạo insulin và xương.|37|2.708027210884354|0.07318992461849605
+wavs/wavs7/segment_504.wav|nếu có thể thì tốt nhất là nên ăn cả vỏ.|40|2.8429931972789118|0.0710748299319728
+wavs/wavs7/segment_506.wav|một khi taylor miura cạn kiệt.|30|1.834013605442177|0.061133786848072566
+wavs/wavs7/segment_507.wav|ngoài ra tác giả còn có chỉ ra nhiều loại thực phẩm tuyệt vời không biến hệ thống miễn dịch thành con dao hai lưỡi như là.|122|6.7700226757369615|0.05549198914538493
+wavs/wavs7/segment_51.wav|cung cấp cho chúng dinh dưỡng.|30|1.814013605442177|0.060467120181405896
+wavs/wavs7/segment_515.wav|nếu thấy ai đó hay bị cảm tiêu chảy ta sẽ biết sức đề kháng của người đó đang giảm sút.|87|4.979002267573696|0.05722991112153673
+wavs/wavs7/segment_518.wav|bằng cách trực tiếp cắt đứt.|28|1.6829931972789116|0.06010689990281827
+wavs/wavs7/segment_522.wav|và phát triển các tế bào ung thư.|33|1.986984126984127|0.060211640211640216
+wavs/wavs7/segment_526.wav|do bị kích thích tiêu cực.|26|1.6360090702947845|0.06292342578056863
+wavs/wavs7/segment_531.wav|đây là một chất kích thích sự hình thành mạch.|46|2.1560090702947847|0.04686976239771271
+wavs/wavs7/segment_535.wav|và hẹn gặp lại các bạn ở những video tiếp theo.|47|2.8029931972789117|0.059638153133593864
+wavs/wavs7/segment_537.wav|khi cholesterol giảm.|21|1.425986394557823|0.067904114026563
+wavs/wavs7/segment_540.wav|nhưng một số gien cụ thể sẽ được bật hoặc tắt.|46|3.039002267573696|0.0660652666863847
+wavs/wavs7/segment_542.wav|đầu tiên.|9|0.9370068027210884|0.10411186696900981
+wavs/wavs7/segment_550.wav|khi hệ miễn dịch của chúng ta gặp vấn đề.|41|2.4750113378684806|0.06036613019191416
+wavs/wavs7/segment_560.wav|nhưng nếu chỉ biết vậy thì chúng ta đã đánh giá quá thấp những khả năng cao cả khác của hệ thống miễn dịch trong cơ thể chúng ta.|129|6.754013605442177|0.052356694615830826
+wavs/wavs7/segment_563.wav|thì người đó có thể được bảo vệ khỏi nhiều căn bệnh.|52|2.5450340136054423|0.04894296180010466
+wavs/wavs7/segment_57.wav|thì có lẽ tất cả chúng ta đều phải công nhận một sự thực rằng.|62|3.3500226757369616|0.05403262380220906
+wavs/wavs7/segment_68.wav|trái cây là thực phẩm không thể không có trong chế độ ăn uống hàng ngày.|72|3.7429931972789117|0.051986016628873775
+wavs/wavs7/segment_82.wav|ăn vào trong bạn khả năng tự chữa lành.|39|2.3620408163265307|0.06056514913657771
+wavs/wavs7/segment_87.wav|tiếp theo đó là trái cây.|25|1.8510204081632653|0.07404081632653062
+wavs/wavs8/segment_102.wav|trứng nghiện rượu cũng trực tiếp giết chết các tế bào gốc.|58|3.18|0.05482758620689655
+wavs/wavs8/segment_127.wav|người bảo hộ mong manh của chúng ta.|36|2.2510204081632654|0.06252834467120182
+wavs/wavs8/segment_133.wav|battle region xin gửi đến các bạn một cuốn sách cực kỳ bổ ích.|62|3.674013605442177|0.05925828395874479
+wavs/wavs8/segment_140.wav|điều cốt yếu là chúng ta phải giữ sự cân bằng của hệ thống tân sinh mạch.|73|4.357006802721089|0.059685024694809435
+wavs/wavs8/segment_144.wav|đây là chất hoạt tính sinh học tạo mạch mạnh mẽ.|48|2.7009977324263037|0.05627078609221466
+wavs/wavs8/segment_150.wav|càng phong phú chủng loại vi khuẩn thì chúng ta sẽ càng khỏe mạnh hơn.|70|3.64702947845805|0.052100421120829285
+wavs/wavs8/segment_158.wav|những loại trái cây có tác dụng chống hình thành mạch rất tốt khi phát sinh bệnh.|81|3.9580045351473925|0.04886425352033818
+wavs/wavs8/segment_159.wav|cùng với giọng người đọc hình thức làm video đều là duy nhất ở kênh battle region này.|86|5.38|0.06255813953488372
+wavs/wavs8/segment_187.wav|nếu ở trong gan chúng sẽ biến thành tế bào gan.|47|2.9700226757369617|0.06319197182419067
+wavs/wavs8/segment_20.wav|nếu lượng đường trong máu cao sẽ làm tổn thương và giết chết tất cả các tế bào gốc quan trọng.|94|4.765986394557823|0.0507019829208279
+wavs/wavs8/segment_207.wav|thực chất thì hầu hết bác sĩ đều biết rằng ngoài phương pháp y tế hiện đại.|75|4.0790022675736965|0.05438669690098262
+wavs/wavs8/segment_225.wav|loại vitamin này không chỉ có đặc tính chống tạo mạch mà còn cản trở khả năng tạo ra cholesterol của cơ thể.|108|6.54|0.06055555555555556
+wavs/wavs8/segment_227.wav|vậy thì chúng ta sẽ cùng tìm hiểu phần cuối cùng của video ngày hôm nay.|72|4.181995464852608|0.0580832703451751
+wavs/wavs8/segment_229.wav|cũng có lợi cho hệ thống tái tạo dự trên tế bào gốc.|52|2.9090249433106576|0.0559427873713588
+wavs/wavs8/segment_231.wav|chúng sẽ phát triển một cách điên cuồng.|40|2.0140136054421767|0.05035034013605442
+wavs/wavs8/segment_249.wav|ngược lại.|10|0.9950113378684807|0.09950113378684808
+wavs/wavs8/segment_254.wav|bên cạnh ăn các chất chống tạo mạch ngăn ngừa các tế bào ung thư.|65|3.6100226757369613|0.05553881039595325
+wavs/wavs8/segment_268.wav|cách thông qua chế độ ăn uống có thể làm cho hệ thống ba mươi nghìn tỷ vi khuẩn trong đường ruột của chúng ta.|110|5.40702947845805|0.049154813440527724
+wavs/wavs8/segment_272.wav|đây là chất để triệu hồi tế bào gốc.|36|2.1150113378684807|0.05875031494079113
+wavs/wavs8/segment_279.wav|và các chất chuyển hoá của vi khuẩn.|36|1.9720181405895691|0.054778281683043585
+wavs/wavs8/segment_296.wav|lâu dần hệ thống miễn dịch của bạn sẽ bị suy giảm đi.|53|2.9180045351473924|0.05505668934240363
+wavs/wavs8/segment_297.wav|trong chế độ ăn này bạn không được ăn tất cả các loại ngũ cốc.|62|3.7570068027210883|0.060596883914856264
+wavs/wavs8/segment_30.wav|và ít tế bào t miễn dịch được kích hoạt hơn.|44|2.820997732426304|0.06411358482787054
+wavs/wavs8/segment_350.wav|một khi dna có vấn đề sức khoẻ của chúng ta sẽ bị đe doạ.|57|4.017006802721088|0.07047380355651031
+wavs/wavs8/segment_355.wav|cải thiện chức năng đường ruột chống lão hoá và các bệnh khác nhau.|67|3.441995464852608|0.05137306663959116
+wavs/wavs8/segment_363.wav|ở mức độ thấp trong cơ thể làm suy yếu phản ứng miễn dịch.|58|3.5490249433106578|0.0611900852294941
+wavs/wavs8/segment_383.wav|ví dụ như là nhân sâm hương thảo bạc hà.|40|3.381995464852608|0.0845498866213152
+wavs/wavs8/segment_391.wav|cà chua.|8|0.7970068027210885|0.09962585034013606
+wavs/wavs8/segment_410.wav|thì con người sẽ chết.|22|1.446031746031746|0.06572871572871573
+wavs/wavs8/segment_413.wav|đồng thời nó điều chỉnh và cho phép hệ miễn dịch trở lại trạng thái cân bằng hơn.|81|4.569024943310658|0.0564077153495143
+wavs/wavs8/segment_421.wav|thì thực tế chúng sẽ không có nhiều tác dụng.|45|2.3570068027210884|0.05237792894935752
+wavs/wavs8/segment_5.wav|dạo gần đây thì mình đã nhận được khá nhiều tin nhắn và bình luận có nói rằng.|78|4.540997732426304|0.05821791964649107
+wavs/wavs8/segment_52.wav|uống quá nhiều đồ uống có đường.|32|1.893015873015873|0.05915674603174603
+wavs/wavs8/segment_6.wav|ví dụ ăn một chế độ dựa trên thực vật.|38|2.6300226757369614|0.0692111230457095
+wavs/wavs8/segment_68.wav|lựa chọn hàng đầu để có thể thay thế nước ngọt các loại đó là trà xanh.|71|4.212018140589569|0.059324199163233365
+wavs/wavs8/segment_7.wav|tổ chức từ thiện lớn nhất thế giới của bill gates.|50|2.736009070294785|0.0547201814058957
+wavs/wavs8/segment_89.wav|nhưng bạn sẽ thấy ở hầu hết các thuốc kháng sinh chống viêm đều có phản ứng phụ.|80|4.506984126984127|0.05633730158730159
+wavs/wavs9/segment_10.wav|thì hệ thống miễn dịch sẽ bảo vệ cơ thể bằng cách.|50|2.586031746031746|0.05172063492063492
+wavs/wavs9/segment_107.wav|khi nhắc tới khả năng miễn dịch.|32|1.8420408163265307|0.057563775510204085
+wavs/wavs9/segment_118.wav|tóm lại chúng ta không chỉ phải bỏ đi thói quen ăn nhiều đường nhiều mụn nhiều chất béo không lành mạnh.|104|5.848027210884354|0.05623103087388802
+wavs/wavs9/segment_12.wav|bằng cách này cơ thể sẽ có thể hấp thụ nhiều like của phim hơn.|63|3.674013605442177|0.05831767627685995
+wavs/wavs9/segment_129.wav|hệ thống miễn dịch là con dao hai lưỡi.|39|2.193015873015873|0.056231176231176225
+wavs/wavs9/segment_137.wav|nếu chúng ở trong máu chúng sẽ biến thành máu.|46|2.598004535147392|0.056478359459725916
+wavs/wavs9/segment_144.wav|có bên trong thì chứa polyphenol.|33|2.0940136054421767|0.06345495774067202
+wavs/wavs9/segment_15.wav|hay là nấm.|11|1.054013605442177|0.09581941867656153
+wavs/wavs9/segment_163.wav|chỉ cần đảm bảo là ăn đủ năm thứ này trong ngày thì kế hoạch sẽ hoàn thành.|75|4.443990929705215|0.05925321239606954
+wavs/wavs9/segment_165.wav|cần phải tìm hiểu năm hệ thống phòng thủ trong cơ thể mình.|59|3.2190022675736962|0.054559360467350784
+wavs/wavs9/segment_170.wav|có thể kích thích hiệu quả các gen khống chế khối u.|52|2.8690249433106576|0.055173556602128034
+wavs/wavs9/segment_174.wav|khi bình thường hệ thống tân sinh mạch là một đội vận chuyển làm việc chăm chỉ.|79|4.208027210884354|0.05326616722638423
+wavs/wavs9/segment_182.wav|và mường tượng ngay đến con vi khuẩn đang ngọ ngoậy trong tai.|62|3.0940136054421767|0.04990344524906737
+wavs/wavs9/segment_186.wav|vậy tại sao hầu hết mọi người thường không bị chẩn đoán mắc bệnh ung thư.|73|4.113015873015873|0.056342683191998255
+wavs/wavs9/segment_187.wav|do trá hình giả làm protein thân thiện lạc vào đám đông rồi ẩn mình trong đó.|77|5.148027210884353|0.06685749624525135
+wavs/wavs9/segment_190.wav|kim chi hàn quốc sữa chua phô mai vân vân.|42|3.4500226757369616|0.08214339704135623
+wavs/wavs9/segment_197.wav|ví dụ.|6|1.0120181405895692|0.16866969009826152
+wavs/wavs9/segment_2.wav|thứ nhất đó là chế độ ăn chay và thô.|37|3.021043083900227|0.08164981307838451
+wavs/wavs9/segment_232.wav|đã giảm đáng kể số lần chảy máu trực tràng sau sáu tuần.|56|3.46|0.061785714285714284
+wavs/wavs9/segment_233.wav|về chủ đề sức khoẻ.|19|1.42702947845805|0.07510681465568685
+wavs/wavs9/segment_237.wav|bởi vì ông biết rằng các bệnh không lây nhiễm mới là kẻ gây tử vong mạnh mẽ nhất.|81|4.5219954648526075|0.05582710450435318
+wavs/wavs9/segment_246.wav|mà còn thường khiến cho người ta cảm thấy đau khổ.|50|2.4460317460317462|0.04892063492063493
+wavs/wavs9/segment_252.wav|bạn có thể khuyên họ nên ăn nhiều cần tây hơn để giúp cho cơ quan này được chữa lành.|85|4.174013605442177|0.04910604241696678
+wavs/wavs9/segment_257.wav|hệ thống miễn dịch có phản ứng chậm.|36|2.0090249433106577|0.05580624842529605
+wavs/wavs9/segment_264.wav|làm nên những điều phi thường trong chuỗi ngày bình thường.|59|3.059002267573696|0.05184749606057112
+wavs/wavs9/segment_265.wav|mang tỷ lệ sống sót cao hơn cho các tế bào gốc.|47|2.971020408163265|0.06321320017368649
+wavs/wavs9/segment_280.wav|và lâu dài qua cái kí nhớ mạnh mẽ.|34|2.5310204081632652|0.07444177671068428
+wavs/wavs9/segment_282.wav|rồi.|4|0.9190022675736962|0.22975056689342405
+wavs/wavs9/segment_288.wav|vậy nên khi hệ thống tái tạo của bạn được nạp càng nhiều chất dinh dưỡng phong phú thì nó sẽ nhanh chóng được chữa lành hơn.|124|6.961995464852608|0.05614512471655329
+wavs/wavs9/segment_291.wav|nghiên cứu đã xác nhận.|23|1.3440362811791384|0.058436360051266886
+wavs/wavs9/segment_295.wav|tiếp theo chúng ta sẽ cùng tìm hiểu.|36|1.98|0.055
+wavs/wavs9/segment_297.wav|đây là một hoạt tính quan trọng đối với sức khoẻ của mắt.|57|2.734013605442177|0.04796515097266977
+wavs/wavs9/segment_30.wav|gây ra tình trạng đau đớn nghiêm trọng.|39|2.1|0.05384615384615385
+wavs/wavs9/segment_309.wav|thậm chí còn có tác động tích cực đến tâm trạng.|48|2.9950113378684806|0.06239606953892668
+wavs/wavs9/segment_322.wav|thực tế trong cơ thể mỗi chúng ta đều có tế bào ung thư đang phát triển.|72|4.153015873015873|0.05768077601410934
+wavs/wavs9/segment_330.wav|kế hoạch ăn năm nhân năm nhân năm.|34|2.1780045351473922|0.06405895691609977
+wavs/wavs9/segment_339.wav|ăn một chút vi khuẩn vào bụng.|30|1.8320181405895692|0.06106727135298564
+wavs/wavs9/segment_341.wav|ví dụ nếu bạn đã từng bị thủy đậu và quai bị.|45|2.9839909297052154|0.06631090954900479
+wavs/wavs9/segment_344.wav|chúng bị hư hại hơn mười ngàn lần.|34|2.2110204081632654|0.06503001200480192
+wavs/wavs9/segment_353.wav|kiểu ăn này sẽ không gây viêm.|30|1.8080272108843538|0.060267573696145126
+wavs/wavs9/segment_354.wav|bên cạnh đó.|12|1.0710204081632653|0.0892517006802721
+wavs/wavs9/segment_358.wav|ngoài ra nhất định phải tập thể dục thường xuyên.|49|2.5310204081632652|0.051653477717617656
+wavs/wavs9/segment_36.wav|tổng số tế bào trong cơ thể của chúng ta.|41|2.2370068027210883|0.05456114152978264
+wavs/wavs9/segment_37.wav|bởi vì nó có chức năng may và vạ.|33|2.3629931972789118|0.07160585446299733
+wavs/wavs9/segment_379.wav|thế nhưng bác sĩ li không hề cổ vũ mọi người dựa dẫm hoàn toàn vào việc điều trị.|81|4.9360090702947845|0.06093838358388623
+wavs/wavs9/segment_39.wav|xâm chiếm hệ tuần hoàn và trở thành khối ung thư.|49|3.1629931972789116|0.06455088157712065
+wavs/wavs9/segment_41.wav|mức độ tế bào gốc sẽ tăng lên.|30|1.953015873015873|0.0651005291005291
+wavs/wavs9/segment_42.wav|chúng ta đã biết nên ăn gì.|27|2.0429931972789115|0.07566641471403376
+wavs/wavs9/segment_429.wav|nhưng có lẽ bạn sẽ thắc mắc rằng.|33|2.0100226757369613|0.06090977805263519
+wavs/wavs9/segment_436.wav|sau đó dựa trên nghiên cứu này ông đã đứng đầu thành lập tổ chức tân sinh mạch.|79|4.505034013605442|0.05702574700766383
+wavs/wavs9/segment_437.wav|bằng cách nhật ra năm loại thực phẩm từ năm cột danh sách trên.|63|3.392018140589569|0.053841557787136014
+wavs/wavs9/segment_438.wav|cá ngừ hồ phách.|16|1.5580045351473923|0.09737528344671202
+wavs/wavs9/segment_442.wav|ngủ sớm dậy sớm.|16|1.525034013605442|0.09531462585034013
+wavs/wavs9/segment_446.wav|giúp bảo vệ và cải thiện hoạt động cũng như tỷ lệ sống sót của tế bào gốc.|74|4.633015873015873|0.06260832260832261
+wavs/wavs9/segment_46.wav|các loại hạt giống như hạt hướng dương hạt vừng hạt lanh hạt bí ngô hạt kê hạt chia vân vân.|92|7.070022675736961|0.07684807256235827
+wavs/wavs9/segment_469.wav|cũng không quy định cần phải kiên trì ăn trong bao nhiêu ngày.|62|2.9239909297052153|0.047161144027503474
+wavs/wavs9/segment_473.wav|ăn uống không lành mạnh.|24|1.2330158730158731|0.05137566137566138
+wavs/wavs9/segment_491.wav|như là rượu vang rượu đỏ hoặc một ít bia.|41|2.8100226757369615|0.06853713843260882
+wavs/wavs9/segment_493.wav|ví dụ như kiwi có thể giảm đến sáu mươi phần trăm sự tổn thương của dna.|72|4.706984126984127|0.0653747795414462
+wavs/wavs9/segment_50.wav|thực phẩm giàu vitamin c như cá chua dâu tây và cam.|52|4.099002267573696|0.07882696668410955
+wavs/wavs9/segment_504.wav|nên đã phá huỷ các tế bào sản xuất insulin dẫn đến lượng đường trong máu bất thường.|84|4.992018140589569|0.05942878738797106
+wavs/wavs9/segment_51.wav|axit clorotran.|15|1.485986394557823|0.09906575963718821
+wavs/wavs9/segment_527.wav|cuối cùng điều mình muốn nhắn nhủ với các bạn rằng.|51|2.8649886621315193|0.056176248277088614
+wavs/wavs9/segment_532.wav|chúng ta phải chăm sóc tốt hệ thực vật đường ruột của mình.|59|3.000997732426304|0.05086436834620854
+wavs/wavs9/segment_533.wav|các nhà dịch tễ học cho rằng.|29|1.8009977324263038|0.06210337008366565
+wavs/wavs9/segment_534.wav|những thực phẩm chứa vi khuẩn có lợi.|37|2.1560090702947847|0.05827051541337256
+wavs/wavs9/segment_547.wav|tác hại của hút và hít thuốc lạ.|32|2.226031746031746|0.06956349206349206
+wavs/wavs9/segment_549.wav|mơ anh đào.|11|1.4900226757369615|0.13545660688517833
+wavs/wavs9/segment_551.wav|cả hai yếu tố tăng trưởng tương tự nhau.|40|2.2790022675736963|0.056975056689342406
+wavs/wavs9/segment_566.wav|và chúng cũng là những người bạn tuyệt vời bảo vệ sức khoẻ của chúng ta theo những cách rất phức tạp.|101|5.076009070294784|0.05025751554747311
+wavs/wavs9/segment_570.wav|tuy nhiên dựa vào chế độ ăn này chúng ta có thể khám phá sức mạnh của các loại thực phẩm khác nhau.|99|5.431020408163265|0.05485879200164914
+wavs/wavs9/segment_590.wav|hệ thống miễn dịch của chúng ta đủ thông minh để phân biệt giữa bạn và thù.|75|4.765986394557823|0.06354648526077097
+wavs/wavs9/segment_599.wav|thậm chí nó có thể điều khiển hệ thống tân sinh mạch.|53|2.8590022675736964|0.05394343901082446
+wavs/wavs9/segment_600.wav|chúng đều rất giàu axit oxalic.|31|2.4780045351473925|0.07993563016604492
+wavs/wavs9/segment_602.wav|và ít người có thể tin rằng.|28|1.6750113378684808|0.05982183349530289
+wavs/wavs9/segment_603.wav|người bảo vệ đầu tiên của chúng ta.|35|1.8630385487528345|0.053229672821509554
+wavs/wavs9/segment_608.wav|hãy ăn các chất ức chế chống tạo mạch.|38|2.2829931972789117|0.06007876834944505
+wavs/wavs9/segment_61.wav|muốn bảo vệ sức khoẻ hãy bảo vệ hệ vi sinh vật người bạn tốt của bạn.|69|4.496009070294784|0.06515955174340267
+wavs/wavs9/segment_624.wav|đặc biệt với những người khỏe mạnh.|35|1.8260317460317461|0.05217233560090703
+wavs/wavs9/segment_648.wav|một loại thực phẩm khác mà tác giả khuyên nên ăn một tuần ít nhất một đến hai lần.|82|5.009024943310657|0.06108567004037387
+wavs/wavs9/segment_649.wav|các tín hiệu kích hoạt phát triển mạch máu của tế bào gây ung thư.|66|3.795011337868481|0.057500171785886074
+wavs/wavs9/segment_650.wav|virus xâm nhập vào cơ thể.|26|1.6980045351473922|0.06530786673643817
+wavs/wavs9/segment_653.wav|các chất kích thích tạo mạch.|29|1.4490249433106577|0.04996637735553992
+wavs/wavs9/segment_658.wav|những người sống trăm tuổi thường có thai lơ mi a khá dài.|58|3.2970068027210884|0.05684494487450152
+wavs/wavs9/segment_660.wav|như là cà chua khoai tây ớt.|28|2.618004535147392|0.09350016196954972
+wavs/wavs9/segment_673.wav|bạn thực sự có thể làm điều đó thông qua một chế độ ăn uống hợp lý.|67|3.5720181405895692|0.05331370359088909
+wavs/wavs9/segment_677.wav|đầu tiên.|9|1.1240362811791382|0.12489292013101536
+wavs/wavs9/segment_691.wav|bốn mươi phần trăm phụ nữ hơn bốn mươi tuổi đều có tế bào ung thư vú.|69|3.88|0.05623188405797101
+wavs/wavs9/segment_697.wav|tuy nhiên hàm lượng lai cọc hình trong vỏ cà chua sẽ cao gấp ba hoặc năm lần so với ruột của nó.|96|5.552018140589569|0.057833522297808006
+wavs/wavs9/segment_705.wav|như menneker người đã giải nobel về sinh lý học và y học đã nói.|64|4.297006802721088|0.067140731292517
+wavs/wavs9/segment_707.wav|chúng ta có thể uống trà xanh và trà hoa cúc.|45|3.1110204081632653|0.06913378684807256
+wavs/wavs9/segment_709.wav|cũng có thể khống chế cân bằng sự hình thành mạch một cách hiệu quả.|68|3.4839909297052154|0.05123516073095905
+wavs/wavs9/segment_72.wav|và chúng ta cũng cần phải đặc biệt chú ý ở chỗ.|47|2.694013605442177|0.05731943841366334
+wavs/wavs9/segment_727.wav|các tế bào miễn dịch trong cơ thể của con người sẽ tấn công các tế bào khác.|76|4.22702947845805|0.055618808927079606
+wavs/wavs9/segment_737.wav|và ngăn ngừa xơ cứng động mạch.|31|2.0760090702947847|0.06696803452563821
+wavs/wavs9/segment_738.wav|mặc dù đối với hầu hết mọi người đồ ăn sẽ cảm thấy ngon hơn nếu chúng ta ăn với vị mặn mà.|90|5.261995464852608|0.05846661627614009
+wavs/wavs9/segment_743.wav|nhưng dữ liệu giải phẫu y học cho thấy.|39|2.1770068027210883|0.05582068724925867
+wavs/wavs9/segment_747.wav|một điểm sáng nữa của cuốn sách này đó là cung cấp cho chúng ta kế hoạch ăn năm nhân năm nhân năm.|98|6.206984126984127|0.06333657272432783
+wavs/wavs9/segment_754.wav|chúng ta công nhận rằng những sản phẩm sức khoẻ này có tác dụng của nó.|71|3.886031746031746|0.05473284149340488
+wavs/wavs9/segment_757.wav|và hệ thống tân sinh mạch là độc lập.|37|2.4080272108843537|0.06508181651038794
+wavs/wavs9/segment_758.wav|những khối u nhỏ bé mắt thường không thể nhìn thấy rất có thể sẽ ở lại với chúng ta suốt cuộc đời.|98|5.913015873015873|0.06033689666342727
+wavs/wavs9/segment_83.wav|với kế hoạch ăn như thế này thì sẽ giúp bạn tự chữa lành.|57|3.1520181405895693|0.05529856386999244
+wavs/wavs9/segment_97.wav|chỉ khi ăn đúng bạn mới có thể giảm lượng thuốc.|48|2.845034013605442|0.05927154195011338
+wavs_p2/wavs0/segment_10.wav|nếu muốn duy trì quyền kiểm soát hệ thống tạo mạch của mình.|60|3.4859863945578233|0.05809977324263039
+wavs_p2/wavs0/segment_157.wav|hồng khô vân vân.|17|1.66702947845805|0.09806055755635588
+wavs_p2/wavs0/segment_159.wav|bức tường phòng vệ một khi sụp đổ.|34|2.194013605442177|0.0645298119247699
+wavs_p2/wavs0/segment_193.wav|tất cả đều tác động lên hệ vi sinh vật.|39|2.345034013605442|0.060129077271934415
+wavs_p2/wavs0/segment_200.wav|như đã nói ở trên bạn muốn phòng và chữa bệnh nhất định phải giữ cho hệ thống tạng mạch được cân bằng.|102|5.474013605442177|0.053666800053354675
+wavs_p2/wavs0/segment_201.wav|không được hoạt động cân bằng hợp lý.|37|1.8300226757369615|0.04946007231721518
+wavs_p2/wavs0/segment_206.wav|ăn thô ở đây nghĩa là chủ yếu ăn các thực phẩm tươi sống.|57|3.3560090702947845|0.058877352110434815
+wavs_p2/wavs0/segment_225.wav|dna đang bảo vệ chúng ta nó có chức năng to lớn nhưng lại vô cùng mong manh.|76|5.162040816326531|0.06792158968850699
+wavs_p2/wavs0/segment_23.wav|vừa tạo cái tốt lại vừa ngăn chặn cái xấu.|42|2.8439909297052153|0.06771406975488607
+wavs_p2/wavs0/segment_250.wav|bạn có thể lựa chọn tùy theo hoàn cảnh và sở thích của mình.|60|3.4760090702947846|0.05793348450491308
+wavs_p2/wavs0/segment_27.wav|bắp cải cải xoăn.|17|1.4740136054421769|0.08670668267306923
+wavs_p2/wavs0/segment_274.wav|chế độ ăn uống là một đơn thuốc tiện lợi mà vô cùng tiết kiệm.|62|4.037006802721089|0.06511301294711433
+wavs_p2/wavs0/segment_283.wav|thế nên có nhiều loại thực phẩm thích hợp cho hệ thống tân sinh mạch.|69|3.3290249433106576|0.04824673830885011
+wavs_p2/wavs0/segment_295.wav|có phải là bella virgin mở thêm kênh khác nào hay không.|56|3.4470294784580497|0.06155409782960803
+wavs_p2/wavs0/segment_30.wav|bài tiết các chất độc này qua đường nôn mửa.|44|2.7580045351473923|0.06268192125334983
+wavs_p2/wavs0/segment_308.wav|chỉ mang tính chất tham khảo chứ không đảm bảo hoàn toàn bạn sẽ khỏi bệnh.|74|4.133015873015873|0.05585156585156585
+wavs_p2/wavs0/segment_309.wav|những đồ uống này bạn có thể uống vừa phải.|43|2.512018140589569|0.05841902652533882
+wavs_p2/wavs0/segment_325.wav|ngày nay con số này vẫn đang tăng lên.|38|2.235011337868481|0.05881608783864423
+wavs_p2/wavs0/segment_332.wav|bạn đẩy một chiếc xe trong siêu thị.|36|1.8520181405895693|0.05144494834971026
+wavs_p2/wavs0/segment_338.wav|nó tích tụ trên võng mạc giúp ngăn ngừa tình trạng thoái hóa ở mắt và mù lạt.|77|4.629024943310657|0.060117207055982565
+wavs_p2/wavs0/segment_375.wav|bà con phải đa dạng hòa chế độ ăn uống.|39|2.4839909297052154|0.06369207512064655
+wavs_p2/wavs0/segment_378.wav|vì vậy những thực phẩm có thể giảm khả năng mắc một số bệnh như sách nói.|73|4.157006802721089|0.05694529866741217
+wavs_p2/wavs0/segment_380.wav|và bắp cải có thể làm giảm một nửa hoạt động của 63 gien gây ung thư trong ruột kết.|84|5.654013605442177|0.06730968577907354
+wavs_p2/wavs0/segment_381.wav|chúng không làm suy giảm khả năng phòng vệ của cơ thể.|54|2.7990022675736963|0.05183337532543882
+wavs_p2/wavs0/segment_382.wav|cuối cùng.|10|0.846031746031746|0.0846031746031746
+wavs_p2/wavs0/segment_399.wav|tái tạo tế bào gốc của cơ thể bạn.|34|2.2609977324263038|0.06649993330665599
+wavs_p2/wavs0/segment_41.wav|có khả năng gây tử vong.|24|1.740997732426304|0.07254157218442933
+wavs_p2/wavs0/segment_45.wav|hai hệ thống phòng vệ đầu tiên mình đã nói với bạn rằng.|56|2.7580045351473923|0.04925008098477486
+wavs_p2/wavs0/segment_46.wav|mà còn là một nhà nghiên cứu khoa học y tế.|43|2.744988662131519|0.06383694563096556
+wavs_p2/wavs0/segment_54.wav|ngoài ra bác sĩ li nhấn mạnh.|29|1.740997732426304|0.060034404566424275
+wavs_p2/wavs0/segment_8.wav|nếu nó không hoạt động chúng ta sẽ gặp thảm họa.|48|2.6820408163265306|0.055875850340136056
+wavs_p2/wavs0/segment_81.wav|chào mừng các bạn đã đến với cuốn sách đầu tiên trong năm hai không hai mươi bốn của battle region.|99|5.049024943310657|0.0510002519526329
+wavs_p2/wavs0/segment_95.wav|và em thơ sai nhần.|19|1.3970068027210885|0.07352667382742571
+wavs_p2/wavs1/segment_110.wav|ngoài ra chất này sẽ hòa tan trong chất béo nên khi nấu tốt nhất là bạn nên để cả vỏ.|85|4.882040816326531|0.057435774309723894
+wavs_p2/wavs1/segment_113.wav|đối với hệ thống đầu tiên này.|30|1.546031746031746|0.05153439153439154
+wavs_p2/wavs1/segment_128.wav|được thiết kế giống với chế độ ăn theo thời đồ đá cũ.|53|2.92|0.05509433962264151
+wavs_p2/wavs1/segment_129.wav|khi hệ thống miễn dịch của chúng ta bị suy giảm nó sẽ mở ra cơ hội cho nguy cơ nhiễm trùng và ung thư.|102|6.015011337868481|0.058970699390867465
+wavs_p2/wavs1/segment_132.wav|và làm cho đường ruột của chúng ta trở nên khoẻ mạnh hơn.|57|2.98702947845805|0.052404025937860525
+wavs_p2/wavs1/segment_149.wav|nhận được một nguồn năng lượng.|31|1.4710204081632654|0.047452271231073075
+wavs_p2/wavs1/segment_150.wav|hay là bệnh xơ cứng bì các bệnh về tuyến giáp bất thường cũng xảy ra là do chính các kháng thể tấn công.|104|6.16|0.05923076923076923
+wavs_p2/wavs1/segment_151.wav|khi nhận được chỉ thị của cơ quan nào cần cứu hộ.|49|2.885034013605442|0.05887824517562127
+wavs_p2/wavs1/segment_154.wav|chúng ta thường nghĩ rằng dna chỉ liên quan đến di truyền gien.|63|3.9290249433106577|0.06236547529064536
+wavs_p2/wavs1/segment_16.wav|tập thể dục có thể làm tăng hoạt động của dna trong não duy trì sức khoẻ não bộ.|80|4.922993197278911|0.061537414965986394
+wavs_p2/wavs1/segment_160.wav|hiện tại thì mình chỉ xây dựng duy nhất một kênh đó là petavision.|66|4.6880272108843535|0.0710307153164296
+wavs_p2/wavs1/segment_195.wav|tất cả mọi người đều có tế bào ung thư trong cơ thể.|52|2.7629931972789117|0.05313448456305599
+wavs_p2/wavs1/segment_201.wav|với năm hệ thống phòng thủ.|27|1.745034013605442|0.06463088939279416
+wavs_p2/wavs1/segment_205.wav|sau đó bảo vệ dna bằng cách trung hoà các gốc tự do.|52|3.9160090702947845|0.07530786673643816
+wavs_p2/wavs1/segment_206.wav|phòng bệnh còn hơn chữa bệnh.|29|1.8990022675736962|0.06548283681288608
+wavs_p2/wavs1/segment_22.wav|và nếu có thể thì hãy tìm hiểu và tập thiền định ngay từ hôm nay.|65|4.233015873015873|0.06512332112332112
+wavs_p2/wavs1/segment_221.wav|và các loại vỏ trái cây khác nhau.|34|1.8180045351473924|0.05347072162198213
+wavs_p2/wavs1/segment_23.wav|bác sĩ li đã nói rất nhiều người thích ăn ức gà tuy nhiên nên chọn đùi gà.|74|4.221995464852608|0.05705399276827848
+wavs_p2/wavs1/segment_24.wav|chúng ta nghĩ ngay đến sức đề kháng.|36|1.9489795918367347|0.05413832199546485
+wavs_p2/wavs1/segment_269.wav|bạn có thể tùy ý ăn cả năm thực phẩm này trong một bữa.|55|3.079002267573696|0.05598185941043084
+wavs_p2/wavs1/segment_277.wav|phương pháp này có thể tiêu diệt các tế bào ung thư.|52|2.593015873015873|0.04986568986568987
+wavs_p2/wavs1/segment_278.wav|hai thưa mến cho các bạn.|25|1.6910204081632654|0.06764081632653061
+wavs_p2/wavs1/segment_28.wav|để nhanh chóng chữa lành cho các cơ quan đang có vấn đề trong cơ thể.|69|3.792018140589569|0.05495678464622564
+wavs_p2/wavs1/segment_281.wav|tra cũng có hoạt động tốt về mặt này.|37|2.508979591836735|0.06781025923883068
+wavs_p2/wavs1/segment_290.wav|chất sulforaphane có trong các loại rau họ cải như bông cải xanh cải chíp cải xoăn.|83|5.555011337868481|0.06692784744419857
+wavs_p2/wavs1/segment_293.wav|thì không gì hơn là có một chế độ ăn đúng.|42|2.9580045351473925|0.07042867940827124
+wavs_p2/wavs1/segment_294.wav|và chế độ ăn thứ ba đó là ăn theo giao thức tự miễn dịch.|57|4.9380045351473925|0.08663165851135776
+wavs_p2/wavs1/segment_297.wav|tất cả chúng ta đều chỉ có thể cố gắng phát triển một cách hoàn chỉnh và cân bằng.|82|4.703990929705215|0.057365743045185554
+wavs_p2/wavs1/segment_298.wav|đặc biệt.|9|0.8380045351473923|0.09311161501637692
+wavs_p2/wavs1/segment_299.wav|thực sự là làm suy yếu hệ miễn dịch.|36|2.354013605442177|0.06538926681783824
+wavs_p2/wavs1/segment_306.wav|một lần nữa cảm ơn các bạn.|27|1.8239909297052155|0.06755521961871168
+wavs_p2/wavs1/segment_314.wav|như là thực phẩm lên men dưa cải bắp.|37|2.5510204081632653|0.06894649751792609
+wavs_p2/wavs1/segment_32.wav|làm việc hiệu quả.|18|1.4560090702947845|0.08088939279415469
+wavs_p2/wavs1/segment_323.wav|thậm chí ngăn ngừa chứng mất trí nhớ.|37|2.540997732426304|0.06867561438990011
+wavs_p2/wavs1/segment_332.wav|it's a big deal.|16|1.906031746031746|0.11912698412698412
+wavs_p2/wavs1/segment_335.wav|ví dụ bệnh tiểu đường loại một xảy ra là do các tế bào miễn dịch không thể phân biệt giữa bản và thổ.|101|5.72702947845805|0.05670326216295099
+wavs_p2/wavs1/segment_346.wav|đặc biệt hơn nữa là nhiều loại thực phẩm còn có hai tác dụng một lúc.|69|4.04702947845805|0.05865260113707319
+wavs_p2/wavs1/segment_375.wav|quan trọng thứ ba của cơ thể mình.|34|2.2780045351473923|0.067000133386688
+wavs_p2/wavs1/segment_378.wav|để tìm hiểu cụ thể thì bạn hãy tìm đọc kỹ hơn.|46|3.0249886621315194|0.06576062308981565
+wavs_p2/wavs1/segment_386.wav|ngoài ra ngủ nghỉ không đều đặn.|32|2.2300226757369614|0.06968820861678005
+wavs_p2/wavs1/segment_388.wav|hay các gia vị như bột nghệ bạc hà hùng quế.|44|3.184988662131519|0.07238610595753453
+wavs_p2/wavs1/segment_391.wav|cùng với quá trình lão hoá tự nhiên.|36|2.118004535147392|0.05883345930964978
+wavs_p2/wavs1/segment_394.wav|vị đuôi gà có màu sẫm chứa vitamin k2.|38|3.119002267573696|0.08207900704141306
+wavs_p2/wavs1/segment_395.wav|và một lần nữa mình muốn nói rằng.|34|1.88|0.05529411764705882
+wavs_p2/wavs1/segment_396.wav|rồi.|4|0.7639909297052154|0.19099773242630386
+wavs_p2/wavs1/segment_416.wav|mù lòa và nhiều căn bệnh khác.|30|2.059002267573696|0.0686334089191232
+wavs_p2/wavs1/segment_440.wav|bạn có thể dựa vào danh sách liệt kê hai trăm thực phẩm có lại trong sách.|74|3.8370068027210884|0.05185144328001471
+wavs_p2/wavs1/segment_442.wav|thì sẽ lập tức cảm nhận được môi trường xung quanh và nhanh chóng tiến hành cứu chữa.|85|4.461995464852608|0.052494064292383624
+wavs_p2/wavs1/segment_444.wav|bạn sẽ chỉ còn lại chêu chọi một mình.|38|2.186984126984127|0.05755221386800334
+wavs_p2/wavs1/segment_451.wav|trong cần tây có thể thúc đẩy sự phát triển của dây thần kinh.|62|3.326984126984127|0.0536610343061956
+wavs_p2/wavs1/segment_452.wav|nhưng chúng lại là một nhóm cực kỳ mạnh mẽ.|43|2.366984126984127|0.05504614248800296
+wavs_p2/wavs1/segment_474.wav|nếu bạn thường xuyên căng thẳng làm việc quá sức.|49|2.9570068027210885|0.06034707760655283
+wavs_p2/wavs1/segment_486.wav|tuy nhiên thiên nhiên rất công bằng.|36|1.9649886621315193|0.054583018392542204
+wavs_p2/wavs1/segment_495.wav|trong khi những người có telemere ngắn hơn.|43|2.5940136054421767|0.060325897800980854
+wavs_p2/wavs1/segment_502.wav|kết hợp phải ăn uống đúng cách.|31|1.6639909297052153|0.05367712676468436
+wavs_p2/wavs1/segment_53.wav|điều này không những giúp cho bạn có thể duy trì sức khoẻ.|58|2.7760090702947844|0.047862225349910074
+wavs_p2/wavs1/segment_538.wav|tuy nhiên chức năng tự sửa chữa của dna không ổn định nó có thể trở nên kém hiệu quả.|85|4.620997732426304|0.05436467920501534
+wavs_p2/wavs1/segment_56.wav|con người sẽ không thể sống quá một tuần.|41|2.4560090702947845|0.0599026602510923
+wavs_p2/wavs1/segment_565.wav|mình tạm dịch đó là.|20|1.665986394557823|0.08329931972789115
+wavs_p2/wavs1/segment_569.wav|ăn quá ít rau củ đều sẽ gây ra tình trạng viêm.|47|3.399002267573696|0.07231919718241907
+wavs_p2/wavs1/segment_580.wav|thậm chí là bệnh ung thư.|25|1.7110204081632654|0.06844081632653061
+wavs_p2/wavs1/segment_581.wav|mỗi ngày dưới ánh nắng mặt trời gay gắt và ô nhiễm.|51|2.9500226757369616|0.05784358187719533
+wavs_p2/wavs1/segment_587.wav|trong khi ức gà thì không có.|29|1.8460317460317461|0.06365626710454297
+wavs_p2/wavs1/segment_606.wav|bạn cũng có thể uống ít rượu một cách thích hợp.|48|2.734013605442177|0.05695861678004535
+wavs_p2/wavs1/segment_615.wav|mà nó có thể tái tạo các cơ quan bị thiếu ô xy.|47|3.1130158730158732|0.06623438027693347
+wavs_p2/wavs1/segment_616.wav|và cuối cùng mình sẽ đi đến hệ thống phòng vệ to lớn thứ năm của cơ thể đó là hệ thống miễn dịch.|97|6.873015873015873|0.07085583374243168
+wavs_p2/wavs1/segment_631.wav|thứ hai hãy bắt đầu lập thực đơn hàng ngày.|43|2.6239909297052155|0.061023044876865475
+wavs_p2/wavs1/segment_639.wav|thực chất cơ thể của chúng ta cần vi khuẩn.|43|2.3029931972789117|0.05355798133206771
+wavs_p2/wavs1/segment_641.wav|như trung y cổ có nói.|22|1.7770068027210884|0.0807730364873222
+wavs_p2/wavs1/segment_650.wav|vì vậy chúng ta nên ăn nhiều trái cây dế khô còn nguyên vỏ.|59|3.7970068027210884|0.06435604750374727
+wavs_p2/wavs1/segment_664.wav|tuy nhiên đôi khi những tế bào ung thư cực đỗi tinh vi.|55|3.2960090702947844|0.059927437641723355
+wavs_p2/wavs1/segment_76.wav|chúng sẽ biến thành năng lượng cao đi vào bên trong bạn để nuôi dưỡng và tái tạo sức mạnh phi thường cho bạn.|109|6.610022675736961|0.06064240986914644
+wavs_p2/wavs1/segment_89.wav|nhìn thang máy vân vân.|23|1.6419954648526076|0.07139110716750467
+wavs_p2/wavs2/segment_107.wav|nên đặc biệt ăn gì ăn bao nhiêu và khi nào ăn.|46|3.100997732426304|0.06741299418318052
+wavs_p2/wavs2/segment_112.wav|là bởi vì cơ thể chúng ta có một hệ thống phòng thủ mạnh mẽ.|60|3.566031746031746|0.05943386243386243
+wavs_p2/wavs2/segment_128.wav|đồng thời ngăn chặn phát sinh bệnh tật.|39|2.020997732426304|0.051820454677597536
+wavs_p2/wavs2/segment_129.wav|như bệnh tim.|13|1.0070294784580498|0.0774638060352346
+wavs_p2/wavs2/segment_130.wav|ở trong trà thì có chứa hơn hai nghìn hợp chất hoạt tính sinh học.|66|3.8570068027210884|0.05843949701092558
+wavs_p2/wavs2/segment_131.wav|nhưng chúng lại liên kết với nhau.|34|2.2490249433106575|0.06614779245031345
+wavs_p2/wavs2/segment_136.wav|thực phẩm lên men và một số trái cây giàu axit béo không bão hoà đà omega ba.|77|5.363038548752835|0.06964985128250435
+wavs_p2/wavs2/segment_138.wav|nhưng may mắn thay.|19|1.3910204081632653|0.07321160042964554
+wavs_p2/wavs2/segment_141.wav|thì nhiều căn bệnh.|19|1.0720181405895692|0.05642200739945101
+wavs_p2/wavs2/segment_143.wav|nó sẽ gây viêm và làm tổn thương các cơ quan khác nhau.|55|3.3560090702947845|0.06101834673263244
+wavs_p2/wavs2/segment_146.wav|thế nhưng chế độ ăn nhiều muối cũng có thể làm tổn thương nghiêm trọng tới tế bào gốc.|86|4.397006802721088|0.051127986078152186
+wavs_p2/wavs2/segment_154.wav|căn gì để hệ thống phòng thủ của cơ thể cường mạnh.|51|3.3770068027210884|0.06621581966119781
+wavs_p2/wavs2/segment_178.wav|về thực vật.|12|1.0480272108843538|0.08733560090702948
+wavs_p2/wavs2/segment_181.wav|ung thư ruột kết và bệnh tim mạch vành.|39|2.5160090702947846|0.06451305308448166
+wavs_p2/wavs2/segment_183.wav|bạn có thể chia bảng danh sách này với năm cột tương ứng.|57|3.154013605442177|0.05533357202530135
+wavs_p2/wavs2/segment_191.wav|giống như là nho khô anh đào khô.|33|2.6550113378684808|0.0804548890263176
+wavs_p2/wavs2/segment_192.wav|và sẽ ức chế khối u.|20|1.793015873015873|0.08965079365079365
+wavs_p2/wavs2/segment_218.wav|thì bạn cũng cần phải ăn cân bằng lại.|38|2.079002267573696|0.05471058598878148
+wavs_p2/wavs2/segment_219.wav|các loại hạt phổ biến như quả óc chó hạt điều hạt dẻ đậu phộng hạt dưa.|71|5.198004535147392|0.07321133148094919
+wavs_p2/wavs2/segment_222.wav|còn ăn chay là không ăn thịt.|29|2.5100226757369613|0.08655250605989522
+wavs_p2/wavs2/segment_223.wav|cuối cùng là một lời khuyên chân thành từ sách.|47|2.665034013605442|0.05670285135330728
+wavs_p2/wavs2/segment_224.wav|bỏ thuốc lá đồ uống có đường và giảm uống rượu.|47|3.374013605442177|0.07178752352004632
+wavs_p2/wavs2/segment_229.wav|đầu tiên chúng ta sẽ cùng tìm hiểu.|35|2.2560090702947844|0.06445740200842241
+wavs_p2/wavs2/segment_24.wav|tuy có ít photo giờ.|20|1.6209977324263039|0.0810498866213152
+wavs_p2/wavs2/segment_241.wav|còn bây giờ nếu bạn muốn sống lâu hơn sống khỏe hơn.|52|3.3039909297052152|0.06353828710971568
+wavs_p2/wavs2/segment_26.wav|ví dụ như ăn quá nhiều chất đạm từ thịt từ trứng.|49|3.313015873015873|0.06761256883705863
+wavs_p2/wavs2/segment_27.wav|vì vậy cá biển sẽ là lựa chọn tốt để chúng ta bổ sung chất béo.|63|4.033015873015873|0.06401612496850592
+wavs_p2/wavs2/segment_286.wav|bạn có thể ăn hầu hết các loại rau hải sản protein động vật bao gồm cả gan.|75|5.5009977324263035|0.07334663643235072
+wavs_p2/wavs2/segment_29.wav|vì có những thực phẩm có thể làm thalamia ngắn lại.|51|2.912018140589569|0.057098394913520964
+wavs_p2/wavs2/segment_290.wav|và tạo ra một danh sách riêng của mình.|39|2.125034013605442|0.054488051630908765
+wavs_p2/wavs2/segment_291.wav|như viêm sưng khớp dạng thấp.|29|2.146031746031746|0.07400109469074986
+wavs_p2/wavs2/segment_292.wav|muốn phòng ngừa bệnh tật.|25|1.4510204081632654|0.05804081632653062
+wavs_p2/wavs2/segment_294.wav|bây giờ chúng ta sẽ cùng tìm hiểu chi tiết hơn về cuốn sách này.|64|3.620997732426304|0.056578089569161
+wavs_p2/wavs2/segment_3.wav|bạn đã tự nhập vào trong cơ thể hơn tám mươi triệu vi khuẩn.|60|3.3310204081632655|0.05551700680272109
+wavs_p2/wavs2/segment_302.wav|rồi.|4|0.9060317460317461|0.22650793650793652
+wavs_p2/wavs2/segment_313.wav|thức uy nhiều không chỉ gây ra béo phì mà còn có thể làm tăng khả năng mắc bệnh ung thư.|88|4.982993197278912|0.05662492269635127
+wavs_p2/wavs2/segment_321.wav|vẫn như lời khẳng định giống như bên trên.|42|2.2629931972789117|0.05388079041140266
+wavs_p2/wavs2/segment_345.wav|chỉ có chín mươi phần trăm động vật.|36|1.999002267573696|0.055527840765936004
+wavs_p2/wavs2/segment_349.wav|chúng dường như rất thông minh.|31|1.5710204081632653|0.05067807768268598
+wavs_p2/wavs2/segment_350.wav|đồng thời kinh phí thực hiện lại cực kỳ lớn.|44|2.6039909297052155|0.0591816120387549
+wavs_p2/wavs2/segment_351.wav|mận.|4|0.5790022675736961|0.14475056689342403
+wavs_p2/wavs2/segment_36.wav|tiến sĩ li đã đề xuất cho chúng ta một số chế độ ăn thích hợp cho hệ thống miễn dịch.|85|4.461995464852608|0.052494064292383624
+wavs_p2/wavs2/segment_371.wav|thực phẩm lên men có chứa vi khuẩn sống.|40|2.38|0.0595
+wavs_p2/wavs2/segment_390.wav|việc điều trị bằng thuốc không thôi chỉ tốn thời gian tiền bạc.|63|3.346031746031746|0.05311161501637692
+wavs_p2/wavs2/segment_4.wav|cũng không phải điều tốt.|25|1.3710204081632653|0.054840816326530616
+wavs_p2/wavs2/segment_401.wav|điển hình có thể dập tắt các bệnh tự miễn dịch.|47|2.82702947845805|0.060149563371447876
+wavs_p2/wavs2/segment_416.wav|chất ngọt nhân tạo trong chúng sẽ làm ảnh hưởng nghiêm trọng đến hệ sinh vật đường ruột.|88|4.077006802721089|0.04632962275819419
+wavs_p2/wavs2/segment_418.wav|cũng không phá huỷ khả năng hình thành mạch một cách vừa bãi.|61|3.148027210884354|0.051607003457120555
+wavs_p2/wavs2/segment_419.wav|chế độ ăn cũng ảnh hưởng đến di truyền biểu sinh.|49|2.826984126984127|0.05769355361192096
+wavs_p2/wavs2/segment_420.wav|các nhà nghiên cứu đã phát hiện ra rằng sau khi phẫu thuật.|59|2.891020408163265|0.04900034590107229
+wavs_p2/wavs2/segment_422.wav|tìm ra tất cả các loại thực phẩm tương ứng với năm hệ thống phòng thủ mà bạn thích hoặc có thể ăn.|98|5.179002267573696|0.05284696191401731
+wavs_p2/wavs2/segment_423.wav|tiếp theo.|10|0.873015873015873|0.0873015873015873
+wavs_p2/wavs2/segment_428.wav|thứ hai đó là chết lai của pin trong cà chua.|45|2.9100226757369616|0.06466717057193248
+wavs_p2/wavs2/segment_436.wav|bạn hãy nghĩ đến việc nó đang giết chết hệ thống bảo vệ.|56|3.1049886621315195|0.05544622610949142
+wavs_p2/wavs2/segment_441.wav|và thực phẩm chưa được đun nóng trên bốn mươi độ.|49|2.7229931972789116|0.05557128974038595
+wavs_p2/wavs2/segment_442.wav|các loại rau xanh như là cải xuân cải xanh.|43|3.0240362811791384|0.0703264251437009
+wavs_p2/wavs2/segment_445.wav|không chỉ tốn kém mà còn có nhiều tác dụng phụ nghiêm trọng.|60|3.214013605442177|0.05356689342403628
+wavs_p2/wavs2/segment_446.wav|ví dụ khi kiwi đi vào hệ tiêu hoá.|34|2.7489795918367346|0.08085234093637454
+wavs_p2/wavs2/segment_447.wav|nhưng có thể tạo môi trường thuận lợi cho vi khuẩn có lợi phát triển.|69|3.6550113378684808|0.05297117880968813
+wavs_p2/wavs2/segment_450.wav|tiến sĩ li dự đoán sản phẩm chống ô xy hoá sẽ trở thành ngành kinh doanh mang lại lợi nhuận vô cùng lớn.|104|6.100997732426304|0.05866343973486831
+wavs_p2/wavs2/segment_459.wav|bác sĩ người mỹ.|16|1.2320181405895692|0.07700113378684807
+wavs_p2/wavs2/segment_465.wav|cuốn sách này đã được đề xuất và nhiều người đoạt giải nobel y học.|67|3.8360090702947844|0.05725386672081768
+wavs_p2/wavs2/segment_466.wav|nghiên cứu chứng minh việc cho con bú bằng sữa mẹ có thể tăng chiều dài của telomere cho con bạn.|97|5.475011337868481|0.056443415854314234
+wavs_p2/wavs2/segment_468.wav|và hoàn toàn chữa lành trở lại.|31|1.94|0.06258064516129032
+wavs_p2/wavs2/segment_484.wav|hệ thống miễn dịch sẽ ghi nhớ cách chống lại chúng.|51|2.62|0.05137254901960785
+wavs_p2/wavs2/segment_485.wav|quả ốc chó và quả lựu.|22|1.6700226757369614|0.07591012162440734
+wavs_p2/wavs2/segment_494.wav|tiếp đến mua hoạt chất khác.|28|1.5510204081632653|0.0553935860058309
+wavs_p2/wavs2/segment_495.wav|bác sĩ li gọi hệ thống phòng thủ tuyệt vời đầu tiên của con người đó là tân sinh mạch.|86|6.0219954648526075|0.07002320307968148
+wavs_p2/wavs2/segment_5.wav|nhưng bạn cần phải biết rằng sở dĩ các tế bào ung thư không lây lan.|68|3.979002267573696|0.05851473922902494
+wavs_p2/wavs2/segment_505.wav|mặc dù công nghệ y tế hiện đại đã có thể sử dụng các đặc tính của tế bào gốc để điều trị bệnh.|94|5.341995464852608|0.0568297389877937
+wavs_p2/wavs2/segment_506.wav|bạn mới có thể biến thực phẩm thành sức mạnh chữa lành trong bạn.|65|3.6310204081632653|0.055861852433281005
+wavs_p2/wavs2/segment_514.wav|như yến mạch trà lúa mạch.|26|1.6889795918367347|0.0649607535321821
+wavs_p2/wavs2/segment_520.wav|thế mới thấy trên đời này không có gì hoàn hảo cả.|50|3.126031746031746|0.06252063492063492
+wavs_p2/wavs2/segment_537.wav|chẳng phải cũng giúp cho các tế bào ung thư được nuôi dưỡng hay sang.|69|3.6290249433106574|0.05259456439580663
+wavs_p2/wavs2/segment_543.wav|tuy nhiên tiến độ nghiên cứu nhằm khắc phục bệnh thì lại rất chậm.|66|3.56|0.05393939393939394
+wavs_p2/wavs2/segment_544.wav|một số khái niệm sai lầm cho rằng gen của con người đã cố định khi chúng ta sinh ra.|84|4.979002267573696|0.059273836518734475
+wavs_p2/wavs2/segment_57.wav|để giảm nguy cơ sản sinh mạch mới ở các tế bào hình thành ung thư.|66|3.893015873015873|0.05898508898508899
+wavs_p2/wavs2/segment_575.wav|hoặc chia ra các bữa trong ngày đều được.|41|2.313015873015873|0.05641502129307007
+wavs_p2/wavs2/segment_582.wav|william li.|11|1.3790022675736961|0.12536384250669966
+wavs_p2/wavs2/segment_599.wav|ức chế tình trạng viêm và ngăn chặn các khối u phát triển.|58|3.1839909297052156|0.054896395339745094
+wavs_p2/wavs2/segment_613.wav|tùy theo mùa như là vịt quất.|29|2.0300226757369613|0.07000078192196418
+wavs_p2/wavs2/segment_617.wav|nhưng nếu bạn đã ăn cá và ăn thịt trong một thời gian dài và bị một lượng lớn chất béo bão hòa làm tổn thương thành mạch máu.|125|7.1630385487528345|0.05730430839002268
+wavs_p2/wavs2/segment_624.wav|đặc biệt thói quen này vô cùng linh hoạt và dễ thực hiện.|57|3.204988662131519|0.056227871265465246
+wavs_p2/wavs2/segment_626.wav|sự ảo tưởng ở đây là gì.|24|2.2220408163265306|0.09258503401360545
+wavs_p2/wavs2/segment_69.wav|là người thực hành được bốn cái tâm này.|40|2.4580045351473925|0.06145011337868481
+wavs_p2/wavs2/segment_72.wav|thì bạn cần biết rằng đó chính là kết quả của những nhân chức kia mà bạn đã gieo trồng.|87|4.9780045351473925|0.05721844293272865
+wavs_p2/wavs2/segment_76.wav|chờ đợi trong đêm dài vô tận soi đường cho bạn bước tiếp.|57|3.440997732426304|0.06036838127063691
+wavs_p2/wavs2/segment_77.wav|chúng ta có thể chấm dứt khổ đau.|33|2.2510204081632654|0.06821273964131107
+wavs_p2/wavs2/segment_78.wav|ý niệm của chúng ta.|20|1.346984126984127|0.06734920634920635
+wavs_p2/wavs2/segment_8.wav|sự giác ngộ quan trọng nhất để có tâm bồ đề.|44|2.860997732426304|0.06502267573696145
+wavs_p2/wavs2/segment_81.wav|bao dung với tất cả mà không mang thành kiện.|45|2.6409977324263036|0.0586888384983623
+wavs_p2/wavs2/segment_82.wav|sao nhìn tốt.|13|1.0479818594104309|0.08061398918541776
+wavs_p2/wavs2/segment_83.wav|lần nhân quả.|13|1.013015873015873|0.07792429792429792
+wavs_p2/wavs2/segment_84.wav|giờ đây nếu bạn có thể quay lại và nhìn thẳng vào sự thật hiển nhiên này.|73|3.960997732426304|0.054260242909949366
+wavs_p2/wavs2/segment_88.wav|vạn vật trên đời đều luôn thay đổi nhưng tâm trí con người không thể chấp nhận được quy luật này.|97|5.34|0.055051546391752575
+wavs_p2/wavs2/segment_9.wav|tâm hồn bạn mới có thể tự do hơn bao giờ hết.|45|2.8560090702947845|0.06346686822877298
+wavs_p2/wavs3/segment_107.wav|hoa nở bạn đã thấy phật.|24|2.168027210884354|0.09033446712018141
+wavs_p2/wavs3/segment_108.wav|đó là giúp bạn nhận ra bản thân và vạn vật.|43|2.894013605442177|0.06730264198702737
+wavs_p2/wavs3/segment_123.wav|chúng ta cũng tin và chấp và tất cả những nhân duyên gặp phải.|62|3.586031746031746|0.05783922171018945
+wavs_p2/wavs3/segment_130.wav|hỉ nộ ái ộ.|11|1.759002267573696|0.15990929705215418
+wavs_p2/wavs3/segment_137.wav|nó sẽ giúp bạn bình thản trước mọi khó khăn.|44|3.0239909297052154|0.06872706658420945
+wavs_p2/wavs3/segment_174.wav|chúng ta tin rằng ảo tưởng là thực tế.|38|3.1639909297052156|0.08326291920276883
+wavs_p2/wavs3/segment_22.wav|để mà nhận ra rằng.|19|1.3900226757369614|0.07315908819668218
+wavs_p2/wavs3/segment_220.wav|thì cũng là vô ích.|19|1.6310204081632653|0.08584317937701397
+wavs_p2/wavs3/segment_228.wav|nếu bạn muốn hạnh phúc.|23|1.3650340136054422|0.059349304939367055
+wavs_p2/wavs3/segment_278.wav|giả dụ khi hai người bên nhau.|30|2.0649886621315194|0.06883295540438399
+wavs_p2/wavs3/segment_3.wav|vì vậy nếu suy nghĩ kỹ chúng ta sẽ thấy rằng.|45|3.0639909297052155|0.06808868732678257
+wavs_p2/wavs3/segment_327.wav|và khi nỗi đau đã qua đi bạn cũng không sống trong ám ảnh và than trách.|72|4.619002267573697|0.0641528092718569
+wavs_p2/wavs3/segment_337.wav|bạn sẽ thấy khi phát triển bi tâm.|34|2.3180045351473924|0.06817660397492331
+wavs_p2/wavs3/segment_357.wav|đó là hiểu rõ về vô ngã và nhân quả.|36|2.840997732426304|0.07891660367850845
+wavs_p2/wavs3/segment_367.wav|nếu hạnh phúc đến từ bên ngoài.|31|1.7520181405895692|0.056516714212566745
+wavs_p2/wavs3/segment_380.wav|khi bạn bước đi.|16|1.1940136054421768|0.07462585034013605
+wavs_p2/wavs3/segment_4.wav|người vô minh được tỉnh giác.|29|1.779002267573696|0.06134490577840331
+wavs_p2/wavs3/segment_407.wav|từ trong chính nỗi đau.|23|1.4880272108843537|0.06469683525584147
+wavs_p2/wavs3/segment_421.wav|hạnh sẽ có khoảng trời hạnh phúc.|33|1.8580045351473924|0.056303167731739164
+wavs_p2/wavs3/segment_424.wav|chỉ có như vậy tâm hồn bạn mới thật sự thư thái rộng mở.|56|3.9659863945578233|0.07082118561710399
+wavs_p2/wavs3/segment_425.wav|tặng mình một nút like.|23|1.4110204081632653|0.061348713398402845
+wavs_p2/wavs3/segment_72.wav|một khi hiểu được lối chơi đằng sau trò lời này.|48|2.8290249433106576|0.058938019652305364
+wavs_p2/wavs3/segment_76.wav|thực tế có những người chuyên bỏ tiền ra làm từ thiện.|54|3.2829931972789117|0.060796170319979845
+wavs_p2/wavs3/segment_78.wav|thế nhưng như vậy đã thực sự đủ chưa.|37|2.609024943310658|0.0705141876570448
+wavs_p2/wavs4/segment_126.wav|nếu bạn có suy nghĩ như vậy trước tiên hãy cùng nghe một câu chuyện kinh phật như thế này.|90|4.721995464852608|0.052466616276140084
+wavs_p2/wavs4/segment_136.wav|thì chúng vẫn sẽ đến một cách tự nhiên.|39|2.394013605442177|0.061384964242107105
+wavs_p2/wavs4/segment_140.wav|chúng ta ai cũng sẵn có tâm phật mọi nghi ngờ rắc rối khổ đau mà bạn gặp trong cuộc sống.|89|6.017006802721088|0.06760681800810212
+wavs_p2/wavs4/segment_147.wav|ngay từ đầu khi nghe thấy tội đề này.|37|2.26702947845805|0.0612710669853527
+wavs_p2/wavs4/segment_154.wav|tuần này xin mời các bạn cùng lắng nghe một chia sẻ của battle virgin.|70|4.074013605442177|0.058200194363459676
+wavs_p2/wavs4/segment_158.wav|mùa thu cúc vàng khắp nơi.|26|1.7540136054421769|0.06746206174777604
+wavs_p2/wavs4/segment_16.wav|tức là những trải nghiệm mà chúng ta ban đầu nghĩ là niềm vui.|62|3.500997732426304|0.05646770536171458
+wavs_p2/wavs4/segment_163.wav|đến cuối cùng từ niềm vui mà chúng lại chuyển thành đau khổ.|60|3.9290249433106577|0.06548374905517763
+wavs_p2/wavs4/segment_166.wav|vượt ra ngoài sự quen thuộc của những thứ thích và không thích.|63|3.1439909297052155|0.04990461793182882
+wavs_p2/wavs4/segment_185.wav|trong đó hồ đế đề cập đến việc nhận ra sự thực rằng.|52|3.9570068027210885|0.07609628466771325
+wavs_p2/wavs4/segment_194.wav|sức khỏe ngày càng kém đi.|26|1.7980045351473923|0.06915402058259201
+wavs_p2/wavs4/segment_200.wav|và thiết lập được mối quan hệ hài hoà với thế giới bên ngoài.|61|3.16|0.05180327868852459
+wavs_p2/wavs4/segment_203.wav|nếu bây giờ bạn đã cố gắng hết sức.|35|2.2240362811791385|0.06354389374797538
+wavs_p2/wavs4/segment_204.wav|hoa nở rồi bạn sẽ gặp phật.|27|2.139002267573696|0.0792223062064332
+wavs_p2/wavs4/segment_207.wav|có thể bạn sẽ khó trực tiếp trải nghiệm được vô ngã.|52|2.9270294784580497|0.056289028431885574
+wavs_p2/wavs4/segment_213.wav|bạn mới thực sự trở thành người đèo lái cuộc đời của mình.|58|3.447981859410431|0.05944796309328329
+wavs_p2/wavs4/segment_223.wav|chúng ta thấy rằng đông qua xuân đến.|37|2.820997732426304|0.07624318195746767
+wavs_p2/wavs4/segment_235.wav|tâm trạng chán nản không thể vui lên.|37|2.105986394557823|0.056918551204265484
+wavs_p2/wavs4/segment_239.wav|sợ hãi.|7|0.9380045351473922|0.1340006478781989
+wavs_p2/wavs4/segment_252.wav|bạn lại một lần nữa chán nản đau khổ.|37|2.413015873015873|0.06521664521664522
+wavs_p2/wavs4/segment_264.wav|vạn vật có sinh ắt có diệt.|27|2.4170068027210885|0.08951877047115142
+wavs_p2/wavs4/segment_274.wav|nhận biết toàn diện về đau khổ và quen thuộc với vô thường.|59|3.6110204081632653|0.06120373573158077
+wavs_p2/wavs4/segment_283.wav|không sinh không diệt.|22|1.7430385487528344|0.07922902494331065
+wavs_p2/wavs4/segment_29.wav|một lần nữa.|12|1.06|0.08833333333333333
+wavs_p2/wavs4/segment_38.wav|khi mới đầu tiếp cận và thực hành triết lý này.|47|2.713015873015873|0.057723741979061126
+wavs_p2/wavs4/segment_42.wav|khi nhân duyên này đầy đủ thì chắc chắn sẽ có kết quả.|54|3.1910204081632654|0.05909297052154195
+wavs_p2/wavs4/segment_55.wav|phát tâm bồ đề là để bạn có thể cho đi và cố gắng hết sức giúp đỡ người khác.|77|4.669024943310657|0.06063668757546308
+wavs_p2/wavs4/segment_69.wav|bạn sẽ tự khắc nhìn thấy những điều mà vốn dĩ bạn cần phải nhìn thấy.|69|4.601995464852608|0.06669558644713924
+wavs_p2/wavs4/segment_97.wav|ở nơi kế tiếp hoa sẽ nở.|24|2.159002267573696|0.08995842781557067
+wavs_p2/wavs5/segment_108.wav|đây cũng chính là nỗi khổ chia ly sinh từ cách biệt.|52|3.4040362811791383|0.06546223617652189
+wavs_p2/wavs5/segment_109.wav|đó là.|6|0.9550113378684807|0.15916855631141344
+wavs_p2/wavs5/segment_133.wav|cuối cùng bạn sẽ hoàn toàn tỉnh thức.|37|2.3900226757369616|0.06459520745235031
+wavs_p2/wavs5/segment_135.wav|nếu có thể tóm tắt niềm tin của đạo phật trong một câu thì đó là niềm tin và nhân quả.|86|6.120997732426304|0.07117439223751516
+wavs_p2/wavs5/segment_147.wav|thì cuộc đời của bạn sẽ là một hành trình hết sức duyên dáng.|61|3.3950113378684805|0.05565592357161443
+wavs_p2/wavs5/segment_160.wav|trí tuệ trong cuốn sách này không chỉ dành riêng cho các phật tử.|65|3.3370068027210884|0.051338566195709055
+wavs_p2/wavs5/segment_161.wav|và còn rất nhiều vị thiền sư đạo sư.|36|2.4780045351473925|0.06883345930964979
+wavs_p2/wavs5/segment_162.wav|và là người thầy hướng dẫn có ảnh hưởng đến hàng triệu người.|61|2.954013605442177|0.04842645254823241
+wavs_p2/wavs5/segment_163.wav|từ bi hì giả.|13|2.2819954648526077|0.17553811268096983
+wavs_p2/wavs5/segment_168.wav|bạn sẽ buông bỏ được chấp ngã.|30|1.799002267573696|0.05996674225245654
+wavs_p2/wavs5/segment_169.wav|nếu bạn cảm thấy video này có ích.|34|1.932018140589569|0.05682406295851674
+wavs_p2/wavs5/segment_173.wav|người yêu đối xử thậm tệ.|25|1.666031746031746|0.06664126984126983
+wavs_p2/wavs5/segment_175.wav|tức là sự hiểu lầm ăn sâu bén rẽ về bản thân với thế giới bên ngoài.|68|4.90702947845805|0.07216219821261838
+wavs_p2/wavs5/segment_187.wav|hành khổ là một loại đau khổ hơn cả.|36|2.2790022675736963|0.06330561854371379
+wavs_p2/wavs5/segment_19.wav|bạn cũng chẳng lập tức ngoảnh đầu đi.|37|2.089024943310658|0.05646013360299075
+wavs_p2/wavs5/segment_191.wav|chừng nào sự sống còn tồn tại.|30|2.0920181405895693|0.0697339380196523
+wavs_p2/wavs5/segment_192.wav|người là vô ngã.|16|1.353015873015873|0.08456349206349206
+wavs_p2/wavs5/segment_196.wav|và để xem mỗi bản thân chúng ta cần giác ngộ và thực hành điều gì.|66|3.939002267573696|0.05968185253899539
+wavs_p2/wavs5/segment_198.wav|nó sẽ cho phép bạn tự nhiên tập trung và trân trọng mọi việc mình đang làm.|75|4.429024943310657|0.05905366591080876
+wavs_p2/wavs5/segment_20.wav|thậm chí là rơi vào tình trạng oán thán số phận.|48|2.9370068027210885|0.06118764172335601
+wavs_p2/wavs5/segment_202.wav|tất cả khổ đau luôn là trạng thái thường nhật.|46|2.589024943310658|0.05628315094153604
+wavs_p2/wavs5/segment_208.wav|loại hành vi nào gây ra đau khổ.|32|2.0960090702947847|0.06550028344671202
+wavs_p2/wavs5/segment_21.wav|đó là sự an toàn và cố định.|28|2.3239909297052153|0.08299967606090054
+wavs_p2/wavs5/segment_210.wav|càng sợ một thứ gì đó thì càng không muốn nhìn vào nó.|54|3.306031746031746|0.061222810111699
+wavs_p2/wavs5/segment_22.wav|nhưng thực chất lại không phải như vậy.|39|2.2630385487528346|0.05802662945520089
+wavs_p2/wavs5/segment_23.wav|trên khúc gỗ nổi này có một cái lỗ.|35|2.2409977324263037|0.06402850664075153
+wavs_p2/wavs5/segment_230.wav|con cái không nghe lời vân vân.|31|2.12|0.06838709677419355
+wavs_p2/wavs5/segment_235.wav|và không hài lòng về toàn bộ trạng thái tồn tại bị mắc kẹt trong vòng đơn hồi.|78|4.653015873015873|0.05965404965404965
+wavs_p2/wavs5/segment_247.wav|khiến bạn hiểu được rằng.|25|1.3510204081632653|0.054040816326530614
+wavs_p2/wavs5/segment_257.wav|mời các bạn cùng lắng nghe nội dung chia sẻ ngày hôm nay.|57|3.4250340136054422|0.06008831602816565
+wavs_p2/wavs5/segment_279.wav|nó là nỗi ám ảnh quá mức về sự tồn tại của bản thân dẫn đến sự tách biệt của cá thể với con người thật của mình.|112|7.2890249433106575|0.06508057985098802
+wavs_p2/wavs5/segment_288.wav|lại càng ít có khả năng là tôi hơn.|35|2.714013605442177|0.07754324586977648
+wavs_p2/wavs5/segment_290.wav|khổ đau là một tồn tại khách quan và không thể tránh khỏi.|58|3.5700226757369613|0.061552115098913125
+wavs_p2/wavs5/segment_291.wav|còn diệt đế và đạo đế.|22|1.7440362811791383|0.07927437641723356
+wavs_p2/wavs5/segment_295.wav|cũng có người thắc mắc rằng.|28|1.7520181405895692|0.06257207644962746
+wavs_p2/wavs5/segment_311.wav|từng lời nói hành động.|23|1.813015873015873|0.07882677708764665
+wavs_p2/wavs5/segment_327.wav|chỉ khi bạn hiểu rõ điều này.|29|1.7080272108843537|0.05889749003049496
+wavs_p2/wavs5/segment_329.wav|cá thể ở đây đó chính là cơ thể vật lý của bạn.|47|3.1550113378684808|0.06712790080571236
+wavs_p2/wavs5/segment_333.wav|mà thương hại những người đang gặp phải hoàn cảnh khó khăn.|59|3.1230385487528345|0.05293285675852262
+wavs_p2/wavs5/segment_335.wav|nếu không có vô thường thì sẽ không có sự thay đổi.|51|2.7180045351473923|0.0532942065715175
+wavs_p2/wavs5/segment_362.wav|hãy chú ý đến những biểu hiện của lời nói.|42|2.7219954648526077|0.064809415829824
+wavs_p2/wavs5/segment_373.wav|đó là trân trọng và biết ơn.|28|1.8390022675736961|0.06567865241334629
+wavs_p2/wavs5/segment_378.wav|dù thời gian có trôi qua bao lâu đi nữa.|40|2.459002267573696|0.0614750566893424
+wavs_p2/wavs5/segment_386.wav|chứ không phải là trở nên khủng hoảng hơn.|42|2.6240362811791385|0.06247705431378901
+wavs_p2/wavs5/segment_388.wav|để xoa dịu những góc khuất trong lòng.|38|2.3019954648526078|0.060578828022437047
+wavs_p2/wavs5/segment_402.wav|nơi kế tiếp hoa sẽ nở.|22|2.1160090702947847|0.09618223046794476
+wavs_p2/wavs5/segment_405.wav|vì không biết phô ngã và nhận quà.|34|2.018004535147392|0.05935307456315859
+wavs_p2/wavs5/segment_426.wav|niềm vui và đau khổ là đối nghịch với nhau.|43|2.528027210884354|0.05879133048568264
+wavs_p2/wavs5/segment_43.wav|loại âm vi nào mang lại hạnh phúc.|34|2.0910204081632653|0.061500600240096036
+wavs_p2/wavs5/segment_44.wav|nhưng họ không thể thay bạn cảm nhận.|37|2.1039909297052155|0.05686461972176258
+wavs_p2/wavs5/segment_448.wav|bước đầu tiên đó là.|20|1.632018140589569|0.08160090702947845
+wavs_p2/wavs5/segment_45.wav|nghĩa là biết ơn cuộc sống và hoàn cảnh của bạn.|48|2.919002267573696|0.06081254724111867
+wavs_p2/wavs5/segment_457.wav|và thức tỉnh trên từng bước đi.|31|2.1130158730158732|0.06816180235535076
+wavs_p2/wavs5/segment_458.wav|như thầy thích nhất hạnh.|25|1.2330158730158731|0.049320634920634925
+wavs_p2/wavs5/segment_46.wav|nơi kế tiếp hoa sẽ nở.|22|1.9619954648526077|0.0891816120387549
+wavs_p2/wavs5/segment_47.wav|nhẫn tâm và cưng nhắc của chính mình.|37|2.3750113378684805|0.06418949561806704
+wavs_p2/wavs5/segment_48.wav|khởi phát tâm bồ đề.|20|1.999002267573696|0.0999501133786848
+wavs_p2/wavs5/segment_52.wav|bởi khi giác ngộ bạn sẽ biết rằng chừng nào còn tâm thần này.|61|3.864036281179138|0.06334485706851047
+wavs_p2/wavs5/segment_55.wav|bởi vì nương triều sẽ chỉ khiến cho chúng ta ngày càng thiếu tôn trọng với chính mình.|86|4.491020408163266|0.05222116753678216
+wavs_p2/wavs5/segment_61.wav|bạn hãy nhớ lại mà xem.|23|1.5019954648526077|0.06530415064576556
+wavs_p2/wavs5/segment_66.wav|trong thiên nhiên thì vạn vật đều có quy luật nhân quả riêng.|61|3.273015873015873|0.053655997918293
+wavs_p2/wavs5/segment_71.wav|hoa sẽ nở tuần tự theo một trình tự nhất định.|46|3.0960090702947847|0.06730454500640837
+wavs_p2/wavs5/segment_73.wav|đây đều được gọi là loại khổ thứ nhất.|38|2.3780045351473924|0.06257906671440507
+wavs_p2/wavs5/segment_75.wav|càng không muốn nhìn thì lại càng sợ hãi hơn.|45|2.774013605442177|0.061644746787603934
+wavs_p2/wavs5/segment_8.wav|sẽ giúp bạn hiểu rõ hơn một số triết lý cơ bản.|47|2.78|0.05914893617021276
+wavs_p2/wavs5/segment_81.wav|nói theo lời của đức phật thì có nghĩa.|39|2.471020408163265|0.06335949764521193
+wavs_p2/wavs5/segment_94.wav|từ vô lượng tâm.|16|1.3619954648526078|0.08512471655328799
+wavs_p2/wavs6/segment_0.wav|để bạn có thể thực sự đạt được hạnh phúc.|41|2.1910204081632654|0.05343952215032355
+wavs_p2/wavs6/segment_10.wav|đây là nỗi đau từ sự chia ly sinh từ vĩnh viễn.|47|2.9629931972789114|0.0630424084527428
+wavs_p2/wavs6/segment_118.wav|nhưng riêng có một thứ không bao giờ là hư vô.|46|2.6340136054421768|0.05726116533569949
+wavs_p2/wavs6/segment_120.wav|không ngừng xinh xinh diệt diệt.|32|1.9280272108843537|0.06025085034013605
+wavs_p2/wavs6/segment_121.wav|có điều kiện nữa.|17|1.4009977324263039|0.08241163131919435
+wavs_p2/wavs6/segment_126.wav|nhưng vị hòa thượng lập tức tự nhủ rằng.|40|2.6130158730158732|0.06532539682539683
+wavs_p2/wavs6/segment_130.wav|dù chúng ta chưa biết trân trọng nhưng vẫn có những người cầm ngọn đèn trí huệ của đức phật.|92|4.876009070294785|0.05300009859016071
+wavs_p2/wavs6/segment_151.wav|nhưng không thể thay bạn khỏi bệnh.|35|2.0039909297052154|0.0572568837058633
+wavs_p2/wavs6/segment_177.wav|mà nó còn phù hợp với tất cả mọi người bình thường.|51|2.879002267573696|0.056451024854386196
+wavs_p2/wavs6/segment_18.wav|hậu quả của một số hành động sẽ xuất hiện nhanh chóng.|54|2.6710204081632654|0.04946334089191232
+wavs_p2/wavs6/segment_187.wav|nói đơn giản đây là cái khổ mà người đời gặp phải sẽ thốt lên răng.|67|4.016009070294785|0.059940433884996785
+wavs_p2/wavs6/segment_19.wav|the past.|9|0.8479818594104308|0.09422020660115898
+wavs_p2/wavs6/segment_192.wav|nhưng phải may mắn vì xác suất nhỏ tới mức nào.|47|2.7980045351473923|0.05953201138611473
+wavs_p2/wavs6/segment_204.wav|liên quan chặt chẽ đến nhau.|28|1.88|0.06714285714285714
+wavs_p2/wavs6/segment_208.wav|để hoa ăn lặng.|15|1.2520181405895692|0.08346787603930461
+wavs_p2/wavs6/segment_212.wav|con người chúng ta đau khổ.|27|1.7320181405895692|0.06414882002183589
+wavs_p2/wavs6/segment_213.wav|mọi người không thể dựa vào hiểu biết và kiến thức để mà trưởng thành.|70|3.6320181405895693|0.051885973436993846
+wavs_p2/wavs6/segment_225.wav|nhưng thực chất không phải vô thường gây ra đau khổ mà chính nỗi sợ hãi về vô thường mới là thứ sinh ra đau khổ cho bạn.|120|6.803990929705216|0.05669992441421013
+wavs_p2/wavs6/segment_235.wav|mà kinh nhân đã gieo ở quá khứ rồi.|35|2.2780045351473923|0.06508584386135406
+wavs_p2/wavs6/segment_25.wav|đó là.|6|0.82|0.13666666666666666
+wavs_p2/wavs6/segment_253.wav|hoặc là ngủ nướng sướng con mắt.|32|2.4859863945578233|0.07768707482993198
+wavs_p2/wavs6/segment_270.wav|để ứng dụng những triết lý sâu sắc vào cuộc sống hàng ngày.|59|2.8190022675736963|0.047779699450401635
+wavs_p2/wavs6/segment_271.wav|hay là khi ta được ăn những món ngon thỏa mãn vị giác.|54|3.459002267573696|0.06405559754766103
+wavs_p2/wavs6/segment_276.wav|đọc nó bạn sẽ biết được rằng.|29|1.9720181405895691|0.06800062553757134
+wavs_p2/wavs6/segment_279.wav|để có thể sống một cuộc đời trọn vẹn.|37|2.1370068027210882|0.057756940614083464
+wavs_p2/wavs6/segment_280.wav|hạnh phúc bình an lâu dài và đích thực không thể tìm thấy từ bên ngoài.|71|4.5009977324263035|0.0633943342595254
+wavs_p2/wavs6/segment_282.wav|chúng ta cần biết rằng.|23|1.5370068027210884|0.06682638272700384
+wavs_p2/wavs6/segment_286.wav|vạn vật không tồn tại vững chắc như chúng ta nghĩ.|50|2.9490249433106577|0.058980498866213156
+wavs_p2/wavs6/segment_289.wav|thế nhưng chúng ta chưa chắc đã có một nhận thức toàn diện.|59|3.158004535147392|0.05352550059571851
+wavs_p2/wavs6/segment_31.wav|được nghe triết lý về vô thường và vô ngã là một điều may mắn với tất cả chúng ta.|82|4.865986394557823|0.0593412974946076
+wavs_p2/wavs6/segment_33.wav|cũng đầy bất an sợ hãi và đau khổ.|34|2.580997732426304|0.07591169801253836
+wavs_p2/wavs6/segment_344.wav|như thế nào mới là một người có tâm bồ đẹp.|43|2.9160090702947845|0.06781416442546011
+wavs_p2/wavs6/segment_362.wav|tức là đối xử với bản thân bằng tự tâm.|39|2.5650340136054424|0.06577010291296007
+wavs_p2/wavs6/segment_364.wav|đến cơ thể không ngừng thay đổi thì những cảm xúc suy nghĩ và các ý thức khác nhau của con người.|97|5.819002267573696|0.0599897140986979
+wavs_p2/wavs6/segment_40.wav|người thân bạn bè.|18|1.6100226757369616|0.08944570420760897
+wavs_p2/wavs6/segment_406.wav|vị đại sư đáng kính của dòng đại viên mạng.|43|2.5300226757369613|0.05883773664504561
+wavs_p2/wavs6/segment_408.wav|và luôn luôn thay đổi.|22|1.7639909297052154|0.08018140589569162
+wavs_p2/wavs6/segment_421.wav|đau khổ nhất định vẫn sẽ xảy ra.|32|2.3840362811791382|0.07450113378684807
+wavs_p2/wavs6/segment_435.wav|vua thường không phải là một phát minh của đức phật.|52|2.558004535147392|0.04919239490668062
+wavs_p2/wavs6/segment_436.wav|nguyên nhân gốc rễ gây ra đau khổ là gì.|40|2.7560090702947844|0.0689002267573696
+wavs_p2/wavs6/segment_437.wav|dự án làm ăn thất bại.|22|1.594013605442177|0.07245516388373531
+wavs_p2/wavs6/segment_443.wav|chúng ta chỉ có thể trưởng thành nhờ cảm thụ qua mỗi lần thực hành.|67|3.9880272108843537|0.05952279419230379
+wavs_p2/wavs6/segment_446.wav|dốc tâm dốc sức vì công việc mà cuối cùng vẫn nhận về thất bại.|63|4.206031746031746|0.06676240866717058
+wavs_p2/wavs6/segment_46.wav|ví dụ như khi bạn giảm cân nếu coi cơ thể này là tôi.|53|3.9029931972789114|0.07364138108073418
+wavs_p2/wavs6/segment_6.wav|mà ai cũng sẽ phải đối mặt.|27|1.8180045351473924|0.06733350130175528
+wavs_p2/wavs6/segment_60.wav|đã gieo từ đời trước.|21|1.4180045351473922|0.06752402548320915
+wavs_p2/wavs6/segment_64.wav|nếu chúng ta thực sự hiểu được vô thường vô ngã.|48|3.0510204081632653|0.06356292517006802
+wavs_p2/wavs6/segment_65.wav|hoa tiếp nở có nghĩa là.|24|1.8160090702947846|0.07566704459561603
+wavs_p2/wavs6/segment_66.wav|có lẽ nhiều người vẫn công nhận rằng.|37|2.1960090702947848|0.059351596494453644
+wavs_p2/wavs6/segment_79.wav|có nghĩa là hiểu bản thân một cách nhẹ nhàng và quan sát sự kiêu ngạo ngu dốt.|78|4.776009070294784|0.061230885516599796
+wavs_p2/wavs6/segment_87.wav|đó là.|6|0.9060317460317461|0.151005291005291
+wavs_p2/wavs6/segment_9.wav|trong cuộc sống cũng vậy.|25|1.466031746031746|0.05864126984126984
+wavs_p2/wavs7/segment_14.wav|mà là một sự thực hiển nhiên bị mọi người phớt lờ.|50|2.960997732426304|0.05921995464852608
+wavs_p2/wavs7/segment_151.wav|nói một cách đơn giản.|22|1.5110204081632652|0.06868274582560296
+wavs_p2/wavs7/segment_152.wav|ông cũng là đệ tử trực tiếp của cố đại đức vĩ đại nhất hệ phái rinh phật giáo tây tạng.|87|5.22|0.06
+wavs_p2/wavs7/segment_176.wav|chí nhìn rõ bản chất của vạn vật và sự sống.|44|3.0760090702947847|0.06990929705215419
+wavs_p2/wavs7/segment_194.wav|giờ đây cuốn sách này lại một lần nữa khẳng định với bạn rằng.|62|3.426031746031746|0.05525857654889913
+wavs_p2/wavs7/segment_218.wav|liệu tôi sau khi giảm cân có còn là tôi nữa không.|50|3.4670294784580498|0.06934058956916099
+wavs_p2/wavs7/segment_22.wav|bạn bị ức hiếp bạn hết sạch tiền.|33|2.1430385487528345|0.06494056208341922
+wavs_p2/wavs7/segment_225.wav|đó chính là nhân quả.|21|1.7040362811791383|0.0811445848180542
+wavs_p2/wavs7/segment_23.wav|con người luôn bị ám ảnh bởi việc theo đuổi sự vĩnh hằng.|57|3.128979591836735|0.054894378804153245
+wavs_p2/wavs7/segment_24.wav|bởi chúng ta luôn có thói quen coi đau khổ như là một biểu hiện của thất bại.|77|4.240997732426304|0.055077892628913036
+wavs_p2/wavs7/segment_242.wav|bạn lại càng không muốn bám phí vào bất cứ thứ gì.|50|2.8500226757369616|0.05700045351473923
+wavs_p2/wavs7/segment_243.wav|một người thực sự có thể phát tâm bồ đẻ.|40|2.6210430839002266|0.06552607709750566
+wavs_p2/wavs7/segment_25.wav|nhân quả sẽ không tự động biến mất.|35|2.2900226757369615|0.06542921930677033
+wavs_p2/wavs7/segment_251.wav|tất cả chúng sinh đều có phật tành.|35|2.446984126984127|0.06991383219954649
+wavs_p2/wavs7/segment_252.wav|khi thuận theo dòng chảy của vận mạnh.|38|1.953015873015873|0.05139515455304929
+wavs_p2/wavs7/segment_26.wav|khi khỏi bệnh xong nhất định tôi sẽ rèn luyện giữ gìn sức khoẻ.|63|4.057006802721088|0.0643969333765252
+wavs_p2/wavs7/segment_27.wav|thực sự là vô ích.|18|1.2619954648526077|0.0701108591584782
+wavs_p2/wavs7/segment_284.wav|bạn sẽ không khai mở lòng từ bi vì bất cứ mục đích gì cho chấp ngã.|67|4.3120181405895694|0.06435847971029209
+wavs_p2/wavs7/segment_288.wav|thì lúc đó bạn mới buông bỏ được chấp ngã.|42|2.34|0.05571428571428571
+wavs_p2/wavs7/segment_29.wav|tự thân là vô ngã.|18|1.8160090702947846|0.10088939279415471
+wavs_p2/wavs7/segment_38.wav|không ngừng sinh không ngừng diệt.|34|1.9580045351473923|0.057588368680805656
+wavs_p2/wavs7/segment_385.wav|đức khen pô sherab chang pô.|28|2.5040362811791383|0.08942986718496923
+wavs_p2/wavs7/segment_391.wav|tất cả mọi thứ không thể tồn tại vĩnh viễn.|43|2.4480272108843537|0.056930865369403574
+wavs_p2/wavs7/segment_393.wav|là chúng ta sẽ không thể tránh khỏi những nỗi đau khổ.|54|3.5340136054421767|0.06544469639707734
+wavs_p2/wavs7/segment_394.wav|bằng cách trở thành người quan sát hành vi và cảm xúc của chính mình.|69|3.58702947845805|0.05198593447040652
+wavs_p2/wavs7/segment_56.wav|từ đó không nhìn vào nỗi đau khổ của những trung sinh khác.|59|3.020997732426304|0.051203351397056
+wavs_p2/wavs7/segment_59.wav|nó cho bạn một góc nhìn mới để quan sát toàn bộ sự thật của sự sống trong vũ trụ.|81|4.5219954648526075|0.05582710450435318
+wavs_p2/wavs7/segment_6.wav|có phải mỗi lần đau ốm thì bạn đều nghĩ rằng.|45|2.4490249433106577|0.054422776518014616
+wavs_p2/wavs7/segment_60.wav|thận theo quy luật đó thì mùa xuân hoa đào nở.|46|2.7970068027210884|0.06080449571132801
+wavs_p2/wavs7/segment_8.wav|người lạ.|9|0.873015873015873|0.09700176366843033
+wavs_p2/wavs7/segment_80.wav|đó là bạn không thực hiện lòng tốt.|35|1.8070294784580498|0.051629413670229996
+wavs_p2/wavs8/segment_113.wav|hoa nở tạ gặp phật.|19|1.665986394557823|0.08768349445041174
+wavs_p2/wavs8/segment_117.wav|mang tin.|9|0.9790022675736961|0.10877802973041067
+wavs_p2/wavs8/segment_213.wav|từ đó bạn sẽ có khả năng quan tâm.|34|2.2009977324263037|0.06473522742430304
+wavs_p2/wavs8/segment_225.wav|thì cũng giống như là bệnh nhân coi đơn thuốc của bác sĩ như một món hàng.|74|4.1270294784580495|0.05577066862781148
+wavs_p2/wavs8/segment_227.wav|nó một cách đơn giản ở góc độ thực tế.|38|2.119002267573696|0.05576321756772885
+wavs_p2/wavs8/segment_281.wav|triết lý phật giáo tin rằng.|28|1.6710204081632654|0.05967930029154519
+wavs_p2/wavs8/segment_30.wav|tóm lại bạn sẽ nhận ra.|23|2.012018140589569|0.08747904959085083
+wavs_p2/wavs8/segment_314.wav|không có một thực tại nào độc lập và viễn cửu.|46|2.6130158730158732|0.05680469289164942
+wavs_p2/wavs8/segment_343.wav|quà tặng là hoa hồng để lại hương thơm đóng trên tay.|53|3.5970068027210886|0.06786805288152997
+wavs_p2/wavs8/segment_37.wav|giúp bạn thoát khỏi sự bất an và định hình lại thế giới nội tâm.|64|3.932018140589569|0.06143778344671202
+wavs_p2/wavs8/segment_400.wav|đây là cái tâm hy vọng tất cả mọi người tất cả chúng sinh đều hạnh phúc an vui.|79|5.13501133786848|0.06500014351732254
+wavs_p2/wavs8/segment_45.wav|đó là một chu kỳ hoa cứu tiếp nở.|33|2.3670294784580497|0.0717281660138803
+wavs_p2/wavs8/segment_47.wav|thân và tâm của chúng ta trong tình huống này.|46|2.498004535147392|0.054304446416247654
+wavs_p2/wavs8/segment_8.wav|niềm vui là thứ cần giữ lấy còn đau khổ thì là thứ không nên có.|64|4.221995464852608|0.065968679138322
+wavs_p2/wavs8/segment_89.wav|đến từ sự biết đủ.|18|1.3740136054421768|0.07633408919123204
