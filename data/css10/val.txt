@@ -336,7 +336,6 @@ a004101|vietnamese-00|vietnamese|wavs_p2/wavs8/segment_312.wav|||vậy thì nh�
 008480|vietnamese-00|vietnamese|wavs/wavs16/segment_166.wav|||với bà những suy nghĩ mệt mỏi vì không làm được công việc phù hợp.|
 008481|vietnamese-00|vietnamese|wavs/wavs16/segment_145.wav|||công việc này không phù hợp với tôi.|
 008482|vietnamese-00|vietnamese|wavs/wavs16/segment_301.wav|||những rắc rối trong cuộc sống sẽ không biến mất khi tiền bạc và địa vị ngày càng tăng.|
-008483|vietnamese-00|vietnamese|wavs/wavs16/segment_461.wav|||tiếng hát lý nhuận của nhạc sĩ đặng thị minh.|
 008484|vietnamese-00|vietnamese|wavs/wavs16/segment_239.wav|||bạn nên chăm sóc cho nguồn thu nhập này thật tốt.|
 008485|vietnamese-00|vietnamese|wavs/wavs16/segment_303.wav|||ép buộc bản thân phải tiến lên.|
 008486|vietnamese-00|vietnamese|wavs/wavs16/segment_80.wav|||hoàn thành việc học và trở thành một bác sĩ.|
@@ -478,7 +477,6 @@ a004101|vietnamese-00|vietnamese|wavs_p2/wavs8/segment_312.wav|||vậy thì nh�
 008622|vietnamese-00|vietnamese|wavs/wavs17/segment_265.wav|||tức giận.|
 008623|vietnamese-00|vietnamese|wavs/wavs17/segment_56.wav|||nên làm gì tiếp theo.|
 008624|vietnamese-00|vietnamese|wavs/wavs17/segment_179.wav|||một phần thưởng chiến thắng cuộc thi.|
-008625|vietnamese-00|vietnamese|wavs/wavs17/segment_300.wav|||đừng vội làm thai khuôn viên trước khi đi làm việc.tiếp tục theo dõi các thông tin ca khúc từ nhật bản trong bài.|
 008626|vietnamese-00|vietnamese|wavs/wavs17/segment_289.wav|||mùa hạ đáng yêu khắp trời lộng gió.|
 008627|vietnamese-00|vietnamese|wavs/wavs17/segment_226.wav|||ngoại trừ bạn.|
 008628|vietnamese-00|vietnamese|wavs/wavs17/segment_278.wav|||mà là cứ đi đi lại lại quẩn quanh với những suy nghĩ lên miên.|
@@ -630,7 +628,6 @@ a004101|vietnamese-00|vietnamese|wavs_p2/wavs8/segment_312.wav|||vậy thì nh�
 008774|vietnamese-00|vietnamese|wavs/wavs17/segment_3.wav|||và đó chính là cuốn tiểu thuyết.|
 008775|vietnamese-00|vietnamese|wavs/wavs17/segment_291.wav|||đông giang đẹp lắm bởi tuyết trắng rơi.|
 008776|vietnamese-00|vietnamese|wavs/wavs17/segment_207.wav|||chúng ta sẽ bỏ qua bản thân sự việc gặp nhiều áp lực suy nghĩ nhiều hơn và dễ tự tiêu hao tinh thần.|
-008777|vietnamese-00|vietnamese|wavs/wavs17/segment_113.wav|||căn nguyên của mọi phiền não nghĩ quá nhiều làm quá ít trong số hai người tí hon.|
 008778|vietnamese-00|vietnamese|wavs/wavs17/segment_51.wav|||hai chú chuột nhỏ không bao giờ phân tiết mọi việc quá nhiều.|
 008779|vietnamese-00|vietnamese|wavs/wavs17/segment_262.wav|||như là khủng hoảng lo sợ trì hoãn trầm cảm suy nghĩ quá nhiều.|
 008780|vietnamese-00|vietnamese|wavs/wavs17/segment_35.wav|||hằng ngày kiểm tra xem khu phó mác xê có bất kỳ sự thay đổi nào không.|
@@ -1440,7 +1437,6 @@ b005087|vietnamese-00|vietnamese|wav_p3/wavs9/segment_54.wav|||ông đã tự m�
 b005088|vietnamese-00|vietnamese|wav_p3/wavs9/segment_188.wav|||tôi muốn lên núi chậm rãi tự do hái dâu.|
 b005089|vietnamese-00|vietnamese|wav_p3/wavs9/segment_133.wav|||ông đã nói rằng.|
 b005090|vietnamese-00|vietnamese|wav_p3/wavs9/segment_307.wav|||tại sao chúng ta lại hạ tiêu chuẩn tâm hồn xuống.|
-b005091|vietnamese-00|vietnamese|wav_p3/wavs9/segment_371.wav|||tiếng hát lý nhuận của những bác sĩ đã khiến cho tôi thức tế.|
 b005092|vietnamese-00|vietnamese|wav_p3/wavs9/segment_237.wav|||trái tim tôi tự do.|
 b005093|vietnamese-00|vietnamese|wav_p3/wavs9/segment_89.wav|||cũng là nhà triết gia về thiên nhiên.|
 b005094|vietnamese-00|vietnamese|wav_p3/wavs9/segment_334.wav|||đừng quá cấp thiết mà tìm kiếm sự phát triển.|
@@ -1572,7 +1568,6 @@ b005219|vietnamese-00|vietnamese|wav_p3/wavs9/segment_159.wav|||đầu tiên là
 b005220|vietnamese-00|vietnamese|wav_p3/wavs9/segment_223.wav|||mỗi một ngày ông đều có những vị khách đến từ thiên nhiên.|
 b005221|vietnamese-00|vietnamese|wav_p3/wavs9/segment_114.wav|||cũng chẳng lười biếng.|
 b005222|vietnamese-00|vietnamese|wav_p3/wavs9/segment_124.wav|||hay một ngôi nhà gỗ tự xây.|
-b005223|vietnamese-00|vietnamese|wav_p3/wavs9/segment_156.wav|||bước đúng nhịp điệu chính mình mới có thể kiên trì vượt qua mọi thử thách.|
 b005224|vietnamese-00|vietnamese|wav_p3/wavs9/segment_164.wav|||vì một người không thể nào sống thiếu bánh mì hay là thịt heo.|
 b005225|vietnamese-00|vietnamese|wav_p3/wavs9/segment_335.wav|||và đừng lệ thuộc vào quá nhiều thế lực bên ngoài.|
 b005226|vietnamese-00|vietnamese|wav_p3/wavs9/segment_9.wav|||và các bạn.|
