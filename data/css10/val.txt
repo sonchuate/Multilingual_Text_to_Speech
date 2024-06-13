@@ -1677,3 +1677,521 @@ b005335|vietnamese-00|vietnamese|wav_p3/wavs9/segment_113.wav|||không sốt s�
 b005336|vietnamese-00|vietnamese|wav_p3/wavs9/segment_358.wav|||mà là nằm ở trải nghiệm.|
 b005337|vietnamese-00|vietnamese|wav_p3/wavs9/segment_79.wav|||điều quan trọng nhất trong cuộc sống không phải là vượt qua người khác.|
 b005338|vietnamese-00|vietnamese|wav_p3/wavs9/segment_333.wav|||giống như là khổng tử đã căn dặn.|
+p4002391|vietnamese-00|vietnamese|wav_p4/wavs7/segment_98.wav|||một nhà lãnh đạo tư tưởng trong lĩnh vực kiểm soát.|
+p4002392|vietnamese-00|vietnamese|wav_p4/wavs7/segment_73.wav|||phần thưởng này nó sẽ liên tục gọi mời chúng ta.|
+p4002393|vietnamese-00|vietnamese|wav_p4/wavs7/segment_280.wav|||trong cuốn sách tạm dệt là làm thế nào để đối phó với những tính cách khó khăn.|
+p4002394|vietnamese-00|vietnamese|wav_p4/wavs7/segment_397.wav|||cho đi nhiều hơn và dành tình yêu tới nhiều người hơn nữa.|
+p4002395|vietnamese-00|vietnamese|wav_p4/wavs7/segment_173.wav|||theo hình chữ u ngược.|
+p4002396|vietnamese-00|vietnamese|wav_p4/wavs7/segment_493.wav|||khi bạn đối xử tốt với người khác.|
+p4002397|vietnamese-00|vietnamese|wav_p4/wavs7/segment_438.wav|||điều này sẽ khiến tâm trí bạn trở nên phấn khích.|
+p4002398|vietnamese-00|vietnamese|wav_p4/wavs7/segment_200.wav|||bạn không cần thoả mãn ngay khi cảm giác lên đến đỉnh điểm.|
+p4002399|vietnamese-00|vietnamese|wav_p4/wavs7/segment_322.wav|||theo thống kê thì một người làm việc công sở sẽ có tới năm mươi phần trăm thời gian bị phân tâm.|
+p4002400|vietnamese-00|vietnamese|wav_p4/wavs7/segment_121.wav|||đây là một đánh giá sai mang tính chủ quan về bản thân.|
+p4002401|vietnamese-00|vietnamese|wav_p4/wavs7/segment_413.wav|||năm giọng khiến người điếc tai.|
+p4002402|vietnamese-00|vietnamese|wav_p4/wavs7/segment_425.wav|||cả cuốn sách này nó cũng xoay quanh việc.|
+p4002403|vietnamese-00|vietnamese|wav_p4/wavs7/segment_15.wav|||còn ngược lại.|
+p4002404|vietnamese-00|vietnamese|wav_p4/wavs7/segment_82.wav|||thoát khỏi sự kiềm chế lâu dài của ham muốn.|
+p4002405|vietnamese-00|vietnamese|wav_p4/wavs7/segment_330.wav|||mỗi giây phút bạn nghiện phân tâm.|
+p4002406|vietnamese-00|vietnamese|wav_p4/wavs7/segment_255.wav|||và không chạm tới nó trong vòng ba đến bốn giờ.|
+p4002407|vietnamese-00|vietnamese|wav_p4/wavs7/segment_394.wav|||mà khuyên bạn đừng để cơn nghiện yêu khiến bạn quá dồn sức và tập trung vào cảm giác yêu.|
+p4002408|vietnamese-00|vietnamese|wav_p4/wavs7/segment_212.wav|||và cúi đầu để trả lời bình luận và xem lịch thích.|
+p4002409|vietnamese-00|vietnamese|wav_p4/wavs7/segment_12.wav|||nó sẽ tiếp tục bị mờ dọc.|
+p4002410|vietnamese-00|vietnamese|wav_p4/wavs7/segment_369.wav|||và ngược lại nó sẽ giúp bạn làm rất tốt và hiệu quả.|
+p4002411|vietnamese-00|vietnamese|wav_p4/wavs7/segment_224.wav|||ở đây.|
+p4002412|vietnamese-00|vietnamese|wav_p4/wavs7/segment_398.wav|||vì luyện tập ngồi tĩnh lặng và duy trì chánh niệm.|
+p4002413|vietnamese-00|vietnamese|wav_p4/wavs7/segment_428.wav|||nhưng cụ thể hơn nữa là cần phải thực hiện tránh nhiệm như thế nào.|
+p4002414|vietnamese-00|vietnamese|wav_p4/wavs7/segment_426.wav|||khuyên bạn phải thực hành chánh niệm.|
+p4002415|vietnamese-00|vietnamese|wav_p4/wavs7/segment_0.wav|||hi xin chào các bạn chào mừng các bạn đã đến với paranormal version.|
+p4002416|vietnamese-00|vietnamese|wav_p4/wavs7/segment_383.wav|||vậy làm thế nào để cho vỏ não đai bớt bị kích động.|
+p4002417|vietnamese-00|vietnamese|wav_p4/wavs7/segment_526.wav|||thì đều rất kiên cường.|
+p4002418|vietnamese-00|vietnamese|wav_p4/wavs7/segment_317.wav|||nghiện phân tâm là gì.|
+p4002419|vietnamese-00|vietnamese|wav_p4/wavs7/segment_523.wav|||mà phải chọn cách buông tay.|
+p4002420|vietnamese-00|vietnamese|wav_p4/wavs7/segment_80.wav|||chính vì điều này tác giả đã cố gắng tìm ra một cách.|
+p4002421|vietnamese-00|vietnamese|wav_p4/wavs7/segment_431.wav|||hãy kết hợp hai ngọn đuốc tránh niệm và niềm yêu thích.|
+p4002422|vietnamese-00|vietnamese|wav_p4/wavs7/segment_52.wav|||nếu mà hành động chỉ để đáp ứng sự mãn nguyện tức thời.|
+p4002423|vietnamese-00|vietnamese|wav_p4/wavs7/segment_407.wav|||trong con mắt của chúng sinh đó là hạnh phúc.|
+p4002424|vietnamese-00|vietnamese|wav_p4/wavs7/segment_142.wav|||khiến nó không thể nào hoạt động tốt được.|
+p4002425|vietnamese-00|vietnamese|wav_p4/wavs7/segment_518.wav|||do đó cái hố của sự thèm muốn sẽ ngày càng bị đào sâu hơn.|
+p4002426|vietnamese-00|vietnamese|wav_p4/wavs7/segment_217.wav|||có một cơ sở khoa học đằng sau ham muốn này được đại học harvard chứng minh như sau.|
+p4002427|vietnamese-00|vietnamese|wav_p4/wavs7/segment_135.wav|||trong cuốn sách có tên là the sale of drive and trade.|
+p4002428|vietnamese-00|vietnamese|wav_p4/wavs7/segment_195.wav|||rồi hãy tập trung vào cảm giác đó.|
+p4002429|vietnamese-00|vietnamese|wav_p4/wavs7/segment_234.wav|||nói chung cốt yếu là để xoay về chủ đề của họ.|
+p4002430|vietnamese-00|vietnamese|wav_p4/wavs7/segment_333.wav|||vì nó rất dễ khiến bạn trở nên căng thẳng hơn.|
+p4002431|vietnamese-00|vietnamese|wav_p4/wavs7/segment_443.wav|||nhưng đằng sau sự phấn khích này nó luôn mang theo một sự khó chịu.|
+p4002432|vietnamese-00|vietnamese|wav_p4/wavs7/segment_60.wav|||nếu bạn chỉ sống giống như thuyết hành vi của skinner.|
+p4002433|vietnamese-00|vietnamese|wav_p4/wavs7/segment_35.wav|||nhưng khoan vội.|
+p4002434|vietnamese-00|vietnamese|wav_p4/wavs7/segment_554.wav|||hẹn gặp lại các bạn ở những video tiếp theo.|
+p4002435|vietnamese-00|vietnamese|wav_p4/wavs7/segment_352.wav|||vì vậy cách tốt nhất để không bị nghiện phân tâm.|
+p4002436|vietnamese-00|vietnamese|wav_p4/wavs7/segment_420.wav|||bây giờ chúng ta rong ruổi để tìm kiếm vật chất bên ngoài.|
+p4002437|vietnamese-00|vietnamese|wav_p4/wavs7/segment_123.wav|||nó đều liên quan đến sự thiên vị chủ quan trong bạn.|
+p4002438|vietnamese-00|vietnamese|wav_p4/wavs7/segment_57.wav|||và giảm phản hồi tiêu cực bằng cách làm ít đi.|
+p4002439|vietnamese-00|vietnamese|wav_p4/wavs7/segment_190.wav|||sau đó thì cơn nghiện của bạn sẽ lên đến đỉnh chữ u.|
+p4002440|vietnamese-00|vietnamese|wav_p4/wavs7/segment_171.wav|||vậy cách tốt nhất để cắt đứt cái muội trong bạn đó là phương pháp rin trong tránh niệm.|
+p4002441|vietnamese-00|vietnamese|wav_p4/wavs7/segment_26.wav|||đừng để não bộ biến thành não còn địa biển.|
+p4002442|vietnamese-00|vietnamese|wav_p4/wavs7/segment_328.wav|||nhưng mà bạn cần phải phân biệt được hạnh phúc trong mơ mộng và hạnh phúc trong thực tế.|
+p4002443|vietnamese-00|vietnamese|wav_p4/wavs7/segment_232.wav|||người ta chỉ cần nghe bạn nói một điều gì đó cũng sẽ đáp lại rằng.|
+p4002444|vietnamese-00|vietnamese|wav_p4/wavs7/segment_513.wav|||cuối cùng tác giả đã chỉ ra thời đại bây giờ con người ai cũng có một khả năng rất giỏi đó là khả năng phản ứng.|
+p4002445|vietnamese-00|vietnamese|wav_p4/wavs7/segment_318.wav|||đó là con người sẽ dễ dàng rơi vào trạng thái mơ mộng mất tập trung.|
+p4002446|vietnamese-00|vietnamese|wav_p4/wavs7/segment_166.wav|||thì sẽ như con hải sâm bị dẫn tới một nơi.|
+p4002447|vietnamese-00|vietnamese|wav_p4/wavs7/segment_103.wav|||bạn sẽ thấy trong rất nhiều video mình đã chia sẻ để tránh niệm.|
+p4002448|vietnamese-00|vietnamese|wav_p4/wavs7/segment_111.wav|||và sáu kiểu nghiện này bạn có mấy cái.|
+p4002449|vietnamese-00|vietnamese|wav_p4/wavs7/segment_8.wav|||như shakespeare đã nói rằng.|
+p4002450|vietnamese-00|vietnamese|wav_p4/wavs7/segment_414.wav|||năm mùi khiến người tê lưỡi.|
+p4002451|vietnamese-00|vietnamese|wav_p4/wavs7/segment_366.wav|||một khi có thể thư giãn và ý thức ở những khoảnh khắc hiện tại.|
+p4002452|vietnamese-00|vietnamese|wav_p4/wavs7/segment_483.wav|||đối với những người chỉ cần gặp điều không đúng vì mình.|
+p4002453|vietnamese-00|vietnamese|wav_p4/wavs7/segment_222.wav|||vốn sẽ nhận được.|
+p4002454|vietnamese-00|vietnamese|wav_p4/wavs7/segment_372.wav|||là một người luôn mong cầu cảm giác của họ trong tình cảm sẽ tồn tại mãi mãi.|
+p4002455|vietnamese-00|vietnamese|wav_p4/wavs7/segment_434.wav|||đây là một sự kết hợp cực kỳ quan trọng và thú vị trong phương pháp tránh niệm mà tác giả đã đưa ra.|
+p4002456|vietnamese-00|vietnamese|wav_p4/wavs7/segment_209.wav|||thay vì chăm chú thưởng thức tranh vẽ.|
+p4002457|vietnamese-00|vietnamese|wav_p4/wavs7/segment_305.wav|||lấy là bàn tránh niệm để trấn tĩnh bản thân.|
+p4002458|vietnamese-00|vietnamese|wav_p4/wavs7/segment_51.wav|||ở góc nhìn tâm lý học về ham muốn câu này quả thực không sai.|
+p4002459|vietnamese-00|vietnamese|wav_p4/wavs7/segment_112.wav|||quay lại một chút về hành động mà chỉ dựa vào phần thưởng và phản hồi từ bên ngoài.|
+p4002460|vietnamese-00|vietnamese|wav_p4/wavs7/segment_63.wav|||mình giả dụ.|
+p4002461|vietnamese-00|vietnamese|wav_p4/wavs7/segment_458.wav|||cho việc bạn đang làm ở khoảnh khắc hiện tại.|
+p4002462|vietnamese-00|vietnamese|wav_p4/wavs7/segment_45.wav|||nếu bạn để ý một chút sẽ thấy chúng ta thích làm nhiều lần một việc nào đó.|
+p4002463|vietnamese-00|vietnamese|wav_p4/wavs7/segment_461.wav|||ông vẫn đem lòng hiếu kỳ để nghiên cứu hình dạng lưỡi của con chim gõ kiến.|
+p4002464|vietnamese-00|vietnamese|wav_p4/wavs7/segment_296.wav|||đến nỗi mà họ không còn là chính mình nữa.|
+p4002465|vietnamese-00|vietnamese|wav_p4/wavs7/segment_28.wav|||nó còn được gọi là hải sâm.|
+p4002466|vietnamese-00|vietnamese|wav_p4/wavs7/segment_489.wav|||bạn đừng xem thường sự khác biệt giữa xấu tính và tốt bụng.|
+p4002467|vietnamese-00|vietnamese|wav_p4/wavs7/segment_439.wav|||và con người cũng cứ ngỡ rằng.|
+p4002468|vietnamese-00|vietnamese|wav_p4/wavs7/segment_419.wav|||ngày xưa con người ta rong rồi kiếm ăn để thỏa mãn cơn đói ngay lập tức.|
+p4002469|vietnamese-00|vietnamese|wav_p4/wavs7/segment_92.wav|||dựa trên phản xạ có điều kiện trong cuộc sống hàng ngày.|
+p4002470|vietnamese-00|vietnamese|wav_p4/wavs7/segment_128.wav|||đây là những việc mà bạn biết có hậu quả xấu mà bạn vẫn cứ cố tình tiếp tục làm.|
+p4002471|vietnamese-00|vietnamese|wav_p4/wavs7/segment_411.wav|||hay trong chương mười hai kiểm dục của đạo đức kinh lão tử cũng chỉ ra rằng.|
+p4002472|vietnamese-00|vietnamese|wav_p4/wavs7/segment_535.wav|||đó là.|
+p4002473|vietnamese-00|vietnamese|wav_p4/wavs7/segment_409.wav|||trong mát trúng sinh đó là đau khổ.|
+p4002474|vietnamese-00|vietnamese|wav_p4/wavs7/segment_229.wav|||dễ dàng thể hiện bản thân và nói về mình nhiều hơn.|
+p4002475|vietnamese-00|vietnamese|wav_p4/wavs7/segment_249.wav|||cũng giống như là việc bạn đăng hình cứ chốc chốc bạn phải mở ra.|
+p4002476|vietnamese-00|vietnamese|wav_p4/wavs7/segment_84.wav|||nếu bị lạc trong khu rừng đen kịt.|
+p4002477|vietnamese-00|vietnamese|wav_p4/wavs7/segment_298.wav|||tâm lý của họ không ổn định.|
+p4002478|vietnamese-00|vietnamese|wav_p4/wavs7/segment_214.wav|||mà lại chơi với các phương tiện truyền thông.|
+p4002479|vietnamese-00|vietnamese|wav_p4/wavs7/segment_40.wav|||như con đỉa biển.|
+p4002480|vietnamese-00|vietnamese|wav_p4/wavs7/segment_551.wav|||hãy ủng hộ mình bằng một nút like nhấn nút theo dõi mở nút chung thông báo.|
+p4002481|vietnamese-00|vietnamese|wav_p4/wavs7/segment_314.wav|||bạn sẽ luôn có thể giữ mình ở trạng thái trung gian.|
+p4002482|vietnamese-00|vietnamese|wav_p4/wavs7/segment_538.wav|||rốt cuộc là chúng ta đang mong muốn điều gì.|
+p4002483|vietnamese-00|vietnamese|wav_p4/wavs7/segment_181.wav|||nhận biết những gì đang trỗi dậy trong bạn.|
+p4002484|vietnamese-00|vietnamese|wav_p4/wavs7/segment_514.wav|||khi bị kích thích là lập tức phản ứng.|
+p4002485|vietnamese-00|vietnamese|wav_p4/wavs7/segment_511.wav|||không những giúp cho bạn có thể duy trì được chánh niệm.|
+p4002486|vietnamese-00|vietnamese|wav_p4/wavs7/segment_376.wav|||lấp đầy trống trải cô đơn.|
+p4002487|vietnamese-00|vietnamese|wav_p4/wavs7/segment_161.wav|||nếu một người không có khả năng nhìn rõ và nhận thức được.|
+p4002488|vietnamese-00|vietnamese|wav_p4/wavs7/segment_179.wav|||có nghĩa là bạn phải nhận biết.|
+p4002489|vietnamese-00|vietnamese|wav_p4/wavs7/segment_301.wav|||chỉ để có được một liều dopamine ngắn hạn.|
+p4002490|vietnamese-00|vietnamese|wav_p4/wavs7/segment_470.wav|||làm thế nào để tìm ra cách tốt nhất.|
+p4002491|vietnamese-00|vietnamese|wav_p4/wavs7/segment_487.wav|||nhưng thực chất sự tức giận đó sẽ khiến cho họ đau khổ.|
+p4002492|vietnamese-00|vietnamese|wav_p4/wavs7/segment_400.wav|||và rèn luyện tình yêu thương của bạn tới những người xung quanh.|
+p4002493|vietnamese-00|vietnamese|wav_p4/wavs7/segment_406.wav|||như đức phạt đã dạy.|
+p4002494|vietnamese-00|vietnamese|wav_p4/wavs7/segment_14.wav|||khiến bạn mất tự chủ huỷ hoại cuộc đời.|
+p4002495|vietnamese-00|vietnamese|wav_p4/wavs7/segment_408.wav|||nhưng trong mắt hòa thượng đó lại là đau khổ.|
+p4002496|vietnamese-00|vietnamese|wav_p4/wavs7/segment_146.wav|||anh ta sẽ lập tức trở về trạng thái gần giống với động vật.|
+p4002497|vietnamese-00|vietnamese|wav_p4/wavs7/segment_357.wav|||nhưng suy ngẫm ở đây không phải là suy nghĩ về những điều sắp xảy ra.|
+p4002498|vietnamese-00|vietnamese|wav_p4/wavs7/segment_18.wav|||cuốn sách này sẽ không bàn về một trò chơi cuộc đời nào cả.|
+p4002499|vietnamese-00|vietnamese|wav_p4/wavs7/segment_49.wav|||có một câu nói rằng.|
+p4002500|vietnamese-00|vietnamese|wav_p4/wavs7/segment_213.wav|||tại sao chúng ta không chú tâm xem các tác phẩm nghệ thuật.|
+p4002501|vietnamese-00|vietnamese|wav_p4/wavs7/segment_152.wav|||vì thế nếu bạn gây áp lực tới bản thân để từ bỏ căn nghiệm trực tiếp.|
+p4002502|vietnamese-00|vietnamese|wav_p4/wavs7/segment_221.wav|||tuy nhiên kết quả là người ta nguyện bỏ đi đến mười bảy phần trăm số tiền.|
+p4002503|vietnamese-00|vietnamese|wav_p4/wavs7/segment_129.wav|||ví dụ như là hút thuốc.|
+p4002504|vietnamese-00|vietnamese|wav_p4/wavs7/segment_1.wav|||kênh chia sẻ kiến thức phát triển toàn diện bản thân qua các cuốn sách hay.|
+p4002505|vietnamese-00|vietnamese|wav_p4/wavs7/segment_499.wav|||những người có tấm lòng rộng mở và nhân từ luôn có thể dễ dàng ngồi yên và tập trung.|
+p4002506|vietnamese-00|vietnamese|wav_p4/wavs7/segment_466.wav|||ví dụ như khi làm bài tập khi làm việc.|
+p4002507|vietnamese-00|vietnamese|wav_p4/wavs7/segment_351.wav|||từ đó họ không dễ bị phân tâm.|
+p4002508|vietnamese-00|vietnamese|wav_p4/wavs7/segment_216.wav|||chúng ta đã mắc phải cơn nghiện công nghệ.|
+p4002509|vietnamese-00|vietnamese|wav_p4/wavs7/segment_543.wav|||tất cả những điều này đều khiến con người sẽ bỏ lỡ khoảnh khắc trọn vẹn của hiện tại.|
+p4002510|vietnamese-00|vietnamese|wav_p4/wavs7/segment_476.wav|||và không phải ép buộc bản thân nữa.|
+p4002511|vietnamese-00|vietnamese|wav_p4/wavs7/segment_448.wav|||vậy là mình thật tài giỏi.|
+p4002512|vietnamese-00|vietnamese|wav_p4/wavs7/segment_170.wav|||dần dà thì chúng ta sẽ sống chẳng khác gì mấy con hải sâm cả.|
+p4002513|vietnamese-00|vietnamese|wav_p4/wavs7/segment_130.wav|||uống rượu quá mức.|
+p4002514|vietnamese-00|vietnamese|wav_p4/wavs7/segment_294.wav|||còn ở cực đối ngược với nó là những người rối loạn nhân cách ranh giới.|
+p4002515|vietnamese-00|vietnamese|wav_p4/wavs7/segment_371.wav|||một người bị rơi và cạm bẫy nghiện yêu.|
+p4002516|vietnamese-00|vietnamese|wav_p4/wavs7/segment_124.wav|||sự thiên vị chủ quan đầu tiên sẽ bảo thấy một cơn nghiện cực kỳ nguy hiểm.|
+p4002517|vietnamese-00|vietnamese|wav_p4/wavs7/segment_177.wav|||thì bạn cần phải làm hai việc.|
+p4002518|vietnamese-00|vietnamese|wav_p4/wavs7/segment_460.wav|||trong những năm cuối đời ông ấy không vội gửi bán những bức tranh mà ông vẫn đang suy nghĩ làm thế nào để bức tranh đó đẹp hơn.|
+p4002519|vietnamese-00|vietnamese|wav_p4/wavs7/segment_342.wav|||còn khi đang suy nghĩ vu vơ và phân tâm.|
+p4002520|vietnamese-00|vietnamese|wav_p4/wavs7/segment_115.wav|||đây là cụm từ thường xuyên xuất hiện trong cuốn sách này.|
+p4002521|vietnamese-00|vietnamese|wav_p4/wavs7/segment_87.wav|||để làm cách nào đó thoát khỏi càng sớm càng tốt.|
+p4002522|vietnamese-00|vietnamese|wav_p4/wavs7/segment_89.wav|||và tiếp tục bị lạc hơn.|
+p4002523|vietnamese-00|vietnamese|wav_p4/wavs7/segment_457.wav|||mà là đặt những câu hỏi cho chính bạn.|
+p4002524|vietnamese-00|vietnamese|wav_p4/wavs7/segment_542.wav|||vì thế rơi vào một chu kỳ không bao giờ hài lòng.|
+p4002525|vietnamese-00|vietnamese|wav_p4/wavs7/segment_95.wav|||đó là ngay lập tức phải dừng lại.|
+p4002526|vietnamese-00|vietnamese|wav_p4/wavs7/segment_336.wav|||ở đây có một kiến thức khoa học liên quan được nói tới qua cuốn sách tư duy nhanh và chậm.|
+p4002527|vietnamese-00|vietnamese|wav_p4/wavs7/segment_275.wav|||đó là người phải thiết lập được bản thân ở ranh giới giữa hai thái cực đó.|
+p4002528|vietnamese-00|vietnamese|wav_p4/wavs7/segment_319.wav|||những suy nghĩ về tương lai nó cứ liên tiếp xuất hiện trong đầu.|
+p4002529|vietnamese-00|vietnamese|wav_p4/wavs7/segment_226.wav|||đó là bởi vì.|
+p4002530|vietnamese-00|vietnamese|wav_p4/wavs7/segment_506.wav|||và chỉ khi quên đi chính mình bạn mới có thể hòa nhập vào cuộc sống.|
+p4002531|vietnamese-00|vietnamese|wav_p4/wavs7/segment_250.wav|||xem bao nhiêu like bao nhiêu bình luận.|
+p4002532|vietnamese-00|vietnamese|wav_p4/wavs7/segment_77.wav|||nhưng mà vẫn cứ làm.|
+p4002533|vietnamese-00|vietnamese|wav_p4/wavs7/segment_150.wav|||lúc này vỏ não trước trán sẽ ngay lập tức dừng hoạt động.|
+p4002534|vietnamese-00|vietnamese|wav_p4/wavs7/segment_423.wav|||tất cả đều cảnh tỉnh chúng ta rằng.|
+p4002535|vietnamese-00|vietnamese|wav_p4/wavs7/segment_332.wav|||quan trọng nhất là cái niềm vui hạnh phúc trong mơ mộng đó nó là một kiểu đánh lừa tinh vi.|
+p4002536|vietnamese-00|vietnamese|wav_p4/wavs7/segment_107.wav|||nó đặc biệt ở chỗ bạn có thể hiểu rõ cụ thể bản thân mình rốt cuộc đang mong muốn điều gì.|
+p4002537|vietnamese-00|vietnamese|wav_p4/wavs7/segment_156.wav|||do đó cách hiệu quả để loại bỏ cơn nghiện trực tiếp.|
+p4002538|vietnamese-00|vietnamese|wav_p4/wavs7/segment_274.wav|||vậy một người có tâm trí khỏe mạnh nên là người như thế nào.|
+p4002539|vietnamese-00|vietnamese|wav_p4/wavs7/segment_433.wav|||tinh thần ắt sẽ tự nhiên tập trung.|
+p4002540|vietnamese-00|vietnamese|wav_p4/wavs7/segment_437.wav|||cảm giác này thôi thúc chúng ta mong muốn có nhiều hơn nữa một thứ gì đó mà bạn chưa thỏa mãn được.|
+p4002541|vietnamese-00|vietnamese|wav_p4/wavs7/segment_553.wav|||một lần nữa cảm ơn bạn.|
+p4002542|vietnamese-00|vietnamese|wav_p4/wavs7/segment_102.wav|||và khi lạc lối trong rừng đen việc dừng lại cũng chính là bạn đang sử dụng tránh niệm.|
+p4002543|vietnamese-00|vietnamese|wav_p4/wavs7/segment_378.wav|||và cũng tương tự khi một người có thói quen theo đuổi tình cảm.|
+p4002544|vietnamese-00|vietnamese|wav_p4/wavs7/segment_86.wav|||có nhiều người sẽ cố gắng đi nhanh hơn.|
+p4002545|vietnamese-00|vietnamese|wav_p4/wavs7/segment_520.wav|||khả năng phục hồi bằng sự kiên cường là gì.|
+p4002546|vietnamese-00|vietnamese|wav_p4/wavs7/segment_307.wav|||trước tiên là hãy để bản thân yên tĩnh.|
+p4002547|vietnamese-00|vietnamese|wav_p4/wavs7/segment_519.wav|||vậy chúng ta phải loại bỏ khả năng này bằng cách tăng cường khả năng phục hồi bằng sự kiên cường.|
+p4002548|vietnamese-00|vietnamese|wav_p4/wavs7/segment_545.wav|||mình tin rằng nó sẽ giúp bạn giải phóng khỏi chiến dịch của ảo giác.|
+p4002549|vietnamese-00|vietnamese|wav_p4/wavs7/segment_76.wav|||mỗi ngày chúng ta đều biết rằng có rất nhiều hành vi không tốt.|
+p4002550|vietnamese-00|vietnamese|wav_p4/wavs7/segment_13.wav|||giống như là một cái lỗ đen không đáy và không ngừng nuốt rừng bạ.|
+p4002551|vietnamese-00|vietnamese|wav_p4/wavs7/segment_147.wav|||ví dụ khi gặp áp lực.|
+p4002552|vietnamese-00|vietnamese|wav_p4/wavs7/segment_210.wav|||họ ngắm tranh một lúc rồi lập tức chủ bản thân.|
+p4002553|vietnamese-00|vietnamese|wav_p4/wavs7/segment_169.wav|||nơi mà thau bờ mìn điều khiển bạn sẽ không thể cưỡng lại được.|
+p4002554|vietnamese-00|vietnamese|wav_p4/wavs7/segment_6.wav|||giám đốc khoa y và tâm thần học tại trường y yuma.|
+p4002555|vietnamese-00|vietnamese|wav_p4/wavs7/segment_141.wav|||nhưng sự tự chủ ở vùng vỏ não trước trán luôn có một kẻ thù lớn.|
+p4002556|vietnamese-00|vietnamese|wav_p4/wavs7/segment_225.wav|||thực chất chúng đang nghiện sử dụng các phương tiện công nghệ.|
+p4002557|vietnamese-00|vietnamese|wav_p4/wavs7/segment_99.wav|||trước đó thì ông đã chuyên nghiên cứu về sinh học phân tử.|
+p4002558|vietnamese-00|vietnamese|wav_p4/wavs7/segment_504.wav|||trong cuốn sách flow đã trình bày rất rõ và chi tiết về vấn đề này.|
+p4002559|vietnamese-00|vietnamese|wav_p4/wavs7/segment_354.wav|||về phương pháp cụ thể mình khuyên bạn hãy tìm đọc các cuốn sách của bậc thầy sánh niệm.|
+p4002560|vietnamese-00|vietnamese|wav_p4/wavs7/segment_447.wav|||hay là bạn cũng có thể nghĩ rằng mình được thưởng người khác thì không.|
+p4002561|vietnamese-00|vietnamese|wav_p4/wavs7/segment_475.wav|||từ đó tự khắc bạn sẽ có thể duy trì được sự tập trung.|
+p4002562|vietnamese-00|vietnamese|wav_p4/wavs7/segment_37.wav|||cho dù có nhiều gấc bao nhiêu đi chăng nữa thì cũng như bộ não còn đĩa biệt.|
+p4002563|vietnamese-00|vietnamese|wav_p4/wavs7/segment_43.wav|||hành động của con người và động vật.|
+p4002564|vietnamese-00|vietnamese|wav_p4/wavs7/segment_276.wav|||nghĩa là ta vẫn biết người khác đánh giá ta có cái tốt có cái xấu.|
+p4002565|vietnamese-00|vietnamese|wav_p4/wavs7/segment_184.wav|||bước thứ hai đó là chữ cái a nghĩa là chấp nhận.|
+p4002566|vietnamese-00|vietnamese|wav_p4/wavs7/segment_405.wav|||từ trước đến nay đang đi theo một hướng sai lầm.|
+p4002567|vietnamese-00|vietnamese|wav_p4/wavs7/segment_257.wav|||lại nghiện thứ ba đó là nghiện bản thân.|
+p4002568|vietnamese-00|vietnamese|wav_p4/wavs7/segment_292.wav|||và đặc biệt kiểu người này sẽ không bao giờ thừa nhận sai lầm.|
+p4002569|vietnamese-00|vietnamese|wav_p4/wavs7/segment_552.wav|||để đón xem những video mới nhất hàng tuần.|
+p4002570|vietnamese-00|vietnamese|wav_p4/wavs7/segment_75.wav|||sẽ chẳng khác gì tự sát.|
+p4002571|vietnamese-00|vietnamese|wav_p4/wavs7/segment_534.wav|||cũng là vấn đề của cả một đời người phải cố gắng vượt qua.|
+p4002572|vietnamese-00|vietnamese|wav_p4/wavs7/segment_453.wav|||niềm vui đến từ lòng hiếu kỳ thì nó sẽ ổn định hơn.|
+p4002573|vietnamese-00|vietnamese|wav_p4/wavs7/segment_362.wav|||những suy nghĩ để kiểm soát thắng thua là một việc không sai.|
+p4002574|vietnamese-00|vietnamese|wav_p4/wavs7/segment_282.wav|||nó đã phân tích về những người có tính cách như này.|
+p4002575|vietnamese-00|vietnamese|wav_p4/wavs7/segment_348.wav|||còn đối với những người có thói quen thiền định lâu dài.|
+p4002576|vietnamese-00|vietnamese|wav_p4/wavs7/segment_541.wav|||chúng ta luôn khao khát nhiều hơn và không chịu khuất phục trước những gì mang lại nhẹ nhõm thỏa mãn tạm thời.|
+p4002577|vietnamese-00|vietnamese|wav_p4/wavs7/segment_399.wav|||sẽ giúp bạn giảm bớt đi sự ích kỷ của bản ngã.|
+p4002578|vietnamese-00|vietnamese|wav_p4/wavs7/segment_132.wav|||sử dụng ma tuý hay là các chất kích thích.|
+p4002579|vietnamese-00|vietnamese|wav_p4/wavs7/segment_479.wav|||kinh nghiệm bản thân.|
+p4002580|vietnamese-00|vietnamese|wav_p4/wavs7/segment_36.wav|||bạn cần biết rằng tế bào thần kinh trong bộ não con người chúng ta.|
+p4002581|vietnamese-00|vietnamese|wav_p4/wavs7/segment_223.wav|||chỉ để có thể nói nhiều hơn về bản thân mình.|
+p4002582|vietnamese-00|vietnamese|wav_p4/wavs7/segment_211.wav|||thậm chí có người bắt đầu đăng hình lên mạng xã hội.|
+p4002583|vietnamese-00|vietnamese|wav_p4/wavs7/segment_194.wav|||điều gì nó đang xảy ra trong bạn.|
+p4002584|vietnamese-00|vietnamese|wav_p4/wavs7/segment_302.wav|||và đây cũng đều là những thiên vị chủ quan cho bản thân.|
+p4002585|vietnamese-00|vietnamese|wav_p4/wavs7/segment_521.wav|||có nghĩa là bạn phải thôi việc.|
+p4002586|vietnamese-00|vietnamese|wav_p4/wavs7/segment_548.wav|||cuối cùng giúp bạn lấy lại sự tự do khỏi những khống chế bấy lâu nay của những ham muốn.|
+p4002587|vietnamese-00|vietnamese|wav_p4/wavs7/segment_379.wav|||thì vỏ não đai của anh ta hoạt động rất tích cực.|
+p4002588|vietnamese-00|vietnamese|wav_p4/wavs7/segment_455.wav|||không phải là tò mò tại sao người ta lại thưởng tiền cho bạn.|
+p4002589|vietnamese-00|vietnamese|wav_p4/wavs7/segment_205.wav|||tác giả đã kể một chuyện như thế này.|
+p4002590|vietnamese-00|vietnamese|wav_p4/wavs7/segment_391.wav|||nên mới cần tìm kiếm một người nào đó ở bên để bù đắp cân bằng và thoải mãn.|
+p4002591|vietnamese-00|vietnamese|wav_p4/wavs7/segment_311.wav|||biết rõ rằng đơn giản đó là những lời nhận xét thôi.|
+p4002592|vietnamese-00|vietnamese|wav_p4/wavs7/segment_258.wav|||thực ra chứng nghiện công nghệ cũng liên quan đến nghiện bản thân.|
+p4002593|vietnamese-00|vietnamese|wav_p4/wavs7/segment_198.wav|||và trải nghiệm nó đang diễn ra như thế nào trong cơ thể của bạn.|
+p4002594|vietnamese-00|vietnamese|wav_p4/wavs7/segment_180.wav|||thư giãn.|
+p4002595|vietnamese-00|vietnamese|wav_p4/wavs7/segment_387.wav|||nếu chỉ tập trung vào tình yêu cho một người.|
+p4002596|vietnamese-00|vietnamese|wav_p4/wavs7/segment_303.wav|||vậy cách tốt nhất để thoát ra khỏi đó là gì.|
+p4002597|vietnamese-00|vietnamese|wav_p4/wavs7/segment_404.wav|||đó là cách chúng ta tìm kiếm hạnh phúc.|
+p4002598|vietnamese-00|vietnamese|wav_p4/wavs7/segment_350.wav|||thậm chí là nó rất thấp.|
+p4002599|vietnamese-00|vietnamese|wav_p4/wavs7/segment_239.wav|||ở đây có một yếu tố giống như một chất keo.|
+p4002600|vietnamese-00|vietnamese|wav_p4/wavs7/segment_191.wav|||lúc này bạn cần phải làm hai bước cuối đó là.|
+p4002601|vietnamese-00|vietnamese|wav_p4/wavs7/segment_227.wav|||điện thoại ipad máy tính là để kết nối với nhiều người hơn.|
+p4002602|vietnamese-00|vietnamese|wav_p4/wavs7/segment_462.wav|||và khi làm như vậy.|
+p4002603|vietnamese-00|vietnamese|wav_p4/wavs7/segment_71.wav|||động lực đằng sau khiến cho chúng ta làm những điều này.|
+p4002604|vietnamese-00|vietnamese|wav_p4/wavs7/segment_252.wav|||để bạn tiếp tục theo dõi phản ứng từ người ngoài tới bạn.|
+p4002605|vietnamese-00|vietnamese|wav_p4/wavs7/segment_247.wav|||hóa ra cách này là lợi dụng việc thiên vị chủ quan trong não bộ con người.|
+p4002606|vietnamese-00|vietnamese|wav_p4/wavs7/segment_109.wav|||và tránh nhiệm sẽ có thể giúp bạn tìm được sự tự do thực sự như thế nào.|
+p4002607|vietnamese-00|vietnamese|wav_p4/wavs7/segment_464.wav|||quay lại với cuộc sống thường nhật.|
+p4002608|vietnamese-00|vietnamese|wav_p4/wavs7/segment_510.wav|||cách luyện tập để đi vào trạng thái dòng chảy.|
+p4002609|vietnamese-00|vietnamese|wav_p4/wavs7/segment_304.wav|||đó là ngay lập tức phải dừng lại.|
+p4002610|vietnamese-00|vietnamese|wav_p4/wavs7/segment_286.wav|||sẽ cảm thấy cái này không đúng cái kia không tốt.|
+p4002611|vietnamese-00|vietnamese|wav_p4/wavs7/segment_119.wav|||nhưng thực chất cơ thể của bạn không hề cần nó.|
+p4002612|vietnamese-00|vietnamese|wav_p4/wavs7/segment_365.wav|||vào lúc này tránh nghiện là cách tốt nhất giúp bạn tránh khỏi con nghiện.|
+p4002613|vietnamese-00|vietnamese|wav_p4/wavs7/segment_33.wav|||một sinh vật chỉ có hai mươi nghìn tế bào thần kinh như này mà có thể so sánh được với bộ não loài người thông minh.|
+p4002614|vietnamese-00|vietnamese|wav_p4/wavs7/segment_287.wav|||hơn hết là họ luôn cho rằng.|
+p4002615|vietnamese-00|vietnamese|wav_p4/wavs7/segment_189.wav|||hãy cho phép chấp nhận nó thế là đủ.|
+p4002616|vietnamese-00|vietnamese|wav_p4/wavs7/segment_385.wav|||thay vì dành tình yêu cho một người chúng ta hãy phát triển lòng trắc ẩn.|
+p4002617|vietnamese-00|vietnamese|wav_p4/wavs7/segment_159.wav|||mà là phải có khả năng nhìn rõ bằng tránh địa.|
+p4002618|vietnamese-00|vietnamese|wav_p4/wavs7/segment_264.wav|||ví dụ.|
+p4002619|vietnamese-00|vietnamese|wav_p4/wavs7/segment_136.wav|||mà mình đã từng đọc trước kia.|
+p4002620|vietnamese-00|vietnamese|wav_p4/wavs7/segment_208.wav|||hầu hết mọi người đến đây đều chụp hình.|
+p4002621|vietnamese-00|vietnamese|wav_p4/wavs7/segment_3.wav|||đó là cuốn trò chơi của dục vọng.|
+p4002622|vietnamese-00|vietnamese|wav_p4/wavs7/segment_469.wav|||làm thế nào để có thể khiến việc này có ý nghĩa hơn.|
+p4002623|vietnamese-00|vietnamese|wav_p4/wavs7/segment_501.wav|||và luyện tập khả năng phục hồi bằng sự kiên cường.|
+p4002624|vietnamese-00|vietnamese|wav_p4/wavs7/segment_218.wav|||họ tìm một đám người thanh niên sẵn sàng cho những người tham gia khảo sát nhiều tiền hơn.|
+p4002625|vietnamese-00|vietnamese|wav_p4/wavs7/segment_339.wav|||nếu chúng ta suy nghĩ nghiêm túc suy nghĩ sâu và tập trung.|
+p4002626|vietnamese-00|vietnamese|wav_p4/wavs7/segment_395.wav|||theo đuổi một người nào đó.|
+p4002627|vietnamese-00|vietnamese|wav_p4/wavs7/segment_306.wav|||đối mặt với những lời nhận xét phản hồi từ bên ngoài.|
+p4002628|vietnamese-00|vietnamese|wav_p4/wavs7/segment_126.wav|||nghiện trực tiếp là kiểu nghiện giống như vết ngứa trên tai bạn.|
+p4002629|vietnamese-00|vietnamese|wav_p4/wavs7/segment_158.wav|||ép bản thân vào kỷ luật.|
+p4002630|vietnamese-00|vietnamese|wav_p4/wavs7/segment_444.wav|||đó là cảm giác hồi hộp thôi thúc bạn muốn nhiều hơn nữa.|
+p4002631|vietnamese-00|vietnamese|wav_p4/wavs7/segment_528.wav|||theo mình trước tiên hãy bắt đầu từ việc hiểu rõ bản thân.|
+p4002632|vietnamese-00|vietnamese|wav_p4/wavs7/segment_321.wav|||tuần sau mình sẽ đi đâu vân vân.|
+p4002633|vietnamese-00|vietnamese|wav_p4/wavs7/segment_312.wav|||chấp nhận nó và đẻ ở đó.|
+p4002634|vietnamese-00|vietnamese|wav_p4/wavs7/segment_108.wav|||bạn có đang rơi vào cạm bẫy của dục vọng hay không.|
+p4002635|vietnamese-00|vietnamese|wav_p4/wavs7/segment_237.wav|||khi mà nói về chính mình.|
+p4002636|vietnamese-00|vietnamese|wav_p4/wavs7/segment_143.wav|||đó chính là áp lực.|
+p4002637|vietnamese-00|vietnamese|wav_p4/wavs7/segment_202.wav|||cảm giác mong muốn đó nó sẽ tự khắc.|
+p4002638|vietnamese-00|vietnamese|wav_p4/wavs7/segment_41.wav|||nơi nào thoải mái có nhiều thức ăn thì nó sẽ tới.|
+p4002639|vietnamese-00|vietnamese|wav_p4/wavs7/segment_38.wav|||bởi vì chúng đều tuân theo một thói quen cơ bản đó là.|
+p4002640|vietnamese-00|vietnamese|wav_p4/wavs7/segment_502.wav|||trạng thái dòng chảy nói một cách đơn giản là bạn làm việc gì đó thời gian trôi qua mà bạn không hề hay biết.|
+p4002641|vietnamese-00|vietnamese|wav_p4/wavs7/segment_160.wav|||như trong phật học đã nói rằng.|
+p4002642|vietnamese-00|vietnamese|wav_p4/wavs7/segment_524.wav|||buông bỏ đi những tham sân si trong bạn.|
+p4002643|vietnamese-00|vietnamese|wav_p4/wavs7/segment_140.wav|||nằm ở vùng vỏ não trước trán.|
+p4002644|vietnamese-00|vietnamese|wav_p4/wavs7/segment_96.wav|||dừng lại để nhìn nhận phương hướng tìm lối thoát.|
+p4002645|vietnamese-00|vietnamese|wav_p4/wavs7/segment_59.wav|||và cũng là lời cảnh tỉnh của tác giả muốn gửi tới chúng ta.|
+p4002646|vietnamese-00|vietnamese|wav_p4/wavs7/segment_512.wav|||mà còn khiến bạn tạo nên năng lực cốt lõi để sống thành công và hạnh phúc hơn.|
+p4002647|vietnamese-00|vietnamese|wav_p4/wavs7/segment_435.wav|||bạn có bao giờ tự hỏi khi nào chúng ta khó tập trung nhất không.|
+p4002648|vietnamese-00|vietnamese|wav_p4/wavs7/segment_338.wav|||hệ thống một và hệ thống hai.|
+p4002649|vietnamese-00|vietnamese|wav_p4/wavs7/segment_441.wav|||giả dụ qua một tháng làm việc bỗng nhiên sếp thưởng cho bạn năm triệu.|
+p4002650|vietnamese-00|vietnamese|wav_p4/wavs7/segment_78.wav|||chỉ bởi vì những hành động đó luôn mang lại niềm vui thức thời cho tâm trí.|
+p4002651|vietnamese-00|vietnamese|wav_p4/wavs7/segment_367.wav|||tập trung vào hiện tại.|
+p4002652|vietnamese-00|vietnamese|wav_p4/wavs7/segment_16.wav|||một người có rất ít ham muốn chỉ cần một chút mong đợi được đáp ứng.|
+p4002653|vietnamese-00|vietnamese|wav_p4/wavs7/segment_138.wav|||làm thế nào để nuôi dưỡng tính kỷ luật cho trẻ một cách khoa học và hiệu quả.|
+p4002654|vietnamese-00|vietnamese|wav_p4/wavs7/segment_2.wav|||tuần này mình xin chia sẻ với các bạn một cuốn sách cực kỳ bổ ích và hữu dụng.|
+p4002655|vietnamese-00|vietnamese|wav_p4/wavs7/segment_270.wav|||chúng ta cũng rất dễ lên cơn nghiện với những phản hồi như thế này.|
+p4002656|vietnamese-00|vietnamese|wav_p4/wavs7/segment_393.wav|||đương nhiên ở đây không phải khuyên bạn hãy từ bỏ yêu thương một người.|
+p4002657|vietnamese-00|vietnamese|wav_p4/wavs7/segment_484.wav|||mà ngay lập tức có thể bộc lộ ra sự tức giận.|
+p4002658|vietnamese-00|vietnamese|wav_p4/wavs7/segment_505.wav|||bạn có thể tìm đọc hoặc tìm hiểu thông qua video trước đó mình đã từng làm về cuốn sách này.|
+p4002659|vietnamese-00|vietnamese|wav_p4/wavs7/segment_299.wav|||và thường có cảm giác trống rỗng dai dẳng.|
+p4002660|vietnamese-00|vietnamese|wav_p4/wavs7/segment_251.wav|||và những khoảnh khắc ngắt đoạn như vậy nó sẽ cho bạn tâm lý hưng phấn.|
+p4002661|vietnamese-00|vietnamese|wav_p4/wavs7/segment_91.wav|||nó chẳng khác gì việc bạn giải quyết vấn đề.|
+p4002662|vietnamese-00|vietnamese|wav_p4/wavs7/segment_7.wav|||giảng dạy tại trường đại học y và là nhà nghiên cứu tại mít.|
+p4002663|vietnamese-00|vietnamese|wav_p4/wavs7/segment_517.wav|||từ thuở thơ ấu đến khi trưởng thành.|
+p4002664|vietnamese-00|vietnamese|wav_p4/wavs7/segment_495.wav|||cũng chẳng thành vấn đề gì cả.|
+p4002665|vietnamese-00|vietnamese|wav_p4/wavs7/segment_422.wav|||bạn thấy không từ phật giáo đạo gia hay tâm lý khoa học bây giờ.|
+p4002666|vietnamese-00|vietnamese|wav_p4/wavs7/segment_381.wav|||nhưng thông thường một khi đã đạt được.|
+p4002667|vietnamese-00|vietnamese|wav_p4/wavs7/segment_445.wav|||bạn sẽ nghĩ rằng lần này là năm triệu.|
+p4002668|vietnamese-00|vietnamese|wav_p4/wavs7/segment_163.wav|||tức là ngu muội mê muội.|
+p4002669|vietnamese-00|vietnamese|wav_p4/wavs7/segment_440.wav|||cảm giác phấn khích này cũng chính là niềm vui.|
+p4002670|vietnamese-00|vietnamese|wav_p4/wavs7/segment_188.wav|||bạn chỉ cần biết sự thèm muốn trong bạn đã đến.|
+p4002671|vietnamese-00|vietnamese|wav_p4/wavs7/segment_490.wav|||nó sẽ quyết định tâm trí của bạn thư thái thanh thản đến mức nào.|
+p4002672|vietnamese-00|vietnamese|wav_p4/wavs7/segment_134.wav|||vậy làm cách nào để có thể vượt qua được cơn nghiện này một cách hiệu quả.|
+p4002673|vietnamese-00|vietnamese|wav_p4/wavs7/segment_278.wav|||nếu một người thái cực nghiện phản hồi tích cực.|
+p4002674|vietnamese-00|vietnamese|wav_p4/wavs7/segment_279.wav|||người đó sẽ rất dễ mắc chứng rối loạn nhân cách ái kỷ.|
+p4002675|vietnamese-00|vietnamese|wav_p4/wavs7/segment_384.wav|||tác giả khuyên rằng.|
+p4002676|vietnamese-00|vietnamese|wav_p4/wavs7/segment_240.wav|||khiến mong muốn sử dụng công nghệ trong bạn.|
+p4002677|vietnamese-00|vietnamese|wav_p4/wavs7/segment_88.wav|||thế nhưng mà càng đi thì sẽ càng vòng vo.|
+p4002678|vietnamese-00|vietnamese|wav_p4/wavs7/segment_155.wav|||bạn sẽ rất khó thành công bởi vì vỏ não trước trán của bạn đang quá mệt mỏi.|
+p4002679|vietnamese-00|vietnamese|wav_p4/wavs7/segment_122.wav|||và hầu như tất cả các hành vi gây nghiện tạo nên ham muốn dục vọng.|
+p4002680|vietnamese-00|vietnamese|wav_p4/wavs7/segment_491.wav|||ngoài ra quan trọng không kém chúng ta phải học cách tử tế.|
+p4002681|vietnamese-00|vietnamese|wav_p4/wavs7/segment_363.wav|||nhưng mà nếu suy ngẫm quá nhiều bạn sẽ rơi vào trạng thái nghiện.|
+p4002682|vietnamese-00|vietnamese|wav_p4/wavs7/segment_207.wav|||và phát hiện ra một điều khôi hài rằng.|
+p4002683|vietnamese-00|vietnamese|wav_p4/wavs7/segment_186.wav|||đừng chỉ trích bản thân rằng cơn nghiện lại đến rồi.|
+p4002684|vietnamese-00|vietnamese|wav_p4/wavs7/segment_295.wav|||kiểu người này thì dễ tiếp thu những phản hồi tiêu cực về bản thân.|
+p4002685|vietnamese-00|vietnamese|wav_p4/wavs7/segment_327.wav|||cảm giác hạnh phúc này cũng là một cảm giác thật của bạn.|
+p4002686|vietnamese-00|vietnamese|wav_p4/wavs7/segment_500.wav|||ngoài ra tác giả còn đưa ra hai phương pháp nữa đó là đi vào trạng thái ròng trầy.|
+p4002687|vietnamese-00|vietnamese|wav_p4/wavs7/segment_85.wav|||bạn sẽ làm gì.|
+p4002688|vietnamese-00|vietnamese|wav_p4/wavs7/segment_97.wav|||tác giả justin bieber.|
+p4002689|vietnamese-00|vietnamese|wav_p4/wavs7/segment_313.wav|||khi dùng tránh niệm để nhìn trực tiếp vào những lời nhận xét của người ngoài.|
+p4002690|vietnamese-00|vietnamese|wav_p4/wavs7/segment_359.wav|||kiểu nghĩa này thường xảy ra với những người.|
+p4002691|vietnamese-00|vietnamese|wav_p4/wavs7/segment_449.wav|||mình sẽ phải cố gắng hơn nữa để tiếp tục phát huy.|
+p4002692|vietnamese-00|vietnamese|wav_p4/wavs7/segment_417.wav|||những gì bạn cho là niềm hạnh phúc.|
+p4002693|vietnamese-00|vietnamese|wav_p4/wavs7/segment_503.wav|||lúc này bạn đã tập trung hoàn toàn tâm ý vào việc đó.|
+p4002694|vietnamese-00|vietnamese|wav_p4/wavs7/segment_324.wav|||thực chất đó là một căn nghiện.|
+p4002695|vietnamese-00|vietnamese|wav_p4/wavs7/segment_468.wav|||với lòng hiếu kỳ nó sẽ giúp bạn có thể nhìn sâu.|
+p4002696|vietnamese-00|vietnamese|wav_p4/wavs7/segment_67.wav|||và một khi đăng hình được nhiều like trên mạng xã hội.|
+p4002697|vietnamese-00|vietnamese|wav_p4/wavs7/segment_246.wav|||thì bạn phải quan tâm giãn cách chứ không nên thường xuyên hỏi han.|
+p4002698|vietnamese-00|vietnamese|wav_p4/wavs7/segment_197.wav|||chú ý đến những gì đang xảy ra trong từng khoảnh khắc.|
+p4002699|vietnamese-00|vietnamese|wav_p4/wavs7/segment_356.wav|||tiếp theo đó là nghiện suy ngẫm.|
+p4002700|vietnamese-00|vietnamese|wav_p4/wavs7/segment_531.wav|||rồi trên đây là những gì cốt lõi nhất của cuốn sách này và mình muốn gửi tới các bạn.|
+p4002701|vietnamese-00|vietnamese|wav_p4/wavs7/segment_94.wav|||cách duy nhất để thoát khỏi khu rừng.|
+p4002702|vietnamese-00|vietnamese|wav_p4/wavs7/segment_269.wav|||những người khác nói chúng ta lười biếng kém cỏi nịnh bọ xấu xí lỗi thời vân vân.|
+p4002703|vietnamese-00|vietnamese|wav_p4/wavs7/segment_178.wav|||đầu tiên đó là chữ cái error.|
+p4002704|vietnamese-00|vietnamese|wav_p4/wavs7/segment_68.wav|||thì sẽ liên tục làm điều này.|
+p4002705|vietnamese-00|vietnamese|wav_p4/wavs7/segment_144.wav|||qua một nghiên cứu thấy rằng.|
+p4002706|vietnamese-00|vietnamese|wav_p4/wavs7/segment_228.wav|||và cũng thông qua kết nối này chúng ta mới có thể.|
+p4002707|vietnamese-00|vietnamese|wav_p4/wavs7/segment_508.wav|||vướng mắc và suy tư.|
+p4002708|vietnamese-00|vietnamese|wav_p4/wavs7/segment_206.wav|||ông và vợ của mình đến một bảo tàng để xem tranh.|
+p4002709|vietnamese-00|vietnamese|wav_p4/wavs7/segment_253.wav|||và thực chất đây cũng chính là thiên vị chủ quan.|
+p4002710|vietnamese-00|vietnamese|wav_p4/wavs7/segment_125.wav|||mang tên là nghiện trực tiếp.|
+p4002711|vietnamese-00|vietnamese|wav_p4/wavs7/segment_182.wav|||chẳng hạn như là một cơn thèm sau đó thì đừng lo lắng gì cả.|
+p4002712|vietnamese-00|vietnamese|wav_p4/wavs7/segment_467.wav|||khi đi du lịch khi ăn cơm.|
+p4002713|vietnamese-00|vietnamese|wav_p4/wavs7/segment_54.wav|||hành vi theo kiểu tìm kiếm lợi thế và tránh bất lợi này cũng chính là lý thuyết về chủ nghĩa hành vi của skander.|
+p4002714|vietnamese-00|vietnamese|wav_p4/wavs7/segment_515.wav|||đây chính là đặc điểm chung được tuân theo nguyên tắc phản xạ có điều kiện của skinner.|
+p4002715|vietnamese-00|vietnamese|wav_p4/wavs7/segment_412.wav|||năm màu khiến người mù mắt.|
+p4002716|vietnamese-00|vietnamese|wav_p4/wavs7/segment_415.wav|||suối dong san bát khiến lòng người hoá cuồng.|
+p4002717|vietnamese-00|vietnamese|wav_p4/wavs7/segment_485.wav|||bằng cách chỉ trích phê phán người khác.|
+p4002718|vietnamese-00|vietnamese|wav_p4/wavs7/segment_498.wav|||vì vậy ở đây phải phát triển lòng tốt bụng và tử tế trong bạn.|
+p4002719|vietnamese-00|vietnamese|wav_p4/wavs7/segment_497.wav|||để thỏa mãn bản thân mà thôi.|
+p4002720|vietnamese-00|vietnamese|wav_p4/wavs7/segment_525.wav|||và những người có thể buông bỏ thực sự.|
+p4002721|vietnamese-00|vietnamese|wav_p4/wavs7/segment_547.wav|||mong rằng con đường tránh nệm mà bạn sắp bước tới sẽ dẫn bạn đến gần hơn với trái tim và thực tại của mình.|
+p4002722|vietnamese-00|vietnamese|wav_p4/wavs7/segment_55.wav|||ông tin rằng sự phát triển hành vi khác nhau trong thế giới này có liên quan đến điều kiện của người thực hiện.|
+p4002723|vietnamese-00|vietnamese|wav_p4/wavs7/segment_316.wav|||đó là nghiện phân tâm.|
+p4002724|vietnamese-00|vietnamese|wav_p4/wavs7/segment_465.wav|||nếu bạn làm bất cứ việc gì có thể thu hút lòng hiếu kỳ của bạn.|
+p4002725|vietnamese-00|vietnamese|wav_p4/wavs7/segment_373.wav|||nhưng thực tế khi tình yêu kết thúc hormone dần sẽ không tiết ra mọi thứ trở lại bình thường.|
+p4002726|vietnamese-00|vietnamese|wav_p4/wavs7/segment_230.wav|||hay là trong khi nói chuyện giao tiếp.|
+p4002727|vietnamese-00|vietnamese|wav_p4/wavs7/segment_17.wav|||anh ta sẽ cảm thấy hạnh phúc vô cùng.|
+p4002728|vietnamese-00|vietnamese|wav_p4/wavs7/segment_238.wav|||hạt nhân akabane sẽ sáng lên.|
+p4002729|vietnamese-00|vietnamese|wav_p4/wavs7/segment_450.wav|||thực chất suy nghĩ này cũng chỉ là bạn đang muốn giữ hình ảnh ưu việt của mình trong mắt sếp và mọi người.|
+p4002730|vietnamese-00|vietnamese|wav_p4/wavs7/segment_236.wav|||các nhà khoa học theo dõi bộ não của con người và phát hiện ra rằng.|
+p4002731|vietnamese-00|vietnamese|wav_p4/wavs7/segment_137.wav|||nó nói về cách phát triển sự tự chủ.|
+p4002732|vietnamese-00|vietnamese|wav_p4/wavs7/segment_353.wav|||đó là luyện tập chánh niệm.|
+p4002733|vietnamese-00|vietnamese|wav_p4/wavs7/segment_273.wav|||và chưa chắc chắn là đã đúng.|
+p4002734|vietnamese-00|vietnamese|wav_p4/wavs7/segment_267.wav|||thì có thể mình sẽ thiết lập bản thân và dần dần càng củng cố con người mình theo những phản hồi này.|
+p4002735|vietnamese-00|vietnamese|wav_p4/wavs7/segment_459.wav|||giống như leonardo davidsi.|
+p4002736|vietnamese-00|vietnamese|wav_p4/wavs7/segment_325.wav|||bởi vì khi bạn nghĩ như vậy.|
+p4002737|vietnamese-00|vietnamese|wav_p4/wavs7/segment_277.wav|||nhưng mà ta sẽ giữ mình ở trạng thái trung gian.|
+p4002738|vietnamese-00|vietnamese|wav_p4/wavs7/segment_300.wav|||thế nên họ sẽ sử dụng việc thu hút chú ý như là một cách lấp đầy khoảng trống trong thâm tâm.|
+p4002739|vietnamese-00|vietnamese|wav_p4/wavs7/segment_81.wav|||để giúp cho chúng ta lấy lại được tự do.|
+p4002740|vietnamese-00|vietnamese|wav_p4/wavs7/segment_21.wav|||khiến bạn một khi thèm muốn là không thể dừng lại.|
+p4002741|vietnamese-00|vietnamese|wav_p4/wavs7/segment_48.wav|||chúng ta sẽ làm ít đi hoặc là không làm việc đó nữa.|
+p4002742|vietnamese-00|vietnamese|wav_p4/wavs7/segment_187.wav|||và bạn thật xấu hổ vì nó.|
+p4002743|vietnamese-00|vietnamese|wav_p4/wavs7/segment_392.wav|||khi đó con người trong mối quan hệ sẽ rất dễ trở nên ích kỷ.|
+p4002744|vietnamese-00|vietnamese|wav_p4/wavs7/segment_283.wav|||và kiểu người rối loạn nhân cách ái kỳ.|
+p4002745|vietnamese-00|vietnamese|wav_p4/wavs7/segment_326.wav|||não của bạn sẽ kích thích bởi cảm giác hạnh phúc trong mơ mộng.|
+p4002746|vietnamese-00|vietnamese|wav_p4/wavs7/segment_79.wav|||và thế là không sao kiểm soát được.|
+p4002747|vietnamese-00|vietnamese|wav_p4/wavs7/segment_83.wav|||bây giờ bạn hãy tưởng tượng một chút.|
+p4002748|vietnamese-00|vietnamese|wav_p4/wavs7/segment_529.wav|||hằng ngày đọc sách cũng là cách tốt nhất để bạn có thể hiểu chính mình.|
+p4002749|vietnamese-00|vietnamese|wav_p4/wavs7/segment_370.wav|||loại nghiện cuối cùng đó là nghiện yêu.|
+p4002750|vietnamese-00|vietnamese|wav_p4/wavs7/segment_260.wav|||mà còn là việc bạn thiết lập bản thân một cách chủ quan.|
+p4002751|vietnamese-00|vietnamese|wav_p4/wavs7/segment_289.wav|||hay phóng đại mọi chuyện.|
+p4002752|vietnamese-00|vietnamese|wav_p4/wavs7/segment_196.wav|||và cuối cùng đó là chữ cái n tức nghĩa là chú ý.|
+p4002753|vietnamese-00|vietnamese|wav_p4/wavs7/segment_343.wav|||thì vỏ não đai và vỏ thì giữa trán đang hoạt động.|
+p4002754|vietnamese-00|vietnamese|wav_p4/wavs7/segment_540.wav|||và cuối cùng ai đang đau khổ.|
+p4002755|vietnamese-00|vietnamese|wav_p4/wavs7/segment_133.wav|||thậm chí là việc bạn nghiện xem điện thoại.|
+p4002756|vietnamese-00|vietnamese|wav_p4/wavs7/segment_34.wav|||có tới tám mươi sáu tỷ tế bào thần kinh.|
+p4002757|vietnamese-00|vietnamese|wav_p4/wavs7/segment_65.wav|||một khi bạn ăn đồ ngọt là sẽ không thể dừng lại.|
+p4002758|vietnamese-00|vietnamese|wav_p4/wavs7/segment_293.wav|||và dễ nổi nóng khi mà bị chỉ ra lỗi sai.|
+p4002759|vietnamese-00|vietnamese|wav_p4/wavs7/segment_201.wav|||mà chỉ cần nhìn thẳng nhìn chằm chằm vào sự thèm muốn.|
+p4002760|vietnamese-00|vietnamese|wav_p4/wavs7/segment_549.wav|||cảm ơn bạn cảm ơn bạn đã lắng nghe.|
+p4002761|vietnamese-00|vietnamese|wav_p4/wavs7/segment_402.wav|||sau khi phân tích sáu lại nghiện thường thấy của loài người.|
+p4002762|vietnamese-00|vietnamese|wav_p4/wavs7/segment_285.wav|||vì những người này thông thường họ đi đâu cũng sẽ phàn nàn.|
+p4002763|vietnamese-00|vietnamese|wav_p4/wavs7/segment_463.wav|||ông sẽ hoàn toàn không có căng thẳng hay là áp lực.|
+p4002764|vietnamese-00|vietnamese|wav_p4/wavs7/segment_522.wav|||phản ứng ngay lập tức với những kích thích từ bên ngoài.|
+p4002765|vietnamese-00|vietnamese|wav_p4/wavs7/segment_139.wav|||trong đó nó có phân tích khả năng tự kiểm soát của con người.|
+p4002766|vietnamese-00|vietnamese|wav_p4/wavs7/segment_271.wav|||và dần dần thiết lập bản thân theo hướng đó.|
+p4002767|vietnamese-00|vietnamese|wav_p4/wavs7/segment_233.wav|||mình cũng đã từng đến đó mình cũng đã từng làm giống như vậy.|
+p4002768|vietnamese-00|vietnamese|wav_p4/wavs7/segment_167.wav|||nơi mà đang là trào lưu của xã hội.|
+p4002769|vietnamese-00|vietnamese|wav_p4/wavs7/segment_100.wav|||nhưng sau thì đã chuyển sang nghiên cứu về bộ não con người và tâm lý học.|
+p4002770|vietnamese-00|vietnamese|wav_p4/wavs7/segment_175.wav|||hầu hết các cơn nghiện đều đi theo dạng chữ u ngược.|
+p4002771|vietnamese-00|vietnamese|wav_p4/wavs7/segment_53.wav|||bạn sẽ phải trả giá rất đắt.|
+p4002772|vietnamese-00|vietnamese|wav_p4/wavs7/segment_496.wav|||vì nếu bạn để bản thân tức giận không hài lòng vì điều này thì lòng tử tế của bạn chỉ là một cuộc trao đổi.|
+p4002773|vietnamese-00|vietnamese|wav_p4/wavs7/segment_337.wav|||não bộ của chúng ta có hai hệ thống tư duy.|
+p4002774|vietnamese-00|vietnamese|wav_p4/wavs7/segment_120.wav|||bạn muốn hút vì não bộ đang tiết ra rất nhiều kích thích.|
+p4002775|vietnamese-00|vietnamese|wav_p4/wavs7/segment_39.wav|||tìm kiếm lợi thế và tránh bất lợi.|
+p4002776|vietnamese-00|vietnamese|wav_p4/wavs7/segment_380.wav|||khi đeo đuổi thì anh ta sẽ rất hưng phấn.|
+p4002777|vietnamese-00|vietnamese|wav_p4/wavs7/segment_61.wav|||thì hầu hết thời gian của chúng ta đều giống như là con hải sâm.|
+p4002778|vietnamese-00|vietnamese|wav_p4/wavs7/segment_494.wav|||mà người ta không đáp ứng lại giống như bạn đã từng làm.|
+p4002779|vietnamese-00|vietnamese|wav_p4/wavs7/segment_452.wav|||đây là hậu quả của niềm vui đến từ sự phấn khích.|
+p4002780|vietnamese-00|vietnamese|wav_p4/wavs7/segment_153.wav|||như là thuốc lá trích kích thích.|
+p4002781|vietnamese-00|vietnamese|wav_p4/wavs7/segment_5.wav|||ông ấy là nhà lãnh đạo tư tưởng trong lĩnh vực tự kiểm soát.|
+p4002782|vietnamese-00|vietnamese|wav_p4/wavs7/segment_215.wav|||đó chính là bởi vì.|
+p4002783|vietnamese-00|vietnamese|wav_p4/wavs7/segment_32.wav|||đây chẳng phải là một ví von khập khiễng.|
+p4002784|vietnamese-00|vietnamese|wav_p4/wavs7/segment_474.wav|||nó sẽ không phản bội bạn.|
+p4002785|vietnamese-00|vietnamese|wav_p4/wavs7/segment_4.wav|||tác giả là tiến sĩ johnson brewer.|
+p4002786|vietnamese-00|vietnamese|wav_p4/wavs7/segment_30.wav|||người ta thường nói rằng.|
+p4002787|vietnamese-00|vietnamese|wav_p4/wavs7/segment_471.wav|||khi có một tâm trí hiếu kỳ.|
+p4002788|vietnamese-00|vietnamese|wav_p4/wavs7/segment_477.wav|||phương pháp thứ hai có đề cập đến là kết hợp tránh niệm với sự tử tế.|
+p4002789|vietnamese-00|vietnamese|wav_p4/wavs7/segment_544.wav|||và cuốn sách này cũng như các cuốn sách về tránh nịa mà mình đã giới thiệu.|
+p4002790|vietnamese-00|vietnamese|wav_p4/wavs7/segment_429.wav|||làm thế nào để có thể tập trung vào hiện tại.|
+p4002791|vietnamese-00|vietnamese|wav_p4/wavs7/segment_386.wav|||đây cũng chính là tình yêu nhưng nó nhắm đến nhiều người hơn.|
+p4002792|vietnamese-00|vietnamese|wav_p4/wavs7/segment_482.wav|||bất cứ điều gì kèm với cảm xúc tức giận được phát biểu ra đều có nhiều khả năng thu hút người khác.|
+p4002793|vietnamese-00|vietnamese|wav_p4/wavs7/segment_344.wav|||nơi này nó được thiết lập theo một chế độ mặc định.|
+p4002794|vietnamese-00|vietnamese|wav_p4/wavs7/segment_172.wav|||phương pháp này sẽ giúp cho chúng ta nhìn rõ cơn nghiện.|
+p4002795|vietnamese-00|vietnamese|wav_p4/wavs7/segment_162.wav|||thì người đó sẽ sống trong muội.|
+p4002796|vietnamese-00|vietnamese|wav_p4/wavs7/segment_42.wav|||nơi nào có ít thức ăn thì nó sẽ đi.|
+p4002797|vietnamese-00|vietnamese|wav_p4/wavs7/segment_401.wav|||để chúng sinh và vạn vật.|
+p4002798|vietnamese-00|vietnamese|wav_p4/wavs7/segment_231.wav|||bạn cứ để ý và xem.|
+p4002799|vietnamese-00|vietnamese|wav_p4/wavs7/segment_164.wav|||nói đơn giản đó chính là sống trong vô minh.|
+p4002800|vietnamese-00|vietnamese|wav_p4/wavs7/segment_24.wav|||cách để cai nghiện ham muốn và tìm lại tự do làm chủ chính cuộc đời của mình.|
+p4002801|vietnamese-00|vietnamese|wav_p4/wavs7/segment_436.wav|||đó là khi tâm trí chúng ta cảm thấy bồn chồn hồi hộp.|
+p4002802|vietnamese-00|vietnamese|wav_p4/wavs7/segment_105.wav|||hòa giải với những điều khiến bạn tổn thương từ thời thơ bé.|
+p4002803|vietnamese-00|vietnamese|wav_p4/wavs7/segment_335.wav|||bạn sẽ dễ dàng trở nên lo âu.|
+p4002804|vietnamese-00|vietnamese|wav_p4/wavs7/segment_272.wav|||mặc dù những phản hồi như thế này nó rất phiến diện.|
+p4002805|vietnamese-00|vietnamese|wav_p4/wavs7/segment_22.wav|||giống như là bị nghiện vậy.|
+p4002806|vietnamese-00|vietnamese|wav_p4/wavs7/segment_151.wav|||nhường đường cho ta và mình.|
+p4002807|vietnamese-00|vietnamese|wav_p4/wavs7/segment_116.wav|||vậy thiên vị chủ quan là gì.|
+p4002808|vietnamese-00|vietnamese|wav_p4/wavs7/segment_340.wav|||thì có nghĩa là ta đang sử dụng.|
+p4002809|vietnamese-00|vietnamese|wav_p4/wavs7/segment_29.wav|||hình dạng của nó thì đen sì bé xíu và sống ở đại dương.|
+p4002810|vietnamese-00|vietnamese|wav_p4/wavs7/segment_442.wav|||bạn chắc chắn sẽ rất vui mừng và phấn khởi đúng không.|
+p4002811|vietnamese-00|vietnamese|wav_p4/wavs7/segment_430.wav|||vậy thì việc đầu tiên tác giả đã khuyên rằng.|
+p4002812|vietnamese-00|vietnamese|wav_p4/wavs7/segment_410.wav|||nhưng trong mắt hòa thượng đó lại là hạnh phúc.|
+p4002813|vietnamese-00|vietnamese|wav_p4/wavs7/segment_9.wav|||dục vọng giống như ngọn lửa than.|
+p4002814|vietnamese-00|vietnamese|wav_p4/wavs7/segment_451.wav|||bạn thấy đấy.|
+p4002815|vietnamese-00|vietnamese|wav_p4/wavs7/segment_488.wav|||bởi vì họ sẽ không bao giờ học được cách bình tĩnh và nhìn nhận khách quan.|
+p4002816|vietnamese-00|vietnamese|wav_p4/wavs7/segment_10.wav|||phải được làm nguội nếu không nó sẽ đốt cháy tâm hồn.|
+p4002817|vietnamese-00|vietnamese|wav_p4/wavs7/segment_527.wav|||việc để luyện tập ý chí kiên cường có thể buông bỏ những thèm muốn trong bạn.|
+p4002818|vietnamese-00|vietnamese|wav_p4/wavs7/segment_114.wav|||thì hành động đó nhất định sẽ có một thiên vị chủ quan.|
+p4002819|vietnamese-00|vietnamese|wav_p4/wavs7/segment_242.wav|||bởi vì nó sẽ được củng cố một cách ngắt đoạn.|
+p4002820|vietnamese-00|vietnamese|wav_p4/wavs7/segment_507.wav|||và chỉ khi trong đầu không còn nhiều tranh luận.|
+p4002821|vietnamese-00|vietnamese|wav_p4/wavs7/segment_550.wav|||nếu bạn cảm thấy video này có ích hãy chia sẻ với những người cần nó.|
+p4002822|vietnamese-00|vietnamese|wav_p4/wavs7/segment_297.wav|||họ luôn sợ bị từ chối sợ bị chia cắt với người thân yêu.|
+p4002823|vietnamese-00|vietnamese|wav_p4/wavs7/segment_243.wav|||trong thị trường ngày nay có những cuốn sách ngập tràn.|
+p4002824|vietnamese-00|vietnamese|wav_p4/wavs7/segment_183.wav|||hãy giữ cho bản thân được thư giãn.|
+p4002825|vietnamese-00|vietnamese|wav_p4/wavs7/segment_481.wav|||lúc này.|
+p4002826|vietnamese-00|vietnamese|wav_p4/wavs7/segment_358.wav|||mà là những mong muốn cố gắng kiểm soát một tình huống hoặc cuộc sống của mình.|
+p4002827|vietnamese-00|vietnamese|wav_p4/wavs7/segment_204.wav|||và loại nghiện thứ hai đó chính là nghiện công nghệ.|
+p4002828|vietnamese-00|vietnamese|wav_p4/wavs7/segment_329.wav|||vì khi kết thúc cơn mơ cuộc sống trước mắt bạn nó đã trôi đi.|
+p4002829|vietnamese-00|vietnamese|wav_p4/wavs7/segment_389.wav|||nhìn từ góc độ này bạn sẽ thấy khi quá tập trung yêu một người thì đúng hơn là người đó đang yêu bản thân mình hơn bao giờ hết.|
+p4002830|vietnamese-00|vietnamese|wav_p4/wavs7/segment_19.wav|||nhưng nó sẽ cho bạn thấy cái bẫy của dục vọng và ham muốn trong bạn.|
+p4002831|vietnamese-00|vietnamese|wav_p4/wavs7/segment_382.wav|||thì lại không thể duy trì tình cảm được lâu.|
+p4002832|vietnamese-00|vietnamese|wav_p4/wavs7/segment_334.wav|||bởi vì khi giấc mơ chấm dứt việc trước mắt trong thực tế nó vẫn chưa được hoàn thành.|
+p4002833|vietnamese-00|vietnamese|wav_p4/wavs7/segment_368.wav|||những suy ngẫm về thắng thua nó sẽ không còn là rào cản.|
+p4002834|vietnamese-00|vietnamese|wav_p4/wavs7/segment_58.wav|||đây chính là một thực tiễn cần chúng ta phải suy ngẫm.|
+p4002835|vietnamese-00|vietnamese|wav_p4/wavs7/segment_265.wav|||các bạn xem các video của battle virgin.|
+p4002836|vietnamese-00|vietnamese|wav_p4/wavs7/segment_291.wav|||thì họ sẽ cho rằng người kia không tôn trọng mình.|
+p4002837|vietnamese-00|vietnamese|wav_p4/wavs7/segment_23.wav|||video hôm nay sẽ chỉ ra cho bạn.|
+p4002838|vietnamese-00|vietnamese|wav_p4/wavs7/segment_72.wav|||đó chính là phần thưởng của tao bờ mịt.|
+p4002839|vietnamese-00|vietnamese|wav_p4/wavs7/segment_323.wav|||việc hay để bản thân ở hiện tại nhưng lại suy nghĩ về những điều chưa xảy ra.|
+p4002840|vietnamese-00|vietnamese|wav_p4/wavs7/segment_320.wav|||tiếp theo đây mình sẽ phải làm gì.|
+p4002841|vietnamese-00|vietnamese|wav_p4/wavs7/segment_261.wav|||cái tôi của chúng ta sẽ có xu hướng hình thành qua việc nhận phản hồi bằng hình thức phần thưởng trong suốt cuộc đời.|
+p4002842|vietnamese-00|vietnamese|wav_p4/wavs7/segment_104.wav|||ví dụ như sử dụng tránh niệm để hoà giải với đứa trẻ trong bạn.|
+p4002843|vietnamese-00|vietnamese|wav_p4/wavs7/segment_118.wav|||bạn cho rằng nên hút một điếu thuốc vào lúc này.|
+p4002844|vietnamese-00|vietnamese|wav_p4/wavs7/segment_148.wav|||phản ứng đầu tiên của chúng ta là về nhà nằm dài trên ghế sô pha.|
+p4002845|vietnamese-00|vietnamese|wav_p4/wavs7/segment_219.wav|||khi mà họ trả lời những câu hỏi về người khác.|
+p4002846|vietnamese-00|vietnamese|wav_p4/wavs7/segment_331.wav|||đều sẽ phải đánh đổi với mỗi giây phút ở thực tại.|
+p4002847|vietnamese-00|vietnamese|wav_p4/wavs7/segment_281.wav|||của một bác sĩ tâm lý người pháp.|
+p4002848|vietnamese-00|vietnamese|wav_p4/wavs7/segment_31.wav|||thực chất não của chúng ta chẳng khác gì não con đĩa biển.|
+p4002849|vietnamese-00|vietnamese|wav_p4/wavs7/segment_74.wav|||tác giả cho rằng nếu cứ sống theo kiểu như vậy.|
+p4002850|vietnamese-00|vietnamese|wav_p4/wavs7/segment_56.wav|||bạn sẽ duy trì hành vi bằng cách tăng phần thưởng.|
+p4002851|vietnamese-00|vietnamese|wav_p4/wavs7/segment_473.wav|||mà niềm vui đó nó mới là niềm vui thực sự.|
+p4002852|vietnamese-00|vietnamese|wav_p4/wavs7/segment_244.wav|||dạy cho chúng ta cách làm thế nào để cưa đồ đối tượng.|
+p4002853|vietnamese-00|vietnamese|wav_p4/wavs7/segment_127.wav|||dù bạn biết gãi sẽ bị xước sẽ bị nhiễm trùng mà bạn vẫn cứ phải gãi.|
+p4002854|vietnamese-00|vietnamese|wav_p4/wavs7/segment_193.wav|||khảo sát toàn bộ cảm xúc cảm giác của cơ thể và suy nghĩ hiện có.|
+p4002855|vietnamese-00|vietnamese|wav_p4/wavs7/segment_27.wav|||bạn có biết con đìa biển không.|
+p4002856|vietnamese-00|vietnamese|wav_p4/wavs7/segment_492.wav|||nhưng hãy tử tế thực sự.|
+p4002857|vietnamese-00|vietnamese|wav_p4/wavs7/segment_174.wav|||và cuối cùng sẽ giúp bạn chiến thắng nó.|
+p4002858|vietnamese-00|vietnamese|wav_p4/wavs7/segment_235.wav|||bởi vì người ta rất thích nói về bản thân.|
+p4002859|vietnamese-00|vietnamese|wav_p4/wavs7/segment_349.wav|||và những người rèn luyện khả năng tập trung cao thì khả năng hoạt động ở vỏ não đai sẽ bị chậm lại.|
+p4002860|vietnamese-00|vietnamese|wav_p4/wavs7/segment_66.wav|||chúng ta hay thích khoe khoang thể hiện.|
+p4002861|vietnamese-00|vietnamese|wav_p4/wavs7/segment_427.wav|||phải tập trung hoàn toàn vào khoảnh khắc hiện tại.|
+p4002862|vietnamese-00|vietnamese|wav_p4/wavs7/segment_509.wav|||thì thời điểm bạn đang làm việc gì đó nó mới không trở nên bổ ích.|
+p4002863|vietnamese-00|vietnamese|wav_p4/wavs7/segment_424.wav|||hãy thôi ngay việc theo đuổi hạnh phúc giả tạo.|
+p4002864|vietnamese-00|vietnamese|wav_p4/wavs7/segment_106.wav|||còn ở video này.|
+p4002865|vietnamese-00|vietnamese|wav_p4/wavs7/segment_70.wav|||để có được nhiều lời thích hơn.|
+p4002866|vietnamese-00|vietnamese|wav_p4/wavs7/segment_131.wav|||chơi game ngày đêm.|
+p4002867|vietnamese-00|vietnamese|wav_p4/wavs7/segment_154.wav|||chơi game chơi điện thoại ăn ngọt.|
+p4002868|vietnamese-00|vietnamese|wav_p4/wavs7/segment_347.wav|||đều là những người bình thường chưa luyện tập chánh niệm hay là thiên chánh niệm.|
+p4002869|vietnamese-00|vietnamese|wav_p4/wavs7/segment_93.wav|||tác giả nói với chúng ta rằng.|
+p4002870|vietnamese-00|vietnamese|wav_p4/wavs7/segment_248.wav|||vì cách mấy ngày hỏi thăm một lần.|
+p4002871|vietnamese-00|vietnamese|wav_p4/wavs7/segment_20.wav|||nó đang tạo ra cho bạn những hạnh phúc giả tạo.|
+p4002872|vietnamese-00|vietnamese|wav_p4/wavs7/segment_345.wav|||nếu bạn rất khó để bình tĩnh tập trung thì có nghĩa là chế độ mặc định của bạn luôn được kích hoạt.|
+p4002873|vietnamese-00|vietnamese|wav_p4/wavs7/segment_472.wav|||bạn làm gì cũng cảm thấy vui vẻ hơn.|
+p4002874|vietnamese-00|vietnamese|wav_p4/wavs7/segment_168.wav|||nơi mà người ta phổ biến làm gì bạn sẽ làm theo.|
+p4002875|vietnamese-00|vietnamese|wav_p4/wavs7/segment_516.wav|||chúng ta đã nuôi dưỡng bản thân bởi thông tin và cảm xúc từ bên ngoài.|
+p4002876|vietnamese-00|vietnamese|wav_p4/wavs7/segment_254.wav|||vậy chúng ta có thể học cách vứt điện thoại ipad sang một bên.|
+p4002877|vietnamese-00|vietnamese|wav_p4/wavs7/segment_355.wav|||đó là thiền sư thích nhất hạnh.|
+p4002878|vietnamese-00|vietnamese|wav_p4/wavs7/segment_185.wav|||cho phép.|
+p4002879|vietnamese-00|vietnamese|wav_p4/wavs7/segment_388.wav|||chúng ta sẽ bỏ lỡ đi ý nghĩa sâu hơn của tình yêu.|
+p4002880|vietnamese-00|vietnamese|wav_p4/wavs7/segment_315.wav|||tiếp tục là nghiện thứ tư mà rất nhiều người trong chúng ta mắc phải.|
+p4002881|vietnamese-00|vietnamese|wav_p4/wavs7/segment_346.wav|||bất cứ ai có vòng não đài hoạt động sôi nổi.|
+p4002882|vietnamese-00|vietnamese|wav_p4/wavs7/segment_268.wav|||nhưng ngược lại sẽ có những phản hồi tiêu cực.|
+p4002883|vietnamese-00|vietnamese|wav_p4/wavs7/segment_310.wav|||hãy tĩnh tâm lại.|
+p4002884|vietnamese-00|vietnamese|wav_p4/wavs7/segment_44.wav|||về cơ bản thì nó cũng vận hành như vậy.|
+p4002885|vietnamese-00|vietnamese|wav_p4/wavs7/segment_263.wav|||sẽ dựa vào việc tôi nhận được bao nhiêu phản hồi trước đó.|
+p4002886|vietnamese-00|vietnamese|wav_p4/wavs7/segment_284.wav|||sẽ dễ dàng gặp rắc rối nhất.|
+p4002887|vietnamese-00|vietnamese|wav_p4/wavs7/segment_176.wav|||khi con nghiện từ từ đi lên đỉnh chữ u.|
+p4002888|vietnamese-00|vietnamese|wav_p4/wavs7/segment_421.wav|||sự kích thích giác quan để khiến bản thân được vui sướng tức thì.|
+p4002889|vietnamese-00|vietnamese|wav_p4/wavs7/segment_46.wav|||khi việc ấy cho chúng ta phần thưởng tạo cho ta cảm giác hạnh phúc vui sướng.|
+p4002890|vietnamese-00|vietnamese|wav_p4/wavs7/segment_536.wav|||tại sao chúng ta luôn mong cầu liên tục để thỏa mãn ngay lập tức.|
+p4002891|vietnamese-00|vietnamese|wav_p4/wavs7/segment_546.wav|||và cạm bẫy của dục vọng.|
+p4002892|vietnamese-00|vietnamese|wav_p4/wavs7/segment_245.wav|||ví dụ như đối với người bạn đang theo đuổi trong thời gian đầu.|
+p4002893|vietnamese-00|vietnamese|wav_p4/wavs7/segment_539.wav|||ai sở hữu bộ não của bạn.|
+p4002894|vietnamese-00|vietnamese|wav_p4/wavs7/segment_396.wav|||hãy tập trung nhiều hơn vào việc phát triển lòng từ bi lòng trắc ẩn.|
+p4002895|vietnamese-00|vietnamese|wav_p4/wavs7/segment_157.wav|||không phải là cố gắng tự chủ.|
+p4002896|vietnamese-00|vietnamese|wav_p4/wavs7/segment_361.wav|||hay học thuật nào đó.|
+p4002897|vietnamese-00|vietnamese|wav_p4/wavs7/segment_530.wav|||khi đó bạn có thể thoát khỏi những thao túng của phản ứng được đặt mặc định trong bạn.|
+p4002898|vietnamese-00|vietnamese|wav_p4/wavs7/segment_309.wav|||cũng đừng vội phán xét tức giận khủng hoảng.|
+p4002899|vietnamese-00|vietnamese|wav_p4/wavs7/segment_113.wav|||để thiết lập hành vi thói quen.|
+p4002900|vietnamese-00|vietnamese|wav_p4/wavs7/segment_446.wav|||vậy thì mình sẽ cố gắng hơn để lần sau có thể được sáu bảy triệu.|
+p4002901|vietnamese-00|vietnamese|wav_p4/wavs7/segment_290.wav|||giả dụ người khác trễ hạn năm phút.|
+p4002902|vietnamese-00|vietnamese|wav_p4/wavs7/segment_364.wav|||và dẫn đến ám ảnh.|
+p4002903|vietnamese-00|vietnamese|wav_p4/wavs7/segment_418.wav|||có lẽ mới là nguyên do gieo rắc đau khổ.|
+p4002904|vietnamese-00|vietnamese|wav_p4/wavs7/segment_145.wav|||một người khi gặp căng thẳng.|
+p4002905|vietnamese-00|vietnamese|wav_p4/wavs7/segment_416.wav|||của cá hiếm có khiến người sinh tai hại.|
+p4002906|vietnamese-00|vietnamese|wav_p4/wavs7/segment_64.wav|||khi mà bạn lướt điện thoại thì sẽ xem nó suốt nhiều giờ đồng hồ.|
+p4002907|vietnamese-00|vietnamese|wav_p4/wavs7/segment_308.wav|||đừng vội tự đắc.|
+p4002908|vietnamese-00|vietnamese|wav_p4/wavs7/segment_533.wav|||cả hai cuốn sách này đều đang giúp chúng ta trả lời những câu hỏi.|
