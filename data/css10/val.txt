@@ -142,7 +142,6 @@ a004015|vietnamese-00|vietnamese|wavs_p2/wavs8/segment_264.wav|||sau khi biết 
 a004016|vietnamese-00|vietnamese|wavs_p2/wavs8/segment_109.wav|||nó càng khiến bạn ngại tiến lên.|
 a004017|vietnamese-00|vietnamese|wavs_p2/wavs8/segment_336.wav|||một người trì hoãn việc tận hưởng một cách quá mức.|
 a004018|vietnamese-00|vietnamese|wavs_p2/wavs8/segment_36.wav|||nhưng lại đang trốn tránh trưởng thành.|
-a004019|vietnamese-00|vietnamese|wavs_p2/wavs8/segment_1.wav|||n.|
 a004020|vietnamese-00|vietnamese|wavs_p2/wavs8/segment_156.wav|||đình hoạn sự tự thoả mãn.|
 a004021|vietnamese-00|vietnamese|wavs_p2/wavs8/segment_141.wav|||hóa ra vấn đề của cô ấy là không thể đình hoãn sự thoả mãn bản thân.|
 a004022|vietnamese-00|vietnamese|wavs_p2/wavs8/segment_215.wav|||cô gái khóc và nói.|
@@ -1467,10 +1466,8 @@ b005118|vietnamese-00|vietnamese|wav_p3/wavs9/segment_66.wav|||khi những ngư�
 b005119|vietnamese-00|vietnamese|wav_p3/wavs9/segment_238.wav|||niềm vui và hạnh phúc luôn ngập tràn trong ngôi nhà của tôi.|
 b005120|vietnamese-00|vietnamese|wav_p3/wavs9/segment_32.wav|||và toàn xã hội khi đó đang có những bước tiến dài.|
 b005121|vietnamese-00|vietnamese|wav_p3/wavs9/segment_169.wav|||trên thực tế thì thử thách thực sự đối với florence không phải là chết đói mà đó chính là mùa đông ở đây.|
-b005122|vietnamese-00|vietnamese|wav_p3/wavs9/segment_209.wav|||bước chân đúng nhịp dẫn lối ta vào hạnh phúc.|
 b005123|vietnamese-00|vietnamese|wav_p3/wavs9/segment_183.wav|||sorrow đã luôn cảm thấy mình thật hạnh phúc trong những điều không tưởng.|
 b005124|vietnamese-00|vietnamese|wav_p3/wavs9/segment_217.wav|||khi tỉnh dậy.|
-b005125|vietnamese-00|vietnamese|wav_p3/wavs9/segment_94.wav|||n.|
 b005126|vietnamese-00|vietnamese|wav_p3/wavs9/segment_236.wav|||ferrari đã không kìm được xúc động và bày tỏ rằng.|
 b005127|vietnamese-00|vietnamese|wav_p3/wavs9/segment_168.wav|||ông vẫn có thể khỏe mạnh.|
 b005128|vietnamese-00|vietnamese|wav_p3/wavs9/segment_212.wav|||đó là một buổi sáng mùa hè.|
@@ -1551,7 +1548,6 @@ b005202|vietnamese-00|vietnamese|wav_p3/wavs9/segment_91.wav|||có thể nói r�
 b005203|vietnamese-00|vietnamese|wav_p3/wavs9/segment_224.wav|||đôi khi là một làn gió thoảng hương hoa.|
 b005204|vietnamese-00|vietnamese|wav_p3/wavs9/segment_280.wav|||chúng ta mới có thể sống một cuộc sống hạnh phúc.|
 b005205|vietnamese-00|vietnamese|wav_p3/wavs9/segment_36.wav|||có những người thì biết tận dụng thời cơ.|
-b005206|vietnamese-00|vietnamese|wav_p3/wavs9/segment_93.wav|||hãy bước đi với nhịp bước của riêng bạn.|
 b005207|vietnamese-00|vietnamese|wav_p3/wavs9/segment_153.wav|||hãy chạy theo tốc độ của riêng bạn.|
 b005208|vietnamese-00|vietnamese|wav_p3/wavs9/segment_369.wav|||cảm ơn các bạn đã lắng nghe.|
 b005209|vietnamese-00|vietnamese|wav_p3/wavs9/segment_51.wav|||sau đó thì ông đi làm trong xưởng sản xuất bút chì của cha mình.|
@@ -1578,7 +1574,6 @@ b005230|vietnamese-00|vietnamese|wav_p3/wavs9/segment_356.wav|||và cũng có th
 b005231|vietnamese-00|vietnamese|wav_p3/wavs9/segment_95.wav|||vậy là vào năm hai mươi tám tuổi khi mà hầu hết mọi người đang theo đuổi tiền bạc và vật chất.|
 b005232|vietnamese-00|vietnamese|wav_p3/wavs9/segment_218.wav|||ông thấy nước hồ đã đẩy thuyền vào bờ.|
 b005233|vietnamese-00|vietnamese|wav_p3/wavs9/segment_245.wav|||những ngày sống ở bên bờ hồ là quãng thời gian định hình lại con người của ông.|
-b005234|vietnamese-00|vietnamese|wav_p3/wavs9/segment_21.wav|||n.|
 b005235|vietnamese-00|vietnamese|wav_p3/wavs9/segment_256.wav|||việc gì mình không thích.|
 b005236|vietnamese-00|vietnamese|wav_p3/wavs9/segment_239.wav|||trong tâm trạng tự do đó.|
 b005237|vietnamese-00|vietnamese|wav_p3/wavs9/segment_298.wav|||những con đường lớn trên thế giới đã bị đi mòn và bụi bặm biết bao nhiêu.|
@@ -1602,7 +1597,6 @@ b005254|vietnamese-00|vietnamese|wav_p3/wavs9/segment_322.wav|||chúng ta đã k
 b005255|vietnamese-00|vietnamese|wav_p3/wavs9/segment_355.wav|||trong phần đời còn lại tất cả chúng ta có thể khám phá một hướng đi mới bằng chính nhịp bước của bạn.|
 b005256|vietnamese-00|vietnamese|wav_p3/wavs9/segment_41.wav|||về quê để làm trang trại trồng trọt.|
 b005257|vietnamese-00|vietnamese|wav_p3/wavs9/segment_56.wav|||thế nhưng mà ferrari lại quyết định không tiếp tục đẩy mạnh sản xuất.|
-b005258|vietnamese-00|vietnamese|wav_p3/wavs9/segment_20.wav|||có một người không bao giờ chạy theo nhịp bước của người khác.|
 b005259|vietnamese-00|vietnamese|wav_p3/wavs9/segment_283.wav|||những điều tốt đẹp nhất luôn xuất hiện khi mà bạn không ngờ tới.|
 b005260|vietnamese-00|vietnamese|wav_p3/wavs9/segment_111.wav|||cứ như vậy.|
 b005261|vietnamese-00|vietnamese|wav_p3/wavs9/segment_252.wav|||tôi chỉ tin vào cảm xúc của mình là chính xác.|
